@@ -1,0 +1,13 @@
+! https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt
+! Github copycats
+*://bleepcoder.com/*
+*://githubja.com/*
+*://*.gitmemory.com/*
+*://giters.com/*
+*://githubmemory.com/*
+*://*.wenyanet.com/*
+*://issueexplorer.com/*
+*://opensourcelibs.com/*
+*://awesomeopensource.com/*
+*://findbestopensource.com/*
+*://githubhelp.com/*
