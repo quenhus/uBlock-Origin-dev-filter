@@ -1,0 +1,22 @@
+*://bleepcoder.com/*
+search.brave.com###results > div:has(a[href*="bleepcoder.com"])
+*://githubja.com/*
+search.brave.com###results > div:has(a[href*="githubja.com"])
+*://*.gitmemory.com/*
+search.brave.com###results > div:has(a[href*=".gitmemory.com"])
+*://giters.com/*
+search.brave.com###results > div:has(a[href*="giters.com"])
+*://githubmemory.com/*
+search.brave.com###results > div:has(a[href*="githubmemory.com"])
+*://*.wenyanet.com/*
+search.brave.com###results > div:has(a[href*=".wenyanet.com"])
+*://issueexplorer.com/*
+search.brave.com###results > div:has(a[href*="issueexplorer.com"])
+*://opensourcelibs.com/*
+search.brave.com###results > div:has(a[href*="opensourcelibs.com"])
+*://awesomeopensource.com/*
+search.brave.com###results > div:has(a[href*="awesomeopensource.com"])
+*://findbestopensource.com/*
+search.brave.com###results > div:has(a[href*="findbestopensource.com"])
+*://githubhelp.com/*
+search.brave.com###results > div:has(a[href*="githubhelp.com"])

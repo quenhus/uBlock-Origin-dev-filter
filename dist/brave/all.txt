@@ -1,0 +1,248 @@
+*://bleepcoder.com/*
+search.brave.com###results > div:has(a[href*="bleepcoder.com"])
+*://githubja.com/*
+search.brave.com###results > div:has(a[href*="githubja.com"])
+*://*.gitmemory.com/*
+search.brave.com###results > div:has(a[href*=".gitmemory.com"])
+*://giters.com/*
+search.brave.com###results > div:has(a[href*="giters.com"])
+*://githubmemory.com/*
+search.brave.com###results > div:has(a[href*="githubmemory.com"])
+*://*.wenyanet.com/*
+search.brave.com###results > div:has(a[href*=".wenyanet.com"])
+*://issueexplorer.com/*
+search.brave.com###results > div:has(a[href*="issueexplorer.com"])
+*://opensourcelibs.com/*
+search.brave.com###results > div:has(a[href*="opensourcelibs.com"])
+*://awesomeopensource.com/*
+search.brave.com###results > div:has(a[href*="awesomeopensource.com"])
+*://findbestopensource.com/*
+search.brave.com###results > div:has(a[href*="findbestopensource.com"])
+*://githubhelp.com/*
+search.brave.com###results > div:has(a[href*="githubhelp.com"])
+*://code-examples.net/*
+search.brave.com###results > div:has(a[href*="code-examples.net"])
+*://kotaeta.com/*
+search.brave.com###results > div:has(a[href*="kotaeta.com"])
+*://answer-id.com/*
+search.brave.com###results > div:has(a[href*="answer-id.com"])
+*://code.i-harness.com/*
+search.brave.com###results > div:has(a[href*="code.i-harness.com"])
+*://living-sun.com/*
+search.brave.com###results > div:has(a[href*="living-sun.com"])
+*://qastack.jp/*
+search.brave.com###results > div:has(a[href*="qastack.jp"])
+*://qastack.ru/*
+search.brave.com###results > div:has(a[href*="qastack.ru"])
+*://qastack.it/*
+search.brave.com###results > div:has(a[href*="qastack.it"])
+*://qastack.mx/*
+search.brave.com###results > div:has(a[href*="qastack.mx"])
+*://qastack.com.br/*
+search.brave.com###results > div:has(a[href*="qastack.com.br"])
+*://qastack.info.tr/*
+search.brave.com###results > div:has(a[href*="qastack.info.tr"])
+*://qastack.in.th/*
+search.brave.com###results > div:has(a[href*="qastack.in.th"])
+*://qastack.com.de/*
+search.brave.com###results > div:has(a[href*="qastack.com.de"])
+*://qastack.fr/*
+search.brave.com###results > div:has(a[href*="qastack.fr"])
+*://qastack.cn/*
+search.brave.com###results > div:has(a[href*="qastack.cn"])
+*://qastack.com.ua/*
+search.brave.com###results > div:has(a[href*="qastack.com.ua"])
+*://qastack.co.in/*
+search.brave.com###results > div:has(a[href*="qastack.co.in"])
+*://qastack.kr/*
+search.brave.com###results > div:has(a[href*="qastack.kr"])
+*://qastack.vn/*
+search.brave.com###results > div:has(a[href*="qastack.vn"])
+*://qastack.net.bd/*
+search.brave.com###results > div:has(a[href*="qastack.net.bd"])
+*://qa-stack.pl/*
+search.brave.com###results > div:has(a[href*="qa-stack.pl"])
+*://qastack.id/*
+search.brave.com###results > div:has(a[href*="qastack.id"])
+*://www.coder.work/*
+search.brave.com###results > div:has(a[href*="www.coder.work"])
+*://www.it-swarm-ja.tech/*
+search.brave.com###results > div:has(a[href*="www.it-swarm-ja.tech"])
+*://www.it-swarm.jp.net/*
+search.brave.com###results > div:has(a[href*="www.it-swarm.jp.net"])
+*://www.it-mure.jp.net/*
+search.brave.com###results > div:has(a[href*="www.it-mure.jp.net"])
+*://www.it-swarm-ja.com/*
+search.brave.com###results > div:has(a[href*="www.it-swarm-ja.com"])
+*://www.it-swarm.com.ru/*
+search.brave.com###results > div:has(a[href*="www.it-swarm.com.ru"])
+*://*.codeflow.site/*
+search.brave.com###results > div:has(a[href*=".codeflow.site"])
+*://codeguides.site/*
+search.brave.com###results > div:has(a[href*="codeguides.site"])
+*://overcoder.net/*
+search.brave.com###results > div:has(a[href*="overcoder.net"])
+*://coderoad.ru/*
+search.brave.com###results > div:has(a[href*="coderoad.ru"])
+*://www.generacodice.blog/*
+search.brave.com###results > div:has(a[href*="www.generacodice.blog"])
+*://www.generacodice.it/*
+search.brave.com###results > div:has(a[href*="www.generacodice.it"])
+*://www.generacodice.com/*
+search.brave.com###results > div:has(a[href*="www.generacodice.com"])
+*://www.javaer101.com/*
+search.brave.com###results > div:has(a[href*="www.javaer101.com"])
+*://*.voidcc.com/*
+search.brave.com###results > div:has(a[href*=".voidcc.com"])
+*://*.siwib.org/*
+search.brave.com###results > div:has(a[href*=".siwib.org"])
+*://*.fluffyfables.com/*
+search.brave.com###results > div:has(a[href*=".fluffyfables.com"])
+*://www.fixes.pub/*
+search.brave.com###results > div:has(a[href*="www.fixes.pub"])
+*://knews.vip/*
+search.brave.com###results > div:has(a[href*="knews.vip"])
+*://isolution.pro/*
+search.brave.com###results > div:has(a[href*="isolution.pro"])
+*://*.uwenku.com/*
+search.brave.com###results > div:has(a[href*=".uwenku.com"])
+*://lycaeum.dev/*
+search.brave.com###results > div:has(a[href*="lycaeum.dev"])
+*://brocante.dev/*
+search.brave.com###results > div:has(a[href*="brocante.dev"])
+*://classmethod.dev/*
+search.brave.com###results > div:has(a[href*="classmethod.dev"])
+*://stormcrow.dev/*
+search.brave.com###results > div:has(a[href*="stormcrow.dev"])
+*://*.athabasca-foto.com/*
+search.brave.com###results > div:has(a[href*=".athabasca-foto.com"])
+*://*.zsharp.org/*
+search.brave.com###results > div:has(a[href*=".zsharp.org"])
+*://*.projectbackpack.org/*
+search.brave.com###results > div:has(a[href*=".projectbackpack.org"])
+*://*.waymanamechurch.org/*
+search.brave.com###results > div:has(a[href*=".waymanamechurch.org"])
+*://*.sunflowercreations.org/*
+search.brave.com###results > div:has(a[href*=".sunflowercreations.org"])
+*://*.cfadnc.org/*
+search.brave.com###results > div:has(a[href*=".cfadnc.org"])
+*://*.fitforlearning.org/*
+search.brave.com###results > div:has(a[href*=".fitforlearning.org"])
+*://*.panaindustrial.com/*
+search.brave.com###results > div:has(a[href*=".panaindustrial.com"])
+*://*.sierrasummit2005.org/*
+search.brave.com###results > div:has(a[href*=".sierrasummit2005.org"])
+*://*.theshuggahpies.com/*
+search.brave.com###results > div:has(a[href*=".theshuggahpies.com"])
+*://*.pcbconline.org/*
+search.brave.com###results > div:has(a[href*=".pcbconline.org"])
+*://www.nuomiphp.com/*
+search.brave.com###results > div:has(a[href*="www.nuomiphp.com"])
+*://ubuntu.buildwebhost.com/*
+search.brave.com###results > div:has(a[href*="ubuntu.buildwebhost.com"])
+*://ubuntuaa.com/*
+search.brave.com###results > div:has(a[href*="ubuntuaa.com"])
+*://www.debugcn.com/*
+search.brave.com###results > div:has(a[href*="www.debugcn.com"])
+*://*.sch22.org/*
+search.brave.com###results > div:has(a[href*=".sch22.org"])
+*://*.gupgallery.com/*
+search.brave.com###results > div:has(a[href*=".gupgallery.com"])
+*://*.amuddycup.com/*
+search.brave.com###results > div:has(a[href*=".amuddycup.com"])
+*://*.ecnf2016.org/*
+search.brave.com###results > div:has(a[href*=".ecnf2016.org"])
+*://*.softwareuser.asklobster.com/*
+search.brave.com###results > div:has(a[href*=".softwareuser.asklobster.com"])
+*://*.domainelespailles.net/*
+search.brave.com###results > div:has(a[href*=".domainelespailles.net"])
+*://*.ec-europe.org/*
+search.brave.com###results > div:has(a[href*=".ec-europe.org"])
+*://*.pakostnici.com/*
+search.brave.com###results > div:has(a[href*=".pakostnici.com"])
+*://*.try2explore.com/*
+search.brave.com###results > div:has(a[href*=".try2explore.com"])
+*://laravelquestions.com/*
+search.brave.com###results > div:has(a[href*="laravelquestions.com"])
+*://itectec.com/*
+search.brave.com###results > div:has(a[href*="itectec.com"])
+*://stackovergo.com/*
+search.brave.com###results > div:has(a[href*="stackovergo.com"])
+*://*.faithcov.org/*
+search.brave.com###results > div:has(a[href*=".faithcov.org"])
+*://*.noblenaz.org/*
+search.brave.com###results > div:has(a[href*=".noblenaz.org"])
+*://www.py4u.net/*
+search.brave.com###results > div:has(a[href*="www.py4u.net"])
+*://*.culinarydegree.info/*
+search.brave.com###results > div:has(a[href*=".culinarydegree.info"])
+*://*.safehavenpetrescue.org/*
+search.brave.com###results > div:has(a[href*=".safehavenpetrescue.org"])
+*://qapicks.com/*
+search.brave.com###results > div:has(a[href*="qapicks.com"])
+*://issues-world.com/*
+search.brave.com###results > div:has(a[href*="issues-world.com"])
+*://*.narkive.jp/*
+search.brave.com###results > div:has(a[href*=".narkive.jp"])
+*://*.ourladylakes.org/*
+search.brave.com###results > div:has(a[href*=".ourladylakes.org"])
+*://intellipaat.com/*
+search.brave.com###results > div:has(a[href*="intellipaat.com"])
+*://article.docway.net/*
+search.brave.com###results > div:has(a[href*="article.docway.net"])
+*://xiu2.net/*
+search.brave.com###results > div:has(a[href*="xiu2.net"])
+*://codehero.jp/*
+search.brave.com###results > div:has(a[href*="codehero.jp"])
+*://quabr.com/*
+search.brave.com###results > div:has(a[href*="quabr.com"])
+*://www.webdevqa.jp.net/*
+search.brave.com###results > div:has(a[href*="www.webdevqa.jp.net"])
+*://qapicks.com/*
+search.brave.com###results > div:has(a[href*="qapicks.com"])
+*://exceptionshub.com/*
+search.brave.com###results > div:has(a[href*="exceptionshub.com"])
+*://newbedev.com/*
+search.brave.com###results > div:has(a[href*="newbedev.com"])
+*://www.codenong.com/*
+search.brave.com###results > div:has(a[href*="www.codenong.com"])
+*://cainiaojiaocheng.com/*
+search.brave.com###results > div:has(a[href*="cainiaojiaocheng.com"])
+*://routinepanic.com/*
+search.brave.com###results > div:has(a[href*="routinepanic.com"])
+*://pythonwd.com/*
+search.brave.com###results > div:has(a[href*="pythonwd.com"])
+*://tutorialmore.com/*
+search.brave.com###results > div:has(a[href*="tutorialmore.com"])
+*://alwaysemmyhope.com/*
+search.brave.com###results > div:has(a[href*="alwaysemmyhope.com"])
+*://pretagteam.com/*
+search.brave.com###results > div:has(a[href*="pretagteam.com"])
+*://www.titanwolf.org/*
+search.brave.com###results > div:has(a[href*="www.titanwolf.org"])
+*://coderedirect.com/*
+search.brave.com###results > div:has(a[href*="coderedirect.com"])
+*://ostack.cn/*
+search.brave.com###results > div:has(a[href*="ostack.cn"])
+*://easysavecode.com/*
+search.brave.com###results > div:has(a[href*="easysavecode.com"])
+*://webdevdesigner.com/*
+search.brave.com###results > div:has(a[href*="webdevdesigner.com"])
+*://www.ghcc.net/*
+search.brave.com###results > div:has(a[href*="www.ghcc.net"])
+*://*.developreference.com/*
+search.brave.com###results > div:has(a[href*=".developreference.com"])
+*://www.semicolonworld.com/*
+search.brave.com###results > div:has(a[href*="www.semicolonworld.com"])
+*://tipsfordev.com/*
+search.brave.com###results > div:has(a[href*="tipsfordev.com"])
+*://www.qi-u.com/*
+search.brave.com###results > div:has(a[href*="www.qi-u.com"])
+*://stackqna.com/*
+search.brave.com###results > div:has(a[href*="stackqna.com"])
+*://www.xsprogram.com/*
+search.brave.com###results > div:has(a[href*="www.xsprogram.com"])
+*://stackoom.com/*
+search.brave.com###results > div:has(a[href*="stackoom.com"])
+*://*.it-swarm-fr.com/*
+search.brave.com###results > div:has(a[href*=".it-swarm-fr.com"])
