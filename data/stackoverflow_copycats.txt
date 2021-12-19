@@ -28,6 +28,7 @@
 *://www.it-mure.jp.net/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm.com.ru/*
+*://www.it-swarm-fr.com/*
 *://*.codeflow.site/*
 *://codeguides.site/*
 *://overcoder.net/*
@@ -112,7 +113,4 @@
 *://stackqna.com/*
 *://www.xsprogram.com/*
 *://stackoom.com/*
-
-! Source: @quenhus
-! Stackoverflow copycats
-*://*.it-swarm-fr.com/*
+*://christfever.in/*

@@ -76,6 +76,8 @@ google.*##.g:has(a[href*="www.it-mure.jp.net"])
 google.*##.g:has(a[href*="www.it-swarm-ja.com"])
 *://www.it-swarm.com.ru/*
 google.*##.g:has(a[href*="www.it-swarm.com.ru"])
+*://www.it-swarm-fr.com/*
+google.*##.g:has(a[href*="www.it-swarm-fr.com"])
 *://*.codeflow.site/*
 google.*##.g:has(a[href*=".codeflow.site"])
 *://codeguides.site/*
@@ -244,5 +246,5 @@ google.*##.g:has(a[href*="stackqna.com"])
 google.*##.g:has(a[href*="www.xsprogram.com"])
 *://stackoom.com/*
 google.*##.g:has(a[href*="stackoom.com"])
-*://*.it-swarm-fr.com/*
-google.*##.g:has(a[href*=".it-swarm-fr.com"])
+*://christfever.in/*
+google.*##.g:has(a[href*="christfever.in"])

@@ -54,6 +54,8 @@ search.brave.com###results > div:has(a[href*="www.it-mure.jp.net"])
 search.brave.com###results > div:has(a[href*="www.it-swarm-ja.com"])
 *://www.it-swarm.com.ru/*
 search.brave.com###results > div:has(a[href*="www.it-swarm.com.ru"])
+*://www.it-swarm-fr.com/*
+search.brave.com###results > div:has(a[href*="www.it-swarm-fr.com"])
 *://*.codeflow.site/*
 search.brave.com###results > div:has(a[href*=".codeflow.site"])
 *://codeguides.site/*
@@ -222,5 +224,5 @@ search.brave.com###results > div:has(a[href*="stackqna.com"])
 search.brave.com###results > div:has(a[href*="www.xsprogram.com"])
 *://stackoom.com/*
 search.brave.com###results > div:has(a[href*="stackoom.com"])
-*://*.it-swarm-fr.com/*
-search.brave.com###results > div:has(a[href*=".it-swarm-fr.com"])
+*://christfever.in/*
+search.brave.com###results > div:has(a[href*="christfever.in"])

@@ -54,6 +54,8 @@ duckduckgo.*##.results > div:has(a[href*="www.it-mure.jp.net"])
 duckduckgo.*##.results > div:has(a[href*="www.it-swarm-ja.com"])
 *://www.it-swarm.com.ru/*
 duckduckgo.*##.results > div:has(a[href*="www.it-swarm.com.ru"])
+*://www.it-swarm-fr.com/*
+duckduckgo.*##.results > div:has(a[href*="www.it-swarm-fr.com"])
 *://*.codeflow.site/*
 duckduckgo.*##.results > div:has(a[href*=".codeflow.site"])
 *://codeguides.site/*
@@ -222,5 +224,5 @@ duckduckgo.*##.results > div:has(a[href*="stackqna.com"])
 duckduckgo.*##.results > div:has(a[href*="www.xsprogram.com"])
 *://stackoom.com/*
 duckduckgo.*##.results > div:has(a[href*="stackoom.com"])
-*://*.it-swarm-fr.com/*
-duckduckgo.*##.results > div:has(a[href*=".it-swarm-fr.com"])
+*://christfever.in/*
+duckduckgo.*##.results > div:has(a[href*="christfever.in"])
