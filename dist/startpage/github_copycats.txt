@@ -22,3 +22,7 @@ startpage.com##.w-gl__result:has(a[href*="findbestopensource.com"])
 startpage.com##.w-gl__result:has(a[href*="githubhelp.com"])
 *://pythonissues.com/*
 startpage.com##.w-gl__result:has(a[href*="pythonissues.com"])
+*://golangrepo.com/*
+startpage.com##.w-gl__result:has(a[href*="golangrepo.com"])
+*://gitmemory.cn/*
+startpage.com##.w-gl__result:has(a[href*="gitmemory.cn"])

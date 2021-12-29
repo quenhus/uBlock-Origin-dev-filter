@@ -22,6 +22,10 @@ google.*##.g:has(a[href*="findbestopensource.com"])
 google.*##.g:has(a[href*="githubhelp.com"])
 *://pythonissues.com/*
 google.*##.g:has(a[href*="pythonissues.com"])
+*://golangrepo.com/*
+google.*##.g:has(a[href*="golangrepo.com"])
+*://gitmemory.cn/*
+google.*##.g:has(a[href*="gitmemory.cn"])
 *://code-examples.net/*
 google.*##.g:has(a[href*="code-examples.net"])
 *://kotaeta.com/*

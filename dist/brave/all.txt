@@ -22,6 +22,10 @@ search.brave.com###results > div:has(a[href*="findbestopensource.com"])
 search.brave.com###results > div:has(a[href*="githubhelp.com"])
 *://pythonissues.com/*
 search.brave.com###results > div:has(a[href*="pythonissues.com"])
+*://golangrepo.com/*
+search.brave.com###results > div:has(a[href*="golangrepo.com"])
+*://gitmemory.cn/*
+search.brave.com###results > div:has(a[href*="gitmemory.cn"])
 *://code-examples.net/*
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 *://kotaeta.com/*

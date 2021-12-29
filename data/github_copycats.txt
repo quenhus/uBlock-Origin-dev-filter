@@ -12,3 +12,5 @@
 *://findbestopensource.com/*
 *://githubhelp.com/*
 *://pythonissues.com/*
+*://golangrepo.com/*
+*://gitmemory.cn/*
