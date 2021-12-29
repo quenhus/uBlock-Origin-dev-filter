@@ -202,8 +202,6 @@ google.*##.g:has(a[href*="codehero.jp"])
 google.*##.g:has(a[href*="quabr.com"])
 *://www.webdevqa.jp.net/*
 google.*##.g:has(a[href*="www.webdevqa.jp.net"])
-*://qapicks.com/*
-google.*##.g:has(a[href*="qapicks.com"])
 *://exceptionshub.com/*
 google.*##.g:has(a[href*="exceptionshub.com"])
 *://newbedev.com/*

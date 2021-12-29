@@ -178,8 +178,6 @@ search.brave.com###results > div:has(a[href*="codehero.jp"])
 search.brave.com###results > div:has(a[href*="quabr.com"])
 *://www.webdevqa.jp.net/*
 search.brave.com###results > div:has(a[href*="www.webdevqa.jp.net"])
-*://qapicks.com/*
-search.brave.com###results > div:has(a[href*="qapicks.com"])
 *://exceptionshub.com/*
 search.brave.com###results > div:has(a[href*="exceptionshub.com"])
 *://newbedev.com/*

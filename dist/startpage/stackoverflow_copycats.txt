@@ -178,8 +178,6 @@ startpage.com##.w-gl__result:has(a[href*="codehero.jp"])
 startpage.com##.w-gl__result:has(a[href*="quabr.com"])
 *://www.webdevqa.jp.net/*
 startpage.com##.w-gl__result:has(a[href*="www.webdevqa.jp.net"])
-*://qapicks.com/*
-startpage.com##.w-gl__result:has(a[href*="qapicks.com"])
 *://exceptionshub.com/*
 startpage.com##.w-gl__result:has(a[href*="exceptionshub.com"])
 *://newbedev.com/*

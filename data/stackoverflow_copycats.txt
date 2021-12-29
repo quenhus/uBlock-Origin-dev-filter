@@ -90,7 +90,6 @@
 *://codehero.jp/*
 *://quabr.com/*
 *://www.webdevqa.jp.net/*
-*://qapicks.com/*
 *://exceptionshub.com/*
 *://newbedev.com/*
 *://www.codenong.com/*

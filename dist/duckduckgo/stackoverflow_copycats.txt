@@ -178,8 +178,6 @@ duckduckgo.*##.results > div:has(a[href*="codehero.jp"])
 duckduckgo.*##.results > div:has(a[href*="quabr.com"])
 *://www.webdevqa.jp.net/*
 duckduckgo.*##.results > div:has(a[href*="www.webdevqa.jp.net"])
-*://qapicks.com/*
-duckduckgo.*##.results > div:has(a[href*="qapicks.com"])
 *://exceptionshub.com/*
 duckduckgo.*##.results > div:has(a[href*="exceptionshub.com"])
 *://newbedev.com/*

@@ -22,6 +22,8 @@ def main():
     root_path = Path(__file__).parent.joinpath("../")
     dist_path = root_path.joinpath("dist")
 
+    tmp_txt = dist_path.joinpath("tmp.txt")
+
     g_all = dist_path.joinpath("google", "all.txt")
     d_all = dist_path.joinpath("duckduckgo", "all.txt")
     gd_all = dist_path.joinpath("google_duckduckgo", "all.txt")
@@ -39,6 +41,22 @@ def main():
 
         for file in root_path.joinpath("data").glob("*.txt"):
             filename = file.name.split(".")[0]
+
+            # Sort and find duplicates
+            with file.open("r") as i, tmp_txt.open("w") as tmp:
+                already_in = set()
+                for line in i:
+                    if line.startswith("!") or not line.strip():
+                        tmp.write(line)
+                        continue
+                    url = line.strip()
+                    if url in already_in:
+                        print(f"Find duplicate: {url}. Skip!")
+                        continue
+                    else:
+                        already_in.add(url)
+                        tmp.write(line)
+            tmp_txt.replace(file)
 
             with dist_path.joinpath("google", f"{filename}.txt").open("w") as g, \
                 dist_path.joinpath("duckduckgo", f"{filename}.txt").open("w") as d, \
