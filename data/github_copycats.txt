@@ -11,3 +11,4 @@
 *://awesomeopensource.com/*
 *://findbestopensource.com/*
 *://githubhelp.com/*
+*://pythonissues.com/*
