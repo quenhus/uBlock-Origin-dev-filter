@@ -20,3 +20,5 @@ startpage.com##.w-gl__result:has(a[href*="awesomeopensource.com"])
 startpage.com##.w-gl__result:has(a[href*="findbestopensource.com"])
 *://githubhelp.com/*
 startpage.com##.w-gl__result:has(a[href*="githubhelp.com"])
+*://pythonissues.com/*
+startpage.com##.w-gl__result:has(a[href*="pythonissues.com"])

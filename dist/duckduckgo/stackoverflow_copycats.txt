@@ -226,3 +226,7 @@ duckduckgo.*##.results > div:has(a[href*="www.xsprogram.com"])
 duckduckgo.*##.results > div:has(a[href*="stackoom.com"])
 *://christfever.in/*
 duckduckgo.*##.results > div:has(a[href*="christfever.in"])
+*://codersatellite.com/*
+duckduckgo.*##.results > div:has(a[href*="codersatellite.com"])
+*://cndgn.com/*
+duckduckgo.*##.results > div:has(a[href*="cndgn.com"])

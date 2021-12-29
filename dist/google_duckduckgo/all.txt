@@ -31,6 +31,9 @@ duckduckgo.*##.results > div:has(a[href*="findbestopensource.com"])
 *://githubhelp.com/*
 google.*##.g:has(a[href*="githubhelp.com"])
 duckduckgo.*##.results > div:has(a[href*="githubhelp.com"])
+*://pythonissues.com/*
+google.*##.g:has(a[href*="pythonissues.com"])
+duckduckgo.*##.results > div:has(a[href*="pythonissues.com"])
 *://code-examples.net/*
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.*##.results > div:has(a[href*="code-examples.net"])
@@ -373,3 +376,9 @@ duckduckgo.*##.results > div:has(a[href*="stackoom.com"])
 *://christfever.in/*
 google.*##.g:has(a[href*="christfever.in"])
 duckduckgo.*##.results > div:has(a[href*="christfever.in"])
+*://codersatellite.com/*
+google.*##.g:has(a[href*="codersatellite.com"])
+duckduckgo.*##.results > div:has(a[href*="codersatellite.com"])
+*://cndgn.com/*
+google.*##.g:has(a[href*="cndgn.com"])
+duckduckgo.*##.results > div:has(a[href*="cndgn.com"])

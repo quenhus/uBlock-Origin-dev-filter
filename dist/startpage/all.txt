@@ -20,6 +20,8 @@ startpage.com##.w-gl__result:has(a[href*="awesomeopensource.com"])
 startpage.com##.w-gl__result:has(a[href*="findbestopensource.com"])
 *://githubhelp.com/*
 startpage.com##.w-gl__result:has(a[href*="githubhelp.com"])
+*://pythonissues.com/*
+startpage.com##.w-gl__result:has(a[href*="pythonissues.com"])
 *://code-examples.net/*
 startpage.com##.w-gl__result:has(a[href*="code-examples.net"])
 *://kotaeta.com/*
@@ -248,3 +250,7 @@ startpage.com##.w-gl__result:has(a[href*="www.xsprogram.com"])
 startpage.com##.w-gl__result:has(a[href*="stackoom.com"])
 *://christfever.in/*
 startpage.com##.w-gl__result:has(a[href*="christfever.in"])
+*://codersatellite.com/*
+startpage.com##.w-gl__result:has(a[href*="codersatellite.com"])
+*://cndgn.com/*
+startpage.com##.w-gl__result:has(a[href*="cndgn.com"])

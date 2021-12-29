@@ -20,3 +20,5 @@ duckduckgo.*##.results > div:has(a[href*="awesomeopensource.com"])
 duckduckgo.*##.results > div:has(a[href*="findbestopensource.com"])
 *://githubhelp.com/*
 duckduckgo.*##.results > div:has(a[href*="githubhelp.com"])
+*://pythonissues.com/*
+duckduckgo.*##.results > div:has(a[href*="pythonissues.com"])

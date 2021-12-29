@@ -226,3 +226,7 @@ startpage.com##.w-gl__result:has(a[href*="www.xsprogram.com"])
 startpage.com##.w-gl__result:has(a[href*="stackoom.com"])
 *://christfever.in/*
 startpage.com##.w-gl__result:has(a[href*="christfever.in"])
+*://codersatellite.com/*
+startpage.com##.w-gl__result:has(a[href*="codersatellite.com"])
+*://cndgn.com/*
+startpage.com##.w-gl__result:has(a[href*="cndgn.com"])

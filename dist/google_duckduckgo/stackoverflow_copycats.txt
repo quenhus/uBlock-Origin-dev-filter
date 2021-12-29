@@ -340,3 +340,9 @@ duckduckgo.*##.results > div:has(a[href*="stackoom.com"])
 *://christfever.in/*
 google.*##.g:has(a[href*="christfever.in"])
 duckduckgo.*##.results > div:has(a[href*="christfever.in"])
+*://codersatellite.com/*
+google.*##.g:has(a[href*="codersatellite.com"])
+duckduckgo.*##.results > div:has(a[href*="codersatellite.com"])
+*://cndgn.com/*
+google.*##.g:has(a[href*="cndgn.com"])
+duckduckgo.*##.results > div:has(a[href*="cndgn.com"])

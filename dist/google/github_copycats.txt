@@ -20,3 +20,5 @@ google.*##.g:has(a[href*="awesomeopensource.com"])
 google.*##.g:has(a[href*="findbestopensource.com"])
 *://githubhelp.com/*
 google.*##.g:has(a[href*="githubhelp.com"])
+*://pythonissues.com/*
+google.*##.g:has(a[href*="pythonissues.com"])
