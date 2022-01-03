@@ -8,6 +8,8 @@ Filters to block and remove copycat-websites from DuckDuckGo and Google. Specifi
 3. Append the URL `https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/google_duckduckgo/all.txt` in the textbox
 4. Press `Apply Changes` in the upper right
 
+Note: In `/dist/`, you can find filters for other search engines. You can use and combine these filters by using the raw URL of `/dist/` files.
+
 ## Adding URL's
 
 Please create a pull-request or start an issue with evidence against the "copycats".
