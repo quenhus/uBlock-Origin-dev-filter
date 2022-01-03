@@ -256,3 +256,5 @@ google.*##.g:has(a[href*="christfever.in"])
 google.*##.g:has(a[href*="codersatellite.com"])
 *://cndgn.com/*
 google.*##.g:has(a[href*="cndgn.com"])
+*://*.coredump.biz/*
+google.*##.g:has(a[href*=".coredump.biz"])

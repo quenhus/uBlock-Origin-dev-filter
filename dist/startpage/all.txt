@@ -256,3 +256,5 @@ startpage.com##.w-gl__result:has(a[href*="christfever.in"])
 startpage.com##.w-gl__result:has(a[href*="codersatellite.com"])
 *://cndgn.com/*
 startpage.com##.w-gl__result:has(a[href*="cndgn.com"])
+*://*.coredump.biz/*
+startpage.com##.w-gl__result:has(a[href*=".coredump.biz"])
