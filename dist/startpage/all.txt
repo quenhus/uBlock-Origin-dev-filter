@@ -26,6 +26,8 @@ startpage.com##.w-gl__result:has(a[href*="pythonissues.com"])
 startpage.com##.w-gl__result:has(a[href*="golangrepo.com"])
 *://gitmemory.cn/*
 startpage.com##.w-gl__result:has(a[href*="gitmemory.cn"])
+*://githubmate.com/*
+startpage.com##.w-gl__result:has(a[href*="githubmate.com"])
 *://code-examples.net/*
 startpage.com##.w-gl__result:has(a[href*="code-examples.net"])
 *://kotaeta.com/*
