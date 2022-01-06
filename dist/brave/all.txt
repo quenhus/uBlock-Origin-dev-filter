@@ -28,6 +28,14 @@ search.brave.com###results > div:has(a[href*="golangrepo.com"])
 search.brave.com###results > div:has(a[href*="gitmemory.cn"])
 *://githubmate.com/*
 search.brave.com###results > div:has(a[href*="githubmate.com"])
+*://reposhub.com/*
+search.brave.com###results > div:has(a[href*="reposhub.com"])
+*://gitanswer.com/*
+search.brave.com###results > div:has(a[href*="gitanswer.com"])
+*://githubplus.com/*
+search.brave.com###results > div:has(a[href*="githubplus.com"])
+*://pythonrepo.com/*
+search.brave.com###results > div:has(a[href*="pythonrepo.com"])
 *://code-examples.net/*
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 *://kotaeta.com/*
@@ -260,3 +268,7 @@ search.brave.com###results > div:has(a[href*="codersatellite.com"])
 search.brave.com###results > div:has(a[href*="cndgn.com"])
 *://*.coredump.biz/*
 search.brave.com###results > div:has(a[href*=".coredump.biz"])
+*://farath.com/*
+search.brave.com###results > div:has(a[href*="farath.com"])
+*://devbugfix.com/*
+search.brave.com###results > div:has(a[href*="devbugfix.com"])

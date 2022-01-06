@@ -28,3 +28,11 @@ google.*##.g:has(a[href*="golangrepo.com"])
 google.*##.g:has(a[href*="gitmemory.cn"])
 *://githubmate.com/*
 google.*##.g:has(a[href*="githubmate.com"])
+*://reposhub.com/*
+google.*##.g:has(a[href*="reposhub.com"])
+*://gitanswer.com/*
+google.*##.g:has(a[href*="gitanswer.com"])
+*://githubplus.com/*
+google.*##.g:has(a[href*="githubplus.com"])
+*://pythonrepo.com/*
+google.*##.g:has(a[href*="pythonrepo.com"])

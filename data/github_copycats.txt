@@ -15,3 +15,7 @@
 *://golangrepo.com/*
 *://gitmemory.cn/*
 *://githubmate.com/*
+*://reposhub.com/*
+*://gitanswer.com/*
+*://githubplus.com/*
+*://pythonrepo.com/*

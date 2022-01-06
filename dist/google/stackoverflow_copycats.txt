@@ -230,3 +230,7 @@ google.*##.g:has(a[href*="codersatellite.com"])
 google.*##.g:has(a[href*="cndgn.com"])
 *://*.coredump.biz/*
 google.*##.g:has(a[href*=".coredump.biz"])
+*://farath.com/*
+google.*##.g:has(a[href*="farath.com"])
+*://devbugfix.com/*
+google.*##.g:has(a[href*="devbugfix.com"])

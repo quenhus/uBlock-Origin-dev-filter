@@ -116,3 +116,5 @@
 *://codersatellite.com/*
 *://cndgn.com/*
 *://*.coredump.biz/*
+*://farath.com/*
+*://devbugfix.com/*

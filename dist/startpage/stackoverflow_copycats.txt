@@ -230,3 +230,7 @@ startpage.com##.w-gl__result:has(a[href*="codersatellite.com"])
 startpage.com##.w-gl__result:has(a[href*="cndgn.com"])
 *://*.coredump.biz/*
 startpage.com##.w-gl__result:has(a[href*=".coredump.biz"])
+*://farath.com/*
+startpage.com##.w-gl__result:has(a[href*="farath.com"])
+*://devbugfix.com/*
+startpage.com##.w-gl__result:has(a[href*="devbugfix.com"])

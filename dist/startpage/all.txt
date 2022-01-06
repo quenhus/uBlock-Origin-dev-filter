@@ -28,6 +28,14 @@ startpage.com##.w-gl__result:has(a[href*="golangrepo.com"])
 startpage.com##.w-gl__result:has(a[href*="gitmemory.cn"])
 *://githubmate.com/*
 startpage.com##.w-gl__result:has(a[href*="githubmate.com"])
+*://reposhub.com/*
+startpage.com##.w-gl__result:has(a[href*="reposhub.com"])
+*://gitanswer.com/*
+startpage.com##.w-gl__result:has(a[href*="gitanswer.com"])
+*://githubplus.com/*
+startpage.com##.w-gl__result:has(a[href*="githubplus.com"])
+*://pythonrepo.com/*
+startpage.com##.w-gl__result:has(a[href*="pythonrepo.com"])
 *://code-examples.net/*
 startpage.com##.w-gl__result:has(a[href*="code-examples.net"])
 *://kotaeta.com/*
@@ -260,3 +268,7 @@ startpage.com##.w-gl__result:has(a[href*="codersatellite.com"])
 startpage.com##.w-gl__result:has(a[href*="cndgn.com"])
 *://*.coredump.biz/*
 startpage.com##.w-gl__result:has(a[href*=".coredump.biz"])
+*://farath.com/*
+startpage.com##.w-gl__result:has(a[href*="farath.com"])
+*://devbugfix.com/*
+startpage.com##.w-gl__result:has(a[href*="devbugfix.com"])

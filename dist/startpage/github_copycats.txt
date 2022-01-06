@@ -28,3 +28,11 @@ startpage.com##.w-gl__result:has(a[href*="golangrepo.com"])
 startpage.com##.w-gl__result:has(a[href*="gitmemory.cn"])
 *://githubmate.com/*
 startpage.com##.w-gl__result:has(a[href*="githubmate.com"])
+*://reposhub.com/*
+startpage.com##.w-gl__result:has(a[href*="reposhub.com"])
+*://gitanswer.com/*
+startpage.com##.w-gl__result:has(a[href*="gitanswer.com"])
+*://githubplus.com/*
+startpage.com##.w-gl__result:has(a[href*="githubplus.com"])
+*://pythonrepo.com/*
+startpage.com##.w-gl__result:has(a[href*="pythonrepo.com"])
