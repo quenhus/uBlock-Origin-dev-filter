@@ -19,3 +19,4 @@
 *://gitanswer.com/*
 *://githubplus.com/*
 *://pythonrepo.com/*
+*://tech.wayne-chu.com/*
