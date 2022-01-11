@@ -19,6 +19,4 @@
 *://gitanswer.com/*
 *://githubplus.com/*
 *://pythonrepo.com/*
-! dist
 *://bestofcpp.com/*
-
