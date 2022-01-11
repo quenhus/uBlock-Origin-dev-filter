@@ -234,3 +234,7 @@ duckduckgo.*##.results > div:has(a[href*=".coredump.biz"])
 duckduckgo.*##.results > div:has(a[href*="farath.com"])
 *://devbugfix.com/*
 duckduckgo.*##.results > div:has(a[href*="devbugfix.com"])
+*://tech.wayne-chu.com/*
+duckduckgo.*##.results > div:has(a[href*="tech.wayne-chu.com"])
+*://stackify.dev/*
+duckduckgo.*##.results > div:has(a[href*="stackify.dev"])

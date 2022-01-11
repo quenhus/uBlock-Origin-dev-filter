@@ -36,6 +36,8 @@ google.*##.g:has(a[href*="gitanswer.com"])
 google.*##.g:has(a[href*="githubplus.com"])
 *://pythonrepo.com/*
 google.*##.g:has(a[href*="pythonrepo.com"])
+*://bestofcpp.com/*
+google.*##.g:has(a[href*="bestofcpp.com"])
 *://code-examples.net/*
 google.*##.g:has(a[href*="code-examples.net"])
 *://kotaeta.com/*
@@ -272,3 +274,7 @@ google.*##.g:has(a[href*=".coredump.biz"])
 google.*##.g:has(a[href*="farath.com"])
 *://devbugfix.com/*
 google.*##.g:has(a[href*="devbugfix.com"])
+*://tech.wayne-chu.com/*
+google.*##.g:has(a[href*="tech.wayne-chu.com"])
+*://stackify.dev/*
+google.*##.g:has(a[href*="stackify.dev"])

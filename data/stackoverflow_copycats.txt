@@ -118,3 +118,5 @@
 *://*.coredump.biz/*
 *://farath.com/*
 *://devbugfix.com/*
+*://tech.wayne-chu.com/*
+*://stackify.dev/*

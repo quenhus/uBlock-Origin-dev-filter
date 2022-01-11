@@ -36,3 +36,5 @@ startpage.com##.w-gl__result:has(a[href*="gitanswer.com"])
 startpage.com##.w-gl__result:has(a[href*="githubplus.com"])
 *://pythonrepo.com/*
 startpage.com##.w-gl__result:has(a[href*="pythonrepo.com"])
+*://bestofcpp.com/*
+startpage.com##.w-gl__result:has(a[href*="bestofcpp.com"])

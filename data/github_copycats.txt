@@ -19,4 +19,6 @@
 *://gitanswer.com/*
 *://githubplus.com/*
 *://pythonrepo.com/*
-*://tech.wayne-chu.com/*
+! dist
+*://bestofcpp.com/*
+

@@ -36,6 +36,8 @@ startpage.com##.w-gl__result:has(a[href*="gitanswer.com"])
 startpage.com##.w-gl__result:has(a[href*="githubplus.com"])
 *://pythonrepo.com/*
 startpage.com##.w-gl__result:has(a[href*="pythonrepo.com"])
+*://bestofcpp.com/*
+startpage.com##.w-gl__result:has(a[href*="bestofcpp.com"])
 *://code-examples.net/*
 startpage.com##.w-gl__result:has(a[href*="code-examples.net"])
 *://kotaeta.com/*
@@ -272,3 +274,7 @@ startpage.com##.w-gl__result:has(a[href*=".coredump.biz"])
 startpage.com##.w-gl__result:has(a[href*="farath.com"])
 *://devbugfix.com/*
 startpage.com##.w-gl__result:has(a[href*="devbugfix.com"])
+*://tech.wayne-chu.com/*
+startpage.com##.w-gl__result:has(a[href*="tech.wayne-chu.com"])
+*://stackify.dev/*
+startpage.com##.w-gl__result:has(a[href*="stackify.dev"])

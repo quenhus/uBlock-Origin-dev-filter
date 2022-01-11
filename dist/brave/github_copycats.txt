@@ -36,3 +36,5 @@ search.brave.com###results > div:has(a[href*="gitanswer.com"])
 search.brave.com###results > div:has(a[href*="githubplus.com"])
 *://pythonrepo.com/*
 search.brave.com###results > div:has(a[href*="pythonrepo.com"])
+*://bestofcpp.com/*
+search.brave.com###results > div:has(a[href*="bestofcpp.com"])

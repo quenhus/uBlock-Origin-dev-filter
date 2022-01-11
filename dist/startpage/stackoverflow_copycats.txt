@@ -234,3 +234,7 @@ startpage.com##.w-gl__result:has(a[href*=".coredump.biz"])
 startpage.com##.w-gl__result:has(a[href*="farath.com"])
 *://devbugfix.com/*
 startpage.com##.w-gl__result:has(a[href*="devbugfix.com"])
+*://tech.wayne-chu.com/*
+startpage.com##.w-gl__result:has(a[href*="tech.wayne-chu.com"])
+*://stackify.dev/*
+startpage.com##.w-gl__result:has(a[href*="stackify.dev"])
