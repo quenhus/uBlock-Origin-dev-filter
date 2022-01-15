@@ -20,3 +20,4 @@
 *://githubplus.com/*
 *://pythonrepo.com/*
 *://bestofcpp.com/*
+*://github-wiki-see.page/*

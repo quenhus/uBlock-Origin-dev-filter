@@ -38,3 +38,5 @@ duckduckgo.*##.results > div:has(a[href*="githubplus.com"])
 duckduckgo.*##.results > div:has(a[href*="pythonrepo.com"])
 *://bestofcpp.com/*
 duckduckgo.*##.results > div:has(a[href*="bestofcpp.com"])
+*://github-wiki-see.page/*
+duckduckgo.*##.results > div:has(a[href*="github-wiki-see.page"])

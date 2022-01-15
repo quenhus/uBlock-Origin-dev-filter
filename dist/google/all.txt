@@ -38,6 +38,8 @@ google.*##.g:has(a[href*="githubplus.com"])
 google.*##.g:has(a[href*="pythonrepo.com"])
 *://bestofcpp.com/*
 google.*##.g:has(a[href*="bestofcpp.com"])
+*://github-wiki-see.page/*
+google.*##.g:has(a[href*="github-wiki-see.page"])
 *://code-examples.net/*
 google.*##.g:has(a[href*="code-examples.net"])
 *://kotaeta.com/*
