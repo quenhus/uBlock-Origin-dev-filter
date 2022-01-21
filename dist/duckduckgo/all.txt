@@ -38,6 +38,10 @@ duckduckgo.*##.results > div:has(a[href*="githubplus.com"])
 duckduckgo.*##.results > div:has(a[href*="pythonrepo.com"])
 *://bestofcpp.com/*
 duckduckgo.*##.results > div:has(a[href*="bestofcpp.com"])
+*://github.innominds.com/*
+duckduckgo.*##.results > div:has(a[href*="github.innominds.com"])
+*://www.higithub.com/*
+duckduckgo.*##.results > div:has(a[href*="www.higithub.com"])
 *://code-examples.net/*
 duckduckgo.*##.results > div:has(a[href*="code-examples.net"])
 *://kotaeta.com/*
@@ -278,3 +282,45 @@ duckduckgo.*##.results > div:has(a[href*="devbugfix.com"])
 duckduckgo.*##.results > div:has(a[href*="tech.wayne-chu.com"])
 *://stackify.dev/*
 duckduckgo.*##.results > div:has(a[href*="stackify.dev"])
+*://webknox.com/*
+duckduckgo.*##.results > div:has(a[href*="webknox.com"])
+*://stackfinder.jp.net/*
+duckduckgo.*##.results > div:has(a[href*="stackfinder.jp.net"])
+*://coder-solution-jp.com/*
+duckduckgo.*##.results > div:has(a[href*="coder-solution-jp.com"])
+*://jpndev.com/*
+duckduckgo.*##.results > div:has(a[href*="jpndev.com"])
+*://www.uebu-kaihatsu.jp.net/*
+duckduckgo.*##.results > div:has(a[href*="www.uebu-kaihatsu.jp.net"])
+*://sqlite.in/*
+duckduckgo.*##.results > div:has(a[href*="sqlite.in"])
+*://stackguides.com/*
+duckduckgo.*##.results > div:has(a[href*="stackguides.com"])
+*://younggeeks.in/*
+duckduckgo.*##.results > div:has(a[href*="younggeeks.in"])
+*://www.answerlib.com/*
+duckduckgo.*##.results > div:has(a[href*="www.answerlib.com"])
+*://edupro.id/*
+duckduckgo.*##.results > div:has(a[href*="edupro.id"])
+*://python-stack.de/*
+duckduckgo.*##.results > div:has(a[href*="python-stack.de"])
+*://www.stackfinder.ru/*
+duckduckgo.*##.results > div:has(a[href*="www.stackfinder.ru"])
+*://stackfault.net/*
+duckduckgo.*##.results > div:has(a[href*="stackfault.net"])
+*://howtofix.io/*
+duckduckgo.*##.results > div:has(a[href*="howtofix.io"])
+*://www.buzzphp.com/*
+duckduckgo.*##.results > div:has(a[href*="www.buzzphp.com"])
+*://www.desenv-web-rp.com/*
+duckduckgo.*##.results > div:has(a[href*="www.desenv-web-rp.com"])
+*://askdev.vn/*
+duckduckgo.*##.results > div:has(a[href*="askdev.vn"])
+*://quares.ru/*
+duckduckgo.*##.results > div:has(a[href*="quares.ru"])
+*://www.examplefiles.net/*
+duckduckgo.*##.results > div:has(a[href*="www.examplefiles.net"])
+*://codewdw.com/*
+duckduckgo.*##.results > div:has(a[href*="codewdw.com"])
+*://jpcodeqa.com/*
+duckduckgo.*##.results > div:has(a[href*="jpcodeqa.com"])

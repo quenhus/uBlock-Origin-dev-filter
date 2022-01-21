@@ -38,3 +38,7 @@ startpage.com##.w-gl__result:has(a[href*="githubplus.com"])
 startpage.com##.w-gl__result:has(a[href*="pythonrepo.com"])
 *://bestofcpp.com/*
 startpage.com##.w-gl__result:has(a[href*="bestofcpp.com"])
+*://github.innominds.com/*
+startpage.com##.w-gl__result:has(a[href*="github.innominds.com"])
+*://www.higithub.com/*
+startpage.com##.w-gl__result:has(a[href*="www.higithub.com"])

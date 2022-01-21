@@ -238,3 +238,45 @@ search.brave.com###results > div:has(a[href*="devbugfix.com"])
 search.brave.com###results > div:has(a[href*="tech.wayne-chu.com"])
 *://stackify.dev/*
 search.brave.com###results > div:has(a[href*="stackify.dev"])
+*://webknox.com/*
+search.brave.com###results > div:has(a[href*="webknox.com"])
+*://stackfinder.jp.net/*
+search.brave.com###results > div:has(a[href*="stackfinder.jp.net"])
+*://coder-solution-jp.com/*
+search.brave.com###results > div:has(a[href*="coder-solution-jp.com"])
+*://jpndev.com/*
+search.brave.com###results > div:has(a[href*="jpndev.com"])
+*://www.uebu-kaihatsu.jp.net/*
+search.brave.com###results > div:has(a[href*="www.uebu-kaihatsu.jp.net"])
+*://sqlite.in/*
+search.brave.com###results > div:has(a[href*="sqlite.in"])
+*://stackguides.com/*
+search.brave.com###results > div:has(a[href*="stackguides.com"])
+*://younggeeks.in/*
+search.brave.com###results > div:has(a[href*="younggeeks.in"])
+*://www.answerlib.com/*
+search.brave.com###results > div:has(a[href*="www.answerlib.com"])
+*://edupro.id/*
+search.brave.com###results > div:has(a[href*="edupro.id"])
+*://python-stack.de/*
+search.brave.com###results > div:has(a[href*="python-stack.de"])
+*://www.stackfinder.ru/*
+search.brave.com###results > div:has(a[href*="www.stackfinder.ru"])
+*://stackfault.net/*
+search.brave.com###results > div:has(a[href*="stackfault.net"])
+*://howtofix.io/*
+search.brave.com###results > div:has(a[href*="howtofix.io"])
+*://www.buzzphp.com/*
+search.brave.com###results > div:has(a[href*="www.buzzphp.com"])
+*://www.desenv-web-rp.com/*
+search.brave.com###results > div:has(a[href*="www.desenv-web-rp.com"])
+*://askdev.vn/*
+search.brave.com###results > div:has(a[href*="askdev.vn"])
+*://quares.ru/*
+search.brave.com###results > div:has(a[href*="quares.ru"])
+*://www.examplefiles.net/*
+search.brave.com###results > div:has(a[href*="www.examplefiles.net"])
+*://codewdw.com/*
+search.brave.com###results > div:has(a[href*="codewdw.com"])
+*://jpcodeqa.com/*
+search.brave.com###results > div:has(a[href*="jpcodeqa.com"])

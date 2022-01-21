@@ -58,6 +58,12 @@ duckduckgo.*##.results > div:has(a[href*="pythonrepo.com"])
 *://bestofcpp.com/*
 google.*##.g:has(a[href*="bestofcpp.com"])
 duckduckgo.*##.results > div:has(a[href*="bestofcpp.com"])
+*://github.innominds.com/*
+google.*##.g:has(a[href*="github.innominds.com"])
+duckduckgo.*##.results > div:has(a[href*="github.innominds.com"])
+*://www.higithub.com/*
+google.*##.g:has(a[href*="www.higithub.com"])
+duckduckgo.*##.results > div:has(a[href*="www.higithub.com"])
 *://code-examples.net/*
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.*##.results > div:has(a[href*="code-examples.net"])
@@ -418,3 +424,66 @@ duckduckgo.*##.results > div:has(a[href*="tech.wayne-chu.com"])
 *://stackify.dev/*
 google.*##.g:has(a[href*="stackify.dev"])
 duckduckgo.*##.results > div:has(a[href*="stackify.dev"])
+*://webknox.com/*
+google.*##.g:has(a[href*="webknox.com"])
+duckduckgo.*##.results > div:has(a[href*="webknox.com"])
+*://stackfinder.jp.net/*
+google.*##.g:has(a[href*="stackfinder.jp.net"])
+duckduckgo.*##.results > div:has(a[href*="stackfinder.jp.net"])
+*://coder-solution-jp.com/*
+google.*##.g:has(a[href*="coder-solution-jp.com"])
+duckduckgo.*##.results > div:has(a[href*="coder-solution-jp.com"])
+*://jpndev.com/*
+google.*##.g:has(a[href*="jpndev.com"])
+duckduckgo.*##.results > div:has(a[href*="jpndev.com"])
+*://www.uebu-kaihatsu.jp.net/*
+google.*##.g:has(a[href*="www.uebu-kaihatsu.jp.net"])
+duckduckgo.*##.results > div:has(a[href*="www.uebu-kaihatsu.jp.net"])
+*://sqlite.in/*
+google.*##.g:has(a[href*="sqlite.in"])
+duckduckgo.*##.results > div:has(a[href*="sqlite.in"])
+*://stackguides.com/*
+google.*##.g:has(a[href*="stackguides.com"])
+duckduckgo.*##.results > div:has(a[href*="stackguides.com"])
+*://younggeeks.in/*
+google.*##.g:has(a[href*="younggeeks.in"])
+duckduckgo.*##.results > div:has(a[href*="younggeeks.in"])
+*://www.answerlib.com/*
+google.*##.g:has(a[href*="www.answerlib.com"])
+duckduckgo.*##.results > div:has(a[href*="www.answerlib.com"])
+*://edupro.id/*
+google.*##.g:has(a[href*="edupro.id"])
+duckduckgo.*##.results > div:has(a[href*="edupro.id"])
+*://python-stack.de/*
+google.*##.g:has(a[href*="python-stack.de"])
+duckduckgo.*##.results > div:has(a[href*="python-stack.de"])
+*://www.stackfinder.ru/*
+google.*##.g:has(a[href*="www.stackfinder.ru"])
+duckduckgo.*##.results > div:has(a[href*="www.stackfinder.ru"])
+*://stackfault.net/*
+google.*##.g:has(a[href*="stackfault.net"])
+duckduckgo.*##.results > div:has(a[href*="stackfault.net"])
+*://howtofix.io/*
+google.*##.g:has(a[href*="howtofix.io"])
+duckduckgo.*##.results > div:has(a[href*="howtofix.io"])
+*://www.buzzphp.com/*
+google.*##.g:has(a[href*="www.buzzphp.com"])
+duckduckgo.*##.results > div:has(a[href*="www.buzzphp.com"])
+*://www.desenv-web-rp.com/*
+google.*##.g:has(a[href*="www.desenv-web-rp.com"])
+duckduckgo.*##.results > div:has(a[href*="www.desenv-web-rp.com"])
+*://askdev.vn/*
+google.*##.g:has(a[href*="askdev.vn"])
+duckduckgo.*##.results > div:has(a[href*="askdev.vn"])
+*://quares.ru/*
+google.*##.g:has(a[href*="quares.ru"])
+duckduckgo.*##.results > div:has(a[href*="quares.ru"])
+*://www.examplefiles.net/*
+google.*##.g:has(a[href*="www.examplefiles.net"])
+duckduckgo.*##.results > div:has(a[href*="www.examplefiles.net"])
+*://codewdw.com/*
+google.*##.g:has(a[href*="codewdw.com"])
+duckduckgo.*##.results > div:has(a[href*="codewdw.com"])
+*://jpcodeqa.com/*
+google.*##.g:has(a[href*="jpcodeqa.com"])
+duckduckgo.*##.results > div:has(a[href*="jpcodeqa.com"])
