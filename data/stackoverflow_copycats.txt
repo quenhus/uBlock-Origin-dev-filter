@@ -120,3 +120,4 @@
 *://devbugfix.com/*
 *://tech.wayne-chu.com/*
 *://stackify.dev/*
+*://webknox.com/*
