@@ -1,0 +1,177 @@
+// ==UserScript==
+// @name        uBlock-Origin-dev-filter
+// @description Filter copycat-websites from DuckDuckGo and Google
+// @match       https://*.duckduckgo.com/*
+// @include     https://*.google.*/*
+// ==/UserScript==
+(function() {
+    const css = `
+[data-domain*="code-examples.net"],
+[data-domain*="kotaeta.com"],
+[data-domain*="answer-id.com"],
+[data-domain*="code.i-harness.com"],
+[data-domain*="living-sun.com"],
+[data-domain*="qastack.jp"],
+[data-domain*="qastack.ru"],
+[data-domain*="qastack.it"],
+[data-domain*="qastack.mx"],
+[data-domain*="qastack.com.br"],
+[data-domain*="qastack.info.tr"],
+[data-domain*="qastack.in.th"],
+[data-domain*="qastack.com.de"],
+[data-domain*="qastack.fr"],
+[data-domain*="qastack.cn"],
+[data-domain*="qastack.com.ua"],
+[data-domain*="qastack.co.in"],
+[data-domain*="qastack.kr"],
+[data-domain*="qastack.vn"],
+[data-domain*="qastack.net.bd"],
+[data-domain*="qa-stack.pl"],
+[data-domain*="qastack.id"],
+[data-domain*="www.coder.work"],
+[data-domain*="www.it-swarm-ja.tech"],
+[data-domain*="www.it-swarm.jp.net"],
+[data-domain*="www.it-mure.jp.net"],
+[data-domain*="www.it-swarm-ja.com"],
+[data-domain*="www.it-swarm.com.ru"],
+[data-domain*="www.it-swarm-fr.com"],
+[data-domain*="codeflow.site"],
+[data-domain*="codeguides.site"],
+[data-domain*="overcoder.net"],
+[data-domain*="coderoad.ru"],
+[data-domain*="www.generacodice.blog"],
+[data-domain*="www.generacodice.it"],
+[data-domain*="www.generacodice.com"],
+[data-domain*="www.javaer101.com"],
+[data-domain*="voidcc.com"],
+[data-domain*="siwib.org"],
+[data-domain*="fluffyfables.com"],
+[data-domain*="www.fixes.pub"],
+[data-domain*="knews.vip"],
+[data-domain*="isolution.pro"],
+[data-domain*="uwenku.com"],
+[data-domain*="lycaeum.dev"],
+[data-domain*="brocante.dev"],
+[data-domain*="classmethod.dev"],
+[data-domain*="stormcrow.dev"],
+[data-domain*="athabasca-foto.com"],
+[data-domain*="zsharp.org"],
+[data-domain*="projectbackpack.org"],
+[data-domain*="waymanamechurch.org"],
+[data-domain*="sunflowercreations.org"],
+[data-domain*="cfadnc.org"],
+[data-domain*="fitforlearning.org"],
+[data-domain*="panaindustrial.com"],
+[data-domain*="sierrasummit2005.org"],
+[data-domain*="theshuggahpies.com"],
+[data-domain*="pcbconline.org"],
+[data-domain*="www.nuomiphp.com"],
+[data-domain*="ubuntu.buildwebhost.com"],
+[data-domain*="ubuntuaa.com"],
+[data-domain*="www.debugcn.com"],
+[data-domain*="sch22.org"],
+[data-domain*="gupgallery.com"],
+[data-domain*="amuddycup.com"],
+[data-domain*="ecnf2016.org"],
+[data-domain*="softwareuser.asklobster.com"],
+[data-domain*="domainelespailles.net"],
+[data-domain*="ec-europe.org"],
+[data-domain*="pakostnici.com"],
+[data-domain*="try2explore.com"],
+[data-domain*="laravelquestions.com"],
+[data-domain*="itectec.com"],
+[data-domain*="stackovergo.com"],
+[data-domain*="faithcov.org"],
+[data-domain*="noblenaz.org"],
+[data-domain*="www.py4u.net"],
+[data-domain*="culinarydegree.info"],
+[data-domain*="safehavenpetrescue.org"],
+[data-domain*="qapicks.com"],
+[data-domain*="issues-world.com"],
+[data-domain*="narkive.jp"],
+[data-domain*="ourladylakes.org"],
+[data-domain*="intellipaat.com"],
+[data-domain*="article.docway.net"],
+[data-domain*="xiu2.net"],
+[data-domain*="codehero.jp"],
+[data-domain*="quabr.com"],
+[data-domain*="www.webdevqa.jp.net"],
+[data-domain*="exceptionshub.com"],
+[data-domain*="newbedev.com"],
+[data-domain*="www.codenong.com"],
+[data-domain*="cainiaojiaocheng.com"],
+[data-domain*="routinepanic.com"],
+[data-domain*="pythonwd.com"],
+[data-domain*="tutorialmore.com"],
+[data-domain*="alwaysemmyhope.com"],
+[data-domain*="pretagteam.com"],
+[data-domain*="www.titanwolf.org"],
+[data-domain*="coderedirect.com"],
+[data-domain*="ostack.cn"],
+[data-domain*="easysavecode.com"],
+[data-domain*="webdevdesigner.com"],
+[data-domain*="www.ghcc.net"],
+[data-domain*="developreference.com"],
+[data-domain*="www.semicolonworld.com"],
+[data-domain*="tipsfordev.com"],
+[data-domain*="www.qi-u.com"],
+[data-domain*="stackqna.com"],
+[data-domain*="www.xsprogram.com"],
+[data-domain*="stackoom.com"],
+[data-domain*="christfever.in"],
+[data-domain*="codersatellite.com"],
+[data-domain*="cndgn.com"],
+[data-domain*="coredump.biz"],
+[data-domain*="farath.com"],
+[data-domain*="devbugfix.com"],
+[data-domain*="tech.wayne-chu.com"],
+[data-domain*="stackify.dev"],
+[data-domain*="webknox.com"],
+[data-domain*="stackfinder.jp.net"],
+[data-domain*="coder-solution-jp.com"],
+[data-domain*="jpndev.com"],
+[data-domain*="www.uebu-kaihatsu.jp.net"],
+[data-domain*="sqlite.in"],
+[data-domain*="stackguides.com"],
+[data-domain*="younggeeks.in"],
+[data-domain*="www.answerlib.com"],
+[data-domain*="edupro.id"],
+[data-domain*="python-stack.de"],
+[data-domain*="www.stackfinder.ru"],
+[data-domain*="stackfault.net"],
+[data-domain*="howtofix.io"],
+[data-domain*="www.buzzphp.com"],
+[data-domain*="www.desenv-web-rp.com"],
+[data-domain*="askdev.vn"],
+[data-domain*="quares.ru"],
+[data-domain*="www.examplefiles.net"],
+[data-domain*="codewdw.com"],
+[data-domain*="jpcodeqa.com"],
+#__non-existent__{display: none}`;
+    if (document.location.hostname.includes('google')) {
+        const domains = css
+            .split('\n')
+            .map(
+                (s) => s.slice(15).replace('"],', '').trim(),
+            )
+            .filter(Boolean);
+        domains.splice(domains.length - 1, 1);
+        for (const domain of domains) {
+            try {
+                const p = document
+                    .querySelector(`#search a[href*="${domain}"]`)
+                    .parentNode.parentNode.parentNode.parentNode;
+                if (p) {
+                    p.parentNode.removeChild(p);
+                }
+            } catch (e) {
+                // Ignore
+            }
+        }
+    } else {
+        const style = document.createElement('style');
+        style.textContent = css;
+        document.head.insertAdjacentElement('beforeend', style);
+    }
+})();
+    
