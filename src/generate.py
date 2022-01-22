@@ -91,7 +91,7 @@ def main():
     gd_all = dist_path.joinpath("google_duckduckgo", "all.txt")
     b_all = dist_path.joinpath("brave", "all.txt")
     sp_all = dist_path.joinpath("startpage", "all.txt")
-    u_all = dist_path.joinpath("userscript", "all.txt")
+    u_all = dist_path.joinpath("userscript", "google_duckduckgo", "all.txt")
 
     for f in [g_all, d_all, gd_all, b_all, sp_all]:
         f.parent.mkdir(parents=True, exist_ok=True)
@@ -134,7 +134,11 @@ def main():
                 dist_path.joinpath("google_duckduckgo", f"{filename}.txt").open("w", encoding="utf8") as gd, \
                 dist_path.joinpath("brave", f"{filename}.txt").open("w", encoding="utf8") as b, \
                 dist_path.joinpath("startpage", f"{filename}.txt").open("w", encoding="utf8") as sp, \
-                dist_path.joinpath("userscript", f"{filename}.txt").open("w", encoding="utf8") as u, \
+                dist_path.joinpath(
+                    "userscript",
+                    "google_duckduckgo",
+                    f"{filename}.txt"
+                ).open("w", encoding="utf8") as u, \
                 file.open("r") as i:
 
                 u.write(get_userscript_start())
