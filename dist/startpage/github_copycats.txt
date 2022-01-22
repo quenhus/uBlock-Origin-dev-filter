@@ -1,3 +1,11 @@
+! Title: uBlock-Origin-dev-filter – Startpage – github
+! Expires: 1 day
+! Description: Filters to block and remove copycat-websites from DuckDuckGo and Google. Specific to dev websites like StackOverflow or GitHub.
+! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 *://bleepcoder.com/*
 startpage.com##.w-gl__result:has(a[href*="bleepcoder.com"])
 *://githubja.com/*
