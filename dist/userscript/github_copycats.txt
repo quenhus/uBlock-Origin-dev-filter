@@ -36,6 +36,7 @@
                 (s) => s.slice(15).replace('"],', '').trim(),
             )
             .filter(Boolean);
+        // Remove {display:none}
         domains.splice(domains.length - 1, 1);
         for (const domain of domains) {
             try {
@@ -55,4 +56,3 @@
         document.head.insertAdjacentElement('beforeend', style);
     }
 })();
-    
