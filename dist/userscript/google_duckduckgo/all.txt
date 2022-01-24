@@ -169,6 +169,7 @@
 [data-domain*="www.examplefiles.net"],
 [data-domain*="codewdw.com"],
 [data-domain*="jpcodeqa.com"],
+[data-domain*="tutorialguruji.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

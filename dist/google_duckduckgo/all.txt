@@ -495,3 +495,6 @@ duckduckgo.*##.results > div:has(a[href*="codewdw.com"])
 *://jpcodeqa.com/*
 google.*##.g:has(a[href*="jpcodeqa.com"])
 duckduckgo.*##.results > div:has(a[href*="jpcodeqa.com"])
+*://tutorialguruji.com/*
+google.*##.g:has(a[href*="tutorialguruji.com"])
+duckduckgo.*##.results > div:has(a[href*="tutorialguruji.com"])

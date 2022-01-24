@@ -288,3 +288,5 @@ startpage.com##.w-gl__result:has(a[href*="www.examplefiles.net"])
 startpage.com##.w-gl__result:has(a[href*="codewdw.com"])
 *://jpcodeqa.com/*
 startpage.com##.w-gl__result:has(a[href*="jpcodeqa.com"])
+*://tutorialguruji.com/*
+startpage.com##.w-gl__result:has(a[href*="tutorialguruji.com"])

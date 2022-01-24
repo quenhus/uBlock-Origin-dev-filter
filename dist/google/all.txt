@@ -332,3 +332,5 @@ google.*##.g:has(a[href*="www.examplefiles.net"])
 google.*##.g:has(a[href*="codewdw.com"])
 *://jpcodeqa.com/*
 google.*##.g:has(a[href*="jpcodeqa.com"])
+*://tutorialguruji.com/*
+google.*##.g:has(a[href*="tutorialguruji.com"])

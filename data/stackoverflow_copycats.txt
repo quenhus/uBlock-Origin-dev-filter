@@ -141,3 +141,4 @@
 *://www.examplefiles.net/*
 *://codewdw.com/*
 *://jpcodeqa.com/*
+*://tutorialguruji.com/*
