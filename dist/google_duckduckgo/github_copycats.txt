@@ -72,3 +72,6 @@ duckduckgo.*##.results > div:has(a[href*="github.innominds.com"])
 *://www.higithub.com/*
 google.*##.g:has(a[href*="www.higithub.com"])
 duckduckgo.*##.results > div:has(a[href*="www.higithub.com"])
+*://github.lancex.top/*
+google.*##.g:has(a[href*="github.lancex.top"])
+duckduckgo.*##.results > div:has(a[href*="github.lancex.top"])
