@@ -142,3 +142,4 @@
 *://codewdw.com/*
 *://jpcodeqa.com/*
 *://tutorialguruji.com/*
+*://justshowmethecode.com/*
