@@ -28,6 +28,7 @@
 [data-domain*="bestofcpp.com"],
 [data-domain*="github.innominds.com"],
 [data-domain*="www.higithub.com"],
+[data-domain*="openprojectrepo.com"],
 [data-domain*="code-examples.net"],
 [data-domain*="kotaeta.com"],
 [data-domain*="answer-id.com"],
@@ -170,6 +171,8 @@
 [data-domain*="codewdw.com"],
 [data-domain*="jpcodeqa.com"],
 [data-domain*="tutorialguruji.com"],
+[data-domain*="justshowmethecode.com"],
+[data-domain*="www.it-roy-ru.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

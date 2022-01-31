@@ -148,6 +148,8 @@
 [data-domain*="codewdw.com"],
 [data-domain*="jpcodeqa.com"],
 [data-domain*="tutorialguruji.com"],
+[data-domain*="justshowmethecode.com"],
+[data-domain*="www.it-roy-ru.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

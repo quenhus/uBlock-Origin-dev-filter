@@ -50,3 +50,5 @@ google.*##.g:has(a[href*="bestofcpp.com"])
 google.*##.g:has(a[href*="github.innominds.com"])
 *://www.higithub.com/*
 google.*##.g:has(a[href*="www.higithub.com"])
+*://openprojectrepo.com/*
+google.*##.g:has(a[href*="openprojectrepo.com"])

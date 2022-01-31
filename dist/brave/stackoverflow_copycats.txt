@@ -290,3 +290,7 @@ search.brave.com###results > div:has(a[href*="codewdw.com"])
 search.brave.com###results > div:has(a[href*="jpcodeqa.com"])
 *://tutorialguruji.com/*
 search.brave.com###results > div:has(a[href*="tutorialguruji.com"])
+*://justshowmethecode.com/*
+search.brave.com###results > div:has(a[href*="justshowmethecode.com"])
+*://www.it-roy-ru.com/*
+search.brave.com###results > div:has(a[href*="www.it-roy-ru.com"])

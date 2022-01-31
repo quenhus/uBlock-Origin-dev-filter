@@ -50,6 +50,8 @@ search.brave.com###results > div:has(a[href*="bestofcpp.com"])
 search.brave.com###results > div:has(a[href*="github.innominds.com"])
 *://www.higithub.com/*
 search.brave.com###results > div:has(a[href*="www.higithub.com"])
+*://openprojectrepo.com/*
+search.brave.com###results > div:has(a[href*="openprojectrepo.com"])
 *://code-examples.net/*
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 *://kotaeta.com/*
@@ -334,3 +336,7 @@ search.brave.com###results > div:has(a[href*="codewdw.com"])
 search.brave.com###results > div:has(a[href*="jpcodeqa.com"])
 *://tutorialguruji.com/*
 search.brave.com###results > div:has(a[href*="tutorialguruji.com"])
+*://justshowmethecode.com/*
+search.brave.com###results > div:has(a[href*="justshowmethecode.com"])
+*://www.it-roy-ru.com/*
+search.brave.com###results > div:has(a[href*="www.it-roy-ru.com"])

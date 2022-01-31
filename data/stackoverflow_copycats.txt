@@ -143,3 +143,4 @@
 *://jpcodeqa.com/*
 *://tutorialguruji.com/*
 *://justshowmethecode.com/*
+*://www.it-roy-ru.com/*

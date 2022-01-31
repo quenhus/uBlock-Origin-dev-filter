@@ -50,3 +50,5 @@ search.brave.com###results > div:has(a[href*="bestofcpp.com"])
 search.brave.com###results > div:has(a[href*="github.innominds.com"])
 *://www.higithub.com/*
 search.brave.com###results > div:has(a[href*="www.higithub.com"])
+*://openprojectrepo.com/*
+search.brave.com###results > div:has(a[href*="openprojectrepo.com"])

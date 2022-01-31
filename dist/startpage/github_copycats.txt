@@ -50,3 +50,5 @@ startpage.com##.w-gl__result:has(a[href*="bestofcpp.com"])
 startpage.com##.w-gl__result:has(a[href*="github.innominds.com"])
 *://www.higithub.com/*
 startpage.com##.w-gl__result:has(a[href*="www.higithub.com"])
+*://openprojectrepo.com/*
+startpage.com##.w-gl__result:has(a[href*="openprojectrepo.com"])

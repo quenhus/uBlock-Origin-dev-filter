@@ -290,3 +290,7 @@ google.*##.g:has(a[href*="codewdw.com"])
 google.*##.g:has(a[href*="jpcodeqa.com"])
 *://tutorialguruji.com/*
 google.*##.g:has(a[href*="tutorialguruji.com"])
+*://justshowmethecode.com/*
+google.*##.g:has(a[href*="justshowmethecode.com"])
+*://www.it-roy-ru.com/*
+google.*##.g:has(a[href*="www.it-roy-ru.com"])

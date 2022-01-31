@@ -50,6 +50,8 @@ google.*##.g:has(a[href*="bestofcpp.com"])
 google.*##.g:has(a[href*="github.innominds.com"])
 *://www.higithub.com/*
 google.*##.g:has(a[href*="www.higithub.com"])
+*://openprojectrepo.com/*
+google.*##.g:has(a[href*="openprojectrepo.com"])
 *://code-examples.net/*
 google.*##.g:has(a[href*="code-examples.net"])
 *://kotaeta.com/*
@@ -334,3 +336,7 @@ google.*##.g:has(a[href*="codewdw.com"])
 google.*##.g:has(a[href*="jpcodeqa.com"])
 *://tutorialguruji.com/*
 google.*##.g:has(a[href*="tutorialguruji.com"])
+*://justshowmethecode.com/*
+google.*##.g:has(a[href*="justshowmethecode.com"])
+*://www.it-roy-ru.com/*
+google.*##.g:has(a[href*="www.it-roy-ru.com"])
