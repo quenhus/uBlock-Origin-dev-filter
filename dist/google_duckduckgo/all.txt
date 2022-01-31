@@ -6,75 +6,6 @@
 !
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
-*://bleepcoder.com/*
-google.*##.g:has(a[href*="bleepcoder.com"])
-duckduckgo.*##.results > div:has(a[href*="bleepcoder.com"])
-*://githubja.com/*
-google.*##.g:has(a[href*="githubja.com"])
-duckduckgo.*##.results > div:has(a[href*="githubja.com"])
-*://*.gitmemory.com/*
-google.*##.g:has(a[href*=".gitmemory.com"])
-duckduckgo.*##.results > div:has(a[href*=".gitmemory.com"])
-*://giters.com/*
-google.*##.g:has(a[href*="giters.com"])
-duckduckgo.*##.results > div:has(a[href*="giters.com"])
-*://githubmemory.com/*
-google.*##.g:has(a[href*="githubmemory.com"])
-duckduckgo.*##.results > div:has(a[href*="githubmemory.com"])
-*://*.wenyanet.com/*
-google.*##.g:has(a[href*=".wenyanet.com"])
-duckduckgo.*##.results > div:has(a[href*=".wenyanet.com"])
-*://issueexplorer.com/*
-google.*##.g:has(a[href*="issueexplorer.com"])
-duckduckgo.*##.results > div:has(a[href*="issueexplorer.com"])
-*://opensourcelibs.com/*
-google.*##.g:has(a[href*="opensourcelibs.com"])
-duckduckgo.*##.results > div:has(a[href*="opensourcelibs.com"])
-*://awesomeopensource.com/*
-google.*##.g:has(a[href*="awesomeopensource.com"])
-duckduckgo.*##.results > div:has(a[href*="awesomeopensource.com"])
-*://findbestopensource.com/*
-google.*##.g:has(a[href*="findbestopensource.com"])
-duckduckgo.*##.results > div:has(a[href*="findbestopensource.com"])
-*://githubhelp.com/*
-google.*##.g:has(a[href*="githubhelp.com"])
-duckduckgo.*##.results > div:has(a[href*="githubhelp.com"])
-*://pythonissues.com/*
-google.*##.g:has(a[href*="pythonissues.com"])
-duckduckgo.*##.results > div:has(a[href*="pythonissues.com"])
-*://golangrepo.com/*
-google.*##.g:has(a[href*="golangrepo.com"])
-duckduckgo.*##.results > div:has(a[href*="golangrepo.com"])
-*://gitmemory.cn/*
-google.*##.g:has(a[href*="gitmemory.cn"])
-duckduckgo.*##.results > div:has(a[href*="gitmemory.cn"])
-*://githubmate.com/*
-google.*##.g:has(a[href*="githubmate.com"])
-duckduckgo.*##.results > div:has(a[href*="githubmate.com"])
-*://reposhub.com/*
-google.*##.g:has(a[href*="reposhub.com"])
-duckduckgo.*##.results > div:has(a[href*="reposhub.com"])
-*://gitanswer.com/*
-google.*##.g:has(a[href*="gitanswer.com"])
-duckduckgo.*##.results > div:has(a[href*="gitanswer.com"])
-*://githubplus.com/*
-google.*##.g:has(a[href*="githubplus.com"])
-duckduckgo.*##.results > div:has(a[href*="githubplus.com"])
-*://pythonrepo.com/*
-google.*##.g:has(a[href*="pythonrepo.com"])
-duckduckgo.*##.results > div:has(a[href*="pythonrepo.com"])
-*://bestofcpp.com/*
-google.*##.g:has(a[href*="bestofcpp.com"])
-duckduckgo.*##.results > div:has(a[href*="bestofcpp.com"])
-*://github.innominds.com/*
-google.*##.g:has(a[href*="github.innominds.com"])
-duckduckgo.*##.results > div:has(a[href*="github.innominds.com"])
-*://www.higithub.com/*
-google.*##.g:has(a[href*="www.higithub.com"])
-duckduckgo.*##.results > div:has(a[href*="www.higithub.com"])
-*://openprojectrepo.com/*
-google.*##.g:has(a[href*="openprojectrepo.com"])
-duckduckgo.*##.results > div:has(a[href*="openprojectrepo.com"])
 *://code-examples.net/*
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.*##.results > div:has(a[href*="code-examples.net"])
@@ -507,3 +438,72 @@ duckduckgo.*##.results > div:has(a[href*="justshowmethecode.com"])
 *://www.it-roy-ru.com/*
 google.*##.g:has(a[href*="www.it-roy-ru.com"])
 duckduckgo.*##.results > div:has(a[href*="www.it-roy-ru.com"])
+*://bleepcoder.com/*
+google.*##.g:has(a[href*="bleepcoder.com"])
+duckduckgo.*##.results > div:has(a[href*="bleepcoder.com"])
+*://githubja.com/*
+google.*##.g:has(a[href*="githubja.com"])
+duckduckgo.*##.results > div:has(a[href*="githubja.com"])
+*://*.gitmemory.com/*
+google.*##.g:has(a[href*=".gitmemory.com"])
+duckduckgo.*##.results > div:has(a[href*=".gitmemory.com"])
+*://giters.com/*
+google.*##.g:has(a[href*="giters.com"])
+duckduckgo.*##.results > div:has(a[href*="giters.com"])
+*://githubmemory.com/*
+google.*##.g:has(a[href*="githubmemory.com"])
+duckduckgo.*##.results > div:has(a[href*="githubmemory.com"])
+*://*.wenyanet.com/*
+google.*##.g:has(a[href*=".wenyanet.com"])
+duckduckgo.*##.results > div:has(a[href*=".wenyanet.com"])
+*://issueexplorer.com/*
+google.*##.g:has(a[href*="issueexplorer.com"])
+duckduckgo.*##.results > div:has(a[href*="issueexplorer.com"])
+*://opensourcelibs.com/*
+google.*##.g:has(a[href*="opensourcelibs.com"])
+duckduckgo.*##.results > div:has(a[href*="opensourcelibs.com"])
+*://awesomeopensource.com/*
+google.*##.g:has(a[href*="awesomeopensource.com"])
+duckduckgo.*##.results > div:has(a[href*="awesomeopensource.com"])
+*://findbestopensource.com/*
+google.*##.g:has(a[href*="findbestopensource.com"])
+duckduckgo.*##.results > div:has(a[href*="findbestopensource.com"])
+*://githubhelp.com/*
+google.*##.g:has(a[href*="githubhelp.com"])
+duckduckgo.*##.results > div:has(a[href*="githubhelp.com"])
+*://pythonissues.com/*
+google.*##.g:has(a[href*="pythonissues.com"])
+duckduckgo.*##.results > div:has(a[href*="pythonissues.com"])
+*://golangrepo.com/*
+google.*##.g:has(a[href*="golangrepo.com"])
+duckduckgo.*##.results > div:has(a[href*="golangrepo.com"])
+*://gitmemory.cn/*
+google.*##.g:has(a[href*="gitmemory.cn"])
+duckduckgo.*##.results > div:has(a[href*="gitmemory.cn"])
+*://githubmate.com/*
+google.*##.g:has(a[href*="githubmate.com"])
+duckduckgo.*##.results > div:has(a[href*="githubmate.com"])
+*://reposhub.com/*
+google.*##.g:has(a[href*="reposhub.com"])
+duckduckgo.*##.results > div:has(a[href*="reposhub.com"])
+*://gitanswer.com/*
+google.*##.g:has(a[href*="gitanswer.com"])
+duckduckgo.*##.results > div:has(a[href*="gitanswer.com"])
+*://githubplus.com/*
+google.*##.g:has(a[href*="githubplus.com"])
+duckduckgo.*##.results > div:has(a[href*="githubplus.com"])
+*://pythonrepo.com/*
+google.*##.g:has(a[href*="pythonrepo.com"])
+duckduckgo.*##.results > div:has(a[href*="pythonrepo.com"])
+*://bestofcpp.com/*
+google.*##.g:has(a[href*="bestofcpp.com"])
+duckduckgo.*##.results > div:has(a[href*="bestofcpp.com"])
+*://github.innominds.com/*
+google.*##.g:has(a[href*="github.innominds.com"])
+duckduckgo.*##.results > div:has(a[href*="github.innominds.com"])
+*://www.higithub.com/*
+google.*##.g:has(a[href*="www.higithub.com"])
+duckduckgo.*##.results > div:has(a[href*="www.higithub.com"])
+*://openprojectrepo.com/*
+google.*##.g:has(a[href*="openprojectrepo.com"])
+duckduckgo.*##.results > div:has(a[href*="openprojectrepo.com"])
