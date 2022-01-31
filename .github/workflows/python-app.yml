@@ -25,7 +25,6 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
-        git commit -m "update data" -a
         if git commit -m "data: Generate dist by GitHub Actions"; then
           git push
         fi
