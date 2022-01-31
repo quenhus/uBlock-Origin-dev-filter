@@ -110,7 +110,7 @@ def main():
         b_all.write(get_ublock_filters_header("Brave – All"))
         sp_all.write(get_ublock_filters_header("Startpage – All"))
 
-        for file in root_path.joinpath("data").glob("*.txt"):
+        for file in sorted(root_path.joinpath("data").glob("*.txt")):
             filename = file.name.split(".")[0]
 
             # Sort and find duplicates
