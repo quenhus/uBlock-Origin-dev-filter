@@ -150,6 +150,15 @@
 [data-domain*="tutorialguruji.com"],
 [data-domain*="justshowmethecode.com"],
 [data-domain*="www.it-roy-ru.com"],
+[data-domain*="www.jscodetips.com"],
+[data-domain*="www.5axxw.com"],
+[data-domain*="question-it.com"],
+[data-domain*="webmonkez.com"],
+[data-domain*="ibootweb.com"],
+[data-domain*="codefaq.info"],
+[data-domain*="codefaq.ru"],
+[data-domain*="mediatagtw.com"],
+[data-domain*="alltodev.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

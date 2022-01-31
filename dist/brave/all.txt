@@ -340,3 +340,21 @@ search.brave.com###results > div:has(a[href*="tutorialguruji.com"])
 search.brave.com###results > div:has(a[href*="justshowmethecode.com"])
 *://www.it-roy-ru.com/*
 search.brave.com###results > div:has(a[href*="www.it-roy-ru.com"])
+*://www.jscodetips.com/*
+search.brave.com###results > div:has(a[href*="www.jscodetips.com"])
+*://www.5axxw.com/*
+search.brave.com###results > div:has(a[href*="www.5axxw.com"])
+*://question-it.com/*
+search.brave.com###results > div:has(a[href*="question-it.com"])
+*://webmonkez.com/*
+search.brave.com###results > div:has(a[href*="webmonkez.com"])
+*://ibootweb.com/*
+search.brave.com###results > div:has(a[href*="ibootweb.com"])
+*://*.codefaq.info/*
+search.brave.com###results > div:has(a[href*=".codefaq.info"])
+*://codefaq.ru/*
+search.brave.com###results > div:has(a[href*="codefaq.ru"])
+*://*.mediatagtw.com/*
+search.brave.com###results > div:has(a[href*=".mediatagtw.com"])
+*://alltodev.com/*
+search.brave.com###results > div:has(a[href*="alltodev.com"])

@@ -438,3 +438,30 @@ duckduckgo.*##.results > div:has(a[href*="justshowmethecode.com"])
 *://www.it-roy-ru.com/*
 google.*##.g:has(a[href*="www.it-roy-ru.com"])
 duckduckgo.*##.results > div:has(a[href*="www.it-roy-ru.com"])
+*://www.jscodetips.com/*
+google.*##.g:has(a[href*="www.jscodetips.com"])
+duckduckgo.*##.results > div:has(a[href*="www.jscodetips.com"])
+*://www.5axxw.com/*
+google.*##.g:has(a[href*="www.5axxw.com"])
+duckduckgo.*##.results > div:has(a[href*="www.5axxw.com"])
+*://question-it.com/*
+google.*##.g:has(a[href*="question-it.com"])
+duckduckgo.*##.results > div:has(a[href*="question-it.com"])
+*://webmonkez.com/*
+google.*##.g:has(a[href*="webmonkez.com"])
+duckduckgo.*##.results > div:has(a[href*="webmonkez.com"])
+*://ibootweb.com/*
+google.*##.g:has(a[href*="ibootweb.com"])
+duckduckgo.*##.results > div:has(a[href*="ibootweb.com"])
+*://*.codefaq.info/*
+google.*##.g:has(a[href*=".codefaq.info"])
+duckduckgo.*##.results > div:has(a[href*=".codefaq.info"])
+*://codefaq.ru/*
+google.*##.g:has(a[href*="codefaq.ru"])
+duckduckgo.*##.results > div:has(a[href*="codefaq.ru"])
+*://*.mediatagtw.com/*
+google.*##.g:has(a[href*=".mediatagtw.com"])
+duckduckgo.*##.results > div:has(a[href*=".mediatagtw.com"])
+*://alltodev.com/*
+google.*##.g:has(a[href*="alltodev.com"])
+duckduckgo.*##.results > div:has(a[href*="alltodev.com"])
