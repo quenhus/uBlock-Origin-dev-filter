@@ -358,3 +358,11 @@ startpage.com##.w-gl__result:has(a[href*="codefaq.ru"])
 startpage.com##.w-gl__result:has(a[href*=".mediatagtw.com"])
 *://alltodev.com/*
 startpage.com##.w-gl__result:has(a[href*="alltodev.com"])
+*://progi.pro/*
+startpage.com##.w-gl__result:has(a[href*="progi.pro"])
+*://jike.in/*
+startpage.com##.w-gl__result:has(a[href*="jike.in"])
+*://www.web-dev-qa.com/*
+startpage.com##.w-gl__result:has(a[href*="www.web-dev-qa.com"])
+*://*.elfishgene.com/*
+startpage.com##.w-gl__result:has(a[href*=".elfishgene.com"])

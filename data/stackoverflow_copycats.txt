@@ -153,3 +153,7 @@
 *://codefaq.ru/*
 *://*.mediatagtw.com/*
 *://alltodev.com/*
+*://progi.pro/*
+*://jike.in/*
+*://www.web-dev-qa.com/*
+*://*.elfishgene.com/*

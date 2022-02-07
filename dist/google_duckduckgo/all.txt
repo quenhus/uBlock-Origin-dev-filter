@@ -534,3 +534,15 @@ duckduckgo.*##.results > div:has(a[href*=".mediatagtw.com"])
 *://alltodev.com/*
 google.*##.g:has(a[href*="alltodev.com"])
 duckduckgo.*##.results > div:has(a[href*="alltodev.com"])
+*://progi.pro/*
+google.*##.g:has(a[href*="progi.pro"])
+duckduckgo.*##.results > div:has(a[href*="progi.pro"])
+*://jike.in/*
+google.*##.g:has(a[href*="jike.in"])
+duckduckgo.*##.results > div:has(a[href*="jike.in"])
+*://www.web-dev-qa.com/*
+google.*##.g:has(a[href*="www.web-dev-qa.com"])
+duckduckgo.*##.results > div:has(a[href*="www.web-dev-qa.com"])
+*://*.elfishgene.com/*
+google.*##.g:has(a[href*=".elfishgene.com"])
+duckduckgo.*##.results > div:has(a[href*=".elfishgene.com"])

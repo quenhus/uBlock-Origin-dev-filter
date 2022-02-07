@@ -358,3 +358,11 @@ search.brave.com###results > div:has(a[href*="codefaq.ru"])
 search.brave.com###results > div:has(a[href*=".mediatagtw.com"])
 *://alltodev.com/*
 search.brave.com###results > div:has(a[href*="alltodev.com"])
+*://progi.pro/*
+search.brave.com###results > div:has(a[href*="progi.pro"])
+*://jike.in/*
+search.brave.com###results > div:has(a[href*="jike.in"])
+*://www.web-dev-qa.com/*
+search.brave.com###results > div:has(a[href*="www.web-dev-qa.com"])
+*://*.elfishgene.com/*
+search.brave.com###results > div:has(a[href*=".elfishgene.com"])

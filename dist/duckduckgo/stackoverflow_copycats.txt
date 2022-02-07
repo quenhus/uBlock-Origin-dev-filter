@@ -312,3 +312,11 @@ duckduckgo.*##.results > div:has(a[href*="codefaq.ru"])
 duckduckgo.*##.results > div:has(a[href*=".mediatagtw.com"])
 *://alltodev.com/*
 duckduckgo.*##.results > div:has(a[href*="alltodev.com"])
+*://progi.pro/*
+duckduckgo.*##.results > div:has(a[href*="progi.pro"])
+*://jike.in/*
+duckduckgo.*##.results > div:has(a[href*="jike.in"])
+*://www.web-dev-qa.com/*
+duckduckgo.*##.results > div:has(a[href*="www.web-dev-qa.com"])
+*://*.elfishgene.com/*
+duckduckgo.*##.results > div:has(a[href*=".elfishgene.com"])

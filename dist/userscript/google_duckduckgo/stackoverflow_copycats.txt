@@ -159,6 +159,10 @@
 [data-domain*="codefaq.ru"],
 [data-domain*="mediatagtw.com"],
 [data-domain*="alltodev.com"],
+[data-domain*="progi.pro"],
+[data-domain*="jike.in"],
+[data-domain*="www.web-dev-qa.com"],
+[data-domain*="elfishgene.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
