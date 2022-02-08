@@ -163,7 +163,7 @@
 [data-domain*="jike.in"],
 [data-domain*="www.web-dev-qa.com"],
 [data-domain*="elfishgene.com"],
-[data-domain*="*//dapper-tutorial.net"],
+[data-domain*="dapper-tutorial.net"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

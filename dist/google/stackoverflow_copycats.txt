@@ -320,5 +320,5 @@ google.*##.g:has(a[href*="jike.in"])
 google.*##.g:has(a[href*="www.web-dev-qa.com"])
 *://*.elfishgene.com/*
 google.*##.g:has(a[href*=".elfishgene.com"])
-*//dapper-tutorial.net/*
-google.*##.g:has(a[href*="*//dapper-tutorial.net"])
+*://dapper-tutorial.net/*
+google.*##.g:has(a[href*="dapper-tutorial.net"])
