@@ -187,6 +187,7 @@
 [data-domain*="www.web-dev-qa.com"],
 [data-domain*="elfishgene.com"],
 [data-domain*="dapper-tutorial.net"],
+[data-domain*="cmsdk.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

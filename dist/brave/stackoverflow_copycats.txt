@@ -322,3 +322,5 @@ search.brave.com###results > div:has(a[href*="www.web-dev-qa.com"])
 search.brave.com###results > div:has(a[href*=".elfishgene.com"])
 *://dapper-tutorial.net/*
 search.brave.com###results > div:has(a[href*="dapper-tutorial.net"])
+*://cmsdk.com/*
+search.brave.com###results > div:has(a[href*="cmsdk.com"])

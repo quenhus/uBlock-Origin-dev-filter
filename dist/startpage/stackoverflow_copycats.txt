@@ -322,3 +322,5 @@ startpage.com##.w-gl__result:has(a[href*="www.web-dev-qa.com"])
 startpage.com##.w-gl__result:has(a[href*=".elfishgene.com"])
 *://dapper-tutorial.net/*
 startpage.com##.w-gl__result:has(a[href*="dapper-tutorial.net"])
+*://cmsdk.com/*
+startpage.com##.w-gl__result:has(a[href*="cmsdk.com"])
