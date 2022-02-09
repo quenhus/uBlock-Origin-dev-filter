@@ -1,13 +1,13 @@
 ---
 name: 'Request to block new URL '
 about: Issue template for requests to block new URL
-title: ''
+title: Block COPYCAT_URL
 labels: block-request
 assignees: ''
 
 ---
 
-Please block cmsdk.com
+Please block COPYCAT_URL
 
-Evidence: https://cmsdk.com/node-js/select-from-multiple-tables-in-sequelize.html
-Original: https://stackoverflow.com/questions/60121647/select-from-multiple-tables-in-sequelize
+Evidence: https://COPYCAT_URL/replace_with_evidence_link
+Original: https://stackoverflow.com/replace_with_original_resource_link
