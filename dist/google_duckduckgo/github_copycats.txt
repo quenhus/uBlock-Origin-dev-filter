@@ -8,70 +8,70 @@
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 *://bleepcoder.com/*
 google.*##.g:has(a[href*="bleepcoder.com"])
-duckduckgo.*##.results > div:has(a[href*="bleepcoder.com"])
+duckduckgo.com##[data-domain$="bleepcoder.com"]
 *://githubja.com/*
 google.*##.g:has(a[href*="githubja.com"])
-duckduckgo.*##.results > div:has(a[href*="githubja.com"])
+duckduckgo.com##[data-domain$="githubja.com"]
 *://*.gitmemory.com/*
 google.*##.g:has(a[href*=".gitmemory.com"])
-duckduckgo.*##.results > div:has(a[href*=".gitmemory.com"])
+duckduckgo.com##[data-domain$=".gitmemory.com"]
 *://giters.com/*
 google.*##.g:has(a[href*="giters.com"])
-duckduckgo.*##.results > div:has(a[href*="giters.com"])
+duckduckgo.com##[data-domain$="giters.com"]
 *://githubmemory.com/*
 google.*##.g:has(a[href*="githubmemory.com"])
-duckduckgo.*##.results > div:has(a[href*="githubmemory.com"])
+duckduckgo.com##[data-domain$="githubmemory.com"]
 *://*.wenyanet.com/*
 google.*##.g:has(a[href*=".wenyanet.com"])
-duckduckgo.*##.results > div:has(a[href*=".wenyanet.com"])
+duckduckgo.com##[data-domain$=".wenyanet.com"]
 *://issueexplorer.com/*
 google.*##.g:has(a[href*="issueexplorer.com"])
-duckduckgo.*##.results > div:has(a[href*="issueexplorer.com"])
+duckduckgo.com##[data-domain$="issueexplorer.com"]
 *://opensourcelibs.com/*
 google.*##.g:has(a[href*="opensourcelibs.com"])
-duckduckgo.*##.results > div:has(a[href*="opensourcelibs.com"])
+duckduckgo.com##[data-domain$="opensourcelibs.com"]
 *://awesomeopensource.com/*
 google.*##.g:has(a[href*="awesomeopensource.com"])
-duckduckgo.*##.results > div:has(a[href*="awesomeopensource.com"])
+duckduckgo.com##[data-domain$="awesomeopensource.com"]
 *://findbestopensource.com/*
 google.*##.g:has(a[href*="findbestopensource.com"])
-duckduckgo.*##.results > div:has(a[href*="findbestopensource.com"])
+duckduckgo.com##[data-domain$="findbestopensource.com"]
 *://githubhelp.com/*
 google.*##.g:has(a[href*="githubhelp.com"])
-duckduckgo.*##.results > div:has(a[href*="githubhelp.com"])
+duckduckgo.com##[data-domain$="githubhelp.com"]
 *://pythonissues.com/*
 google.*##.g:has(a[href*="pythonissues.com"])
-duckduckgo.*##.results > div:has(a[href*="pythonissues.com"])
+duckduckgo.com##[data-domain$="pythonissues.com"]
 *://golangrepo.com/*
 google.*##.g:has(a[href*="golangrepo.com"])
-duckduckgo.*##.results > div:has(a[href*="golangrepo.com"])
+duckduckgo.com##[data-domain$="golangrepo.com"]
 *://gitmemory.cn/*
 google.*##.g:has(a[href*="gitmemory.cn"])
-duckduckgo.*##.results > div:has(a[href*="gitmemory.cn"])
+duckduckgo.com##[data-domain$="gitmemory.cn"]
 *://githubmate.com/*
 google.*##.g:has(a[href*="githubmate.com"])
-duckduckgo.*##.results > div:has(a[href*="githubmate.com"])
+duckduckgo.com##[data-domain$="githubmate.com"]
 *://reposhub.com/*
 google.*##.g:has(a[href*="reposhub.com"])
-duckduckgo.*##.results > div:has(a[href*="reposhub.com"])
+duckduckgo.com##[data-domain$="reposhub.com"]
 *://gitanswer.com/*
 google.*##.g:has(a[href*="gitanswer.com"])
-duckduckgo.*##.results > div:has(a[href*="gitanswer.com"])
+duckduckgo.com##[data-domain$="gitanswer.com"]
 *://githubplus.com/*
 google.*##.g:has(a[href*="githubplus.com"])
-duckduckgo.*##.results > div:has(a[href*="githubplus.com"])
+duckduckgo.com##[data-domain$="githubplus.com"]
 *://pythonrepo.com/*
 google.*##.g:has(a[href*="pythonrepo.com"])
-duckduckgo.*##.results > div:has(a[href*="pythonrepo.com"])
+duckduckgo.com##[data-domain$="pythonrepo.com"]
 *://bestofcpp.com/*
 google.*##.g:has(a[href*="bestofcpp.com"])
-duckduckgo.*##.results > div:has(a[href*="bestofcpp.com"])
+duckduckgo.com##[data-domain$="bestofcpp.com"]
 *://github.innominds.com/*
 google.*##.g:has(a[href*="github.innominds.com"])
-duckduckgo.*##.results > div:has(a[href*="github.innominds.com"])
+duckduckgo.com##[data-domain$="github.innominds.com"]
 *://www.higithub.com/*
 google.*##.g:has(a[href*="www.higithub.com"])
-duckduckgo.*##.results > div:has(a[href*="www.higithub.com"])
+duckduckgo.com##[data-domain$="www.higithub.com"]
 *://openprojectrepo.com/*
 google.*##.g:has(a[href*="openprojectrepo.com"])
-duckduckgo.*##.results > div:has(a[href*="openprojectrepo.com"])
+duckduckgo.com##[data-domain$="openprojectrepo.com"]

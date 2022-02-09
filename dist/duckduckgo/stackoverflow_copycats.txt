@@ -7,320 +7,320 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 *://code-examples.net/*
-duckduckgo.*##.results > div:has(a[href*="code-examples.net"])
+duckduckgo.com##[data-domain$="code-examples.net"]
 *://kotaeta.com/*
-duckduckgo.*##.results > div:has(a[href*="kotaeta.com"])
+duckduckgo.com##[data-domain$="kotaeta.com"]
 *://answer-id.com/*
-duckduckgo.*##.results > div:has(a[href*="answer-id.com"])
+duckduckgo.com##[data-domain$="answer-id.com"]
 *://code.i-harness.com/*
-duckduckgo.*##.results > div:has(a[href*="code.i-harness.com"])
+duckduckgo.com##[data-domain$="code.i-harness.com"]
 *://living-sun.com/*
-duckduckgo.*##.results > div:has(a[href*="living-sun.com"])
+duckduckgo.com##[data-domain$="living-sun.com"]
 *://qastack.jp/*
-duckduckgo.*##.results > div:has(a[href*="qastack.jp"])
+duckduckgo.com##[data-domain$="qastack.jp"]
 *://qastack.ru/*
-duckduckgo.*##.results > div:has(a[href*="qastack.ru"])
+duckduckgo.com##[data-domain$="qastack.ru"]
 *://qastack.it/*
-duckduckgo.*##.results > div:has(a[href*="qastack.it"])
+duckduckgo.com##[data-domain$="qastack.it"]
 *://qastack.mx/*
-duckduckgo.*##.results > div:has(a[href*="qastack.mx"])
+duckduckgo.com##[data-domain$="qastack.mx"]
 *://qastack.com.br/*
-duckduckgo.*##.results > div:has(a[href*="qastack.com.br"])
+duckduckgo.com##[data-domain$="qastack.com.br"]
 *://qastack.info.tr/*
-duckduckgo.*##.results > div:has(a[href*="qastack.info.tr"])
+duckduckgo.com##[data-domain$="qastack.info.tr"]
 *://qastack.in.th/*
-duckduckgo.*##.results > div:has(a[href*="qastack.in.th"])
+duckduckgo.com##[data-domain$="qastack.in.th"]
 *://qastack.com.de/*
-duckduckgo.*##.results > div:has(a[href*="qastack.com.de"])
+duckduckgo.com##[data-domain$="qastack.com.de"]
 *://qastack.fr/*
-duckduckgo.*##.results > div:has(a[href*="qastack.fr"])
+duckduckgo.com##[data-domain$="qastack.fr"]
 *://qastack.cn/*
-duckduckgo.*##.results > div:has(a[href*="qastack.cn"])
+duckduckgo.com##[data-domain$="qastack.cn"]
 *://qastack.com.ua/*
-duckduckgo.*##.results > div:has(a[href*="qastack.com.ua"])
+duckduckgo.com##[data-domain$="qastack.com.ua"]
 *://qastack.co.in/*
-duckduckgo.*##.results > div:has(a[href*="qastack.co.in"])
+duckduckgo.com##[data-domain$="qastack.co.in"]
 *://qastack.kr/*
-duckduckgo.*##.results > div:has(a[href*="qastack.kr"])
+duckduckgo.com##[data-domain$="qastack.kr"]
 *://qastack.vn/*
-duckduckgo.*##.results > div:has(a[href*="qastack.vn"])
+duckduckgo.com##[data-domain$="qastack.vn"]
 *://qastack.net.bd/*
-duckduckgo.*##.results > div:has(a[href*="qastack.net.bd"])
+duckduckgo.com##[data-domain$="qastack.net.bd"]
 *://qa-stack.pl/*
-duckduckgo.*##.results > div:has(a[href*="qa-stack.pl"])
+duckduckgo.com##[data-domain$="qa-stack.pl"]
 *://qastack.id/*
-duckduckgo.*##.results > div:has(a[href*="qastack.id"])
+duckduckgo.com##[data-domain$="qastack.id"]
 *://www.coder.work/*
-duckduckgo.*##.results > div:has(a[href*="www.coder.work"])
+duckduckgo.com##[data-domain$="www.coder.work"]
 *://www.it-swarm-ja.tech/*
-duckduckgo.*##.results > div:has(a[href*="www.it-swarm-ja.tech"])
+duckduckgo.com##[data-domain$="www.it-swarm-ja.tech"]
 *://www.it-swarm.jp.net/*
-duckduckgo.*##.results > div:has(a[href*="www.it-swarm.jp.net"])
+duckduckgo.com##[data-domain$="www.it-swarm.jp.net"]
 *://www.it-mure.jp.net/*
-duckduckgo.*##.results > div:has(a[href*="www.it-mure.jp.net"])
+duckduckgo.com##[data-domain$="www.it-mure.jp.net"]
 *://www.it-swarm-ja.com/*
-duckduckgo.*##.results > div:has(a[href*="www.it-swarm-ja.com"])
+duckduckgo.com##[data-domain$="www.it-swarm-ja.com"]
 *://www.it-swarm.com.ru/*
-duckduckgo.*##.results > div:has(a[href*="www.it-swarm.com.ru"])
+duckduckgo.com##[data-domain$="www.it-swarm.com.ru"]
 *://www.it-swarm-fr.com/*
-duckduckgo.*##.results > div:has(a[href*="www.it-swarm-fr.com"])
+duckduckgo.com##[data-domain$="www.it-swarm-fr.com"]
 *://*.codeflow.site/*
-duckduckgo.*##.results > div:has(a[href*=".codeflow.site"])
+duckduckgo.com##[data-domain$=".codeflow.site"]
 *://codeguides.site/*
-duckduckgo.*##.results > div:has(a[href*="codeguides.site"])
+duckduckgo.com##[data-domain$="codeguides.site"]
 *://overcoder.net/*
-duckduckgo.*##.results > div:has(a[href*="overcoder.net"])
+duckduckgo.com##[data-domain$="overcoder.net"]
 *://coderoad.ru/*
-duckduckgo.*##.results > div:has(a[href*="coderoad.ru"])
+duckduckgo.com##[data-domain$="coderoad.ru"]
 *://www.generacodice.blog/*
-duckduckgo.*##.results > div:has(a[href*="www.generacodice.blog"])
+duckduckgo.com##[data-domain$="www.generacodice.blog"]
 *://www.generacodice.it/*
-duckduckgo.*##.results > div:has(a[href*="www.generacodice.it"])
+duckduckgo.com##[data-domain$="www.generacodice.it"]
 *://www.generacodice.com/*
-duckduckgo.*##.results > div:has(a[href*="www.generacodice.com"])
+duckduckgo.com##[data-domain$="www.generacodice.com"]
 *://www.javaer101.com/*
-duckduckgo.*##.results > div:has(a[href*="www.javaer101.com"])
+duckduckgo.com##[data-domain$="www.javaer101.com"]
 *://*.voidcc.com/*
-duckduckgo.*##.results > div:has(a[href*=".voidcc.com"])
+duckduckgo.com##[data-domain$=".voidcc.com"]
 *://*.siwib.org/*
-duckduckgo.*##.results > div:has(a[href*=".siwib.org"])
+duckduckgo.com##[data-domain$=".siwib.org"]
 *://*.fluffyfables.com/*
-duckduckgo.*##.results > div:has(a[href*=".fluffyfables.com"])
+duckduckgo.com##[data-domain$=".fluffyfables.com"]
 *://www.fixes.pub/*
-duckduckgo.*##.results > div:has(a[href*="www.fixes.pub"])
+duckduckgo.com##[data-domain$="www.fixes.pub"]
 *://knews.vip/*
-duckduckgo.*##.results > div:has(a[href*="knews.vip"])
+duckduckgo.com##[data-domain$="knews.vip"]
 *://isolution.pro/*
-duckduckgo.*##.results > div:has(a[href*="isolution.pro"])
+duckduckgo.com##[data-domain$="isolution.pro"]
 *://*.uwenku.com/*
-duckduckgo.*##.results > div:has(a[href*=".uwenku.com"])
+duckduckgo.com##[data-domain$=".uwenku.com"]
 *://lycaeum.dev/*
-duckduckgo.*##.results > div:has(a[href*="lycaeum.dev"])
+duckduckgo.com##[data-domain$="lycaeum.dev"]
 *://brocante.dev/*
-duckduckgo.*##.results > div:has(a[href*="brocante.dev"])
+duckduckgo.com##[data-domain$="brocante.dev"]
 *://classmethod.dev/*
-duckduckgo.*##.results > div:has(a[href*="classmethod.dev"])
+duckduckgo.com##[data-domain$="classmethod.dev"]
 *://stormcrow.dev/*
-duckduckgo.*##.results > div:has(a[href*="stormcrow.dev"])
+duckduckgo.com##[data-domain$="stormcrow.dev"]
 *://*.athabasca-foto.com/*
-duckduckgo.*##.results > div:has(a[href*=".athabasca-foto.com"])
+duckduckgo.com##[data-domain$=".athabasca-foto.com"]
 *://*.zsharp.org/*
-duckduckgo.*##.results > div:has(a[href*=".zsharp.org"])
+duckduckgo.com##[data-domain$=".zsharp.org"]
 *://*.projectbackpack.org/*
-duckduckgo.*##.results > div:has(a[href*=".projectbackpack.org"])
+duckduckgo.com##[data-domain$=".projectbackpack.org"]
 *://*.waymanamechurch.org/*
-duckduckgo.*##.results > div:has(a[href*=".waymanamechurch.org"])
+duckduckgo.com##[data-domain$=".waymanamechurch.org"]
 *://*.sunflowercreations.org/*
-duckduckgo.*##.results > div:has(a[href*=".sunflowercreations.org"])
+duckduckgo.com##[data-domain$=".sunflowercreations.org"]
 *://*.cfadnc.org/*
-duckduckgo.*##.results > div:has(a[href*=".cfadnc.org"])
+duckduckgo.com##[data-domain$=".cfadnc.org"]
 *://*.fitforlearning.org/*
-duckduckgo.*##.results > div:has(a[href*=".fitforlearning.org"])
+duckduckgo.com##[data-domain$=".fitforlearning.org"]
 *://*.panaindustrial.com/*
-duckduckgo.*##.results > div:has(a[href*=".panaindustrial.com"])
+duckduckgo.com##[data-domain$=".panaindustrial.com"]
 *://*.sierrasummit2005.org/*
-duckduckgo.*##.results > div:has(a[href*=".sierrasummit2005.org"])
+duckduckgo.com##[data-domain$=".sierrasummit2005.org"]
 *://*.theshuggahpies.com/*
-duckduckgo.*##.results > div:has(a[href*=".theshuggahpies.com"])
+duckduckgo.com##[data-domain$=".theshuggahpies.com"]
 *://*.pcbconline.org/*
-duckduckgo.*##.results > div:has(a[href*=".pcbconline.org"])
+duckduckgo.com##[data-domain$=".pcbconline.org"]
 *://www.nuomiphp.com/*
-duckduckgo.*##.results > div:has(a[href*="www.nuomiphp.com"])
+duckduckgo.com##[data-domain$="www.nuomiphp.com"]
 *://ubuntu.buildwebhost.com/*
-duckduckgo.*##.results > div:has(a[href*="ubuntu.buildwebhost.com"])
+duckduckgo.com##[data-domain$="ubuntu.buildwebhost.com"]
 *://ubuntuaa.com/*
-duckduckgo.*##.results > div:has(a[href*="ubuntuaa.com"])
+duckduckgo.com##[data-domain$="ubuntuaa.com"]
 *://www.debugcn.com/*
-duckduckgo.*##.results > div:has(a[href*="www.debugcn.com"])
+duckduckgo.com##[data-domain$="www.debugcn.com"]
 *://*.sch22.org/*
-duckduckgo.*##.results > div:has(a[href*=".sch22.org"])
+duckduckgo.com##[data-domain$=".sch22.org"]
 *://*.gupgallery.com/*
-duckduckgo.*##.results > div:has(a[href*=".gupgallery.com"])
+duckduckgo.com##[data-domain$=".gupgallery.com"]
 *://*.amuddycup.com/*
-duckduckgo.*##.results > div:has(a[href*=".amuddycup.com"])
+duckduckgo.com##[data-domain$=".amuddycup.com"]
 *://*.ecnf2016.org/*
-duckduckgo.*##.results > div:has(a[href*=".ecnf2016.org"])
+duckduckgo.com##[data-domain$=".ecnf2016.org"]
 *://*.softwareuser.asklobster.com/*
-duckduckgo.*##.results > div:has(a[href*=".softwareuser.asklobster.com"])
+duckduckgo.com##[data-domain$=".softwareuser.asklobster.com"]
 *://*.domainelespailles.net/*
-duckduckgo.*##.results > div:has(a[href*=".domainelespailles.net"])
+duckduckgo.com##[data-domain$=".domainelespailles.net"]
 *://*.ec-europe.org/*
-duckduckgo.*##.results > div:has(a[href*=".ec-europe.org"])
+duckduckgo.com##[data-domain$=".ec-europe.org"]
 *://*.pakostnici.com/*
-duckduckgo.*##.results > div:has(a[href*=".pakostnici.com"])
+duckduckgo.com##[data-domain$=".pakostnici.com"]
 *://*.try2explore.com/*
-duckduckgo.*##.results > div:has(a[href*=".try2explore.com"])
+duckduckgo.com##[data-domain$=".try2explore.com"]
 *://laravelquestions.com/*
-duckduckgo.*##.results > div:has(a[href*="laravelquestions.com"])
+duckduckgo.com##[data-domain$="laravelquestions.com"]
 *://itectec.com/*
-duckduckgo.*##.results > div:has(a[href*="itectec.com"])
+duckduckgo.com##[data-domain$="itectec.com"]
 *://stackovergo.com/*
-duckduckgo.*##.results > div:has(a[href*="stackovergo.com"])
+duckduckgo.com##[data-domain$="stackovergo.com"]
 *://*.faithcov.org/*
-duckduckgo.*##.results > div:has(a[href*=".faithcov.org"])
+duckduckgo.com##[data-domain$=".faithcov.org"]
 *://*.noblenaz.org/*
-duckduckgo.*##.results > div:has(a[href*=".noblenaz.org"])
+duckduckgo.com##[data-domain$=".noblenaz.org"]
 *://www.py4u.net/*
-duckduckgo.*##.results > div:has(a[href*="www.py4u.net"])
+duckduckgo.com##[data-domain$="www.py4u.net"]
 *://*.culinarydegree.info/*
-duckduckgo.*##.results > div:has(a[href*=".culinarydegree.info"])
+duckduckgo.com##[data-domain$=".culinarydegree.info"]
 *://*.safehavenpetrescue.org/*
-duckduckgo.*##.results > div:has(a[href*=".safehavenpetrescue.org"])
+duckduckgo.com##[data-domain$=".safehavenpetrescue.org"]
 *://qapicks.com/*
-duckduckgo.*##.results > div:has(a[href*="qapicks.com"])
+duckduckgo.com##[data-domain$="qapicks.com"]
 *://issues-world.com/*
-duckduckgo.*##.results > div:has(a[href*="issues-world.com"])
+duckduckgo.com##[data-domain$="issues-world.com"]
 *://*.narkive.jp/*
-duckduckgo.*##.results > div:has(a[href*=".narkive.jp"])
+duckduckgo.com##[data-domain$=".narkive.jp"]
 *://*.ourladylakes.org/*
-duckduckgo.*##.results > div:has(a[href*=".ourladylakes.org"])
+duckduckgo.com##[data-domain$=".ourladylakes.org"]
 *://intellipaat.com/*
-duckduckgo.*##.results > div:has(a[href*="intellipaat.com"])
+duckduckgo.com##[data-domain$="intellipaat.com"]
 *://article.docway.net/*
-duckduckgo.*##.results > div:has(a[href*="article.docway.net"])
+duckduckgo.com##[data-domain$="article.docway.net"]
 *://xiu2.net/*
-duckduckgo.*##.results > div:has(a[href*="xiu2.net"])
+duckduckgo.com##[data-domain$="xiu2.net"]
 *://codehero.jp/*
-duckduckgo.*##.results > div:has(a[href*="codehero.jp"])
+duckduckgo.com##[data-domain$="codehero.jp"]
 *://quabr.com/*
-duckduckgo.*##.results > div:has(a[href*="quabr.com"])
+duckduckgo.com##[data-domain$="quabr.com"]
 *://www.webdevqa.jp.net/*
-duckduckgo.*##.results > div:has(a[href*="www.webdevqa.jp.net"])
+duckduckgo.com##[data-domain$="www.webdevqa.jp.net"]
 *://exceptionshub.com/*
-duckduckgo.*##.results > div:has(a[href*="exceptionshub.com"])
+duckduckgo.com##[data-domain$="exceptionshub.com"]
 *://newbedev.com/*
-duckduckgo.*##.results > div:has(a[href*="newbedev.com"])
+duckduckgo.com##[data-domain$="newbedev.com"]
 *://www.codenong.com/*
-duckduckgo.*##.results > div:has(a[href*="www.codenong.com"])
+duckduckgo.com##[data-domain$="www.codenong.com"]
 *://cainiaojiaocheng.com/*
-duckduckgo.*##.results > div:has(a[href*="cainiaojiaocheng.com"])
+duckduckgo.com##[data-domain$="cainiaojiaocheng.com"]
 *://routinepanic.com/*
-duckduckgo.*##.results > div:has(a[href*="routinepanic.com"])
+duckduckgo.com##[data-domain$="routinepanic.com"]
 *://pythonwd.com/*
-duckduckgo.*##.results > div:has(a[href*="pythonwd.com"])
+duckduckgo.com##[data-domain$="pythonwd.com"]
 *://tutorialmore.com/*
-duckduckgo.*##.results > div:has(a[href*="tutorialmore.com"])
+duckduckgo.com##[data-domain$="tutorialmore.com"]
 *://alwaysemmyhope.com/*
-duckduckgo.*##.results > div:has(a[href*="alwaysemmyhope.com"])
+duckduckgo.com##[data-domain$="alwaysemmyhope.com"]
 *://pretagteam.com/*
-duckduckgo.*##.results > div:has(a[href*="pretagteam.com"])
+duckduckgo.com##[data-domain$="pretagteam.com"]
 *://www.titanwolf.org/*
-duckduckgo.*##.results > div:has(a[href*="www.titanwolf.org"])
+duckduckgo.com##[data-domain$="www.titanwolf.org"]
 *://coderedirect.com/*
-duckduckgo.*##.results > div:has(a[href*="coderedirect.com"])
+duckduckgo.com##[data-domain$="coderedirect.com"]
 *://ostack.cn/*
-duckduckgo.*##.results > div:has(a[href*="ostack.cn"])
+duckduckgo.com##[data-domain$="ostack.cn"]
 *://easysavecode.com/*
-duckduckgo.*##.results > div:has(a[href*="easysavecode.com"])
+duckduckgo.com##[data-domain$="easysavecode.com"]
 *://webdevdesigner.com/*
-duckduckgo.*##.results > div:has(a[href*="webdevdesigner.com"])
+duckduckgo.com##[data-domain$="webdevdesigner.com"]
 *://www.ghcc.net/*
-duckduckgo.*##.results > div:has(a[href*="www.ghcc.net"])
+duckduckgo.com##[data-domain$="www.ghcc.net"]
 *://*.developreference.com/*
-duckduckgo.*##.results > div:has(a[href*=".developreference.com"])
+duckduckgo.com##[data-domain$=".developreference.com"]
 *://www.semicolonworld.com/*
-duckduckgo.*##.results > div:has(a[href*="www.semicolonworld.com"])
+duckduckgo.com##[data-domain$="www.semicolonworld.com"]
 *://tipsfordev.com/*
-duckduckgo.*##.results > div:has(a[href*="tipsfordev.com"])
+duckduckgo.com##[data-domain$="tipsfordev.com"]
 *://www.qi-u.com/*
-duckduckgo.*##.results > div:has(a[href*="www.qi-u.com"])
+duckduckgo.com##[data-domain$="www.qi-u.com"]
 *://stackqna.com/*
-duckduckgo.*##.results > div:has(a[href*="stackqna.com"])
+duckduckgo.com##[data-domain$="stackqna.com"]
 *://www.xsprogram.com/*
-duckduckgo.*##.results > div:has(a[href*="www.xsprogram.com"])
+duckduckgo.com##[data-domain$="www.xsprogram.com"]
 *://stackoom.com/*
-duckduckgo.*##.results > div:has(a[href*="stackoom.com"])
+duckduckgo.com##[data-domain$="stackoom.com"]
 *://christfever.in/*
-duckduckgo.*##.results > div:has(a[href*="christfever.in"])
+duckduckgo.com##[data-domain$="christfever.in"]
 *://codersatellite.com/*
-duckduckgo.*##.results > div:has(a[href*="codersatellite.com"])
+duckduckgo.com##[data-domain$="codersatellite.com"]
 *://cndgn.com/*
-duckduckgo.*##.results > div:has(a[href*="cndgn.com"])
+duckduckgo.com##[data-domain$="cndgn.com"]
 *://*.coredump.biz/*
-duckduckgo.*##.results > div:has(a[href*=".coredump.biz"])
+duckduckgo.com##[data-domain$=".coredump.biz"]
 *://farath.com/*
-duckduckgo.*##.results > div:has(a[href*="farath.com"])
+duckduckgo.com##[data-domain$="farath.com"]
 *://devbugfix.com/*
-duckduckgo.*##.results > div:has(a[href*="devbugfix.com"])
+duckduckgo.com##[data-domain$="devbugfix.com"]
 *://tech.wayne-chu.com/*
-duckduckgo.*##.results > div:has(a[href*="tech.wayne-chu.com"])
+duckduckgo.com##[data-domain$="tech.wayne-chu.com"]
 *://stackify.dev/*
-duckduckgo.*##.results > div:has(a[href*="stackify.dev"])
+duckduckgo.com##[data-domain$="stackify.dev"]
 *://webknox.com/*
-duckduckgo.*##.results > div:has(a[href*="webknox.com"])
+duckduckgo.com##[data-domain$="webknox.com"]
 *://stackfinder.jp.net/*
-duckduckgo.*##.results > div:has(a[href*="stackfinder.jp.net"])
+duckduckgo.com##[data-domain$="stackfinder.jp.net"]
 *://coder-solution-jp.com/*
-duckduckgo.*##.results > div:has(a[href*="coder-solution-jp.com"])
+duckduckgo.com##[data-domain$="coder-solution-jp.com"]
 *://jpndev.com/*
-duckduckgo.*##.results > div:has(a[href*="jpndev.com"])
+duckduckgo.com##[data-domain$="jpndev.com"]
 *://www.uebu-kaihatsu.jp.net/*
-duckduckgo.*##.results > div:has(a[href*="www.uebu-kaihatsu.jp.net"])
+duckduckgo.com##[data-domain$="www.uebu-kaihatsu.jp.net"]
 *://sqlite.in/*
-duckduckgo.*##.results > div:has(a[href*="sqlite.in"])
+duckduckgo.com##[data-domain$="sqlite.in"]
 *://stackguides.com/*
-duckduckgo.*##.results > div:has(a[href*="stackguides.com"])
+duckduckgo.com##[data-domain$="stackguides.com"]
 *://younggeeks.in/*
-duckduckgo.*##.results > div:has(a[href*="younggeeks.in"])
+duckduckgo.com##[data-domain$="younggeeks.in"]
 *://www.answerlib.com/*
-duckduckgo.*##.results > div:has(a[href*="www.answerlib.com"])
+duckduckgo.com##[data-domain$="www.answerlib.com"]
 *://edupro.id/*
-duckduckgo.*##.results > div:has(a[href*="edupro.id"])
+duckduckgo.com##[data-domain$="edupro.id"]
 *://python-stack.de/*
-duckduckgo.*##.results > div:has(a[href*="python-stack.de"])
+duckduckgo.com##[data-domain$="python-stack.de"]
 *://www.stackfinder.ru/*
-duckduckgo.*##.results > div:has(a[href*="www.stackfinder.ru"])
+duckduckgo.com##[data-domain$="www.stackfinder.ru"]
 *://stackfault.net/*
-duckduckgo.*##.results > div:has(a[href*="stackfault.net"])
+duckduckgo.com##[data-domain$="stackfault.net"]
 *://howtofix.io/*
-duckduckgo.*##.results > div:has(a[href*="howtofix.io"])
+duckduckgo.com##[data-domain$="howtofix.io"]
 *://www.buzzphp.com/*
-duckduckgo.*##.results > div:has(a[href*="www.buzzphp.com"])
+duckduckgo.com##[data-domain$="www.buzzphp.com"]
 *://www.desenv-web-rp.com/*
-duckduckgo.*##.results > div:has(a[href*="www.desenv-web-rp.com"])
+duckduckgo.com##[data-domain$="www.desenv-web-rp.com"]
 *://askdev.vn/*
-duckduckgo.*##.results > div:has(a[href*="askdev.vn"])
+duckduckgo.com##[data-domain$="askdev.vn"]
 *://quares.ru/*
-duckduckgo.*##.results > div:has(a[href*="quares.ru"])
+duckduckgo.com##[data-domain$="quares.ru"]
 *://www.examplefiles.net/*
-duckduckgo.*##.results > div:has(a[href*="www.examplefiles.net"])
+duckduckgo.com##[data-domain$="www.examplefiles.net"]
 *://codewdw.com/*
-duckduckgo.*##.results > div:has(a[href*="codewdw.com"])
+duckduckgo.com##[data-domain$="codewdw.com"]
 *://jpcodeqa.com/*
-duckduckgo.*##.results > div:has(a[href*="jpcodeqa.com"])
+duckduckgo.com##[data-domain$="jpcodeqa.com"]
 *://tutorialguruji.com/*
-duckduckgo.*##.results > div:has(a[href*="tutorialguruji.com"])
+duckduckgo.com##[data-domain$="tutorialguruji.com"]
 *://justshowmethecode.com/*
-duckduckgo.*##.results > div:has(a[href*="justshowmethecode.com"])
+duckduckgo.com##[data-domain$="justshowmethecode.com"]
 *://www.it-roy-ru.com/*
-duckduckgo.*##.results > div:has(a[href*="www.it-roy-ru.com"])
+duckduckgo.com##[data-domain$="www.it-roy-ru.com"]
 *://www.jscodetips.com/*
-duckduckgo.*##.results > div:has(a[href*="www.jscodetips.com"])
+duckduckgo.com##[data-domain$="www.jscodetips.com"]
 *://www.5axxw.com/*
-duckduckgo.*##.results > div:has(a[href*="www.5axxw.com"])
+duckduckgo.com##[data-domain$="www.5axxw.com"]
 *://question-it.com/*
-duckduckgo.*##.results > div:has(a[href*="question-it.com"])
+duckduckgo.com##[data-domain$="question-it.com"]
 *://webmonkez.com/*
-duckduckgo.*##.results > div:has(a[href*="webmonkez.com"])
+duckduckgo.com##[data-domain$="webmonkez.com"]
 *://ibootweb.com/*
-duckduckgo.*##.results > div:has(a[href*="ibootweb.com"])
+duckduckgo.com##[data-domain$="ibootweb.com"]
 *://*.codefaq.info/*
-duckduckgo.*##.results > div:has(a[href*=".codefaq.info"])
+duckduckgo.com##[data-domain$=".codefaq.info"]
 *://codefaq.ru/*
-duckduckgo.*##.results > div:has(a[href*="codefaq.ru"])
+duckduckgo.com##[data-domain$="codefaq.ru"]
 *://*.mediatagtw.com/*
-duckduckgo.*##.results > div:has(a[href*=".mediatagtw.com"])
+duckduckgo.com##[data-domain$=".mediatagtw.com"]
 *://alltodev.com/*
-duckduckgo.*##.results > div:has(a[href*="alltodev.com"])
+duckduckgo.com##[data-domain$="alltodev.com"]
 *://progi.pro/*
-duckduckgo.*##.results > div:has(a[href*="progi.pro"])
+duckduckgo.com##[data-domain$="progi.pro"]
 *://jike.in/*
-duckduckgo.*##.results > div:has(a[href*="jike.in"])
+duckduckgo.com##[data-domain$="jike.in"]
 *://www.web-dev-qa.com/*
-duckduckgo.*##.results > div:has(a[href*="www.web-dev-qa.com"])
+duckduckgo.com##[data-domain$="www.web-dev-qa.com"]
 *://*.elfishgene.com/*
-duckduckgo.*##.results > div:has(a[href*=".elfishgene.com"])
+duckduckgo.com##[data-domain$=".elfishgene.com"]
 *://dapper-tutorial.net/*
-duckduckgo.*##.results > div:has(a[href*="dapper-tutorial.net"])
+duckduckgo.com##[data-domain$="dapper-tutorial.net"]
 *://cmsdk.com/*
-duckduckgo.*##.results > div:has(a[href*="cmsdk.com"])
+duckduckgo.com##[data-domain$="cmsdk.com"]

@@ -17,7 +17,7 @@ def to_google(url):
     return f'google.*##.g:has(a[href*="{to_css_attr(url)}"])'
 
 def to_duckduckgo(url):
-    return f'duckduckgo.*##.results > div:has(a[href*="{to_css_attr(url)}"])'
+    return f'duckduckgo.com##[data-domain$="{to_css_attr(url)}"]'
 
 def to_brave(url):
     return f'search.brave.com###results > div:has(a[href*="{to_css_attr(url)}"])'
