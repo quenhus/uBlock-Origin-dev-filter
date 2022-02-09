@@ -158,3 +158,4 @@
 *://www.web-dev-qa.com/*
 *://*.elfishgene.com/*
 *://dapper-tutorial.net/*
+*://cmsdk.com/*
