@@ -29,6 +29,7 @@
 [data-domain*="github.innominds.com"],
 [data-domain*="www.higithub.com"],
 [data-domain*="openprojectrepo.com"],
+[data-domain*="golangissues.com"],
 [data-domain*="code-examples.net"],
 [data-domain*="kotaeta.com"],
 [data-domain*="answer-id.com"],

@@ -75,3 +75,6 @@ duckduckgo.com##[data-domain$="www.higithub.com"]
 *://openprojectrepo.com/*
 google.*##.g:has(a[href*="openprojectrepo.com"])
 duckduckgo.com##[data-domain$="openprojectrepo.com"]
+*://golangissues.com/*
+google.*##.g:has(a[href*="golangissues.com"])
+duckduckgo.com##[data-domain$="golangissues.com"]

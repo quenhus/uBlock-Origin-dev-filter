@@ -52,3 +52,5 @@ search.brave.com###results > div:has(a[href*="github.innominds.com"])
 search.brave.com###results > div:has(a[href*="www.higithub.com"])
 *://openprojectrepo.com/*
 search.brave.com###results > div:has(a[href*="openprojectrepo.com"])
+*://golangissues.com/*
+search.brave.com###results > div:has(a[href*="golangissues.com"])

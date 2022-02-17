@@ -29,6 +29,7 @@
 [data-domain*="github.innominds.com"],
 [data-domain*="www.higithub.com"],
 [data-domain*="openprojectrepo.com"],
+[data-domain*="golangissues.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
