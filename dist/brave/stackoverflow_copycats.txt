@@ -324,3 +324,29 @@ search.brave.com###results > div:has(a[href*=".elfishgene.com"])
 search.brave.com###results > div:has(a[href*="dapper-tutorial.net"])
 *://cmsdk.com/*
 search.brave.com###results > div:has(a[href*="cmsdk.com"])
+*://ask-ubuntu.ru/*
+search.brave.com###results > div:has(a[href*="ask-ubuntu.ru"])
+*://askubuntu.ru/*
+search.brave.com###results > div:has(a[href*="askubuntu.ru"])
+*://kompsekret.ru/*
+search.brave.com###results > div:has(a[href*="kompsekret.ru"])
+*://ohandroid.com/*
+search.brave.com###results > div:has(a[href*="ohandroid.com"])
+*://poweruser.guru/*
+search.brave.com###results > div:has(a[href*="poweruser.guru"])
+*://ruphp.com/*
+search.brave.com###results > div:has(a[href*="ruphp.com"])
+*://server-fault.ru/*
+search.brave.com###results > div:has(a[href*="server-fault.ru"])
+*://sprosi.pro/*
+search.brave.com###results > div:has(a[href*="sprosi.pro"])
+*://stackru.com/*
+search.brave.com###results > div:has(a[href*="stackru.com"])
+*://switch-case.ru/*
+search.brave.com###results > div:has(a[href*="switch-case.ru"])
+*://ubuntugeeks.com/*
+search.brave.com###results > div:has(a[href*="ubuntugeeks.com"])
+*://ubuntuplace.info/*
+search.brave.com###results > div:has(a[href*="ubuntuplace.info"])
+*://wikiroot.ru/*
+search.brave.com###results > div:has(a[href*="wikiroot.ru"])

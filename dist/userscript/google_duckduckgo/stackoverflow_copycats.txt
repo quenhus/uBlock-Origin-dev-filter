@@ -165,6 +165,19 @@
 [data-domain*="elfishgene.com"],
 [data-domain*="dapper-tutorial.net"],
 [data-domain*="cmsdk.com"],
+[data-domain*="ask-ubuntu.ru"],
+[data-domain*="askubuntu.ru"],
+[data-domain*="kompsekret.ru"],
+[data-domain*="ohandroid.com"],
+[data-domain*="poweruser.guru"],
+[data-domain*="ruphp.com"],
+[data-domain*="server-fault.ru"],
+[data-domain*="sprosi.pro"],
+[data-domain*="stackru.com"],
+[data-domain*="switch-case.ru"],
+[data-domain*="ubuntugeeks.com"],
+[data-domain*="ubuntuplace.info"],
+[data-domain*="wikiroot.ru"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
