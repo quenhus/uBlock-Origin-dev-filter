@@ -159,3 +159,16 @@
 *://*.elfishgene.com/*
 *://dapper-tutorial.net/*
 *://cmsdk.com/*
+*://ask-ubuntu.ru/*
+*://askubuntu.ru/*
+*://kompsekret.ru/*
+*://ohandroid.com/*
+*://poweruser.guru/*
+*://ruphp.com/*
+*://server-fault.ru/*
+*://sprosi.pro/*
+*://stackru.com/*
+*://switch-case.ru/*
+*://ubuntugeeks.com/*
+*://ubuntuplace.info/*
+*://wikiroot.ru/*
