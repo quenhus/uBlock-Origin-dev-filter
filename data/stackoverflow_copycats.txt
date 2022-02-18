@@ -172,3 +172,4 @@
 *://ubuntugeeks.com/*
 *://ubuntuplace.info/*
 *://wikiroot.ru/*
+*://sysadminde.com/*
