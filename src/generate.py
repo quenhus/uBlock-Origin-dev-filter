@@ -33,12 +33,12 @@ def to_ecosia(url):
 def to_userscript(url):
     return f'[data-domain*="{to_domain_attr(url)}"]'
 
-def append_in_se(shared_fd_per_se, se, source_is_dev, value):
+def append_in_se(shared_fd_per_se, se, source_is_alltxt, value):
     shared_fd_per_se[se]["current"].write(value)
-    shared_fd_per_se[se]["all"].write(value)
+    shared_fd_per_se[se]["global"].write(value)
 
-    if source_is_dev:
-        shared_fd_per_se[se]["dev"].write(value)
+    if source_is_alltxt:
+        shared_fd_per_se[se]["all"].write(value)
 
 def get_userscript_start(name):
     return f"""// ==UserScript==
@@ -92,7 +92,7 @@ def get_ublock_filters_header(name):
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 """
 
-dev_sources = (
+alltxt_sources = (
     "github",
     "stackoverflow",
     "npm",
@@ -115,45 +115,45 @@ def main():
 
     # For uBlock
     # File used by all source (stackoverflow_copycats, github_copycats, ...)
-    shared_file_per_se = {
+    shared_files_per_se = {
         se: {
             "dist": dist_path.joinpath(se),
+            "global": dist_path.joinpath(se, "global.txt"),
             "all": dist_path.joinpath(se, "all.txt"),
-            "dev": dist_path.joinpath(se, "dev.txt"),
         }
         for se in ubo_search_engines.keys()
     }
 
     # For Userscript filters
-    shared_file_per_se["userscript_gd"] = {
+    shared_files_per_se["userscript_gd"] = {
         "dist": dist_path.joinpath("userscript", "google_duckduckgo"),
+        "global": dist_path.joinpath("userscript", "google_duckduckgo", "global.txt"),
         "all": dist_path.joinpath("userscript", "google_duckduckgo", "all.txt"),
-        "dev": dist_path.joinpath("userscript", "google_duckduckgo", "dev.txt"),
     }
 
     # Create folders for each SE in ./dist/
-    for se_files in shared_file_per_se.values():
+    for se_files in shared_files_per_se.values():
         se_files["dist"].mkdir(parents=True, exist_ok=True)
 
     with ExitStack() as global_stack:
-        # Open all files (one "all.txt" and one "dev.txt" for each search engine)
+        # Open all files (one "all.txt" and one "global.txt" for each search engine)
         shared_fd_per_se = {
             se: {
+                "global": global_stack.enter_context(se_files["global"].open("w", encoding="utf8")),
                 "all": global_stack.enter_context(se_files["all"].open("w", encoding="utf8")),
-                "dev": global_stack.enter_context(se_files["dev"].open("w", encoding="utf8")),
             }
-            for se, se_files in shared_file_per_se.items()
+            for se, se_files in shared_files_per_se.items()
         }
 
         # Add header in each uBlock filter
         for se, se_meta in ubo_search_engines.items():
             se_name = se_meta['name']
+            shared_fd_per_se[se]["global"].write(get_ublock_filters_header(f"{se_name} – Global"))
             shared_fd_per_se[se]["all"].write(get_ublock_filters_header(f"{se_name} – All"))
-            shared_fd_per_se[se]["dev"].write(get_ublock_filters_header(f"{se_name} – Dev"))
 
         # Add header in each userscript filter
+        shared_fd_per_se["userscript_gd"]["global"].write(get_userscript_start("Google+DuckDuckGo - Global"))
         shared_fd_per_se["userscript_gd"]["all"].write(get_userscript_start("Google+DuckDuckGo - All"))
-        shared_fd_per_se["userscript_gd"]["dev"].write(get_userscript_start("Google+DuckDuckGo - Dev"))
 
         for source_f in sorted(root_path.joinpath("data").glob("*.txt")):
             filename = source_f.name.split(".")[0]
@@ -177,12 +177,12 @@ def main():
             with ExitStack() as source_stack, source_f.open("r") as source_fd:
                 # Create one file per SE, to add specific filter
                 for se in shared_fd_per_se:
-                    dist = shared_file_per_se[se]["dist"]
+                    dist = shared_files_per_se[se]["dist"]
                     f = dist.joinpath(f"{filename}.txt")
                     shared_fd_per_se[se]["current"] = source_stack.enter_context(f.open("w", encoding="utf8"))
 
                 source_name = source_f.stem.replace("_copycats", "")
-                source_is_dev = source_name in dev_sources
+                source_is_alltxt = source_name in alltxt_sources
 
                 # Add header in each uBlock filter
                 for se, se_meta in ubo_search_engines.items():
@@ -199,26 +199,26 @@ def main():
 
                     # Block the domain
                     for se in ubo_search_engines.keys():
-                        append_in_se(shared_fd_per_se, se, source_is_dev, url + LINE_SEP)
+                        append_in_se(shared_fd_per_se, se, source_is_alltxt, url + LINE_SEP)
 
                     # Block domain in search engine results
                     filter_google = to_google(url)
                     filter_duckduckgo = to_duckduckgo(url)
-                    append_in_se(shared_fd_per_se, "google", source_is_dev, filter_google + LINE_SEP)
-                    append_in_se(shared_fd_per_se, "google_duckduckgo", source_is_dev, filter_google + LINE_SEP)
-                    append_in_se(shared_fd_per_se, "duckduckgo", source_is_dev, filter_duckduckgo + LINE_SEP)
-                    append_in_se(shared_fd_per_se, "google_duckduckgo", source_is_dev, filter_duckduckgo + LINE_SEP)
-                    append_in_se(shared_fd_per_se, "brave", source_is_dev, to_brave(url) + LINE_SEP)
-                    append_in_se(shared_fd_per_se, "startpage", source_is_dev, to_startpage(url) + LINE_SEP)
-                    append_in_se(shared_fd_per_se, "ecosia", source_is_dev, to_ecosia(url) + LINE_SEP)
-                    append_in_se(shared_fd_per_se, "userscript_gd", source_is_dev, to_userscript(url)+ COMMA_SEP + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "google", source_is_alltxt, filter_google + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "google_duckduckgo", source_is_alltxt, filter_google + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "duckduckgo", source_is_alltxt, filter_duckduckgo + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "google_duckduckgo", source_is_alltxt, filter_duckduckgo + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "brave", source_is_alltxt, to_brave(url) + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "startpage", source_is_alltxt, to_startpage(url) + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "ecosia", source_is_alltxt, to_ecosia(url) + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "userscript_gd", source_is_alltxt, to_userscript(url)+ COMMA_SEP + LINE_SEP)
 
 
                 # Add footer in each userscript filter
                 shared_fd_per_se["userscript_gd"]["current"].write(get_userscript_end())
 
         # Add footer in each userscript filter
-        for source_type in ("all", "dev"):
+        for source_type in ("global", "all"):
             shared_fd_per_se["userscript_gd"][source_type].write(get_userscript_end())
 
 if __name__ == "__main__":
