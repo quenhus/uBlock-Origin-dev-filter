@@ -1,0 +1,12 @@
+! Title: uBlock-Origin-dev-filter – Google – npm
+! Expires: 1 day
+! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+*://npmmirror.com/*
+google.*##.g:has(a[href*="npmmirror.com"])
+*://cnpmjs.org/*
+google.*##.g:has(a[href*="cnpmjs.org"])

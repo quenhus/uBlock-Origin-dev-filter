@@ -1,0 +1,30 @@
+! Title: uBlock-Origin-dev-filter – Brave – wikipedia
+! Expires: 1 day
+! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+*://encyclopedia.thefreedictionary.com/*
+search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
+*://www.algebra.com/*
+search.brave.com###results > div:has(a[href*="www.algebra.com"])
+*://wikizero.com/*
+search.brave.com###results > div:has(a[href*="wikizero.com"])
+*://mediawiki.feverous.co.uk/*
+search.brave.com###results > div:has(a[href*="mediawiki.feverous.co.uk"])
+*://everything.explained.today/*
+search.brave.com###results > div:has(a[href*="everything.explained.today"])
+*://www.wiwa.wiki/*
+search.brave.com###results > div:has(a[href*="www.wiwa.wiki"])
+*://findatwiki.com/*
+search.brave.com###results > div:has(a[href*="findatwiki.com"])
+*://www.wikide.wiki/*
+search.brave.com###results > div:has(a[href*="www.wikide.wiki"])
+*://www.wikit.wiki/*
+search.brave.com###results > div:has(a[href*="www.wikit.wiki"])
+*://www.secret-bases.co.uk/wiki/*
+search.brave.com###results > div:has(a[href*="www.secret-bases.co.uk/wiki"])
+*://www.scholarship.edu.vn/wiki/*
+search.brave.com###results > div:has(a[href*="www.scholarship.edu.vn/wiki"])

@@ -1,0 +1,30 @@
+! Title: uBlock-Origin-dev-filter – Ecosia – wikipedia
+! Expires: 1 day
+! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+*://encyclopedia.thefreedictionary.com/*
+ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
+*://www.algebra.com/*
+ecosia.org##.result:has(a[href*="www.algebra.com"])
+*://wikizero.com/*
+ecosia.org##.result:has(a[href*="wikizero.com"])
+*://mediawiki.feverous.co.uk/*
+ecosia.org##.result:has(a[href*="mediawiki.feverous.co.uk"])
+*://everything.explained.today/*
+ecosia.org##.result:has(a[href*="everything.explained.today"])
+*://www.wiwa.wiki/*
+ecosia.org##.result:has(a[href*="www.wiwa.wiki"])
+*://findatwiki.com/*
+ecosia.org##.result:has(a[href*="findatwiki.com"])
+*://www.wikide.wiki/*
+ecosia.org##.result:has(a[href*="www.wikide.wiki"])
+*://www.wikit.wiki/*
+ecosia.org##.result:has(a[href*="www.wikit.wiki"])
+*://www.secret-bases.co.uk/wiki/*
+ecosia.org##.result:has(a[href*="www.secret-bases.co.uk/wiki"])
+*://www.scholarship.edu.vn/wiki/*
+ecosia.org##.result:has(a[href*="www.scholarship.edu.vn/wiki"])

@@ -1,4 +1,4 @@
-! Title: uBlock-Origin-dev-filter – Startpage – All
+! Title: uBlock-Origin-dev-filter – Startpage – Global
 ! Expires: 1 day
 ! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
 ! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
@@ -410,3 +410,25 @@ startpage.com##.w-gl__result:has(a[href*="ubuntugeeks.com"])
 startpage.com##.w-gl__result:has(a[href*="ubuntuplace.info"])
 *://wikiroot.ru/*
 startpage.com##.w-gl__result:has(a[href*="wikiroot.ru"])
+*://encyclopedia.thefreedictionary.com/*
+startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
+*://www.algebra.com/*
+startpage.com##.w-gl__result:has(a[href*="www.algebra.com"])
+*://wikizero.com/*
+startpage.com##.w-gl__result:has(a[href*="wikizero.com"])
+*://mediawiki.feverous.co.uk/*
+startpage.com##.w-gl__result:has(a[href*="mediawiki.feverous.co.uk"])
+*://everything.explained.today/*
+startpage.com##.w-gl__result:has(a[href*="everything.explained.today"])
+*://www.wiwa.wiki/*
+startpage.com##.w-gl__result:has(a[href*="www.wiwa.wiki"])
+*://findatwiki.com/*
+startpage.com##.w-gl__result:has(a[href*="findatwiki.com"])
+*://www.wikide.wiki/*
+startpage.com##.w-gl__result:has(a[href*="www.wikide.wiki"])
+*://www.wikit.wiki/*
+startpage.com##.w-gl__result:has(a[href*="www.wikit.wiki"])
+*://www.secret-bases.co.uk/wiki/*
+startpage.com##.w-gl__result:has(a[href*="www.secret-bases.co.uk/wiki"])
+*://www.scholarship.edu.vn/wiki/*
+startpage.com##.w-gl__result:has(a[href*="www.scholarship.edu.vn/wiki"])
