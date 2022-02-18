@@ -410,6 +410,8 @@ startpage.com##.w-gl__result:has(a[href*="ubuntugeeks.com"])
 startpage.com##.w-gl__result:has(a[href*="ubuntuplace.info"])
 *://wikiroot.ru/*
 startpage.com##.w-gl__result:has(a[href*="wikiroot.ru"])
+*://sysadminde.com/*
+startpage.com##.w-gl__result:has(a[href*="sysadminde.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

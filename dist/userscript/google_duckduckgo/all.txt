@@ -208,6 +208,7 @@
 [data-domain*="ubuntugeeks.com"],
 [data-domain*="ubuntuplace.info"],
 [data-domain*="wikiroot.ru"],
+[data-domain*="sysadminde.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

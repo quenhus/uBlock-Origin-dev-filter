@@ -410,3 +410,5 @@ search.brave.com###results > div:has(a[href*="ubuntugeeks.com"])
 search.brave.com###results > div:has(a[href*="ubuntuplace.info"])
 *://wikiroot.ru/*
 search.brave.com###results > div:has(a[href*="wikiroot.ru"])
+*://sysadminde.com/*
+search.brave.com###results > div:has(a[href*="sysadminde.com"])

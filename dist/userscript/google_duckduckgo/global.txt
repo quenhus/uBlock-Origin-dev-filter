@@ -208,6 +208,7 @@
 [data-domain*="ubuntugeeks.com"],
 [data-domain*="ubuntuplace.info"],
 [data-domain*="wikiroot.ru"],
+[data-domain*="sysadminde.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

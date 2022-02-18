@@ -350,3 +350,5 @@ google.*##.g:has(a[href*="ubuntugeeks.com"])
 google.*##.g:has(a[href*="ubuntuplace.info"])
 *://wikiroot.ru/*
 google.*##.g:has(a[href*="wikiroot.ru"])
+*://sysadminde.com/*
+google.*##.g:has(a[href*="sysadminde.com"])

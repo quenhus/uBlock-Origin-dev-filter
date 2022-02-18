@@ -350,3 +350,5 @@ ecosia.org##.result:has(a[href*="ubuntugeeks.com"])
 ecosia.org##.result:has(a[href*="ubuntuplace.info"])
 *://wikiroot.ru/*
 ecosia.org##.result:has(a[href*="wikiroot.ru"])
+*://sysadminde.com/*
+ecosia.org##.result:has(a[href*="sysadminde.com"])
