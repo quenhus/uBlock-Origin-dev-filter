@@ -4,9 +4,9 @@ Filters to block and remove copycat-websites from DuckDuckGo, Google and other s
 ## Import into uBlock Origin
 
 1. Open uBlock Origin settings
-2. Under the "Filter" tab, scroll to the bottom where it says “Custom” and click the “Import” checkbox to reveal the custom URL textbox
+2. Under the "Filter lists" tab, scroll to the bottom where it says “Custom” and click the “Import” checkbox to reveal the custom URL textbox
 3. Append the URL `https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/google_duckduckgo/all.txt` in the textbox
-4. Press `Apply Changes` in the upper right
+4. Press `Apply Changes` in the upper left
 
 Note: In `/dist/`, you can find filters for other search engines (Google, DuckDuckGo, Startpage or Brave). You can use and combine these filters by using the raw URL of `/dist/` files.
 
