@@ -25,6 +25,9 @@ def to_brave(url):
 def to_startpage(url):
     return f'startpage.com##.w-gl__result:has(a[href*="{to_css_attr(url)}"])'
 
+def to_ecosia(url):
+    return f'ecosia.org##.result:has(a[href*="{to_css_attr(url)}"])'
+
 def to_userscript(url):
     return f'[data-domain*="{to_domain_attr(url)}"]'
 
@@ -72,7 +75,7 @@ def get_userscript_end():
 def get_ublock_filters_header(name):
     return f"""! Title: uBlock-Origin-dev-filter – {name}
 ! Expires: 1 day
-! Description: Filters to block and remove copycat-websites from DuckDuckGo and Google. Specific to dev websites like StackOverflow or GitHub.
+! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
 ! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
 ! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
 !
@@ -91,9 +94,10 @@ def main():
     gd_all = dist_path.joinpath("google_duckduckgo", "all.txt")
     b_all = dist_path.joinpath("brave", "all.txt")
     sp_all = dist_path.joinpath("startpage", "all.txt")
+    e_all = dist_path.joinpath("ecosia", "all.txt")
     u_all = dist_path.joinpath("userscript", "google_duckduckgo", "all.txt")
 
-    for f in [g_all, d_all, gd_all, b_all, sp_all]:
+    for f in [g_all, d_all, gd_all, b_all, sp_all, e_all]:
         f.parent.mkdir(parents=True, exist_ok=True)
 
     with g_all.open("w", encoding="utf8") as g_all, \
@@ -101,6 +105,7 @@ def main():
          gd_all.open("w", encoding="utf8") as gd_all, \
          b_all.open("w", encoding="utf8") as b_all, \
          sp_all.open("w", encoding="utf8") as sp_all, \
+         e_all.open("w", encoding="utf8") as e_all, \
          u_all.open("w", encoding="utf8") as u_all:
 
         u_all.write(get_userscript_start())
@@ -109,6 +114,7 @@ def main():
         gd_all.write(get_ublock_filters_header("Google+DuckDuckGo – All"))
         b_all.write(get_ublock_filters_header("Brave – All"))
         sp_all.write(get_ublock_filters_header("Startpage – All"))
+        e_all.write(get_ublock_filters_header("Ecosia – All"))
 
         for file in sorted(root_path.joinpath("data").glob("*.txt")):
             filename = file.name.split(".")[0]
@@ -134,6 +140,7 @@ def main():
                 dist_path.joinpath("google_duckduckgo", f"{filename}.txt").open("w", encoding="utf8") as gd, \
                 dist_path.joinpath("brave", f"{filename}.txt").open("w", encoding="utf8") as b, \
                 dist_path.joinpath("startpage", f"{filename}.txt").open("w", encoding="utf8") as sp, \
+                dist_path.joinpath("ecosia", f"{filename}.txt").open("w", encoding="utf8") as e, \
                 dist_path.joinpath(
                     "userscript",
                     "google_duckduckgo",
@@ -148,6 +155,7 @@ def main():
                 gd.write(get_ublock_filters_header(f"Google+DuckDuckGo – {filter_name}"))
                 b.write(get_ublock_filters_header(f"Brave – {filter_name}"))
                 sp.write(get_ublock_filters_header(f"Startpage – {filter_name}"))
+                e.write(get_ublock_filters_header(f"Ecosia – {filter_name}"))
 
                 for line in i:
                     if line.startswith("!") or not line.strip():
@@ -158,7 +166,8 @@ def main():
                         d, d_all,
                         gd, gd_all,
                         b, b_all,
-                        sp, sp_all
+                        sp, sp_all,
+                        e, e_all
                     ]:
                         f.write(url + LINE_SEP)
 
@@ -166,6 +175,7 @@ def main():
                     url_duckduckgo = to_duckduckgo(url)
                     url_brave = to_brave(url)
                     url_sp = to_startpage(url)
+                    url_ecosia = to_ecosia(url)
                     url_u = to_userscript(url)
                     for f in [
                         g, g_all,
@@ -185,6 +195,10 @@ def main():
                         sp, sp_all
                     ]:
                         f.write(url_sp + LINE_SEP)
+                    for f in [
+                        e, e_all
+                    ]:
+                        f.write(url_ecosia + LINE_SEP)
                     for f in [
                         u, u_all
                     ]:

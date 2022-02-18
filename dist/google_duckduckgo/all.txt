@@ -1,6 +1,6 @@
 ! Title: uBlock-Origin-dev-filter – Google+DuckDuckGo – All
 ! Expires: 1 day
-! Description: Filters to block and remove copycat-websites from DuckDuckGo and Google. Specific to dev websites like StackOverflow or GitHub.
+! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
 ! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
 ! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
 !
