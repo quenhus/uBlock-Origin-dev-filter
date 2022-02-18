@@ -97,7 +97,7 @@ def main():
     e_all = dist_path.joinpath("ecosia", "all.txt")
     u_all = dist_path.joinpath("userscript", "google_duckduckgo", "all.txt")
 
-    for f in [g_all, d_all, gd_all, b_all, sp_all, e_all]:
+    for f in [g_all, d_all, gd_all, b_all, sp_all, e_all, u_all]:
         f.parent.mkdir(parents=True, exist_ok=True)
 
     with g_all.open("w", encoding="utf8") as g_all, \
