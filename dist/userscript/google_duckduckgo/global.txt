@@ -1,11 +1,41 @@
 // ==UserScript==
-// @name        uBlock-Origin-dev-filter – Google+DuckDuckGo - stackoverflow
+// @name        uBlock-Origin-dev-filter – Google+DuckDuckGo - Global
 // @description Filter copycat-websites from DuckDuckGo and Google
 // @match       https://*.duckduckgo.com/*
 // @include     https://*.google.*/*
 // ==/UserScript==
 (function() {
     const css = `
+[data-domain*="bleepcoder.com"],
+[data-domain*="githubja.com"],
+[data-domain*="gitmemory.com"],
+[data-domain*="giters.com"],
+[data-domain*="githubmemory.com"],
+[data-domain*="wenyanet.com"],
+[data-domain*="issueexplorer.com"],
+[data-domain*="opensourcelibs.com"],
+[data-domain*="awesomeopensource.com"],
+[data-domain*="findbestopensource.com"],
+[data-domain*="githubhelp.com"],
+[data-domain*="pythonissues.com"],
+[data-domain*="golangrepo.com"],
+[data-domain*="gitmemory.cn"],
+[data-domain*="githubmate.com"],
+[data-domain*="reposhub.com"],
+[data-domain*="gitanswer.com"],
+[data-domain*="githubplus.com"],
+[data-domain*="pythonrepo.com"],
+[data-domain*="bestofcpp.com"],
+[data-domain*="github.innominds.com"],
+[data-domain*="www.higithub.com"],
+[data-domain*="openprojectrepo.com"],
+[data-domain*="golangissues.com"],
+[data-domain*="gitfreak.com"],
+[data-domain*="pythonawesome.com"],
+[data-domain*="gitmotion.com"],
+[data-domain*="fantashit.com"],
+[data-domain*="npmmirror.com"],
+[data-domain*="cnpmjs.org"],
 [data-domain*="code-examples.net"],
 [data-domain*="kotaeta.com"],
 [data-domain*="answer-id.com"],
@@ -178,6 +208,17 @@
 [data-domain*="ubuntugeeks.com"],
 [data-domain*="ubuntuplace.info"],
 [data-domain*="wikiroot.ru"],
+[data-domain*="encyclopedia.thefreedictionary.com"],
+[data-domain*="www.algebra.com"],
+[data-domain*="wikizero.com"],
+[data-domain*="mediawiki.feverous.co.uk"],
+[data-domain*="everything.explained.today"],
+[data-domain*="www.wiwa.wiki"],
+[data-domain*="findatwiki.com"],
+[data-domain*="www.wikide.wiki"],
+[data-domain*="www.wikit.wiki"],
+[data-domain*="www.secret-bases.co.uk/wiki"],
+[data-domain*="www.scholarship.edu.vn/wiki"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

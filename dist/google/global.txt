@@ -1,4 +1,4 @@
-! Title: uBlock-Origin-dev-filter – Google – All
+! Title: uBlock-Origin-dev-filter – Google – Global
 ! Expires: 1 day
 ! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
 ! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
@@ -410,3 +410,25 @@ google.*##.g:has(a[href*="ubuntugeeks.com"])
 google.*##.g:has(a[href*="ubuntuplace.info"])
 *://wikiroot.ru/*
 google.*##.g:has(a[href*="wikiroot.ru"])
+*://encyclopedia.thefreedictionary.com/*
+google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
+*://www.algebra.com/*
+google.*##.g:has(a[href*="www.algebra.com"])
+*://wikizero.com/*
+google.*##.g:has(a[href*="wikizero.com"])
+*://mediawiki.feverous.co.uk/*
+google.*##.g:has(a[href*="mediawiki.feverous.co.uk"])
+*://everything.explained.today/*
+google.*##.g:has(a[href*="everything.explained.today"])
+*://www.wiwa.wiki/*
+google.*##.g:has(a[href*="www.wiwa.wiki"])
+*://findatwiki.com/*
+google.*##.g:has(a[href*="findatwiki.com"])
+*://www.wikide.wiki/*
+google.*##.g:has(a[href*="www.wikide.wiki"])
+*://www.wikit.wiki/*
+google.*##.g:has(a[href*="www.wikit.wiki"])
+*://www.secret-bases.co.uk/wiki/*
+google.*##.g:has(a[href*="www.secret-bases.co.uk/wiki"])
+*://www.scholarship.edu.vn/wiki/*
+google.*##.g:has(a[href*="www.scholarship.edu.vn/wiki"])

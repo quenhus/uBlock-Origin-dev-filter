@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        uBlock-Origin-dev-filter
+// @name        uBlock-Origin-dev-filter – Google+DuckDuckGo - All
 // @description Filter copycat-websites from DuckDuckGo and Google
 // @match       https://*.duckduckgo.com/*
 // @include     https://*.google.*/*
@@ -34,6 +34,8 @@
 [data-domain*="pythonawesome.com"],
 [data-domain*="gitmotion.com"],
 [data-domain*="fantashit.com"],
+[data-domain*="npmmirror.com"],
+[data-domain*="cnpmjs.org"],
 [data-domain*="code-examples.net"],
 [data-domain*="kotaeta.com"],
 [data-domain*="answer-id.com"],

@@ -1,4 +1,4 @@
-! Title: uBlock-Origin-dev-filter – DuckDuckGo – All
+! Title: uBlock-Origin-dev-filter – DuckDuckGo – Global
 ! Expires: 1 day
 ! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
 ! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
@@ -410,3 +410,25 @@ duckduckgo.com##[data-domain$="ubuntugeeks.com"]
 duckduckgo.com##[data-domain$="ubuntuplace.info"]
 *://wikiroot.ru/*
 duckduckgo.com##[data-domain$="wikiroot.ru"]
+*://encyclopedia.thefreedictionary.com/*
+duckduckgo.com##[data-domain$="encyclopedia.thefreedictionary.com"]
+*://www.algebra.com/*
+duckduckgo.com##[data-domain$="www.algebra.com"]
+*://wikizero.com/*
+duckduckgo.com##[data-domain$="wikizero.com"]
+*://mediawiki.feverous.co.uk/*
+duckduckgo.com##[data-domain$="mediawiki.feverous.co.uk"]
+*://everything.explained.today/*
+duckduckgo.com##[data-domain$="everything.explained.today"]
+*://www.wiwa.wiki/*
+duckduckgo.com##[data-domain$="www.wiwa.wiki"]
+*://findatwiki.com/*
+duckduckgo.com##[data-domain$="findatwiki.com"]
+*://www.wikide.wiki/*
+duckduckgo.com##[data-domain$="www.wikide.wiki"]
+*://www.wikit.wiki/*
+duckduckgo.com##[data-domain$="www.wikit.wiki"]
+*://www.secret-bases.co.uk/wiki/*
+duckduckgo.com##[data-domain$="www.secret-bases.co.uk/wiki"]
+*://www.scholarship.edu.vn/wiki/*
+duckduckgo.com##[data-domain$="www.scholarship.edu.vn/wiki"]
