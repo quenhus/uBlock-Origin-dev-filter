@@ -1,4 +1,6 @@
 from pathlib import Path
+from contextlib import ExitStack
+
 
 LINE_SEP = "\n"
 COMMA_SEP = ","
@@ -30,6 +32,13 @@ def to_ecosia(url):
 
 def to_userscript(url):
     return f'[data-domain*="{to_domain_attr(url)}"]'
+
+def append_in_se(shared_fd_per_se, se, source_is_dev, value):
+    shared_fd_per_se[se]["current"].write(value)
+    shared_fd_per_se[se]["all"].write(value)
+
+    if source_is_dev:
+        shared_fd_per_se[se]["dev"].write(value)
 
 def get_userscript_start():
     return """// ==UserScript==
@@ -83,46 +92,76 @@ def get_ublock_filters_header(name):
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 """
 
+dev_sources = (
+    "github",
+    "stackoverflow",
+    "npm",
+)
+
+ubo_search_engines = {
+    "google": {"name": "Google"},
+    "duckduckgo": {"name": "DuckDuckGo"},
+    "google_duckduckgo": {"name": "Google+DuckDuckGo"},
+    "brave": {"name": "Brave"},
+    "startpage": {"name": "Startpage"},
+    "ecosia": {"name": "Ecosia"},
+}
+
 def main():
     root_path = Path(__file__).parent.joinpath("../")
     dist_path = root_path.joinpath("dist")
 
     tmp_txt = dist_path.joinpath("tmp.txt")
 
-    g_all = dist_path.joinpath("google", "all.txt")
-    d_all = dist_path.joinpath("duckduckgo", "all.txt")
-    gd_all = dist_path.joinpath("google_duckduckgo", "all.txt")
-    b_all = dist_path.joinpath("brave", "all.txt")
-    sp_all = dist_path.joinpath("startpage", "all.txt")
-    e_all = dist_path.joinpath("ecosia", "all.txt")
-    u_all = dist_path.joinpath("userscript", "google_duckduckgo", "all.txt")
+    # For uBlock
+    # File used by all source (stackoverflow_copycats, github_copycats, ...)
+    shared_file_per_se = {
+        se: {
+            "dist": dist_path.joinpath(se),
+            "all": dist_path.joinpath(se, "all.txt"),
+            "dev": dist_path.joinpath(se, "dev.txt"),
+        }
+        for se in ubo_search_engines.keys()
+    }
 
-    for f in [g_all, d_all, gd_all, b_all, sp_all, e_all, u_all]:
-        f.parent.mkdir(parents=True, exist_ok=True)
+    # For Userscript filters
+    shared_file_per_se["userscript_gd"] = {
+        "dist": dist_path.joinpath("userscript", "google_duckduckgo"),
+        "all": dist_path.joinpath("userscript", "google_duckduckgo", "all.txt"),
+        "dev": dist_path.joinpath("userscript", "google_duckduckgo", "dev.txt"),
+    }
 
-    with g_all.open("w", encoding="utf8") as g_all, \
-         d_all.open("w", encoding="utf8") as d_all, \
-         gd_all.open("w", encoding="utf8") as gd_all, \
-         b_all.open("w", encoding="utf8") as b_all, \
-         sp_all.open("w", encoding="utf8") as sp_all, \
-         e_all.open("w", encoding="utf8") as e_all, \
-         u_all.open("w", encoding="utf8") as u_all:
+    # Create folders for each SE in ./dist/
+    for se_files in shared_file_per_se.values():
+        se_files["dist"].mkdir(parents=True, exist_ok=True)
 
-        u_all.write(get_userscript_start())
-        g_all.write(get_ublock_filters_header("Google – All"))
-        d_all.write(get_ublock_filters_header("DuckDuckGo – All"))
-        gd_all.write(get_ublock_filters_header("Google+DuckDuckGo – All"))
-        b_all.write(get_ublock_filters_header("Brave – All"))
-        sp_all.write(get_ublock_filters_header("Startpage – All"))
-        e_all.write(get_ublock_filters_header("Ecosia – All"))
+    with ExitStack() as global_stack:
+        # Open all files (one "all.txt" and one "dev.txt" for each search engine)
+        shared_fd_per_se = {
+            se: {
+                "all": global_stack.enter_context(se_files["all"].open("w", encoding="utf8")),
+                "dev": global_stack.enter_context(se_files["dev"].open("w", encoding="utf8")),
+            }
+            for se, se_files in shared_file_per_se.items()
+        }
 
-        for file in sorted(root_path.joinpath("data").glob("*.txt")):
-            filename = file.name.split(".")[0]
+        # Add header in each uBlock filter
+        for se, se_meta in ubo_search_engines.items():
+            se_name = se_meta['name']
+            shared_fd_per_se[se]["all"].write(get_ublock_filters_header(f"{se_name} – All"))
+            shared_fd_per_se[se]["dev"].write(get_ublock_filters_header(f"{se_name} – Dev"))
+
+        # Add header in each userscript filter
+        for source_type in ("all", "dev"):
+            shared_fd_per_se["userscript_gd"][source_type].write(get_userscript_start())
+
+        for source_f in sorted(root_path.joinpath("data").glob("*.txt")):
+            filename = source_f.name.split(".")[0]
 
             # Sort and find duplicates
-            with file.open("r") as i, tmp_txt.open("w") as tmp:
+            with source_f.open("r") as source_fd, tmp_txt.open("w") as tmp:
                 already_in = set()
-                for line in i:
+                for line in source_fd:
                     if line.startswith("!") or not line.strip():
                         tmp.write(line)
                         continue
@@ -133,79 +172,54 @@ def main():
                     else:
                         already_in.add(url)
                         tmp.write(line)
-            tmp_txt.replace(file)
+            tmp_txt.replace(source_f)
 
-            with dist_path.joinpath("google", f"{filename}.txt").open("w", encoding="utf8") as g, \
-                dist_path.joinpath("duckduckgo", f"{filename}.txt").open("w", encoding="utf8") as d, \
-                dist_path.joinpath("google_duckduckgo", f"{filename}.txt").open("w", encoding="utf8") as gd, \
-                dist_path.joinpath("brave", f"{filename}.txt").open("w", encoding="utf8") as b, \
-                dist_path.joinpath("startpage", f"{filename}.txt").open("w", encoding="utf8") as sp, \
-                dist_path.joinpath("ecosia", f"{filename}.txt").open("w", encoding="utf8") as e, \
-                dist_path.joinpath(
-                    "userscript",
-                    "google_duckduckgo",
-                    f"{filename}.txt"
-                ).open("w", encoding="utf8") as u, \
-                file.open("r") as i:
+            with ExitStack() as source_stack, source_f.open("r") as source_fd:
+                # Create one file per SE, to add specific filter
+                for se in shared_fd_per_se:
+                    dist = shared_file_per_se[se]["dist"]
+                    f = dist.joinpath(f"{filename}.txt")
+                    shared_fd_per_se[se]["current"] = source_stack.enter_context(f.open("w", encoding="utf8"))
 
-                u.write(get_userscript_start())
-                filter_name = file.stem.replace("_copycats", "")
-                g.write(get_ublock_filters_header(f"Google – {filter_name}"))
-                d.write(get_ublock_filters_header(f"DuckDuckGo – {filter_name}"))
-                gd.write(get_ublock_filters_header(f"Google+DuckDuckGo – {filter_name}"))
-                b.write(get_ublock_filters_header(f"Brave – {filter_name}"))
-                sp.write(get_ublock_filters_header(f"Startpage – {filter_name}"))
-                e.write(get_ublock_filters_header(f"Ecosia – {filter_name}"))
+                source_name = source_f.stem.replace("_copycats", "")
+                source_is_dev = source_name in dev_sources
 
-                for line in i:
+                # Add header in each uBlock filter
+                for se, se_meta in ubo_search_engines.items():
+                    se_name = se_meta['name']
+                    shared_fd_per_se[se]["current"].write(get_ublock_filters_header(f"{se_name} – {source_name}"))
+
+                # Add header in each userscript filter
+                shared_fd_per_se["userscript_gd"]["current"].write(get_userscript_start())
+
+                for line in source_fd:
                     if line.startswith("!") or not line.strip():
                         continue
                     url = line.strip()
-                    for f in [
-                        g, g_all,
-                        d, d_all,
-                        gd, gd_all,
-                        b, b_all,
-                        sp, sp_all,
-                        e, e_all
-                    ]:
-                        f.write(url + LINE_SEP)
 
-                    url_google = to_google(url)
-                    url_duckduckgo = to_duckduckgo(url)
-                    url_brave = to_brave(url)
-                    url_sp = to_startpage(url)
-                    url_ecosia = to_ecosia(url)
-                    url_u = to_userscript(url)
-                    for f in [
-                        g, g_all,
-                        gd, gd_all
-                    ]:
-                        f.write(url_google + LINE_SEP)
-                    for f in [
-                        d, d_all,
-                        gd, gd_all
-                    ]:
-                        f.write(url_duckduckgo + LINE_SEP)
-                    for f in [
-                        b, b_all
-                    ]:
-                        f.write(url_brave + LINE_SEP)
-                    for f in [
-                        sp, sp_all
-                    ]:
-                        f.write(url_sp + LINE_SEP)
-                    for f in [
-                        e, e_all
-                    ]:
-                        f.write(url_ecosia + LINE_SEP)
-                    for f in [
-                        u, u_all
-                    ]:
-                        f.write(url_u + COMMA_SEP + LINE_SEP)
+                    # Block the domain
+                    for se in ubo_search_engines.keys():
+                        append_in_se(shared_fd_per_se, se, source_is_dev, url + LINE_SEP)
 
-                u.write(get_userscript_end())
-        u_all.write(get_userscript_end())
+                    # Block domain in search engine results
+                    filter_google = to_google(url)
+                    filter_duckduckgo = to_duckduckgo(url)
+                    append_in_se(shared_fd_per_se, "google", source_is_dev, filter_google + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "google_duckduckgo", source_is_dev, filter_google + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "duckduckgo", source_is_dev, filter_duckduckgo + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "google_duckduckgo", source_is_dev, filter_duckduckgo + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "brave", source_is_dev, to_brave(url) + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "startpage", source_is_dev, to_startpage(url) + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "ecosia", source_is_dev, to_ecosia(url) + LINE_SEP)
+                    append_in_se(shared_fd_per_se, "userscript_gd", source_is_dev, to_userscript(url)+ COMMA_SEP + LINE_SEP)
+
+
+                # Add footer in each userscript filter
+                shared_fd_per_se["userscript_gd"]["current"].write(get_userscript_end())
+
+        # Add footer in each userscript filter
+        for source_type in ("all", "dev"):
+            shared_fd_per_se["userscript_gd"][source_type].write(get_userscript_end())
 
 if __name__ == "__main__":
     main()
