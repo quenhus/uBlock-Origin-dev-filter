@@ -40,14 +40,14 @@ def append_in_se(shared_fd_per_se, se, source_is_dev, value):
     if source_is_dev:
         shared_fd_per_se[se]["dev"].write(value)
 
-def get_userscript_start():
-    return """// ==UserScript==
-// @name        uBlock-Origin-dev-filter
+def get_userscript_start(name):
+    return f"""// ==UserScript==
+// @name        uBlock-Origin-dev-filter – {name}
 // @description Filter copycat-websites from DuckDuckGo and Google
 // @match       https://*.duckduckgo.com/*
 // @include     https://*.google.*/*
 // ==/UserScript==
-(function() {
+(function() {{
     const css = `
 """
 
@@ -152,8 +152,8 @@ def main():
             shared_fd_per_se[se]["dev"].write(get_ublock_filters_header(f"{se_name} – Dev"))
 
         # Add header in each userscript filter
-        for source_type in ("all", "dev"):
-            shared_fd_per_se["userscript_gd"][source_type].write(get_userscript_start())
+        shared_fd_per_se["userscript_gd"]["all"].write(get_userscript_start("Google+DuckDuckGo - All"))
+        shared_fd_per_se["userscript_gd"]["dev"].write(get_userscript_start("Google+DuckDuckGo - Dev"))
 
         for source_f in sorted(root_path.joinpath("data").glob("*.txt")):
             filename = source_f.name.split(".")[0]
@@ -190,7 +190,7 @@ def main():
                     shared_fd_per_se[se]["current"].write(get_ublock_filters_header(f"{se_name} – {source_name}"))
 
                 # Add header in each userscript filter
-                shared_fd_per_se["userscript_gd"]["current"].write(get_userscript_start())
+                shared_fd_per_se["userscript_gd"]["current"].write(get_userscript_start(f"Google+DuckDuckGo - {source_name}"))
 
                 for line in source_fd:
                     if line.startswith("!") or not line.strip():
