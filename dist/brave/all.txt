@@ -60,6 +60,8 @@ search.brave.com###results > div:has(a[href*="gitfreak.com"])
 search.brave.com###results > div:has(a[href*="pythonawesome.com"])
 *://gitmotion.com/*
 search.brave.com###results > div:has(a[href*="gitmotion.com"])
+*://fantashit.com/*
+search.brave.com###results > div:has(a[href*="fantashit.com"])
 *://code-examples.net/*
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 *://kotaeta.com/*

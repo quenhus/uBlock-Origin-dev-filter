@@ -60,3 +60,5 @@ startpage.com##.w-gl__result:has(a[href*="gitfreak.com"])
 startpage.com##.w-gl__result:has(a[href*="pythonawesome.com"])
 *://gitmotion.com/*
 startpage.com##.w-gl__result:has(a[href*="gitmotion.com"])
+*://fantashit.com/*
+startpage.com##.w-gl__result:has(a[href*="fantashit.com"])

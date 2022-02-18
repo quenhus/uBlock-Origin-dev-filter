@@ -87,6 +87,9 @@ duckduckgo.com##[data-domain$="pythonawesome.com"]
 *://gitmotion.com/*
 google.*##.g:has(a[href*="gitmotion.com"])
 duckduckgo.com##[data-domain$="gitmotion.com"]
+*://fantashit.com/*
+google.*##.g:has(a[href*="fantashit.com"])
+duckduckgo.com##[data-domain$="fantashit.com"]
 *://code-examples.net/*
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.com##[data-domain$="code-examples.net"]

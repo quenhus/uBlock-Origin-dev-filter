@@ -60,3 +60,5 @@ duckduckgo.com##[data-domain$="gitfreak.com"]
 duckduckgo.com##[data-domain$="pythonawesome.com"]
 *://gitmotion.com/*
 duckduckgo.com##[data-domain$="gitmotion.com"]
+*://fantashit.com/*
+duckduckgo.com##[data-domain$="fantashit.com"]

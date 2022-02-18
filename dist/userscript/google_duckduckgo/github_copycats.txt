@@ -33,6 +33,7 @@
 [data-domain*="gitfreak.com"],
 [data-domain*="pythonawesome.com"],
 [data-domain*="gitmotion.com"],
+[data-domain*="fantashit.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

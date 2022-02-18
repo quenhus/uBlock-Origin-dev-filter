@@ -60,6 +60,8 @@ ecosia.org##.result:has(a[href*="gitfreak.com"])
 ecosia.org##.result:has(a[href*="pythonawesome.com"])
 *://gitmotion.com/*
 ecosia.org##.result:has(a[href*="gitmotion.com"])
+*://fantashit.com/*
+ecosia.org##.result:has(a[href*="fantashit.com"])
 *://code-examples.net/*
 ecosia.org##.result:has(a[href*="code-examples.net"])
 *://kotaeta.com/*

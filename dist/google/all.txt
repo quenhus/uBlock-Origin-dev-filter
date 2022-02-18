@@ -60,6 +60,8 @@ google.*##.g:has(a[href*="gitfreak.com"])
 google.*##.g:has(a[href*="pythonawesome.com"])
 *://gitmotion.com/*
 google.*##.g:has(a[href*="gitmotion.com"])
+*://fantashit.com/*
+google.*##.g:has(a[href*="fantashit.com"])
 *://code-examples.net/*
 google.*##.g:has(a[href*="code-examples.net"])
 *://kotaeta.com/*

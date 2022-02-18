@@ -33,6 +33,7 @@
 [data-domain*="gitfreak.com"],
 [data-domain*="pythonawesome.com"],
 [data-domain*="gitmotion.com"],
+[data-domain*="fantashit.com"],
 [data-domain*="code-examples.net"],
 [data-domain*="kotaeta.com"],
 [data-domain*="answer-id.com"],
