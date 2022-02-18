@@ -1,0 +1,58 @@
+! Title: uBlock-Origin-dev-filter – Ecosia – github
+! Expires: 1 day
+! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+*://bleepcoder.com/*
+ecosia.org##.result:has(a[href*="bleepcoder.com"])
+*://githubja.com/*
+ecosia.org##.result:has(a[href*="githubja.com"])
+*://*.gitmemory.com/*
+ecosia.org##.result:has(a[href*=".gitmemory.com"])
+*://giters.com/*
+ecosia.org##.result:has(a[href*="giters.com"])
+*://githubmemory.com/*
+ecosia.org##.result:has(a[href*="githubmemory.com"])
+*://*.wenyanet.com/*
+ecosia.org##.result:has(a[href*=".wenyanet.com"])
+*://issueexplorer.com/*
+ecosia.org##.result:has(a[href*="issueexplorer.com"])
+*://opensourcelibs.com/*
+ecosia.org##.result:has(a[href*="opensourcelibs.com"])
+*://awesomeopensource.com/*
+ecosia.org##.result:has(a[href*="awesomeopensource.com"])
+*://findbestopensource.com/*
+ecosia.org##.result:has(a[href*="findbestopensource.com"])
+*://githubhelp.com/*
+ecosia.org##.result:has(a[href*="githubhelp.com"])
+*://pythonissues.com/*
+ecosia.org##.result:has(a[href*="pythonissues.com"])
+*://golangrepo.com/*
+ecosia.org##.result:has(a[href*="golangrepo.com"])
+*://gitmemory.cn/*
+ecosia.org##.result:has(a[href*="gitmemory.cn"])
+*://githubmate.com/*
+ecosia.org##.result:has(a[href*="githubmate.com"])
+*://reposhub.com/*
+ecosia.org##.result:has(a[href*="reposhub.com"])
+*://gitanswer.com/*
+ecosia.org##.result:has(a[href*="gitanswer.com"])
+*://githubplus.com/*
+ecosia.org##.result:has(a[href*="githubplus.com"])
+*://pythonrepo.com/*
+ecosia.org##.result:has(a[href*="pythonrepo.com"])
+*://bestofcpp.com/*
+ecosia.org##.result:has(a[href*="bestofcpp.com"])
+*://github.innominds.com/*
+ecosia.org##.result:has(a[href*="github.innominds.com"])
+*://www.higithub.com/*
+ecosia.org##.result:has(a[href*="www.higithub.com"])
+*://openprojectrepo.com/*
+ecosia.org##.result:has(a[href*="openprojectrepo.com"])
+*://golangissues.com/*
+ecosia.org##.result:has(a[href*="golangissues.com"])
+*://gitfreak.com/*
+ecosia.org##.result:has(a[href*="gitfreak.com"])
