@@ -3,6 +3,7 @@
 *://bleepcoder.com/*
 *://githubja.com/*
 *://*.gitmemory.com/*
+*://*.gitmotion.com/*
 *://giters.com/*
 *://githubmemory.com/*
 *://*.wenyanet.com/*
