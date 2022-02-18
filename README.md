@@ -17,10 +17,10 @@ Select the filters flavors you want, depending on your needs and search engine:
 | Brave      | [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add+this+filter&color=f25100&style=flat&logo=uBlock+Origin)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fquenhus%2FuBlock-Origin-dev-filter%2Fmain%2Fdist%2Fbrave%2Fall.txt&title=Brave%20%2D%20All) | [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add+this+filter&color=f25100&style=flat&logo=uBlock+Origin)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fquenhus%2FuBlock-Origin-dev-filter%2Fmain%2Fdist%2Fbrave%2Fall.txt&title=Brave%20%2D%20All) |
 | Ecosia     | [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add+this+filter&color=36acb8&style=flat&logo=uBlock+Origin)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fquenhus%2FuBlock-Origin-dev-filter%2Fmain%2Fdist%2Fecosia%2Fall.txt&title=Ecosia%20%2D%20All) | [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add+this+filter&color=36acb8&style=flat&logo=uBlock+Origin)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fquenhus%2FuBlock-Origin-dev-filter%2Fmain%2Fdist%2Fecosia%2Fall.txt&title=Ecosia%20%2D%20All) |
 
-### Manually import filters
 <details>
   <summary>How to import uBlock filters manually</summary>
   
+### Manually import filters
 
   1. Open uBlock Origin settings
   2. Under the "Filter lists" tab, scroll to the bottom where it says “Custom” and click the “Import” checkbox to reveal the custom URL textbox
@@ -30,9 +30,14 @@ Select the filters flavors you want, depending on your needs and search engine:
   Note: In `dist/`, you can find filters for other search engines (Google, DuckDuckGo, Startpage or Brave). You can use and combine these filters by using the raw URL of `dist/` files.
 </details>
 
+<details>
+  <summary>macOS Userscript</summary>
+  
 ### macOS Userscript
 
 For macOS users, this project also provide some Userscripts for Google+DuckDuckGo in `dist/userscript/google_duckduckgo/`
+
+</details>
 
 ## Adding URL's
 
