@@ -54,6 +54,8 @@ duckduckgo.com##[data-domain$="www.higithub.com"]
 duckduckgo.com##[data-domain$="openprojectrepo.com"]
 *://golangissues.com/*
 duckduckgo.com##[data-domain$="golangissues.com"]
+*://gitfreak.com/*
+duckduckgo.com##[data-domain$="gitfreak.com"]
 *://code-examples.net/*
 duckduckgo.com##[data-domain$="code-examples.net"]
 *://kotaeta.com/*
