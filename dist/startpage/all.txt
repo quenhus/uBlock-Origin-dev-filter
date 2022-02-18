@@ -58,6 +58,8 @@ startpage.com##.w-gl__result:has(a[href*="golangissues.com"])
 startpage.com##.w-gl__result:has(a[href*="gitfreak.com"])
 *://pythonawesome.com/*
 startpage.com##.w-gl__result:has(a[href*="pythonawesome.com"])
+*://gitmotion.com/*
+startpage.com##.w-gl__result:has(a[href*="gitmotion.com"])
 *://code-examples.net/*
 startpage.com##.w-gl__result:has(a[href*="code-examples.net"])
 *://kotaeta.com/*

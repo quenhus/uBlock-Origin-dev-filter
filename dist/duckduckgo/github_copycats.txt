@@ -58,3 +58,5 @@ duckduckgo.com##[data-domain$="golangissues.com"]
 duckduckgo.com##[data-domain$="gitfreak.com"]
 *://pythonawesome.com/*
 duckduckgo.com##[data-domain$="pythonawesome.com"]
+*://gitmotion.com/*
+duckduckgo.com##[data-domain$="gitmotion.com"]

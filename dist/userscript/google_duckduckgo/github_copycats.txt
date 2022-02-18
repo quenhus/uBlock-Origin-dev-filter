@@ -32,6 +32,7 @@
 [data-domain*="golangissues.com"],
 [data-domain*="gitfreak.com"],
 [data-domain*="pythonawesome.com"],
+[data-domain*="gitmotion.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
