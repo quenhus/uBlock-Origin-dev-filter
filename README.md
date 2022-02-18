@@ -47,6 +47,20 @@ Please create a pull-request or [start an issue](https://github.com/quenhus/uBlo
 
 For simplicity and auto-updates, uBlock Origin filters rely on the last commit of the `main` branch, as every other uBO filters. For now, it seems this method does not raise security issues. However, you can import uBlock Origin filters with a reference to a given commit, not the `main` branch. Filters won't auto-update but they will be auditable by your own eyes.
 
+## Scope of this filter
+
+To me, a copycat is a website that: 
+- **mirrors most of GitHub/SO content**, automatically and without useful additional work on the content,
+- **prevents** the user to **interact** easily with the resource (upvote, comment or reply),
+- might **use SEO techniques** to catch users who would have otherwise reached the original resource,
+- overall, **offers no benefits** for users over the original resource.
+
+To be more precise:
+- I do not consider automatic translation as a benefit;
+- I do consider a mirror with clear attribution to be a copycat;
+- I do not consider a mirror created for privacy concern to be a copycat, except if it uses aggressive SEO techniques;
+- This uBlock filter is my own filter, for my usage and **can't obviously satisfy everyone**.
+
 ## Sources
 
 * [uBlacklist Stack Overflow Translation](https://github.com/arosh/ublacklist-stackoverflow-translation)
