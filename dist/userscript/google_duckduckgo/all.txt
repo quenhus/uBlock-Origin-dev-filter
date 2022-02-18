@@ -31,6 +31,7 @@
 [data-domain*="openprojectrepo.com"],
 [data-domain*="golangissues.com"],
 [data-domain*="gitfreak.com"],
+[data-domain*="pythonawesome.com"],
 [data-domain*="code-examples.net"],
 [data-domain*="kotaeta.com"],
 [data-domain*="answer-id.com"],

@@ -56,3 +56,5 @@ google.*##.g:has(a[href*="openprojectrepo.com"])
 google.*##.g:has(a[href*="golangissues.com"])
 *://gitfreak.com/*
 google.*##.g:has(a[href*="gitfreak.com"])
+*://pythonawesome.com/*
+google.*##.g:has(a[href*="pythonawesome.com"])

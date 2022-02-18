@@ -56,6 +56,8 @@ ecosia.org##.result:has(a[href*="openprojectrepo.com"])
 ecosia.org##.result:has(a[href*="golangissues.com"])
 *://gitfreak.com/*
 ecosia.org##.result:has(a[href*="gitfreak.com"])
+*://pythonawesome.com/*
+ecosia.org##.result:has(a[href*="pythonawesome.com"])
 *://code-examples.net/*
 ecosia.org##.result:has(a[href*="code-examples.net"])
 *://kotaeta.com/*
