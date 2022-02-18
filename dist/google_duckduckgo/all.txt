@@ -183,6 +183,9 @@ duckduckgo.com##[data-domain$="overcoder.net"]
 *://coderoad.ru/*
 google.*##.g:has(a[href*="coderoad.ru"])
 duckduckgo.com##[data-domain$="coderoad.ru"]
+*://coderoad.wiki/*
+google.*##.g:has(a[href*="coderoad.wiki"])
+duckduckgo.com##[data-domain$="coderoad.wiki"]
 *://www.generacodice.blog/*
 google.*##.g:has(a[href*="www.generacodice.blog"])
 duckduckgo.com##[data-domain$="www.generacodice.blog"]

@@ -124,6 +124,8 @@ search.brave.com###results > div:has(a[href*="codeguides.site"])
 search.brave.com###results > div:has(a[href*="overcoder.net"])
 *://coderoad.ru/*
 search.brave.com###results > div:has(a[href*="coderoad.ru"])
+*://coderoad.wiki/*
+search.brave.com###results > div:has(a[href*="coderoad.wiki"])
 *://www.generacodice.blog/*
 search.brave.com###results > div:has(a[href*="www.generacodice.blog"])
 *://www.generacodice.it/*

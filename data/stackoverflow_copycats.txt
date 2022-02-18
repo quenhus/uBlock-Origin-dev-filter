@@ -33,6 +33,7 @@
 *://codeguides.site/*
 *://overcoder.net/*
 *://coderoad.ru/*
+*://coderoad.wiki/*
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*

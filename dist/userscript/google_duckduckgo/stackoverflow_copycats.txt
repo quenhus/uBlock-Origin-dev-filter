@@ -39,6 +39,7 @@
 [data-domain*="codeguides.site"],
 [data-domain*="overcoder.net"],
 [data-domain*="coderoad.ru"],
+[data-domain*="coderoad.wiki"],
 [data-domain*="www.generacodice.blog"],
 [data-domain*="www.generacodice.it"],
 [data-domain*="www.generacodice.com"],

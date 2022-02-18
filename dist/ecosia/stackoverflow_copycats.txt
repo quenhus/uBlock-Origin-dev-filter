@@ -72,6 +72,8 @@ ecosia.org##.result:has(a[href*="codeguides.site"])
 ecosia.org##.result:has(a[href*="overcoder.net"])
 *://coderoad.ru/*
 ecosia.org##.result:has(a[href*="coderoad.ru"])
+*://coderoad.wiki/*
+ecosia.org##.result:has(a[href*="coderoad.wiki"])
 *://www.generacodice.blog/*
 ecosia.org##.result:has(a[href*="www.generacodice.blog"])
 *://www.generacodice.it/*

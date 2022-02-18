@@ -124,6 +124,8 @@ startpage.com##.w-gl__result:has(a[href*="codeguides.site"])
 startpage.com##.w-gl__result:has(a[href*="overcoder.net"])
 *://coderoad.ru/*
 startpage.com##.w-gl__result:has(a[href*="coderoad.ru"])
+*://coderoad.wiki/*
+startpage.com##.w-gl__result:has(a[href*="coderoad.wiki"])
 *://www.generacodice.blog/*
 startpage.com##.w-gl__result:has(a[href*="www.generacodice.blog"])
 *://www.generacodice.it/*

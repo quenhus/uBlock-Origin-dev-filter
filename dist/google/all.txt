@@ -124,6 +124,8 @@ google.*##.g:has(a[href*="codeguides.site"])
 google.*##.g:has(a[href*="overcoder.net"])
 *://coderoad.ru/*
 google.*##.g:has(a[href*="coderoad.ru"])
+*://coderoad.wiki/*
+google.*##.g:has(a[href*="coderoad.wiki"])
 *://www.generacodice.blog/*
 google.*##.g:has(a[href*="www.generacodice.blog"])
 *://www.generacodice.it/*

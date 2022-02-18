@@ -72,6 +72,8 @@ duckduckgo.com##[data-domain$="codeguides.site"]
 duckduckgo.com##[data-domain$="overcoder.net"]
 *://coderoad.ru/*
 duckduckgo.com##[data-domain$="coderoad.ru"]
+*://coderoad.wiki/*
+duckduckgo.com##[data-domain$="coderoad.wiki"]
 *://www.generacodice.blog/*
 duckduckgo.com##[data-domain$="www.generacodice.blog"]
 *://www.generacodice.it/*
