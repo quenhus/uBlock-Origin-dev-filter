@@ -64,6 +64,16 @@ ecosia.org##.result:has(a[href*="gitmotion.com"])
 ecosia.org##.result:has(a[href*="fantashit.com"])
 *://githubhot.com/*
 ecosia.org##.result:has(a[href*="githubhot.com"])
+*://gitcode.net/*
+ecosia.org##.result:has(a[href*="gitcode.net"])
+*://readintrend.com/*
+ecosia.org##.result:has(a[href*="readintrend.com"])
+*://news24lite.com/*
+ecosia.org##.result:has(a[href*="news24lite.com"])
+*://github.phala.one/*
+ecosia.org##.result:has(a[href*="github.phala.one"])
+*://google-yandex.info/*
+ecosia.org##.result:has(a[href*="google-yandex.info"])
 *://npmmirror.com/*
 ecosia.org##.result:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*

@@ -64,3 +64,13 @@ search.brave.com###results > div:has(a[href*="gitmotion.com"])
 search.brave.com###results > div:has(a[href*="fantashit.com"])
 *://githubhot.com/*
 search.brave.com###results > div:has(a[href*="githubhot.com"])
+*://gitcode.net/*
+search.brave.com###results > div:has(a[href*="gitcode.net"])
+*://readintrend.com/*
+search.brave.com###results > div:has(a[href*="readintrend.com"])
+*://news24lite.com/*
+search.brave.com###results > div:has(a[href*="news24lite.com"])
+*://github.phala.one/*
+search.brave.com###results > div:has(a[href*="github.phala.one"])
+*://google-yandex.info/*
+search.brave.com###results > div:has(a[href*="google-yandex.info"])

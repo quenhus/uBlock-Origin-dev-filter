@@ -35,6 +35,11 @@
 [data-domain*="gitmotion.com"],
 [data-domain*="fantashit.com"],
 [data-domain*="githubhot.com"],
+[data-domain*="gitcode.net"],
+[data-domain*="readintrend.com"],
+[data-domain*="news24lite.com"],
+[data-domain*="github.phala.one"],
+[data-domain*="google-yandex.info"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
