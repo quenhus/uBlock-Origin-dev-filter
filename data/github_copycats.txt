@@ -33,4 +33,7 @@
 ! At the moment, only about a couple thousand GitHub Wikis are permitted to be indexed out of about 420,000 in existence.
 ! Please visit https://github-wiki-see.page for a more thorough and/or updated explanation of the situation.
 ! It's actually a helpful GitHub copycat.
+! If you're annoyed at the service's interstitial, you may want to look at the service's Auto Redirect API document
+! for examples/details/implementation to automatically redirect to GitHub.com's Wiki if you land on the service:
+! https://github.com/nelsonjchen/github-wiki-see-rs/blob/master/AUTO_REDIRECT_API.md
 ! *://github-wiki-see.page/*
