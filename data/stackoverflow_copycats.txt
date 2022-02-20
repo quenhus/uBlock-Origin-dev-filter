@@ -173,3 +173,4 @@
 *://ubuntuplace.info/*
 *://wikiroot.ru/*
 *://sysadminde.com/*
+*://askdev.ru/*
