@@ -90,6 +90,9 @@ duckduckgo.com##[data-domain$="gitmotion.com"]
 *://fantashit.com/*
 google.*##.g:has(a[href*="fantashit.com"])
 duckduckgo.com##[data-domain$="fantashit.com"]
+*://githubhot.com/*
+google.*##.g:has(a[href*="githubhot.com"])
+duckduckgo.com##[data-domain$="githubhot.com"]
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com##[data-domain$="npmmirror.com"]

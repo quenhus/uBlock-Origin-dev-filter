@@ -62,6 +62,8 @@ search.brave.com###results > div:has(a[href*="pythonawesome.com"])
 search.brave.com###results > div:has(a[href*="gitmotion.com"])
 *://fantashit.com/*
 search.brave.com###results > div:has(a[href*="fantashit.com"])
+*://githubhot.com/*
+search.brave.com###results > div:has(a[href*="githubhot.com"])
 *://npmmirror.com/*
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*

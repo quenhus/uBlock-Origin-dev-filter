@@ -62,3 +62,5 @@ google.*##.g:has(a[href*="pythonawesome.com"])
 google.*##.g:has(a[href*="gitmotion.com"])
 *://fantashit.com/*
 google.*##.g:has(a[href*="fantashit.com"])
+*://githubhot.com/*
+google.*##.g:has(a[href*="githubhot.com"])

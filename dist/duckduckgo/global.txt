@@ -62,6 +62,8 @@ duckduckgo.com##[data-domain$="pythonawesome.com"]
 duckduckgo.com##[data-domain$="gitmotion.com"]
 *://fantashit.com/*
 duckduckgo.com##[data-domain$="fantashit.com"]
+*://githubhot.com/*
+duckduckgo.com##[data-domain$="githubhot.com"]
 *://npmmirror.com/*
 duckduckgo.com##[data-domain$="npmmirror.com"]
 *://cnpmjs.org/*
