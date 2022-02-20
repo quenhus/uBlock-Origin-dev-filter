@@ -414,6 +414,8 @@ startpage.com##.w-gl__result:has(a[href*="ubuntuplace.info"])
 startpage.com##.w-gl__result:has(a[href*="wikiroot.ru"])
 *://sysadminde.com/*
 startpage.com##.w-gl__result:has(a[href*="sysadminde.com"])
+*://askdev.ru/*
+startpage.com##.w-gl__result:has(a[href*="askdev.ru"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

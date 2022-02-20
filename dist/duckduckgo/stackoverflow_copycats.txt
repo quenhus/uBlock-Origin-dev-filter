@@ -352,3 +352,5 @@ duckduckgo.com##[data-domain$="ubuntuplace.info"]
 duckduckgo.com##[data-domain$="wikiroot.ru"]
 *://sysadminde.com/*
 duckduckgo.com##[data-domain$="sysadminde.com"]
+*://askdev.ru/*
+duckduckgo.com##[data-domain$="askdev.ru"]

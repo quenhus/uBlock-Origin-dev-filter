@@ -210,6 +210,7 @@
 [data-domain*="ubuntuplace.info"],
 [data-domain*="wikiroot.ru"],
 [data-domain*="sysadminde.com"],
+[data-domain*="askdev.ru"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

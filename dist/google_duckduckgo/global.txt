@@ -618,6 +618,9 @@ duckduckgo.com##[data-domain$="wikiroot.ru"]
 *://sysadminde.com/*
 google.*##.g:has(a[href*="sysadminde.com"])
 duckduckgo.com##[data-domain$="sysadminde.com"]
+*://askdev.ru/*
+google.*##.g:has(a[href*="askdev.ru"])
+duckduckgo.com##[data-domain$="askdev.ru"]
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com##[data-domain$="encyclopedia.thefreedictionary.com"]
