@@ -174,3 +174,4 @@
 *://wikiroot.ru/*
 *://sysadminde.com/*
 *://askdev.ru/*
+*://dogovori.info/*
