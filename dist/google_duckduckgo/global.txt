@@ -684,3 +684,9 @@ duckduckgo.com##[data-domain$="www.secret-bases.co.uk/wiki"]
 *://www.scholarship.edu.vn/wiki/*
 google.*##.g:has(a[href*="www.scholarship.edu.vn/wiki"])
 duckduckgo.com##[data-domain$="www.scholarship.edu.vn/wiki"]
+*://*.frwiki.wiki/*
+google.*##.g:has(a[href*=".frwiki.wiki"])
+duckduckgo.com##[data-domain$=".frwiki.wiki"]
+*://*.zxc.wiki/*
+google.*##.g:has(a[href*=".zxc.wiki"])
+duckduckgo.com##[data-domain$=".zxc.wiki"]

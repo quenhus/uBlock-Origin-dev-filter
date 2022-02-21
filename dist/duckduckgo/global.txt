@@ -458,3 +458,7 @@ duckduckgo.com##[data-domain$="www.wikit.wiki"]
 duckduckgo.com##[data-domain$="www.secret-bases.co.uk/wiki"]
 *://www.scholarship.edu.vn/wiki/*
 duckduckgo.com##[data-domain$="www.scholarship.edu.vn/wiki"]
+*://*.frwiki.wiki/*
+duckduckgo.com##[data-domain$=".frwiki.wiki"]
+*://*.zxc.wiki/*
+duckduckgo.com##[data-domain$=".zxc.wiki"]

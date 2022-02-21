@@ -458,3 +458,7 @@ google.*##.g:has(a[href*="www.wikit.wiki"])
 google.*##.g:has(a[href*="www.secret-bases.co.uk/wiki"])
 *://www.scholarship.edu.vn/wiki/*
 google.*##.g:has(a[href*="www.scholarship.edu.vn/wiki"])
+*://*.frwiki.wiki/*
+google.*##.g:has(a[href*=".frwiki.wiki"])
+*://*.zxc.wiki/*
+google.*##.g:has(a[href*=".zxc.wiki"])

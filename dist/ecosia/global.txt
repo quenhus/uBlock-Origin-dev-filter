@@ -458,3 +458,7 @@ ecosia.org##.result:has(a[href*="www.wikit.wiki"])
 ecosia.org##.result:has(a[href*="www.secret-bases.co.uk/wiki"])
 *://www.scholarship.edu.vn/wiki/*
 ecosia.org##.result:has(a[href*="www.scholarship.edu.vn/wiki"])
+*://*.frwiki.wiki/*
+ecosia.org##.result:has(a[href*=".frwiki.wiki"])
+*://*.zxc.wiki/*
+ecosia.org##.result:has(a[href*=".zxc.wiki"])
