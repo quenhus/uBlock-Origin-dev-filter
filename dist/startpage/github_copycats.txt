@@ -74,3 +74,11 @@ startpage.com##.w-gl__result:has(a[href*="news24lite.com"])
 startpage.com##.w-gl__result:has(a[href*="github.phala.one"])
 *://google-yandex.info/*
 startpage.com##.w-gl__result:has(a[href*="google-yandex.info"])
+*://coder.social/*
+startpage.com##.w-gl__result:has(a[href*="coder.social"])
+*://javarepos.com/*
+startpage.com##.w-gl__result:has(a[href*="javarepos.com"])
+*://*.fastgit.org/*
+startpage.com##.w-gl__result:has(a[href*=".fastgit.org"])
+*://gitmetadata.com/*
+startpage.com##.w-gl__result:has(a[href*="gitmetadata.com"])

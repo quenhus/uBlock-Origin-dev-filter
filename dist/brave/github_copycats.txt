@@ -74,3 +74,11 @@ search.brave.com###results > div:has(a[href*="news24lite.com"])
 search.brave.com###results > div:has(a[href*="github.phala.one"])
 *://google-yandex.info/*
 search.brave.com###results > div:has(a[href*="google-yandex.info"])
+*://coder.social/*
+search.brave.com###results > div:has(a[href*="coder.social"])
+*://javarepos.com/*
+search.brave.com###results > div:has(a[href*="javarepos.com"])
+*://*.fastgit.org/*
+search.brave.com###results > div:has(a[href*=".fastgit.org"])
+*://gitmetadata.com/*
+search.brave.com###results > div:has(a[href*="gitmetadata.com"])

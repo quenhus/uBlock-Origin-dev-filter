@@ -74,3 +74,11 @@ google.*##.g:has(a[href*="news24lite.com"])
 google.*##.g:has(a[href*="github.phala.one"])
 *://google-yandex.info/*
 google.*##.g:has(a[href*="google-yandex.info"])
+*://coder.social/*
+google.*##.g:has(a[href*="coder.social"])
+*://javarepos.com/*
+google.*##.g:has(a[href*="javarepos.com"])
+*://*.fastgit.org/*
+google.*##.g:has(a[href*=".fastgit.org"])
+*://gitmetadata.com/*
+google.*##.g:has(a[href*="gitmetadata.com"])

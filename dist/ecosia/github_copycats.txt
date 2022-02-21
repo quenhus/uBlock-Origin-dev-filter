@@ -74,3 +74,11 @@ ecosia.org##.result:has(a[href*="news24lite.com"])
 ecosia.org##.result:has(a[href*="github.phala.one"])
 *://google-yandex.info/*
 ecosia.org##.result:has(a[href*="google-yandex.info"])
+*://coder.social/*
+ecosia.org##.result:has(a[href*="coder.social"])
+*://javarepos.com/*
+ecosia.org##.result:has(a[href*="javarepos.com"])
+*://*.fastgit.org/*
+ecosia.org##.result:has(a[href*=".fastgit.org"])
+*://gitmetadata.com/*
+ecosia.org##.result:has(a[href*="gitmetadata.com"])

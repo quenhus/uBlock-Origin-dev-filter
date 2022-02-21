@@ -40,6 +40,10 @@
 [data-domain*="news24lite.com"],
 [data-domain*="github.phala.one"],
 [data-domain*="google-yandex.info"],
+[data-domain*="coder.social"],
+[data-domain*="javarepos.com"],
+[data-domain*="fastgit.org"],
+[data-domain*="gitmetadata.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
