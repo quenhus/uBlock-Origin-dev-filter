@@ -528,3 +528,6 @@ duckduckgo.com##[data-domain$="sysadminde.com"]
 *://askdev.ru/*
 google.*##.g:has(a[href*="askdev.ru"])
 duckduckgo.com##[data-domain$="askdev.ru"]
+*://dogovori.info/*
+google.*##.g:has(a[href*="dogovori.info"])
+duckduckgo.com##[data-domain$="dogovori.info"]

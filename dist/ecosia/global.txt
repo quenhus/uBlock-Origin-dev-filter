@@ -426,6 +426,8 @@ ecosia.org##.result:has(a[href*="wikiroot.ru"])
 ecosia.org##.result:has(a[href*="sysadminde.com"])
 *://askdev.ru/*
 ecosia.org##.result:has(a[href*="askdev.ru"])
+*://dogovori.info/*
+ecosia.org##.result:has(a[href*="dogovori.info"])
 *://encyclopedia.thefreedictionary.com/*
 ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

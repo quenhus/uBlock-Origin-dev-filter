@@ -354,3 +354,5 @@ duckduckgo.com##[data-domain$="wikiroot.ru"]
 duckduckgo.com##[data-domain$="sysadminde.com"]
 *://askdev.ru/*
 duckduckgo.com##[data-domain$="askdev.ru"]
+*://dogovori.info/*
+duckduckgo.com##[data-domain$="dogovori.info"]

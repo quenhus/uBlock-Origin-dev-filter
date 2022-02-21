@@ -354,3 +354,5 @@ startpage.com##.w-gl__result:has(a[href*="wikiroot.ru"])
 startpage.com##.w-gl__result:has(a[href*="sysadminde.com"])
 *://askdev.ru/*
 startpage.com##.w-gl__result:has(a[href*="askdev.ru"])
+*://dogovori.info/*
+startpage.com##.w-gl__result:has(a[href*="dogovori.info"])

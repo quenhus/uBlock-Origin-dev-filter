@@ -426,3 +426,5 @@ search.brave.com###results > div:has(a[href*="wikiroot.ru"])
 search.brave.com###results > div:has(a[href*="sysadminde.com"])
 *://askdev.ru/*
 search.brave.com###results > div:has(a[href*="askdev.ru"])
+*://dogovori.info/*
+search.brave.com###results > div:has(a[href*="dogovori.info"])

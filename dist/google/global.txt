@@ -426,6 +426,8 @@ google.*##.g:has(a[href*="wikiroot.ru"])
 google.*##.g:has(a[href*="sysadminde.com"])
 *://askdev.ru/*
 google.*##.g:has(a[href*="askdev.ru"])
+*://dogovori.info/*
+google.*##.g:has(a[href*="dogovori.info"])
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

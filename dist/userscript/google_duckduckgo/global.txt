@@ -216,6 +216,7 @@
 [data-domain*="wikiroot.ru"],
 [data-domain*="sysadminde.com"],
 [data-domain*="askdev.ru"],
+[data-domain*="dogovori.info"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],
