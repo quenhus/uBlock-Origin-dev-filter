@@ -436,3 +436,5 @@ startpage.com##.w-gl__result:has(a[href*="coderquestion.ru"])
 startpage.com##.w-gl__result:has(a[href*="dogovori.info"])
 *://itecnote.com/*
 startpage.com##.w-gl__result:has(a[href*="itecnote.com"])
+*://askcodez.com/*
+startpage.com##.w-gl__result:has(a[href*="askcodez.com"])

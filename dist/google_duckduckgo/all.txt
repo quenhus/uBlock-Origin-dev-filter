@@ -777,3 +777,6 @@ duckduckgo.com##[data-domain$="dogovori.info"]
 *://itecnote.com/*
 google.*##.g:has(a[href*="itecnote.com"])
 duckduckgo.com##[data-domain$="itecnote.com"]
+*://askcodez.com/*
+google.*##.g:has(a[href*="askcodez.com"])
+duckduckgo.com##[data-domain$="askcodez.com"]

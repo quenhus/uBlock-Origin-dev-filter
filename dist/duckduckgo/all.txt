@@ -520,3 +520,5 @@ duckduckgo.com##[data-domain$="coderquestion.ru"]
 duckduckgo.com##[data-domain$="dogovori.info"]
 *://itecnote.com/*
 duckduckgo.com##[data-domain$="itecnote.com"]
+*://askcodez.com/*
+duckduckgo.com##[data-domain$="askcodez.com"]
