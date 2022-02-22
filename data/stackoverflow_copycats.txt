@@ -214,3 +214,4 @@
 *://coderoad.in/*
 *://coderquestion.ru/*
 *://dogovori.info/*
+*://itecnote.com/*
