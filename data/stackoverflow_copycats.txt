@@ -225,3 +225,5 @@
 *://respuestas.me/*
 *://antwortenhier.me/*
 *://proubuntu.ru/*
+*://over.wiki/*
+*://debiantutorials.org/*
