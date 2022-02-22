@@ -223,6 +223,14 @@
 [data-domain*="itecnote.com"],
 [data-domain*="askcodez.com"],
 [data-domain*="bootpanic.com"],
+[data-domain*="askentire.net"],
+[data-domain*="de-vraag.com"],
+[data-domain*="qacode.ru"],
+[data-domain*="sobrelinux.info"],
+[data-domain*="askfrance.me"],
+[data-domain*="respuestas.me"],
+[data-domain*="antwortenhier.me"],
+[data-domain*="proubuntu.ru"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

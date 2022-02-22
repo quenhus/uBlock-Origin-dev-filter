@@ -32,3 +32,53 @@ search.brave.com###results > div:has(a[href*="www.scholarship.edu.vn/wiki"])
 search.brave.com###results > div:has(a[href*=".frwiki.wiki"])
 *://*.zxc.wiki/*
 search.brave.com###results > div:has(a[href*=".zxc.wiki"])
+*://360wiki.ru/*
+search.brave.com###results > div:has(a[href*="360wiki.ru"])
+*://sv.abcdef.wiki/*
+search.brave.com###results > div:has(a[href*="sv.abcdef.wiki"])
+*://buildwiki.ru/*
+search.brave.com###results > div:has(a[href*="buildwiki.ru"])
+*://*.datewiki.ru/*
+search.brave.com###results > div:has(a[href*=".datewiki.ru"])
+*://encyclopaedia.bid/*
+search.brave.com###results > div:has(a[href*="encyclopaedia.bid"])
+*://gaz.wiki/*
+search.brave.com###results > div:has(a[href*="gaz.wiki"])
+*://th.hmong.wiki/*
+search.brave.com###results > div:has(a[href*="th.hmong.wiki"])
+*://hmong.ru/*
+search.brave.com###results > div:has(a[href*="hmong.ru"])
+*://livepcwiki.ru/*
+search.brave.com###results > div:has(a[href*="livepcwiki.ru"])
+*://enhancedwiki.territorioscuola.it/*
+search.brave.com###results > div:has(a[href*="enhancedwiki.territorioscuola.it"])
+*://wiki-org.ru/*
+search.brave.com###results > div:has(a[href*="wiki-org.ru"])
+*://wiki2.net/*
+search.brave.com###results > div:has(a[href*="wiki2.net"])
+*://wiki2.info/*
+search.brave.com###results > div:has(a[href*="wiki2.info"])
+*://wiki2.org/*
+search.brave.com###results > div:has(a[href*="wiki2.org"])
+*://wiki.cologne/*
+search.brave.com###results > div:has(a[href*="wiki.cologne"])
+*://wikidea.ru/*
+search.brave.com###results > div:has(a[href*="wikidea.ru"])
+*://wiki2wiki.ru/*
+search.brave.com###results > div:has(a[href*="wiki2wiki.ru"])
+*://globalwikionline.com/*
+search.brave.com###results > div:has(a[href*="globalwikionline.com"])
+*://www.wikipe.wiki/*
+search.brave.com###results > div:has(a[href*="www.wikipe.wiki"])
+*://wikipedia.tel/*
+search.brave.com###results > div:has(a[href*="wikipedia.tel"])
+*://wikidark.ru/*
+search.brave.com###results > div:has(a[href*="wikidark.ru"])
+*://wikiredia.ru/*
+search.brave.com###results > div:has(a[href*="wikiredia.ru"])
+*://wikipedia24.ru/*
+search.brave.com###results > div:has(a[href*="wikipedia24.ru"])
+*://www.wikiwand.com/*
+search.brave.com###results > div:has(a[href*="www.wikiwand.com"])
+*://*.encyclopedia.kz/*
+search.brave.com###results > div:has(a[href*=".encyclopedia.kz"])

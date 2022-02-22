@@ -440,3 +440,19 @@ search.brave.com###results > div:has(a[href*="itecnote.com"])
 search.brave.com###results > div:has(a[href*="askcodez.com"])
 *://bootpanic.com/*
 search.brave.com###results > div:has(a[href*="bootpanic.com"])
+*://askentire.net/*
+search.brave.com###results > div:has(a[href*="askentire.net"])
+*://de-vraag.com/*
+search.brave.com###results > div:has(a[href*="de-vraag.com"])
+*://qacode.ru/*
+search.brave.com###results > div:has(a[href*="qacode.ru"])
+*://sobrelinux.info/*
+search.brave.com###results > div:has(a[href*="sobrelinux.info"])
+*://askfrance.me/*
+search.brave.com###results > div:has(a[href*="askfrance.me"])
+*://respuestas.me/*
+search.brave.com###results > div:has(a[href*="respuestas.me"])
+*://antwortenhier.me/*
+search.brave.com###results > div:has(a[href*="antwortenhier.me"])
+*://proubuntu.ru/*
+search.brave.com###results > div:has(a[href*="proubuntu.ru"])
