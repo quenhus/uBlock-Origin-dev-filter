@@ -540,6 +540,10 @@ ecosia.org##.result:has(a[href*="respuestas.me"])
 ecosia.org##.result:has(a[href*="antwortenhier.me"])
 *://proubuntu.ru/*
 ecosia.org##.result:has(a[href*="proubuntu.ru"])
+*://over.wiki/*
+ecosia.org##.result:has(a[href*="over.wiki"])
+*://debiantutorials.org/*
+ecosia.org##.result:has(a[href*="debiantutorials.org"])
 *://encyclopedia.thefreedictionary.com/*
 ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

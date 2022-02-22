@@ -807,3 +807,9 @@ duckduckgo.com##[data-domain$="antwortenhier.me"]
 *://proubuntu.ru/*
 google.*##.g:has(a[href*="proubuntu.ru"])
 duckduckgo.com##[data-domain$="proubuntu.ru"]
+*://over.wiki/*
+google.*##.g:has(a[href*="over.wiki"])
+duckduckgo.com##[data-domain$="over.wiki"]
+*://debiantutorials.org/*
+google.*##.g:has(a[href*="debiantutorials.org"])
+duckduckgo.com##[data-domain$="debiantutorials.org"]

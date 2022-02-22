@@ -540,6 +540,10 @@ duckduckgo.com##[data-domain$="respuestas.me"]
 duckduckgo.com##[data-domain$="antwortenhier.me"]
 *://proubuntu.ru/*
 duckduckgo.com##[data-domain$="proubuntu.ru"]
+*://over.wiki/*
+duckduckgo.com##[data-domain$="over.wiki"]
+*://debiantutorials.org/*
+duckduckgo.com##[data-domain$="debiantutorials.org"]
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com##[data-domain$="encyclopedia.thefreedictionary.com"]
 *://www.algebra.com/*

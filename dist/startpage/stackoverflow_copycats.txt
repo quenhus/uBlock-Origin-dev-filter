@@ -456,3 +456,7 @@ startpage.com##.w-gl__result:has(a[href*="respuestas.me"])
 startpage.com##.w-gl__result:has(a[href*="antwortenhier.me"])
 *://proubuntu.ru/*
 startpage.com##.w-gl__result:has(a[href*="proubuntu.ru"])
+*://over.wiki/*
+startpage.com##.w-gl__result:has(a[href*="over.wiki"])
+*://debiantutorials.org/*
+startpage.com##.w-gl__result:has(a[href*="debiantutorials.org"])

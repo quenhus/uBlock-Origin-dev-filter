@@ -540,3 +540,7 @@ google.*##.g:has(a[href*="respuestas.me"])
 google.*##.g:has(a[href*="antwortenhier.me"])
 *://proubuntu.ru/*
 google.*##.g:has(a[href*="proubuntu.ru"])
+*://over.wiki/*
+google.*##.g:has(a[href*="over.wiki"])
+*://debiantutorials.org/*
+google.*##.g:has(a[href*="debiantutorials.org"])

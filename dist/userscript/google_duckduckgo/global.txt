@@ -273,6 +273,8 @@
 [data-domain*="respuestas.me"],
 [data-domain*="antwortenhier.me"],
 [data-domain*="proubuntu.ru"],
+[data-domain*="over.wiki"],
+[data-domain*="debiantutorials.org"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

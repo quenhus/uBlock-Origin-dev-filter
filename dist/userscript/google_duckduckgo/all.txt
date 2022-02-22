@@ -273,6 +273,8 @@
 [data-domain*="respuestas.me"],
 [data-domain*="antwortenhier.me"],
 [data-domain*="proubuntu.ru"],
+[data-domain*="over.wiki"],
+[data-domain*="debiantutorials.org"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

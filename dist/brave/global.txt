@@ -540,6 +540,10 @@ search.brave.com###results > div:has(a[href*="respuestas.me"])
 search.brave.com###results > div:has(a[href*="antwortenhier.me"])
 *://proubuntu.ru/*
 search.brave.com###results > div:has(a[href*="proubuntu.ru"])
+*://over.wiki/*
+search.brave.com###results > div:has(a[href*="over.wiki"])
+*://debiantutorials.org/*
+search.brave.com###results > div:has(a[href*="debiantutorials.org"])
 *://encyclopedia.thefreedictionary.com/*
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*
