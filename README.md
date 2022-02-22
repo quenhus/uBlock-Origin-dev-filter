@@ -1,6 +1,8 @@
 # uBlock-Origin-dev-filter
 Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Used to be specific to dev websites like StackOverflow or GitHub, but it currently supports others like Wikipedia.
 
+To use this tools, you should have [uBlock Origin installed](https://github.com/gorhill/uBlock).
+
 ## Import into uBlock Origin
 
 Select the filters flavors you want, depending on your needs and search engine:

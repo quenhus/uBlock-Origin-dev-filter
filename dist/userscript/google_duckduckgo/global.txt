@@ -35,6 +35,15 @@
 [data-domain*="gitmotion.com"],
 [data-domain*="fantashit.com"],
 [data-domain*="githubhot.com"],
+[data-domain*="gitcode.net"],
+[data-domain*="readintrend.com"],
+[data-domain*="news24lite.com"],
+[data-domain*="github.phala.one"],
+[data-domain*="google-yandex.info"],
+[data-domain*="coder.social"],
+[data-domain*="javarepos.com"],
+[data-domain*="fastgit.org"],
+[data-domain*="gitmetadata.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="code-examples.net"],
@@ -211,6 +220,7 @@
 [data-domain*="wikiroot.ru"],
 [data-domain*="sysadminde.com"],
 [data-domain*="askdev.ru"],
+[data-domain*="dogovori.info"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],
@@ -222,6 +232,8 @@
 [data-domain*="www.wikit.wiki"],
 [data-domain*="www.secret-bases.co.uk/wiki"],
 [data-domain*="www.scholarship.edu.vn/wiki"],
+[data-domain*="frwiki.wiki"],
+[data-domain*="zxc.wiki"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

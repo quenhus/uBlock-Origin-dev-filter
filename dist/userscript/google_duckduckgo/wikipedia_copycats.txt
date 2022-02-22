@@ -17,6 +17,8 @@
 [data-domain*="www.wikit.wiki"],
 [data-domain*="www.secret-bases.co.uk/wiki"],
 [data-domain*="www.scholarship.edu.vn/wiki"],
+[data-domain*="frwiki.wiki"],
+[data-domain*="zxc.wiki"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

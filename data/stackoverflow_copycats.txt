@@ -213,3 +213,4 @@
 *://codengineering.ru/*
 *://coderoad.in/*
 *://coderquestion.ru/*
+*://dogovori.info/*

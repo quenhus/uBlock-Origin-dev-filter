@@ -9,3 +9,5 @@
 *://www.wikit.wiki/*
 *://www.secret-bases.co.uk/wiki/*
 *://www.scholarship.edu.vn/wiki/*
+*://*.frwiki.wiki/*
+*://*.zxc.wiki/*
