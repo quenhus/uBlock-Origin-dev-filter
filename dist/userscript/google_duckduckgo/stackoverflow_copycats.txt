@@ -222,6 +222,7 @@
 [data-domain*="dogovori.info"],
 [data-domain*="itecnote.com"],
 [data-domain*="askcodez.com"],
+[data-domain*="bootpanic.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

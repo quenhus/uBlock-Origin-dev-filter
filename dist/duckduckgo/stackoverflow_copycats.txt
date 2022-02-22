@@ -438,3 +438,5 @@ duckduckgo.com##[data-domain$="dogovori.info"]
 duckduckgo.com##[data-domain$="itecnote.com"]
 *://askcodez.com/*
 duckduckgo.com##[data-domain$="askcodez.com"]
+*://bootpanic.com/*
+duckduckgo.com##[data-domain$="bootpanic.com"]

@@ -264,6 +264,7 @@
 [data-domain*="dogovori.info"],
 [data-domain*="itecnote.com"],
 [data-domain*="askcodez.com"],
+[data-domain*="bootpanic.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

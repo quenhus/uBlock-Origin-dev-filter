@@ -438,3 +438,5 @@ startpage.com##.w-gl__result:has(a[href*="dogovori.info"])
 startpage.com##.w-gl__result:has(a[href*="itecnote.com"])
 *://askcodez.com/*
 startpage.com##.w-gl__result:has(a[href*="askcodez.com"])
+*://bootpanic.com/*
+startpage.com##.w-gl__result:has(a[href*="bootpanic.com"])

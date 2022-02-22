@@ -522,6 +522,8 @@ duckduckgo.com##[data-domain$="dogovori.info"]
 duckduckgo.com##[data-domain$="itecnote.com"]
 *://askcodez.com/*
 duckduckgo.com##[data-domain$="askcodez.com"]
+*://bootpanic.com/*
+duckduckgo.com##[data-domain$="bootpanic.com"]
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com##[data-domain$="encyclopedia.thefreedictionary.com"]
 *://www.algebra.com/*

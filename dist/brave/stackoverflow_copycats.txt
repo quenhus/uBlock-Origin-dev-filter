@@ -438,3 +438,5 @@ search.brave.com###results > div:has(a[href*="dogovori.info"])
 search.brave.com###results > div:has(a[href*="itecnote.com"])
 *://askcodez.com/*
 search.brave.com###results > div:has(a[href*="askcodez.com"])
+*://bootpanic.com/*
+search.brave.com###results > div:has(a[href*="bootpanic.com"])

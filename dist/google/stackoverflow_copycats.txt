@@ -438,3 +438,5 @@ google.*##.g:has(a[href*="dogovori.info"])
 google.*##.g:has(a[href*="itecnote.com"])
 *://askcodez.com/*
 google.*##.g:has(a[href*="askcodez.com"])
+*://bootpanic.com/*
+google.*##.g:has(a[href*="bootpanic.com"])
