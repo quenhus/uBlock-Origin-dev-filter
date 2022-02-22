@@ -82,3 +82,7 @@ google.*##.g:has(a[href*="javarepos.com"])
 google.*##.g:has(a[href*=".fastgit.org"])
 *://gitmetadata.com/*
 google.*##.g:has(a[href*="gitmetadata.com"])
+*://iboxshare.com/*
+google.*##.g:has(a[href*="iboxshare.com"])
+*://www.fuscin.com/*
+google.*##.g:has(a[href*="www.fuscin.com"])

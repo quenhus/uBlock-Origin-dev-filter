@@ -44,6 +44,8 @@
 [data-domain*="javarepos.com"],
 [data-domain*="fastgit.org"],
 [data-domain*="gitmetadata.com"],
+[data-domain*="iboxshare.com"],
+[data-domain*="www.fuscin.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

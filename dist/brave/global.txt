@@ -82,6 +82,10 @@ search.brave.com###results > div:has(a[href*="javarepos.com"])
 search.brave.com###results > div:has(a[href*=".fastgit.org"])
 *://gitmetadata.com/*
 search.brave.com###results > div:has(a[href*="gitmetadata.com"])
+*://iboxshare.com/*
+search.brave.com###results > div:has(a[href*="iboxshare.com"])
+*://www.fuscin.com/*
+search.brave.com###results > div:has(a[href*="www.fuscin.com"])
 *://npmmirror.com/*
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*

@@ -82,6 +82,10 @@ duckduckgo.com##[data-domain$="javarepos.com"]
 duckduckgo.com##[data-domain$=".fastgit.org"]
 *://gitmetadata.com/*
 duckduckgo.com##[data-domain$="gitmetadata.com"]
+*://iboxshare.com/*
+duckduckgo.com##[data-domain$="iboxshare.com"]
+*://www.fuscin.com/*
+duckduckgo.com##[data-domain$="www.fuscin.com"]
 *://npmmirror.com/*
 duckduckgo.com##[data-domain$="npmmirror.com"]
 *://cnpmjs.org/*

@@ -82,3 +82,7 @@ startpage.com##.w-gl__result:has(a[href*="javarepos.com"])
 startpage.com##.w-gl__result:has(a[href*=".fastgit.org"])
 *://gitmetadata.com/*
 startpage.com##.w-gl__result:has(a[href*="gitmetadata.com"])
+*://iboxshare.com/*
+startpage.com##.w-gl__result:has(a[href*="iboxshare.com"])
+*://www.fuscin.com/*
+startpage.com##.w-gl__result:has(a[href*="www.fuscin.com"])

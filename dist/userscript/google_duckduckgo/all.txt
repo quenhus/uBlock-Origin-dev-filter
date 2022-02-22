@@ -44,6 +44,8 @@
 [data-domain*="javarepos.com"],
 [data-domain*="fastgit.org"],
 [data-domain*="gitmetadata.com"],
+[data-domain*="iboxshare.com"],
+[data-domain*="www.fuscin.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="code-examples.net"],

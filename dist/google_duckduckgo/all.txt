@@ -120,6 +120,12 @@ duckduckgo.com##[data-domain$=".fastgit.org"]
 *://gitmetadata.com/*
 google.*##.g:has(a[href*="gitmetadata.com"])
 duckduckgo.com##[data-domain$="gitmetadata.com"]
+*://iboxshare.com/*
+google.*##.g:has(a[href*="iboxshare.com"])
+duckduckgo.com##[data-domain$="iboxshare.com"]
+*://www.fuscin.com/*
+google.*##.g:has(a[href*="www.fuscin.com"])
+duckduckgo.com##[data-domain$="www.fuscin.com"]
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com##[data-domain$="npmmirror.com"]
