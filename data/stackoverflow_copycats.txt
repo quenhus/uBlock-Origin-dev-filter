@@ -217,3 +217,11 @@
 *://itecnote.com/*
 *://askcodez.com/*
 *://bootpanic.com/*
+*://askentire.net/*
+*://de-vraag.com/*
+*://qacode.ru/*
+*://sobrelinux.info/*
+*://askfrance.me/*
+*://respuestas.me/*
+*://antwortenhier.me/*
+*://proubuntu.ru/*
