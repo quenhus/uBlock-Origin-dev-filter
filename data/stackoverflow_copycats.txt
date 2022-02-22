@@ -215,3 +215,4 @@
 *://coderquestion.ru/*
 *://dogovori.info/*
 *://itecnote.com/*
+*://askcodez.com/*
