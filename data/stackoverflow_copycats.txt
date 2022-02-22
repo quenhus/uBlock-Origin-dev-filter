@@ -216,3 +216,4 @@
 *://dogovori.info/*
 *://itecnote.com/*
 *://askcodez.com/*
+*://bootpanic.com/*
