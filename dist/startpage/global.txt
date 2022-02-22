@@ -518,6 +518,8 @@ startpage.com##.w-gl__result:has(a[href*="coderoad.in"])
 startpage.com##.w-gl__result:has(a[href*="coderquestion.ru"])
 *://dogovori.info/*
 startpage.com##.w-gl__result:has(a[href*="dogovori.info"])
+*://itecnote.com/*
+startpage.com##.w-gl__result:has(a[href*="itecnote.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

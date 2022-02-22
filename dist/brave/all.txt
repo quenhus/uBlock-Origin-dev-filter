@@ -518,3 +518,5 @@ search.brave.com###results > div:has(a[href*="coderoad.in"])
 search.brave.com###results > div:has(a[href*="coderquestion.ru"])
 *://dogovori.info/*
 search.brave.com###results > div:has(a[href*="dogovori.info"])
+*://itecnote.com/*
+search.brave.com###results > div:has(a[href*="itecnote.com"])

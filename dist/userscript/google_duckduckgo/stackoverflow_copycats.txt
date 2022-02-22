@@ -220,6 +220,7 @@
 [data-domain*="coderoad.in"],
 [data-domain*="coderquestion.ru"],
 [data-domain*="dogovori.info"],
+[data-domain*="itecnote.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

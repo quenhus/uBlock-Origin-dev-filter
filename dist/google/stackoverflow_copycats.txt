@@ -434,3 +434,5 @@ google.*##.g:has(a[href*="coderoad.in"])
 google.*##.g:has(a[href*="coderquestion.ru"])
 *://dogovori.info/*
 google.*##.g:has(a[href*="dogovori.info"])
+*://itecnote.com/*
+google.*##.g:has(a[href*="itecnote.com"])

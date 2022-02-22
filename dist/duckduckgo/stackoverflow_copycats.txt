@@ -434,3 +434,5 @@ duckduckgo.com##[data-domain$="coderoad.in"]
 duckduckgo.com##[data-domain$="coderquestion.ru"]
 *://dogovori.info/*
 duckduckgo.com##[data-domain$="dogovori.info"]
+*://itecnote.com/*
+duckduckgo.com##[data-domain$="itecnote.com"]

@@ -774,6 +774,9 @@ duckduckgo.com##[data-domain$="coderquestion.ru"]
 *://dogovori.info/*
 google.*##.g:has(a[href*="dogovori.info"])
 duckduckgo.com##[data-domain$="dogovori.info"]
+*://itecnote.com/*
+google.*##.g:has(a[href*="itecnote.com"])
+duckduckgo.com##[data-domain$="itecnote.com"]
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com##[data-domain$="encyclopedia.thefreedictionary.com"]
