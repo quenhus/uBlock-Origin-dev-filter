@@ -19,7 +19,11 @@ def to_google(url):
     return f'google.*##.g:has(a[href*="{to_css_attr(url)}"])'
 
 def to_duckduckgo(url):
-    return f'duckduckgo.com##[data-domain$="{to_css_attr(url)}"]'
+    url_splitted = url.replace("*://", "").split("/", 1)
+    if len(url_splitted) > 1 and url_splitted[1] != "*":
+        # Has a non-wildcard path, aka path != "/*"
+        return f'duckduckgo.com###links>.result[data-domain$="{to_css_attr(url_splitted[0])}"]:has(a[href*="{to_css_attr(url)}"])'
+    return f'duckduckgo.com###links>.result[data-domain$="{to_css_attr(url)}"]'
 
 def to_brave(url):
     return f'search.brave.com###results > div:has(a[href*="{to_css_attr(url)}"])'
