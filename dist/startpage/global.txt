@@ -544,6 +544,8 @@ startpage.com##.w-gl__result:has(a[href*="proubuntu.ru"])
 startpage.com##.w-gl__result:has(a[href*="over.wiki"])
 *://debiantutorials.org/*
 startpage.com##.w-gl__result:has(a[href*="debiantutorials.org"])
+*://grokbase.com/*
+startpage.com##.w-gl__result:has(a[href*="grokbase.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

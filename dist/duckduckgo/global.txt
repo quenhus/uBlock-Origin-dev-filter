@@ -544,6 +544,8 @@ duckduckgo.com###links>.result[data-domain$="proubuntu.ru"]
 duckduckgo.com###links>.result[data-domain$="over.wiki"]
 *://debiantutorials.org/*
 duckduckgo.com###links>.result[data-domain$="debiantutorials.org"]
+*://grokbase.com/*
+duckduckgo.com###links>.result[data-domain$="grokbase.com"]
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>.result[data-domain$="encyclopedia.thefreedictionary.com"]
 *://www.algebra.com/*

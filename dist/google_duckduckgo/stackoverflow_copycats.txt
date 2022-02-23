@@ -687,3 +687,6 @@ duckduckgo.com###links>.result[data-domain$="over.wiki"]
 *://debiantutorials.org/*
 google.*##.g:has(a[href*="debiantutorials.org"])
 duckduckgo.com###links>.result[data-domain$="debiantutorials.org"]
+*://grokbase.com/*
+google.*##.g:has(a[href*="grokbase.com"])
+duckduckgo.com###links>.result[data-domain$="grokbase.com"]

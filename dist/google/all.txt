@@ -544,3 +544,5 @@ google.*##.g:has(a[href*="proubuntu.ru"])
 google.*##.g:has(a[href*="over.wiki"])
 *://debiantutorials.org/*
 google.*##.g:has(a[href*="debiantutorials.org"])
+*://grokbase.com/*
+google.*##.g:has(a[href*="grokbase.com"])

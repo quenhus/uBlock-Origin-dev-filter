@@ -544,3 +544,5 @@ ecosia.org##.result:has(a[href*="proubuntu.ru"])
 ecosia.org##.result:has(a[href*="over.wiki"])
 *://debiantutorials.org/*
 ecosia.org##.result:has(a[href*="debiantutorials.org"])
+*://grokbase.com/*
+ecosia.org##.result:has(a[href*="grokbase.com"])
