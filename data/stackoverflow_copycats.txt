@@ -227,3 +227,4 @@
 *://proubuntu.ru/*
 *://over.wiki/*
 *://debiantutorials.org/*
+*://grokbase.com/*
