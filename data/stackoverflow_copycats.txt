@@ -228,3 +228,4 @@
 *://over.wiki/*
 *://debiantutorials.org/*
 *://grokbase.com/*
+*://wp-qa.com/*
