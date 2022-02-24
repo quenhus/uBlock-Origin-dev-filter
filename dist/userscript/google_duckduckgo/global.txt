@@ -276,6 +276,7 @@
 [data-domain*="over.wiki"],
 [data-domain*="debiantutorials.org"],
 [data-domain*="grokbase.com"],
+[data-domain*="wp-qa.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

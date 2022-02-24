@@ -546,6 +546,8 @@ search.brave.com###results > div:has(a[href*="over.wiki"])
 search.brave.com###results > div:has(a[href*="debiantutorials.org"])
 *://grokbase.com/*
 search.brave.com###results > div:has(a[href*="grokbase.com"])
+*://wp-qa.com/*
+search.brave.com###results > div:has(a[href*="wp-qa.com"])
 *://encyclopedia.thefreedictionary.com/*
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

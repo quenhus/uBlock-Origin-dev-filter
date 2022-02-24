@@ -546,3 +546,5 @@ google.*##.g:has(a[href*="over.wiki"])
 google.*##.g:has(a[href*="debiantutorials.org"])
 *://grokbase.com/*
 google.*##.g:has(a[href*="grokbase.com"])
+*://wp-qa.com/*
+google.*##.g:has(a[href*="wp-qa.com"])

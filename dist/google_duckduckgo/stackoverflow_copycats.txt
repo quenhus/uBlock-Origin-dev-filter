@@ -690,3 +690,6 @@ duckduckgo.com###links>.result[data-domain$="debiantutorials.org"]
 *://grokbase.com/*
 google.*##.g:has(a[href*="grokbase.com"])
 duckduckgo.com###links>.result[data-domain$="grokbase.com"]
+*://wp-qa.com/*
+google.*##.g:has(a[href*="wp-qa.com"])
+duckduckgo.com###links>.result[data-domain$="wp-qa.com"]

@@ -546,3 +546,5 @@ duckduckgo.com###links>.result[data-domain$="over.wiki"]
 duckduckgo.com###links>.result[data-domain$="debiantutorials.org"]
 *://grokbase.com/*
 duckduckgo.com###links>.result[data-domain$="grokbase.com"]
+*://wp-qa.com/*
+duckduckgo.com###links>.result[data-domain$="wp-qa.com"]
