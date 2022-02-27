@@ -572,3 +572,5 @@ duckduckgo.com###links>.result[data-domain$="debiantutorials.org"]
 duckduckgo.com###links>.result[data-domain$="grokbase.com"]
 *://wp-qa.com/*
 duckduckgo.com###links>.result[data-domain$="wp-qa.com"]
+*://*.programmierfrage.com/*
+duckduckgo.com###links>.result[data-domain$=".programmierfrage.com"]

@@ -572,6 +572,8 @@ startpage.com##.w-gl__result:has(a[href*="debiantutorials.org"])
 startpage.com##.w-gl__result:has(a[href*="grokbase.com"])
 *://wp-qa.com/*
 startpage.com##.w-gl__result:has(a[href*="wp-qa.com"])
+*://*.programmierfrage.com/*
+startpage.com##.w-gl__result:has(a[href*=".programmierfrage.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

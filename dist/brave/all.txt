@@ -572,3 +572,5 @@ search.brave.com###results > div:has(a[href*="debiantutorials.org"])
 search.brave.com###results > div:has(a[href*="grokbase.com"])
 *://wp-qa.com/*
 search.brave.com###results > div:has(a[href*="wp-qa.com"])
+*://*.programmierfrage.com/*
+search.brave.com###results > div:has(a[href*=".programmierfrage.com"])
