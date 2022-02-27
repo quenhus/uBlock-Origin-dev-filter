@@ -572,6 +572,8 @@ google.*##.g:has(a[href*="debiantutorials.org"])
 google.*##.g:has(a[href*="grokbase.com"])
 *://wp-qa.com/*
 google.*##.g:has(a[href*="wp-qa.com"])
+*://*.codegrepper.com/*
+google.*##.g:has(a[href*=".codegrepper.com"])
 *://*.programmierfrage.com/*
 google.*##.g:has(a[href*=".programmierfrage.com"])
 *://encyclopedia.thefreedictionary.com/*

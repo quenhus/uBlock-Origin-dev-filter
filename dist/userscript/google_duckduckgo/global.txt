@@ -289,6 +289,7 @@
 [data-domain*="debiantutorials.org"],
 [data-domain*="grokbase.com"],
 [data-domain*="wp-qa.com"],
+[data-domain*="codegrepper.com"],
 [data-domain*="programmierfrage.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],

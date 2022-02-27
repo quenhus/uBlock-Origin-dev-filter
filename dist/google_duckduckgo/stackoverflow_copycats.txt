@@ -693,6 +693,9 @@ duckduckgo.com###links>.result[data-domain$="grokbase.com"]
 *://wp-qa.com/*
 google.*##.g:has(a[href*="wp-qa.com"])
 duckduckgo.com###links>.result[data-domain$="wp-qa.com"]
+*://*.codegrepper.com/*
+google.*##.g:has(a[href*=".codegrepper.com"])
+duckduckgo.com###links>.result[data-domain$=".codegrepper.com"]
 *://*.programmierfrage.com/*
 google.*##.g:has(a[href*=".programmierfrage.com"])
 duckduckgo.com###links>.result[data-domain$=".programmierfrage.com"]
