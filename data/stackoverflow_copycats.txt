@@ -33,7 +33,6 @@
 *://codeguides.site/*
 *://overcoder.net/*
 *://coderoad.ru/*
-*://codegrepper.com/*
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*
@@ -230,3 +229,4 @@
 *://debiantutorials.org/*
 *://grokbase.com/*
 *://wp-qa.com/*
+*://*.codegrepper.com/*
