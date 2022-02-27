@@ -229,3 +229,4 @@
 *://debiantutorials.org/*
 *://grokbase.com/*
 *://wp-qa.com/*
+*://*.programmierfrage.com/*
