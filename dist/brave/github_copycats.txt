@@ -86,3 +86,27 @@ search.brave.com###results > div:has(a[href*="gitmetadata.com"])
 search.brave.com###results > div:has(a[href*="iboxshare.com"])
 *://www.fuscin.com/*
 search.brave.com###results > div:has(a[href*="www.fuscin.com"])
+*://bestofvue.com/*
+search.brave.com###results > div:has(a[href*="bestofvue.com"])
+*://swiftobc.com/*
+search.brave.com###results > div:has(a[href*="swiftobc.com"])
+*://flutterrepos.com/*
+search.brave.com###results > div:has(a[href*="flutterrepos.com"])
+*://androidrepo.com/*
+search.brave.com###results > div:has(a[href*="androidrepo.com"])
+*://bestofflutter.com/*
+search.brave.com###results > div:has(a[href*="bestofflutter.com"])
+*://jsrepos.com/*
+search.brave.com###results > div:has(a[href*="jsrepos.com"])
+*://macosrepo.com/*
+search.brave.com###results > div:has(a[href*="macosrepo.com"])
+*://zzun.app/*
+search.brave.com###results > div:has(a[href*="zzun.app"])
+*://rustrepo.com/*
+search.brave.com###results > div:has(a[href*="rustrepo.com"])
+*://bestofreactjs.com/*
+search.brave.com###results > div:has(a[href*="bestofreactjs.com"])
+*://bestofphp.com/*
+search.brave.com###results > div:has(a[href*="bestofphp.com"])
+*://bestofjava.com/*
+search.brave.com###results > div:has(a[href*="bestofjava.com"])

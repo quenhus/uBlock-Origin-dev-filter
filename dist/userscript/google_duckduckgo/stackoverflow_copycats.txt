@@ -235,6 +235,7 @@
 [data-domain*="debiantutorials.org"],
 [data-domain*="grokbase.com"],
 [data-domain*="wp-qa.com"],
+[data-domain*="programmierfrage.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

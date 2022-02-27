@@ -230,3 +230,4 @@
 *://grokbase.com/*
 *://wp-qa.com/*
 *://*.codegrepper.com/*
+*://*.programmierfrage.com/*
