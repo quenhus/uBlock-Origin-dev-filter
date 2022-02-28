@@ -231,3 +231,5 @@
 *://wp-qa.com/*
 *://*.codegrepper.com/*
 *://*.programmierfrage.com/*
+*://*.microeducate.tech/*
+
