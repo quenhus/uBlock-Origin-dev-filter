@@ -468,3 +468,5 @@ google.*##.g:has(a[href*="wp-qa.com"])
 google.*##.g:has(a[href*=".codegrepper.com"])
 *://*.programmierfrage.com/*
 google.*##.g:has(a[href*=".programmierfrage.com"])
+*://microeducate.tech/*
+google.*##.g:has(a[href*="microeducate.tech"])

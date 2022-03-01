@@ -291,6 +291,7 @@
 [data-domain*="wp-qa.com"],
 [data-domain*="codegrepper.com"],
 [data-domain*="programmierfrage.com"],
+[data-domain*="microeducate.tech"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

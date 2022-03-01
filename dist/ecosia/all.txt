@@ -576,3 +576,5 @@ ecosia.org##.result:has(a[href*="wp-qa.com"])
 ecosia.org##.result:has(a[href*=".codegrepper.com"])
 *://*.programmierfrage.com/*
 ecosia.org##.result:has(a[href*=".programmierfrage.com"])
+*://microeducate.tech/*
+ecosia.org##.result:has(a[href*="microeducate.tech"])

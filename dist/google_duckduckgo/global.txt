@@ -861,6 +861,9 @@ duckduckgo.com###links>.result[data-domain$=".codegrepper.com"]
 *://*.programmierfrage.com/*
 google.*##.g:has(a[href*=".programmierfrage.com"])
 duckduckgo.com###links>.result[data-domain$=".programmierfrage.com"]
+*://microeducate.tech/*
+google.*##.g:has(a[href*="microeducate.tech"])
+duckduckgo.com###links>.result[data-domain$="microeducate.tech"]
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>.result[data-domain$="encyclopedia.thefreedictionary.com"]

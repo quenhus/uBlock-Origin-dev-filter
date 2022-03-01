@@ -468,3 +468,5 @@ startpage.com##.w-gl__result:has(a[href*="wp-qa.com"])
 startpage.com##.w-gl__result:has(a[href*=".codegrepper.com"])
 *://*.programmierfrage.com/*
 startpage.com##.w-gl__result:has(a[href*=".programmierfrage.com"])
+*://microeducate.tech/*
+startpage.com##.w-gl__result:has(a[href*="microeducate.tech"])

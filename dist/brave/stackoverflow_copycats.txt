@@ -468,3 +468,5 @@ search.brave.com###results > div:has(a[href*="wp-qa.com"])
 search.brave.com###results > div:has(a[href*=".codegrepper.com"])
 *://*.programmierfrage.com/*
 search.brave.com###results > div:has(a[href*=".programmierfrage.com"])
+*://microeducate.tech/*
+search.brave.com###results > div:has(a[href*="microeducate.tech"])
