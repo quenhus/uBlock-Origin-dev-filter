@@ -232,5 +232,5 @@
 *://*.codegrepper.com/*
 *://*.programmierfrage.com/*
 *://microeducate.tech/*
-*://*.ringingliberty.com/*
+*://www.ringingliberty.com/*
 
