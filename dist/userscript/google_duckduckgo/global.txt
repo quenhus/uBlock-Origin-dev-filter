@@ -292,6 +292,7 @@
 [data-domain*="codegrepper.com"],
 [data-domain*="programmierfrage.com"],
 [data-domain*="microeducate.tech"],
+[data-domain*="www.ringingliberty.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

@@ -292,6 +292,7 @@
 [data-domain*="codegrepper.com"],
 [data-domain*="programmierfrage.com"],
 [data-domain*="microeducate.tech"],
+[data-domain*="www.ringingliberty.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

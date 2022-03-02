@@ -578,6 +578,8 @@ search.brave.com###results > div:has(a[href*=".codegrepper.com"])
 search.brave.com###results > div:has(a[href*=".programmierfrage.com"])
 *://microeducate.tech/*
 search.brave.com###results > div:has(a[href*="microeducate.tech"])
+*://www.ringingliberty.com/*
+search.brave.com###results > div:has(a[href*="www.ringingliberty.com"])
 *://encyclopedia.thefreedictionary.com/*
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

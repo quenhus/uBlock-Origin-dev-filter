@@ -578,6 +578,8 @@ startpage.com##.w-gl__result:has(a[href*=".codegrepper.com"])
 startpage.com##.w-gl__result:has(a[href*=".programmierfrage.com"])
 *://microeducate.tech/*
 startpage.com##.w-gl__result:has(a[href*="microeducate.tech"])
+*://www.ringingliberty.com/*
+startpage.com##.w-gl__result:has(a[href*="www.ringingliberty.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

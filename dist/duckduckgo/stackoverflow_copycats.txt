@@ -470,3 +470,5 @@ duckduckgo.com###links>.result[data-domain$=".codegrepper.com"]
 duckduckgo.com###links>.result[data-domain$=".programmierfrage.com"]
 *://microeducate.tech/*
 duckduckgo.com###links>.result[data-domain$="microeducate.tech"]
+*://www.ringingliberty.com/*
+duckduckgo.com###links>.result[data-domain$="www.ringingliberty.com"]

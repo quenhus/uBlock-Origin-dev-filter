@@ -470,3 +470,5 @@ google.*##.g:has(a[href*=".codegrepper.com"])
 google.*##.g:has(a[href*=".programmierfrage.com"])
 *://microeducate.tech/*
 google.*##.g:has(a[href*="microeducate.tech"])
+*://www.ringingliberty.com/*
+google.*##.g:has(a[href*="www.ringingliberty.com"])

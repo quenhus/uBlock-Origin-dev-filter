@@ -578,6 +578,8 @@ ecosia.org##.result:has(a[href*=".codegrepper.com"])
 ecosia.org##.result:has(a[href*=".programmierfrage.com"])
 *://microeducate.tech/*
 ecosia.org##.result:has(a[href*="microeducate.tech"])
+*://www.ringingliberty.com/*
+ecosia.org##.result:has(a[href*="www.ringingliberty.com"])
 *://encyclopedia.thefreedictionary.com/*
 ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*
