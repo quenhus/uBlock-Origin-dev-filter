@@ -582,3 +582,5 @@ startpage.com##.w-gl__result:has(a[href*=".programmierfrage.com"])
 startpage.com##.w-gl__result:has(a[href*="microeducate.tech"])
 *://www.ringingliberty.com/*
 startpage.com##.w-gl__result:has(a[href*="www.ringingliberty.com"])
+*://askandroidquestions.com/*
+startpage.com##.w-gl__result:has(a[href*="askandroidquestions.com"])

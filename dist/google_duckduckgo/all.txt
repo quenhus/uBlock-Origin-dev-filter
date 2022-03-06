@@ -870,3 +870,6 @@ duckduckgo.com###links>.result[data-domain$="microeducate.tech"]
 *://www.ringingliberty.com/*
 google.*##.g:has(a[href*="www.ringingliberty.com"])
 duckduckgo.com###links>.result[data-domain$="www.ringingliberty.com"]
+*://askandroidquestions.com/*
+google.*##.g:has(a[href*="askandroidquestions.com"])
+duckduckgo.com###links>.result[data-domain$="askandroidquestions.com"]

@@ -294,6 +294,7 @@
 [data-domain*="programmierfrage.com"],
 [data-domain*="microeducate.tech"],
 [data-domain*="www.ringingliberty.com"],
+[data-domain*="askandroidquestions.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

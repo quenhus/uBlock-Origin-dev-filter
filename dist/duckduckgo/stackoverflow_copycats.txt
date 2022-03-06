@@ -472,3 +472,5 @@ duckduckgo.com###links>.result[data-domain$=".programmierfrage.com"]
 duckduckgo.com###links>.result[data-domain$="microeducate.tech"]
 *://www.ringingliberty.com/*
 duckduckgo.com###links>.result[data-domain$="www.ringingliberty.com"]
+*://askandroidquestions.com/*
+duckduckgo.com###links>.result[data-domain$="askandroidquestions.com"]
