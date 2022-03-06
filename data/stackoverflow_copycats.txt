@@ -233,4 +233,4 @@
 *://*.programmierfrage.com/*
 *://microeducate.tech/*
 *://www.ringingliberty.com/*
-
+*://askandroidquestions.com/*
