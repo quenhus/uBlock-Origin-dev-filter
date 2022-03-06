@@ -110,6 +110,8 @@ google.*##.g:has(a[href*="bestofreactjs.com"])
 google.*##.g:has(a[href*="bestofphp.com"])
 *://bestofjava.com/*
 google.*##.g:has(a[href*="bestofjava.com"])
+*://lifesaver.codes/*
+google.*##.g:has(a[href*="lifesaver.codes"])
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*

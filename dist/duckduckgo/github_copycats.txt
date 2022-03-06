@@ -110,3 +110,5 @@ duckduckgo.com###links>.result[data-domain$="bestofreactjs.com"]
 duckduckgo.com###links>.result[data-domain$="bestofphp.com"]
 *://bestofjava.com/*
 duckduckgo.com###links>.result[data-domain$="bestofjava.com"]
+*://lifesaver.codes/*
+duckduckgo.com###links>.result[data-domain$="lifesaver.codes"]

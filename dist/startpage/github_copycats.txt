@@ -110,3 +110,5 @@ startpage.com##.w-gl__result:has(a[href*="bestofreactjs.com"])
 startpage.com##.w-gl__result:has(a[href*="bestofphp.com"])
 *://bestofjava.com/*
 startpage.com##.w-gl__result:has(a[href*="bestofjava.com"])
+*://lifesaver.codes/*
+startpage.com##.w-gl__result:has(a[href*="lifesaver.codes"])

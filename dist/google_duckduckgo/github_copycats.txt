@@ -162,3 +162,6 @@ duckduckgo.com###links>.result[data-domain$="bestofphp.com"]
 *://bestofjava.com/*
 google.*##.g:has(a[href*="bestofjava.com"])
 duckduckgo.com###links>.result[data-domain$="bestofjava.com"]
+*://lifesaver.codes/*
+google.*##.g:has(a[href*="lifesaver.codes"])
+duckduckgo.com###links>.result[data-domain$="lifesaver.codes"]
