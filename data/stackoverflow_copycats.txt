@@ -234,3 +234,4 @@
 *://microeducate.tech/*
 *://www.ringingliberty.com/*
 *://askandroidquestions.com/*
+*://tutorialmeta.com/*
