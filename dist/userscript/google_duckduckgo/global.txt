@@ -295,6 +295,7 @@
 [data-domain*="microeducate.tech"],
 [data-domain*="www.ringingliberty.com"],
 [data-domain*="askandroidquestions.com"],
+[data-domain*="tutorialmeta.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

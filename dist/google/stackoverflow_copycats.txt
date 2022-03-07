@@ -474,3 +474,5 @@ google.*##.g:has(a[href*="microeducate.tech"])
 google.*##.g:has(a[href*="www.ringingliberty.com"])
 *://askandroidquestions.com/*
 google.*##.g:has(a[href*="askandroidquestions.com"])
+*://tutorialmeta.com/*
+google.*##.g:has(a[href*="tutorialmeta.com"])

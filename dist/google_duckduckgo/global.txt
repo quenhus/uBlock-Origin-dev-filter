@@ -873,6 +873,9 @@ duckduckgo.com###links>.result[data-domain$="www.ringingliberty.com"]
 *://askandroidquestions.com/*
 google.*##.g:has(a[href*="askandroidquestions.com"])
 duckduckgo.com###links>.result[data-domain$="askandroidquestions.com"]
+*://tutorialmeta.com/*
+google.*##.g:has(a[href*="tutorialmeta.com"])
+duckduckgo.com###links>.result[data-domain$="tutorialmeta.com"]
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>.result[data-domain$="encyclopedia.thefreedictionary.com"]
