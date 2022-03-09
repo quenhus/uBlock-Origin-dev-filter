@@ -586,6 +586,8 @@ duckduckgo.com###links>.result[data-domain$="www.ringingliberty.com"]
 duckduckgo.com###links>.result[data-domain$="askandroidquestions.com"]
 *://tutorialmeta.com/*
 duckduckgo.com###links>.result[data-domain$="tutorialmeta.com"]
+*://helpex.vn/*
+duckduckgo.com###links>.result[data-domain$="helpex.vn"]
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>.result[data-domain$="encyclopedia.thefreedictionary.com"]
 *://www.algebra.com/*

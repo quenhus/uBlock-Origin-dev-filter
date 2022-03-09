@@ -711,3 +711,6 @@ duckduckgo.com###links>.result[data-domain$="askandroidquestions.com"]
 *://tutorialmeta.com/*
 google.*##.g:has(a[href*="tutorialmeta.com"])
 duckduckgo.com###links>.result[data-domain$="tutorialmeta.com"]
+*://helpex.vn/*
+google.*##.g:has(a[href*="helpex.vn"])
+duckduckgo.com###links>.result[data-domain$="helpex.vn"]

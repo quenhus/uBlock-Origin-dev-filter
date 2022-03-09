@@ -586,6 +586,8 @@ google.*##.g:has(a[href*="www.ringingliberty.com"])
 google.*##.g:has(a[href*="askandroidquestions.com"])
 *://tutorialmeta.com/*
 google.*##.g:has(a[href*="tutorialmeta.com"])
+*://helpex.vn/*
+google.*##.g:has(a[href*="helpex.vn"])
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

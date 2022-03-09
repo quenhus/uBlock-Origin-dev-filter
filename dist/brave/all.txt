@@ -586,3 +586,5 @@ search.brave.com###results > div:has(a[href*="www.ringingliberty.com"])
 search.brave.com###results > div:has(a[href*="askandroidquestions.com"])
 *://tutorialmeta.com/*
 search.brave.com###results > div:has(a[href*="tutorialmeta.com"])
+*://helpex.vn/*
+search.brave.com###results > div:has(a[href*="helpex.vn"])

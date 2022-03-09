@@ -476,3 +476,5 @@ startpage.com##.w-gl__result:has(a[href*="www.ringingliberty.com"])
 startpage.com##.w-gl__result:has(a[href*="askandroidquestions.com"])
 *://tutorialmeta.com/*
 startpage.com##.w-gl__result:has(a[href*="tutorialmeta.com"])
+*://helpex.vn/*
+startpage.com##.w-gl__result:has(a[href*="helpex.vn"])
