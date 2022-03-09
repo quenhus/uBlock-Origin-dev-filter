@@ -588,3 +588,5 @@ duckduckgo.com###links>.result[data-domain$="askandroidquestions.com"]
 duckduckgo.com###links>.result[data-domain$="tutorialmeta.com"]
 *://helpex.vn/*
 duckduckgo.com###links>.result[data-domain$="helpex.vn"]
+*://www.techtalk7.com/*
+duckduckgo.com###links>.result[data-domain$="www.techtalk7.com"]

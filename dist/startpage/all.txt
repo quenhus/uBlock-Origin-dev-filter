@@ -588,3 +588,5 @@ startpage.com##.w-gl__result:has(a[href*="askandroidquestions.com"])
 startpage.com##.w-gl__result:has(a[href*="tutorialmeta.com"])
 *://helpex.vn/*
 startpage.com##.w-gl__result:has(a[href*="helpex.vn"])
+*://www.techtalk7.com/*
+startpage.com##.w-gl__result:has(a[href*="www.techtalk7.com"])

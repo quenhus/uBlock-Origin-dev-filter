@@ -297,6 +297,7 @@
 [data-domain*="askandroidquestions.com"],
 [data-domain*="tutorialmeta.com"],
 [data-domain*="helpex.vn"],
+[data-domain*="www.techtalk7.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
