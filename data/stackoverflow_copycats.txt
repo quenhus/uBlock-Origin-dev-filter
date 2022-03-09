@@ -236,3 +236,4 @@
 *://askandroidquestions.com/*
 *://tutorialmeta.com/*
 *://helpex.vn/*
+*://www.techtalk7.com/*
