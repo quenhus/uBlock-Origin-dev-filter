@@ -590,3 +590,7 @@ search.brave.com###results > div:has(a[href*="tutorialmeta.com"])
 search.brave.com###results > div:has(a[href*="helpex.vn"])
 *://www.techtalk7.com/*
 search.brave.com###results > div:has(a[href*="www.techtalk7.com"])
+*://serveanswer.com/*
+search.brave.com###results > div:has(a[href*="serveanswer.com"])
+*://solveforums.msomimaktaba.com/*
+search.brave.com###results > div:has(a[href*="solveforums.msomimaktaba.com"])

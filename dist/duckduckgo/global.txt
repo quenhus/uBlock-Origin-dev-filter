@@ -590,6 +590,10 @@ duckduckgo.com###links>.result[data-domain$="tutorialmeta.com"]
 duckduckgo.com###links>.result[data-domain$="helpex.vn"]
 *://www.techtalk7.com/*
 duckduckgo.com###links>.result[data-domain$="www.techtalk7.com"]
+*://serveanswer.com/*
+duckduckgo.com###links>.result[data-domain$="serveanswer.com"]
+*://solveforums.msomimaktaba.com/*
+duckduckgo.com###links>.result[data-domain$="solveforums.msomimaktaba.com"]
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>.result[data-domain$="encyclopedia.thefreedictionary.com"]
 *://www.algebra.com/*

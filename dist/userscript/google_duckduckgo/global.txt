@@ -298,6 +298,8 @@
 [data-domain*="tutorialmeta.com"],
 [data-domain*="helpex.vn"],
 [data-domain*="www.techtalk7.com"],
+[data-domain*="serveanswer.com"],
+[data-domain*="solveforums.msomimaktaba.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

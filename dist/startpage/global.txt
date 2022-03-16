@@ -590,6 +590,10 @@ startpage.com##.w-gl__result:has(a[href*="tutorialmeta.com"])
 startpage.com##.w-gl__result:has(a[href*="helpex.vn"])
 *://www.techtalk7.com/*
 startpage.com##.w-gl__result:has(a[href*="www.techtalk7.com"])
+*://serveanswer.com/*
+startpage.com##.w-gl__result:has(a[href*="serveanswer.com"])
+*://solveforums.msomimaktaba.com/*
+startpage.com##.w-gl__result:has(a[href*="solveforums.msomimaktaba.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

@@ -882,3 +882,9 @@ duckduckgo.com###links>.result[data-domain$="helpex.vn"]
 *://www.techtalk7.com/*
 google.*##.g:has(a[href*="www.techtalk7.com"])
 duckduckgo.com###links>.result[data-domain$="www.techtalk7.com"]
+*://serveanswer.com/*
+google.*##.g:has(a[href*="serveanswer.com"])
+duckduckgo.com###links>.result[data-domain$="serveanswer.com"]
+*://solveforums.msomimaktaba.com/*
+google.*##.g:has(a[href*="solveforums.msomimaktaba.com"])
+duckduckgo.com###links>.result[data-domain$="solveforums.msomimaktaba.com"]
