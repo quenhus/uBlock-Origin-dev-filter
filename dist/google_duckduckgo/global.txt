@@ -165,6 +165,9 @@ duckduckgo.com###links>.result[data-domain$="bestofjava.com"]
 *://lifesaver.codes/*
 google.*##.g:has(a[href*="lifesaver.codes"])
 duckduckgo.com###links>.result[data-domain$="lifesaver.codes"]
+*://softbranchdevelopers.com/*
+google.*##.g:has(a[href*="softbranchdevelopers.com"])
+duckduckgo.com###links>.result[data-domain$="softbranchdevelopers.com"]
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>.result[data-domain$="npmmirror.com"]

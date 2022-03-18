@@ -112,3 +112,5 @@ startpage.com##.w-gl__result:has(a[href*="bestofphp.com"])
 startpage.com##.w-gl__result:has(a[href*="bestofjava.com"])
 *://lifesaver.codes/*
 startpage.com##.w-gl__result:has(a[href*="lifesaver.codes"])
+*://softbranchdevelopers.com/*
+startpage.com##.w-gl__result:has(a[href*="softbranchdevelopers.com"])

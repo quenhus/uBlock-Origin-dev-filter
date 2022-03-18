@@ -59,6 +59,7 @@
 [data-domain*="bestofphp.com"],
 [data-domain*="bestofjava.com"],
 [data-domain*="lifesaver.codes"],
+[data-domain*="softbranchdevelopers.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

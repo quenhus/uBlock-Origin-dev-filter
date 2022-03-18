@@ -112,6 +112,8 @@ duckduckgo.com###links>.result[data-domain$="bestofphp.com"]
 duckduckgo.com###links>.result[data-domain$="bestofjava.com"]
 *://lifesaver.codes/*
 duckduckgo.com###links>.result[data-domain$="lifesaver.codes"]
+*://softbranchdevelopers.com/*
+duckduckgo.com###links>.result[data-domain$="softbranchdevelopers.com"]
 *://npmmirror.com/*
 duckduckgo.com###links>.result[data-domain$="npmmirror.com"]
 *://cnpmjs.org/*

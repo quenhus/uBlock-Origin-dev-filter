@@ -59,6 +59,7 @@
 [data-domain*="bestofphp.com"],
 [data-domain*="bestofjava.com"],
 [data-domain*="lifesaver.codes"],
+[data-domain*="softbranchdevelopers.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="code-examples.net"],

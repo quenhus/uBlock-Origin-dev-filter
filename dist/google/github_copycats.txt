@@ -112,3 +112,5 @@ google.*##.g:has(a[href*="bestofphp.com"])
 google.*##.g:has(a[href*="bestofjava.com"])
 *://lifesaver.codes/*
 google.*##.g:has(a[href*="lifesaver.codes"])
+*://softbranchdevelopers.com/*
+google.*##.g:has(a[href*="softbranchdevelopers.com"])

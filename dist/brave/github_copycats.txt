@@ -112,3 +112,5 @@ search.brave.com###results > div:has(a[href*="bestofphp.com"])
 search.brave.com###results > div:has(a[href*="bestofjava.com"])
 *://lifesaver.codes/*
 search.brave.com###results > div:has(a[href*="lifesaver.codes"])
+*://softbranchdevelopers.com/*
+search.brave.com###results > div:has(a[href*="softbranchdevelopers.com"])
