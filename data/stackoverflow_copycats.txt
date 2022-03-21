@@ -240,3 +240,4 @@
 *://serveanswer.com/*
 *://solveforums.msomimaktaba.com/*
 *://vuejscode.com/*
+*://pythonshowcase.com/*
