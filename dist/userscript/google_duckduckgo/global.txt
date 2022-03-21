@@ -303,6 +303,7 @@
 [data-domain*="serveanswer.com"],
 [data-domain*="solveforums.msomimaktaba.com"],
 [data-domain*="vuejscode.com"],
+[data-domain*="pythonshowcase.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

@@ -600,3 +600,5 @@ duckduckgo.com###links>.result[data-domain$="serveanswer.com"]
 duckduckgo.com###links>.result[data-domain$="solveforums.msomimaktaba.com"]
 *://vuejscode.com/*
 duckduckgo.com###links>.result[data-domain$="vuejscode.com"]
+*://pythonshowcase.com/*
+duckduckgo.com###links>.result[data-domain$="pythonshowcase.com"]

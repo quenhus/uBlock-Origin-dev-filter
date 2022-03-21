@@ -303,6 +303,7 @@
 [data-domain*="serveanswer.com"],
 [data-domain*="solveforums.msomimaktaba.com"],
 [data-domain*="vuejscode.com"],
+[data-domain*="pythonshowcase.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

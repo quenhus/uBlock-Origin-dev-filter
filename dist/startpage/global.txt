@@ -600,6 +600,8 @@ startpage.com##.w-gl__result:has(a[href*="serveanswer.com"])
 startpage.com##.w-gl__result:has(a[href*="solveforums.msomimaktaba.com"])
 *://vuejscode.com/*
 startpage.com##.w-gl__result:has(a[href*="vuejscode.com"])
+*://pythonshowcase.com/*
+startpage.com##.w-gl__result:has(a[href*="pythonshowcase.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*
