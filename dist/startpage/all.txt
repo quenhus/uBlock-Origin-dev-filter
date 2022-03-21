@@ -114,6 +114,8 @@ startpage.com##.w-gl__result:has(a[href*="bestofjava.com"])
 startpage.com##.w-gl__result:has(a[href*="lifesaver.codes"])
 *://softbranchdevelopers.com/*
 startpage.com##.w-gl__result:has(a[href*="softbranchdevelopers.com"])
+*://vuejscode.com/*
+startpage.com##.w-gl__result:has(a[href*="vuejscode.com"])
 *://npmmirror.com/*
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
@@ -596,3 +598,5 @@ startpage.com##.w-gl__result:has(a[href*="www.techtalk7.com"])
 startpage.com##.w-gl__result:has(a[href*="serveanswer.com"])
 *://solveforums.msomimaktaba.com/*
 startpage.com##.w-gl__result:has(a[href*="solveforums.msomimaktaba.com"])
+*://vuejscode.com/*
+startpage.com##.w-gl__result:has(a[href*="vuejscode.com"])

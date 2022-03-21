@@ -484,3 +484,5 @@ google.*##.g:has(a[href*="www.techtalk7.com"])
 google.*##.g:has(a[href*="serveanswer.com"])
 *://solveforums.msomimaktaba.com/*
 google.*##.g:has(a[href*="solveforums.msomimaktaba.com"])
+*://vuejscode.com/*
+google.*##.g:has(a[href*="vuejscode.com"])

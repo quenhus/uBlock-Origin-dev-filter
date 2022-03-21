@@ -114,3 +114,5 @@ duckduckgo.com###links>.result[data-domain$="bestofjava.com"]
 duckduckgo.com###links>.result[data-domain$="lifesaver.codes"]
 *://softbranchdevelopers.com/*
 duckduckgo.com###links>.result[data-domain$="softbranchdevelopers.com"]
+*://vuejscode.com/*
+duckduckgo.com###links>.result[data-domain$="vuejscode.com"]

@@ -60,6 +60,7 @@
 [data-domain*="bestofjava.com"],
 [data-domain*="lifesaver.codes"],
 [data-domain*="softbranchdevelopers.com"],
+[data-domain*="vuejscode.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

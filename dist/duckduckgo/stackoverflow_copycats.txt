@@ -484,3 +484,5 @@ duckduckgo.com###links>.result[data-domain$="www.techtalk7.com"]
 duckduckgo.com###links>.result[data-domain$="serveanswer.com"]
 *://solveforums.msomimaktaba.com/*
 duckduckgo.com###links>.result[data-domain$="solveforums.msomimaktaba.com"]
+*://vuejscode.com/*
+duckduckgo.com###links>.result[data-domain$="vuejscode.com"]

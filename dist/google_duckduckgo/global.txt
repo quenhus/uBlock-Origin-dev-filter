@@ -168,6 +168,9 @@ duckduckgo.com###links>.result[data-domain$="lifesaver.codes"]
 *://softbranchdevelopers.com/*
 google.*##.g:has(a[href*="softbranchdevelopers.com"])
 duckduckgo.com###links>.result[data-domain$="softbranchdevelopers.com"]
+*://vuejscode.com/*
+google.*##.g:has(a[href*="vuejscode.com"])
+duckduckgo.com###links>.result[data-domain$="vuejscode.com"]
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>.result[data-domain$="npmmirror.com"]
@@ -891,6 +894,9 @@ duckduckgo.com###links>.result[data-domain$="serveanswer.com"]
 *://solveforums.msomimaktaba.com/*
 google.*##.g:has(a[href*="solveforums.msomimaktaba.com"])
 duckduckgo.com###links>.result[data-domain$="solveforums.msomimaktaba.com"]
+*://vuejscode.com/*
+google.*##.g:has(a[href*="vuejscode.com"])
+duckduckgo.com###links>.result[data-domain$="vuejscode.com"]
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>.result[data-domain$="encyclopedia.thefreedictionary.com"]

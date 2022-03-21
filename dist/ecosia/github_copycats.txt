@@ -114,3 +114,5 @@ ecosia.org##.result:has(a[href*="bestofjava.com"])
 ecosia.org##.result:has(a[href*="lifesaver.codes"])
 *://softbranchdevelopers.com/*
 ecosia.org##.result:has(a[href*="softbranchdevelopers.com"])
+*://vuejscode.com/*
+ecosia.org##.result:has(a[href*="vuejscode.com"])

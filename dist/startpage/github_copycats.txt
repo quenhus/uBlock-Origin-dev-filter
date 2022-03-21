@@ -114,3 +114,5 @@ startpage.com##.w-gl__result:has(a[href*="bestofjava.com"])
 startpage.com##.w-gl__result:has(a[href*="lifesaver.codes"])
 *://softbranchdevelopers.com/*
 startpage.com##.w-gl__result:has(a[href*="softbranchdevelopers.com"])
+*://vuejscode.com/*
+startpage.com##.w-gl__result:has(a[href*="vuejscode.com"])

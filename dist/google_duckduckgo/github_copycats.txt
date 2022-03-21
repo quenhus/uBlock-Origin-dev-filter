@@ -168,3 +168,6 @@ duckduckgo.com###links>.result[data-domain$="lifesaver.codes"]
 *://softbranchdevelopers.com/*
 google.*##.g:has(a[href*="softbranchdevelopers.com"])
 duckduckgo.com###links>.result[data-domain$="softbranchdevelopers.com"]
+*://vuejscode.com/*
+google.*##.g:has(a[href*="vuejscode.com"])
+duckduckgo.com###links>.result[data-domain$="vuejscode.com"]

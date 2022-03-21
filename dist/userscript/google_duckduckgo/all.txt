@@ -60,6 +60,7 @@
 [data-domain*="bestofjava.com"],
 [data-domain*="lifesaver.codes"],
 [data-domain*="softbranchdevelopers.com"],
+[data-domain*="vuejscode.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="code-examples.net"],
@@ -301,6 +302,7 @@
 [data-domain*="www.techtalk7.com"],
 [data-domain*="serveanswer.com"],
 [data-domain*="solveforums.msomimaktaba.com"],
+[data-domain*="vuejscode.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
