@@ -239,3 +239,4 @@
 *://www.techtalk7.com/*
 *://serveanswer.com/*
 *://solveforums.msomimaktaba.com/*
+*://vuejscode.com/*
