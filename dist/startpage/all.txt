@@ -116,6 +116,8 @@ startpage.com##.w-gl__result:has(a[href*="lifesaver.codes"])
 startpage.com##.w-gl__result:has(a[href*="softbranchdevelopers.com"])
 *://vuejscode.com/*
 startpage.com##.w-gl__result:has(a[href*="vuejscode.com"])
+*://issueantenna.com/*
+startpage.com##.w-gl__result:has(a[href*="issueantenna.com"])
 *://npmmirror.com/*
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
@@ -602,3 +604,5 @@ startpage.com##.w-gl__result:has(a[href*="solveforums.msomimaktaba.com"])
 startpage.com##.w-gl__result:has(a[href*="vuejscode.com"])
 *://pythonshowcase.com/*
 startpage.com##.w-gl__result:has(a[href*="pythonshowcase.com"])
+*://codeutility.org/*
+startpage.com##.w-gl__result:has(a[href*="codeutility.org"])

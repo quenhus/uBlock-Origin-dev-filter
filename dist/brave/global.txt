@@ -116,6 +116,8 @@ search.brave.com###results > div:has(a[href*="lifesaver.codes"])
 search.brave.com###results > div:has(a[href*="softbranchdevelopers.com"])
 *://vuejscode.com/*
 search.brave.com###results > div:has(a[href*="vuejscode.com"])
+*://issueantenna.com/*
+search.brave.com###results > div:has(a[href*="issueantenna.com"])
 *://npmmirror.com/*
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
@@ -602,6 +604,8 @@ search.brave.com###results > div:has(a[href*="solveforums.msomimaktaba.com"])
 search.brave.com###results > div:has(a[href*="vuejscode.com"])
 *://pythonshowcase.com/*
 search.brave.com###results > div:has(a[href*="pythonshowcase.com"])
+*://codeutility.org/*
+search.brave.com###results > div:has(a[href*="codeutility.org"])
 *://encyclopedia.thefreedictionary.com/*
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

@@ -116,6 +116,8 @@ duckduckgo.com###links>.result[data-domain$="lifesaver.codes"]
 duckduckgo.com###links>.result[data-domain$="softbranchdevelopers.com"]
 *://vuejscode.com/*
 duckduckgo.com###links>.result[data-domain$="vuejscode.com"]
+*://issueantenna.com/*
+duckduckgo.com###links>.result[data-domain$="issueantenna.com"]
 *://npmmirror.com/*
 duckduckgo.com###links>.result[data-domain$="npmmirror.com"]
 *://cnpmjs.org/*
@@ -602,6 +604,8 @@ duckduckgo.com###links>.result[data-domain$="solveforums.msomimaktaba.com"]
 duckduckgo.com###links>.result[data-domain$="vuejscode.com"]
 *://pythonshowcase.com/*
 duckduckgo.com###links>.result[data-domain$="pythonshowcase.com"]
+*://codeutility.org/*
+duckduckgo.com###links>.result[data-domain$="codeutility.org"]
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>.result[data-domain$="encyclopedia.thefreedictionary.com"]
 *://www.algebra.com/*

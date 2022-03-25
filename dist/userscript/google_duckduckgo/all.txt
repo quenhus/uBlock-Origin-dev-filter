@@ -61,6 +61,7 @@
 [data-domain*="lifesaver.codes"],
 [data-domain*="softbranchdevelopers.com"],
 [data-domain*="vuejscode.com"],
+[data-domain*="issueantenna.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="code-examples.net"],
@@ -304,6 +305,7 @@
 [data-domain*="solveforums.msomimaktaba.com"],
 [data-domain*="vuejscode.com"],
 [data-domain*="pythonshowcase.com"],
+[data-domain*="codeutility.org"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
