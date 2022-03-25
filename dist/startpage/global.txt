@@ -604,6 +604,8 @@ startpage.com##.w-gl__result:has(a[href*="solveforums.msomimaktaba.com"])
 startpage.com##.w-gl__result:has(a[href*="vuejscode.com"])
 *://pythonshowcase.com/*
 startpage.com##.w-gl__result:has(a[href*="pythonshowcase.com"])
+*://codeutility.org/*
+startpage.com##.w-gl__result:has(a[href*="codeutility.org"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

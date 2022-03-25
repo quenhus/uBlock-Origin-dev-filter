@@ -903,6 +903,9 @@ duckduckgo.com###links>.result[data-domain$="vuejscode.com"]
 *://pythonshowcase.com/*
 google.*##.g:has(a[href*="pythonshowcase.com"])
 duckduckgo.com###links>.result[data-domain$="pythonshowcase.com"]
+*://codeutility.org/*
+google.*##.g:has(a[href*="codeutility.org"])
+duckduckgo.com###links>.result[data-domain$="codeutility.org"]
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>.result[data-domain$="encyclopedia.thefreedictionary.com"]

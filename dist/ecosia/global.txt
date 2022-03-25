@@ -604,6 +604,8 @@ ecosia.org##.result:has(a[href*="solveforums.msomimaktaba.com"])
 ecosia.org##.result:has(a[href*="vuejscode.com"])
 *://pythonshowcase.com/*
 ecosia.org##.result:has(a[href*="pythonshowcase.com"])
+*://codeutility.org/*
+ecosia.org##.result:has(a[href*="codeutility.org"])
 *://encyclopedia.thefreedictionary.com/*
 ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

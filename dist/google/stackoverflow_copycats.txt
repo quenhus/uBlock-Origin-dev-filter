@@ -488,3 +488,5 @@ google.*##.g:has(a[href*="solveforums.msomimaktaba.com"])
 google.*##.g:has(a[href*="vuejscode.com"])
 *://pythonshowcase.com/*
 google.*##.g:has(a[href*="pythonshowcase.com"])
+*://codeutility.org/*
+google.*##.g:has(a[href*="codeutility.org"])
