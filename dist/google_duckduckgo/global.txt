@@ -171,6 +171,9 @@ duckduckgo.com###links>.result[data-domain$="softbranchdevelopers.com"]
 *://vuejscode.com/*
 google.*##.g:has(a[href*="vuejscode.com"])
 duckduckgo.com###links>.result[data-domain$="vuejscode.com"]
+*://issueantenna.com/*
+google.*##.g:has(a[href*="issueantenna.com"])
+duckduckgo.com###links>.result[data-domain$="issueantenna.com"]
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>.result[data-domain$="npmmirror.com"]
