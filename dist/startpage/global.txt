@@ -122,6 +122,8 @@ startpage.com##.w-gl__result:has(a[href*="issueantenna.com"])
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
 startpage.com##.w-gl__result:has(a[href*="cnpmjs.org"])
+*://npm.io/*
+startpage.com##.w-gl__result:has(a[href*="npm.io"])
 *://code-examples.net/*
 startpage.com##.w-gl__result:has(a[href*="code-examples.net"])
 *://kotaeta.com/*

@@ -10,3 +10,5 @@
 google.*##.g:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
 google.*##.g:has(a[href*="cnpmjs.org"])
+*://npm.io/*
+google.*##.g:has(a[href*="npm.io"])

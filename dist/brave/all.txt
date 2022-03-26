@@ -122,6 +122,8 @@ search.brave.com###results > div:has(a[href*="issueantenna.com"])
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
 search.brave.com###results > div:has(a[href*="cnpmjs.org"])
+*://npm.io/*
+search.brave.com###results > div:has(a[href*="npm.io"])
 *://code-examples.net/*
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 *://kotaeta.com/*

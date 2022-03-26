@@ -180,6 +180,9 @@ duckduckgo.com###links>.result[data-domain$="npmmirror.com"]
 *://cnpmjs.org/*
 google.*##.g:has(a[href*="cnpmjs.org"])
 duckduckgo.com###links>.result[data-domain$="cnpmjs.org"]
+*://npm.io/*
+google.*##.g:has(a[href*="npm.io"])
+duckduckgo.com###links>.result[data-domain$="npm.io"]
 *://code-examples.net/*
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.com###links>.result[data-domain$="code-examples.net"]

@@ -122,6 +122,8 @@ duckduckgo.com###links>.result[data-domain$="issueantenna.com"]
 duckduckgo.com###links>.result[data-domain$="npmmirror.com"]
 *://cnpmjs.org/*
 duckduckgo.com###links>.result[data-domain$="cnpmjs.org"]
+*://npm.io/*
+duckduckgo.com###links>.result[data-domain$="npm.io"]
 *://code-examples.net/*
 duckduckgo.com###links>.result[data-domain$="code-examples.net"]
 *://kotaeta.com/*

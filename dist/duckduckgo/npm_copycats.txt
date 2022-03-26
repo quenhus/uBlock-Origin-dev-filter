@@ -10,3 +10,5 @@
 duckduckgo.com###links>.result[data-domain$="npmmirror.com"]
 *://cnpmjs.org/*
 duckduckgo.com###links>.result[data-domain$="cnpmjs.org"]
+*://npm.io/*
+duckduckgo.com###links>.result[data-domain$="npm.io"]

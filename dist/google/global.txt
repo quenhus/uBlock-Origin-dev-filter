@@ -122,6 +122,8 @@ google.*##.g:has(a[href*="issueantenna.com"])
 google.*##.g:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
 google.*##.g:has(a[href*="cnpmjs.org"])
+*://npm.io/*
+google.*##.g:has(a[href*="npm.io"])
 *://code-examples.net/*
 google.*##.g:has(a[href*="code-examples.net"])
 *://kotaeta.com/*
