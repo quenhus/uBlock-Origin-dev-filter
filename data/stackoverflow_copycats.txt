@@ -244,3 +244,4 @@
 *://codeutility.org/*
 *://reactquestions.com/*
 *://dockerquestions.com/*
+*://angularquestions.com/*
