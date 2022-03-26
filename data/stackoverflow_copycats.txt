@@ -242,3 +242,6 @@
 *://vuejscode.com/*
 *://pythonshowcase.com/*
 *://codeutility.org/*
+*://reactquestions.com/*
+*://dockerquestions.com/*
+*://angularquestions.com/*
