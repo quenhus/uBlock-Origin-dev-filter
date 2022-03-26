@@ -490,3 +490,9 @@ startpage.com##.w-gl__result:has(a[href*="vuejscode.com"])
 startpage.com##.w-gl__result:has(a[href*="pythonshowcase.com"])
 *://codeutility.org/*
 startpage.com##.w-gl__result:has(a[href*="codeutility.org"])
+*://reactquestions.com/*
+startpage.com##.w-gl__result:has(a[href*="reactquestions.com"])
+*://dockerquestions.com/*
+startpage.com##.w-gl__result:has(a[href*="dockerquestions.com"])
+*://angularquestions.com/*
+startpage.com##.w-gl__result:has(a[href*="angularquestions.com"])

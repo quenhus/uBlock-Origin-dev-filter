@@ -608,3 +608,9 @@ google.*##.g:has(a[href*="vuejscode.com"])
 google.*##.g:has(a[href*="pythonshowcase.com"])
 *://codeutility.org/*
 google.*##.g:has(a[href*="codeutility.org"])
+*://reactquestions.com/*
+google.*##.g:has(a[href*="reactquestions.com"])
+*://dockerquestions.com/*
+google.*##.g:has(a[href*="dockerquestions.com"])
+*://angularquestions.com/*
+google.*##.g:has(a[href*="angularquestions.com"])
