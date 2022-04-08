@@ -310,6 +310,7 @@
 [data-domain*="reactquestions.com"],
 [data-domain*="dockerquestions.com"],
 [data-domain*="angularquestions.com"],
+[data-domain*="www.pythonfixing.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

@@ -496,3 +496,5 @@ ecosia.org##.result:has(a[href*="reactquestions.com"])
 ecosia.org##.result:has(a[href*="dockerquestions.com"])
 *://angularquestions.com/*
 ecosia.org##.result:has(a[href*="angularquestions.com"])
+*://www.pythonfixing.com/*
+ecosia.org##.result:has(a[href*="www.pythonfixing.com"])

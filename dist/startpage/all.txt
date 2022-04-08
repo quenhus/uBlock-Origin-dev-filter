@@ -614,3 +614,5 @@ startpage.com##.w-gl__result:has(a[href*="reactquestions.com"])
 startpage.com##.w-gl__result:has(a[href*="dockerquestions.com"])
 *://angularquestions.com/*
 startpage.com##.w-gl__result:has(a[href*="angularquestions.com"])
+*://www.pythonfixing.com/*
+startpage.com##.w-gl__result:has(a[href*="www.pythonfixing.com"])

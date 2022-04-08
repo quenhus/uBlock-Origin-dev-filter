@@ -918,6 +918,9 @@ duckduckgo.com###links>.result[data-domain$="dockerquestions.com"]
 *://angularquestions.com/*
 google.*##.g:has(a[href*="angularquestions.com"])
 duckduckgo.com###links>.result[data-domain$="angularquestions.com"]
+*://www.pythonfixing.com/*
+google.*##.g:has(a[href*="www.pythonfixing.com"])
+duckduckgo.com###links>.result[data-domain$="www.pythonfixing.com"]
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>.result[data-domain$="encyclopedia.thefreedictionary.com"]

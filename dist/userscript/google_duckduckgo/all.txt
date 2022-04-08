@@ -310,6 +310,7 @@
 [data-domain*="reactquestions.com"],
 [data-domain*="dockerquestions.com"],
 [data-domain*="angularquestions.com"],
+[data-domain*="www.pythonfixing.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

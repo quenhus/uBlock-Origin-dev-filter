@@ -614,6 +614,8 @@ google.*##.g:has(a[href*="reactquestions.com"])
 google.*##.g:has(a[href*="dockerquestions.com"])
 *://angularquestions.com/*
 google.*##.g:has(a[href*="angularquestions.com"])
+*://www.pythonfixing.com/*
+google.*##.g:has(a[href*="www.pythonfixing.com"])
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*
