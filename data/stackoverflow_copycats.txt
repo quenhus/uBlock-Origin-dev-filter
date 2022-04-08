@@ -245,3 +245,4 @@
 *://reactquestions.com/*
 *://dockerquestions.com/*
 *://angularquestions.com/*
+*://www.pythonfixing.com/*
