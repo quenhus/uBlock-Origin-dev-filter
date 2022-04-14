@@ -246,3 +246,4 @@
 *://dockerquestions.com/*
 *://angularquestions.com/*
 *://www.pythonfixing.com/*
+*://stackallflow.com/*
