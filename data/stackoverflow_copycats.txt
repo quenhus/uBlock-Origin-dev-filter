@@ -247,3 +247,4 @@
 *://angularquestions.com/*
 *://www.pythonfixing.com/*
 *://stackallflow.com/*
+*://nxtstage.net/*
