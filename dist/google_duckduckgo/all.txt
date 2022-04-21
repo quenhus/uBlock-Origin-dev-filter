@@ -180,6 +180,9 @@ duckduckgo.com###links>.result[data-domain$="pythonlang.dev"]
 *://githublab.com/*
 google.*##.g:has(a[href*="githublab.com"])
 duckduckgo.com###links>.result[data-domain$="githublab.com"]
+*://libhunt.com/*
+google.*##.g:has(a[href*="libhunt.com"])
+duckduckgo.com###links>.result[data-domain$="libhunt.com"]
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>.result[data-domain$="npmmirror.com"]

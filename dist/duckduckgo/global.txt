@@ -122,6 +122,8 @@ duckduckgo.com###links>.result[data-domain$="issueantenna.com"]
 duckduckgo.com###links>.result[data-domain$="pythonlang.dev"]
 *://githublab.com/*
 duckduckgo.com###links>.result[data-domain$="githublab.com"]
+*://libhunt.com/*
+duckduckgo.com###links>.result[data-domain$="libhunt.com"]
 *://npmmirror.com/*
 duckduckgo.com###links>.result[data-domain$="npmmirror.com"]
 *://cnpmjs.org/*

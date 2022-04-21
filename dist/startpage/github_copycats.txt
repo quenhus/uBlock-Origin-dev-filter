@@ -122,3 +122,5 @@ startpage.com##.w-gl__result:has(a[href*="issueantenna.com"])
 startpage.com##.w-gl__result:has(a[href*="pythonlang.dev"])
 *://githublab.com/*
 startpage.com##.w-gl__result:has(a[href*="githublab.com"])
+*://libhunt.com/*
+startpage.com##.w-gl__result:has(a[href*="libhunt.com"])

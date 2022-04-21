@@ -64,6 +64,7 @@
 [data-domain*="issueantenna.com"],
 [data-domain*="pythonlang.dev"],
 [data-domain*="githublab.com"],
+[data-domain*="libhunt.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

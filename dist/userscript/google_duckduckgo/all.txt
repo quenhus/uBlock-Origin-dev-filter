@@ -64,6 +64,7 @@
 [data-domain*="issueantenna.com"],
 [data-domain*="pythonlang.dev"],
 [data-domain*="githublab.com"],
+[data-domain*="libhunt.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="npm.io"],
