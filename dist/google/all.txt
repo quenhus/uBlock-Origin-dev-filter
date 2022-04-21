@@ -120,6 +120,8 @@ google.*##.g:has(a[href*="vuejscode.com"])
 google.*##.g:has(a[href*="issueantenna.com"])
 *://pythonlang.dev/*
 google.*##.g:has(a[href*="pythonlang.dev"])
+*://githublab.com/*
+google.*##.g:has(a[href*="githublab.com"])
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*

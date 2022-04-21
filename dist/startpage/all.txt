@@ -120,6 +120,8 @@ startpage.com##.w-gl__result:has(a[href*="vuejscode.com"])
 startpage.com##.w-gl__result:has(a[href*="issueantenna.com"])
 *://pythonlang.dev/*
 startpage.com##.w-gl__result:has(a[href*="pythonlang.dev"])
+*://githublab.com/*
+startpage.com##.w-gl__result:has(a[href*="githublab.com"])
 *://npmmirror.com/*
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*

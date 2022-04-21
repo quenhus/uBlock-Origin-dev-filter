@@ -120,3 +120,5 @@ ecosia.org##.result:has(a[href*="vuejscode.com"])
 ecosia.org##.result:has(a[href*="issueantenna.com"])
 *://pythonlang.dev/*
 ecosia.org##.result:has(a[href*="pythonlang.dev"])
+*://githublab.com/*
+ecosia.org##.result:has(a[href*="githublab.com"])
