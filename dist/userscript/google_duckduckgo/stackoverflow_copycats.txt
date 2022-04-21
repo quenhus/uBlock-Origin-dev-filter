@@ -252,6 +252,7 @@
 [data-domain*="dockerquestions.com"],
 [data-domain*="angularquestions.com"],
 [data-domain*="www.pythonfixing.com"],
+[data-domain*="stackallflow.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

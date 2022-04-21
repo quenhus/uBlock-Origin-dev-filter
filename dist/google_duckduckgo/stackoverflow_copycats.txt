@@ -744,3 +744,6 @@ duckduckgo.com###links>.result[data-domain$="angularquestions.com"]
 *://www.pythonfixing.com/*
 google.*##.g:has(a[href*="www.pythonfixing.com"])
 duckduckgo.com###links>.result[data-domain$="www.pythonfixing.com"]
+*://stackallflow.com/*
+google.*##.g:has(a[href*="stackallflow.com"])
+duckduckgo.com###links>.result[data-domain$="stackallflow.com"]

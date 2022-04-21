@@ -616,6 +616,8 @@ ecosia.org##.result:has(a[href*="dockerquestions.com"])
 ecosia.org##.result:has(a[href*="angularquestions.com"])
 *://www.pythonfixing.com/*
 ecosia.org##.result:has(a[href*="www.pythonfixing.com"])
+*://stackallflow.com/*
+ecosia.org##.result:has(a[href*="stackallflow.com"])
 *://encyclopedia.thefreedictionary.com/*
 ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

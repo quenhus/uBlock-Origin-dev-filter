@@ -616,6 +616,8 @@ duckduckgo.com###links>.result[data-domain$="dockerquestions.com"]
 duckduckgo.com###links>.result[data-domain$="angularquestions.com"]
 *://www.pythonfixing.com/*
 duckduckgo.com###links>.result[data-domain$="www.pythonfixing.com"]
+*://stackallflow.com/*
+duckduckgo.com###links>.result[data-domain$="stackallflow.com"]
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>.result[data-domain$="encyclopedia.thefreedictionary.com"]
 *://www.algebra.com/*
