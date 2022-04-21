@@ -930,6 +930,9 @@ duckduckgo.com###links>.result[data-domain$="www.pythonfixing.com"]
 *://stackallflow.com/*
 google.*##.g:has(a[href*="stackallflow.com"])
 duckduckgo.com###links>.result[data-domain$="stackallflow.com"]
+*://nxtstage.net/*
+google.*##.g:has(a[href*="nxtstage.net"])
+duckduckgo.com###links>.result[data-domain$="nxtstage.net"]
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>.result[data-domain$="encyclopedia.thefreedictionary.com"]

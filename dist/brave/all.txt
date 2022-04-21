@@ -622,3 +622,5 @@ search.brave.com###results > div:has(a[href*="angularquestions.com"])
 search.brave.com###results > div:has(a[href*="www.pythonfixing.com"])
 *://stackallflow.com/*
 search.brave.com###results > div:has(a[href*="stackallflow.com"])
+*://nxtstage.net/*
+search.brave.com###results > div:has(a[href*="nxtstage.net"])

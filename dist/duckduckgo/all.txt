@@ -622,3 +622,5 @@ duckduckgo.com###links>.result[data-domain$="angularquestions.com"]
 duckduckgo.com###links>.result[data-domain$="www.pythonfixing.com"]
 *://stackallflow.com/*
 duckduckgo.com###links>.result[data-domain$="stackallflow.com"]
+*://nxtstage.net/*
+duckduckgo.com###links>.result[data-domain$="nxtstage.net"]

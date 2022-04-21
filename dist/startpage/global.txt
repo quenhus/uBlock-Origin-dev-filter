@@ -622,6 +622,8 @@ startpage.com##.w-gl__result:has(a[href*="angularquestions.com"])
 startpage.com##.w-gl__result:has(a[href*="www.pythonfixing.com"])
 *://stackallflow.com/*
 startpage.com##.w-gl__result:has(a[href*="stackallflow.com"])
+*://nxtstage.net/*
+startpage.com##.w-gl__result:has(a[href*="nxtstage.net"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

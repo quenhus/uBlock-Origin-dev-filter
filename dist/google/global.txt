@@ -622,6 +622,8 @@ google.*##.g:has(a[href*="angularquestions.com"])
 google.*##.g:has(a[href*="www.pythonfixing.com"])
 *://stackallflow.com/*
 google.*##.g:has(a[href*="stackallflow.com"])
+*://nxtstage.net/*
+google.*##.g:has(a[href*="nxtstage.net"])
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*
