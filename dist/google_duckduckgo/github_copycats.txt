@@ -174,3 +174,6 @@ duckduckgo.com###links>.result[data-domain$="vuejscode.com"]
 *://issueantenna.com/*
 google.*##.g:has(a[href*="issueantenna.com"])
 duckduckgo.com###links>.result[data-domain$="issueantenna.com"]
+*://pythonlang.dev/*
+google.*##.g:has(a[href*="pythonlang.dev"])
+duckduckgo.com###links>.result[data-domain$="pythonlang.dev"]

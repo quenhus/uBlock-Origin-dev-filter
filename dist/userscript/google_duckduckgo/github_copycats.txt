@@ -62,6 +62,7 @@
 [data-domain*="softbranchdevelopers.com"],
 [data-domain*="vuejscode.com"],
 [data-domain*="issueantenna.com"],
+[data-domain*="pythonlang.dev"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

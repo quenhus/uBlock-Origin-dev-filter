@@ -118,3 +118,5 @@ search.brave.com###results > div:has(a[href*="softbranchdevelopers.com"])
 search.brave.com###results > div:has(a[href*="vuejscode.com"])
 *://issueantenna.com/*
 search.brave.com###results > div:has(a[href*="issueantenna.com"])
+*://pythonlang.dev/*
+search.brave.com###results > div:has(a[href*="pythonlang.dev"])

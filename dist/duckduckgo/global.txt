@@ -118,6 +118,8 @@ duckduckgo.com###links>.result[data-domain$="softbranchdevelopers.com"]
 duckduckgo.com###links>.result[data-domain$="vuejscode.com"]
 *://issueantenna.com/*
 duckduckgo.com###links>.result[data-domain$="issueantenna.com"]
+*://pythonlang.dev/*
+duckduckgo.com###links>.result[data-domain$="pythonlang.dev"]
 *://npmmirror.com/*
 duckduckgo.com###links>.result[data-domain$="npmmirror.com"]
 *://cnpmjs.org/*
