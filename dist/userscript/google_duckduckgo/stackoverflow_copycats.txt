@@ -254,7 +254,15 @@
 [data-domain*="www.pythonfixing.com"],
 [data-domain*="stackallflow.com"],
 [data-domain*="nxtstage.net"],
+[data-domain*="intelligentsystemsmonitoring.com"],
+[data-domain*="localcoder.org"],
 [data-domain*="rotadev.com"],
+[data-domain*="errorsfixing.com"],
+[data-domain*="catwolf.org"],
+[data-domain*="configrouter.com"],
+[data-domain*="akuum.org"],
+[data-domain*="readforlearn.com"],
+[data-domain*="codehunter.cc"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

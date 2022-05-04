@@ -7,8 +7,8 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 *://npmmirror.com/*
-duckduckgo.com###links>.result[data-domain$="npmmirror.com"]
+duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
-duckduckgo.com###links>.result[data-domain$="cnpmjs.org"]
+duckduckgo.com###links>div:has(a[href*="cnpmjs.org"])
 *://npm.io/*
-duckduckgo.com###links>.result[data-domain$="npm.io"]
+duckduckgo.com###links>div:has(a[href*="npm.io"])

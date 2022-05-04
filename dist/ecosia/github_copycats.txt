@@ -124,3 +124,5 @@ ecosia.org##.result:has(a[href*="pythonlang.dev"])
 ecosia.org##.result:has(a[href*="githublab.com"])
 *://libhunt.com/*
 ecosia.org##.result:has(a[href*="libhunt.com"])
+*://andywarholpopartillustration.blogspot.com/*
+ecosia.org##.result:has(a[href*="andywarholpopartillustration.blogspot.com"])

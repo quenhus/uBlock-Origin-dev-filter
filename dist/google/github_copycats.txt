@@ -124,3 +124,5 @@ google.*##.g:has(a[href*="pythonlang.dev"])
 google.*##.g:has(a[href*="githublab.com"])
 *://libhunt.com/*
 google.*##.g:has(a[href*="libhunt.com"])
+*://andywarholpopartillustration.blogspot.com/*
+google.*##.g:has(a[href*="andywarholpopartillustration.blogspot.com"])

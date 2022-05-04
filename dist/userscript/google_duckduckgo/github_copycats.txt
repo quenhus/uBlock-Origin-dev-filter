@@ -65,6 +65,7 @@
 [data-domain*="pythonlang.dev"],
 [data-domain*="githublab.com"],
 [data-domain*="libhunt.com"],
+[data-domain*="andywarholpopartillustration.blogspot.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

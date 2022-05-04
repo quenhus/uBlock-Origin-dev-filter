@@ -124,3 +124,5 @@ startpage.com##.w-gl__result:has(a[href*="pythonlang.dev"])
 startpage.com##.w-gl__result:has(a[href*="githublab.com"])
 *://libhunt.com/*
 startpage.com##.w-gl__result:has(a[href*="libhunt.com"])
+*://andywarholpopartillustration.blogspot.com/*
+startpage.com##.w-gl__result:has(a[href*="andywarholpopartillustration.blogspot.com"])
