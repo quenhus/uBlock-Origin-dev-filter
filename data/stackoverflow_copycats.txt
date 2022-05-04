@@ -251,3 +251,4 @@
 *://intelligentsystemsmonitoring.com/*
 *://localcoder.org/*
 *://rotadev.com/*
+*://errorsfixing.com/*
