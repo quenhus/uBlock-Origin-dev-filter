@@ -254,3 +254,5 @@
 *://errorsfixing.com/*
 *://catwolf.org/*
 *://akuum.org/*
+*://readforlearn.com/*
+*://codehunter.cc/*
