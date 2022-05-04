@@ -316,6 +316,7 @@
 [data-domain*="www.pythonfixing.com"],
 [data-domain*="stackallflow.com"],
 [data-domain*="nxtstage.net"],
+[data-domain*="rotadev.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],
