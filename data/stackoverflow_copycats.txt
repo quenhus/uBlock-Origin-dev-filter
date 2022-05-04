@@ -253,3 +253,4 @@
 *://rotadev.com/*
 *://errorsfixing.com/*
 *://catwolf.org/*
+*://akuum.org/*
