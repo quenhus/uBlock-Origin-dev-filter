@@ -248,3 +248,4 @@
 *://www.pythonfixing.com/*
 *://stackallflow.com/*
 *://nxtstage.net/*
+*://codehunter.cc/*
