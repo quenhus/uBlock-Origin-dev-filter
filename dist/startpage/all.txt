@@ -626,3 +626,5 @@ startpage.com##.w-gl__result:has(a[href*="www.pythonfixing.com"])
 startpage.com##.w-gl__result:has(a[href*="stackallflow.com"])
 *://nxtstage.net/*
 startpage.com##.w-gl__result:has(a[href*="nxtstage.net"])
+*://rotadev.com/*
+startpage.com##.w-gl__result:has(a[href*="rotadev.com"])

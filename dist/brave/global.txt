@@ -626,6 +626,8 @@ search.brave.com###results > div:has(a[href*="www.pythonfixing.com"])
 search.brave.com###results > div:has(a[href*="stackallflow.com"])
 *://nxtstage.net/*
 search.brave.com###results > div:has(a[href*="nxtstage.net"])
+*://rotadev.com/*
+search.brave.com###results > div:has(a[href*="rotadev.com"])
 *://encyclopedia.thefreedictionary.com/*
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*
