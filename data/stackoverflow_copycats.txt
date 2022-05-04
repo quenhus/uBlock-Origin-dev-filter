@@ -248,5 +248,6 @@
 *://www.pythonfixing.com/*
 *://stackallflow.com/*
 *://nxtstage.net/*
+*://intelligentsystemsmonitoring.com/*
 *://localcoder.org/*
 *://rotadev.com/*
