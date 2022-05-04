@@ -936,3 +936,6 @@ duckduckgo.com###links>.result[data-domain$="stackallflow.com"]
 *://nxtstage.net/*
 google.*##.g:has(a[href*="nxtstage.net"])
 duckduckgo.com###links>.result[data-domain$="nxtstage.net"]
+*://rotadev.com/*
+google.*##.g:has(a[href*="rotadev.com"])
+duckduckgo.com###links>.result[data-domain$="rotadev.com"]
