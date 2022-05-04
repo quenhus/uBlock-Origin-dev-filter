@@ -252,3 +252,4 @@
 *://localcoder.org/*
 *://rotadev.com/*
 *://errorsfixing.com/*
+*://catwolf.org/*
