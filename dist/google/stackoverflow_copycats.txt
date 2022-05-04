@@ -502,3 +502,5 @@ google.*##.g:has(a[href*="www.pythonfixing.com"])
 google.*##.g:has(a[href*="stackallflow.com"])
 *://nxtstage.net/*
 google.*##.g:has(a[href*="nxtstage.net"])
+*://rotadev.com/*
+google.*##.g:has(a[href*="rotadev.com"])
