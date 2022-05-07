@@ -646,6 +646,8 @@ duckduckgo.com###links>div:has(a[href*="akuum.org"])
 duckduckgo.com###links>div:has(a[href*="readforlearn.com"])
 *://codehunter.cc/*
 duckduckgo.com###links>div:has(a[href*="codehunter.cc"])
+*://levitrares.com/*
+duckduckgo.com###links>div:has(a[href*="levitrares.com"])
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

@@ -646,6 +646,8 @@ google.*##.g:has(a[href*="akuum.org"])
 google.*##.g:has(a[href*="readforlearn.com"])
 *://codehunter.cc/*
 google.*##.g:has(a[href*="codehunter.cc"])
+*://levitrares.com/*
+google.*##.g:has(a[href*="levitrares.com"])
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

@@ -263,6 +263,7 @@
 [data-domain*="akuum.org"],
 [data-domain*="readforlearn.com"],
 [data-domain*="codehunter.cc"],
+[data-domain*="levitrares.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

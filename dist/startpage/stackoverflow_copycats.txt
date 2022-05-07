@@ -520,3 +520,5 @@ startpage.com##.w-gl__result:has(a[href*="akuum.org"])
 startpage.com##.w-gl__result:has(a[href*="readforlearn.com"])
 *://codehunter.cc/*
 startpage.com##.w-gl__result:has(a[href*="codehunter.cc"])
+*://levitrares.com/*
+startpage.com##.w-gl__result:has(a[href*="levitrares.com"])

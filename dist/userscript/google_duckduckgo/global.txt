@@ -326,6 +326,7 @@
 [data-domain*="akuum.org"],
 [data-domain*="readforlearn.com"],
 [data-domain*="codehunter.cc"],
+[data-domain*="levitrares.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],
