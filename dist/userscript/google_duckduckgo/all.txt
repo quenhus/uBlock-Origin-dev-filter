@@ -327,6 +327,9 @@
 [data-domain*="readforlearn.com"],
 [data-domain*="codehunter.cc"],
 [data-domain*="levitrares.com"],
+[data-domain*="www.graef.io"],
+[data-domain*="syntaxfix.com"],
+[data-domain*="ourpython.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

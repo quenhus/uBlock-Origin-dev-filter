@@ -648,6 +648,12 @@ duckduckgo.com###links>div:has(a[href*="readforlearn.com"])
 duckduckgo.com###links>div:has(a[href*="codehunter.cc"])
 *://levitrares.com/*
 duckduckgo.com###links>div:has(a[href*="levitrares.com"])
+*://www.graef.io/*
+duckduckgo.com###links>div:has(a[href*="www.graef.io"])
+*://syntaxfix.com/*
+duckduckgo.com###links>div:has(a[href*="syntaxfix.com"])
+*://ourpython.com/*
+duckduckgo.com###links>div:has(a[href*="ourpython.com"])
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

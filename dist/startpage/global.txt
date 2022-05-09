@@ -648,6 +648,12 @@ startpage.com##.w-gl__result:has(a[href*="readforlearn.com"])
 startpage.com##.w-gl__result:has(a[href*="codehunter.cc"])
 *://levitrares.com/*
 startpage.com##.w-gl__result:has(a[href*="levitrares.com"])
+*://www.graef.io/*
+startpage.com##.w-gl__result:has(a[href*="www.graef.io"])
+*://syntaxfix.com/*
+startpage.com##.w-gl__result:has(a[href*="syntaxfix.com"])
+*://ourpython.com/*
+startpage.com##.w-gl__result:has(a[href*="ourpython.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

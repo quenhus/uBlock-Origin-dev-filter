@@ -522,3 +522,9 @@ google.*##.g:has(a[href*="readforlearn.com"])
 google.*##.g:has(a[href*="codehunter.cc"])
 *://levitrares.com/*
 google.*##.g:has(a[href*="levitrares.com"])
+*://www.graef.io/*
+google.*##.g:has(a[href*="www.graef.io"])
+*://syntaxfix.com/*
+google.*##.g:has(a[href*="syntaxfix.com"])
+*://ourpython.com/*
+google.*##.g:has(a[href*="ourpython.com"])
