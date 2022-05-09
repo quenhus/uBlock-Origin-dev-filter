@@ -258,3 +258,6 @@
 *://readforlearn.com/*
 *://codehunter.cc/*
 *://levitrares.com/*
+*://www.graef.io/*
+*://syntaxfix.com/*
+*://ourpython.com/*
