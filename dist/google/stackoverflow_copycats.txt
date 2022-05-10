@@ -534,3 +534,7 @@ google.*##.g:has(a[href*="vigges.net"])
 google.*##.g:has(a[href*="exchangetuts.com"])
 *://fullstackuser.com/*
 google.*##.g:has(a[href*="fullstackuser.com"])
+*://dtuto.com/*
+google.*##.g:has(a[href*="dtuto.com"])
+*://w3coded.com/*
+google.*##.g:has(a[href*="w3coded.com"])

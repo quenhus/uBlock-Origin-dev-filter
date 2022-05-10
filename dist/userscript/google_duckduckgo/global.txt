@@ -333,6 +333,8 @@
 [data-domain*="vigges.net"],
 [data-domain*="exchangetuts.com"],
 [data-domain*="fullstackuser.com"],
+[data-domain*="dtuto.com"],
+[data-domain*="w3coded.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

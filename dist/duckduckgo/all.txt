@@ -660,3 +660,7 @@ duckduckgo.com###links>div:has(a[href*="vigges.net"])
 duckduckgo.com###links>div:has(a[href*="exchangetuts.com"])
 *://fullstackuser.com/*
 duckduckgo.com###links>div:has(a[href*="fullstackuser.com"])
+*://dtuto.com/*
+duckduckgo.com###links>div:has(a[href*="dtuto.com"])
+*://w3coded.com/*
+duckduckgo.com###links>div:has(a[href*="w3coded.com"])

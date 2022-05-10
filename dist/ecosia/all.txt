@@ -660,3 +660,7 @@ ecosia.org##.result:has(a[href*="vigges.net"])
 ecosia.org##.result:has(a[href*="exchangetuts.com"])
 *://fullstackuser.com/*
 ecosia.org##.result:has(a[href*="fullstackuser.com"])
+*://dtuto.com/*
+ecosia.org##.result:has(a[href*="dtuto.com"])
+*://w3coded.com/*
+ecosia.org##.result:has(a[href*="w3coded.com"])

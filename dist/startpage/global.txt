@@ -660,6 +660,10 @@ startpage.com##.w-gl__result:has(a[href*="vigges.net"])
 startpage.com##.w-gl__result:has(a[href*="exchangetuts.com"])
 *://fullstackuser.com/*
 startpage.com##.w-gl__result:has(a[href*="fullstackuser.com"])
+*://dtuto.com/*
+startpage.com##.w-gl__result:has(a[href*="dtuto.com"])
+*://w3coded.com/*
+startpage.com##.w-gl__result:has(a[href*="w3coded.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

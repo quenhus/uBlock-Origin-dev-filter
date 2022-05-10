@@ -987,6 +987,12 @@ duckduckgo.com###links>div:has(a[href*="exchangetuts.com"])
 *://fullstackuser.com/*
 google.*##.g:has(a[href*="fullstackuser.com"])
 duckduckgo.com###links>div:has(a[href*="fullstackuser.com"])
+*://dtuto.com/*
+google.*##.g:has(a[href*="dtuto.com"])
+duckduckgo.com###links>div:has(a[href*="dtuto.com"])
+*://w3coded.com/*
+google.*##.g:has(a[href*="w3coded.com"])
+duckduckgo.com###links>div:has(a[href*="w3coded.com"])
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
