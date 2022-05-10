@@ -264,3 +264,5 @@
 *://vigges.net/*
 *://exchangetuts.com/*
 *://fullstackuser.com/*
+*://dtuto.com/*
+*://w3coded.com/*
