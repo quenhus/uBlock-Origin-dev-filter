@@ -261,3 +261,6 @@
 *://www.graef.io/*
 *://syntaxfix.com/*
 *://ourpython.com/*
+*://vigges.net/*
+*://exchangetuts.com/*
+*://fullstackuser.com/*
