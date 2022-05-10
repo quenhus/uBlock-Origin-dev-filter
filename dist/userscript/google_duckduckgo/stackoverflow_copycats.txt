@@ -267,6 +267,9 @@
 [data-domain*="www.graef.io"],
 [data-domain*="syntaxfix.com"],
 [data-domain*="ourpython.com"],
+[data-domain*="vigges.net"],
+[data-domain*="exchangetuts.com"],
+[data-domain*="fullstackuser.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

@@ -654,6 +654,12 @@ search.brave.com###results > div:has(a[href*="www.graef.io"])
 search.brave.com###results > div:has(a[href*="syntaxfix.com"])
 *://ourpython.com/*
 search.brave.com###results > div:has(a[href*="ourpython.com"])
+*://vigges.net/*
+search.brave.com###results > div:has(a[href*="vigges.net"])
+*://exchangetuts.com/*
+search.brave.com###results > div:has(a[href*="exchangetuts.com"])
+*://fullstackuser.com/*
+search.brave.com###results > div:has(a[href*="fullstackuser.com"])
 *://encyclopedia.thefreedictionary.com/*
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

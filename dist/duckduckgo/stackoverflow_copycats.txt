@@ -528,3 +528,9 @@ duckduckgo.com###links>div:has(a[href*="www.graef.io"])
 duckduckgo.com###links>div:has(a[href*="syntaxfix.com"])
 *://ourpython.com/*
 duckduckgo.com###links>div:has(a[href*="ourpython.com"])
+*://vigges.net/*
+duckduckgo.com###links>div:has(a[href*="vigges.net"])
+*://exchangetuts.com/*
+duckduckgo.com###links>div:has(a[href*="exchangetuts.com"])
+*://fullstackuser.com/*
+duckduckgo.com###links>div:has(a[href*="fullstackuser.com"])

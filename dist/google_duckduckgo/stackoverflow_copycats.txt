@@ -789,3 +789,12 @@ duckduckgo.com###links>div:has(a[href*="syntaxfix.com"])
 *://ourpython.com/*
 google.*##.g:has(a[href*="ourpython.com"])
 duckduckgo.com###links>div:has(a[href*="ourpython.com"])
+*://vigges.net/*
+google.*##.g:has(a[href*="vigges.net"])
+duckduckgo.com###links>div:has(a[href*="vigges.net"])
+*://exchangetuts.com/*
+google.*##.g:has(a[href*="exchangetuts.com"])
+duckduckgo.com###links>div:has(a[href*="exchangetuts.com"])
+*://fullstackuser.com/*
+google.*##.g:has(a[href*="fullstackuser.com"])
+duckduckgo.com###links>div:has(a[href*="fullstackuser.com"])

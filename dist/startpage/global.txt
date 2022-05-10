@@ -654,6 +654,12 @@ startpage.com##.w-gl__result:has(a[href*="www.graef.io"])
 startpage.com##.w-gl__result:has(a[href*="syntaxfix.com"])
 *://ourpython.com/*
 startpage.com##.w-gl__result:has(a[href*="ourpython.com"])
+*://vigges.net/*
+startpage.com##.w-gl__result:has(a[href*="vigges.net"])
+*://exchangetuts.com/*
+startpage.com##.w-gl__result:has(a[href*="exchangetuts.com"])
+*://fullstackuser.com/*
+startpage.com##.w-gl__result:has(a[href*="fullstackuser.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*
