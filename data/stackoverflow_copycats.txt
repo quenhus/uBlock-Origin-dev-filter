@@ -266,3 +266,4 @@
 *://fullstackuser.com/*
 *://dtuto.com/*
 *://w3coded.com/*
+*://thelivingtrove.com/*
