@@ -272,6 +272,7 @@
 [data-domain*="fullstackuser.com"],
 [data-domain*="dtuto.com"],
 [data-domain*="w3coded.com"],
+[data-domain*="thelivingtrove.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

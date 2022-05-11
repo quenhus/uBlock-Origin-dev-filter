@@ -664,6 +664,8 @@ google.*##.g:has(a[href*="fullstackuser.com"])
 google.*##.g:has(a[href*="dtuto.com"])
 *://w3coded.com/*
 google.*##.g:has(a[href*="w3coded.com"])
+*://thelivingtrove.com/*
+google.*##.g:has(a[href*="thelivingtrove.com"])
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

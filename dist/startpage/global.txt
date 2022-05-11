@@ -664,6 +664,8 @@ startpage.com##.w-gl__result:has(a[href*="fullstackuser.com"])
 startpage.com##.w-gl__result:has(a[href*="dtuto.com"])
 *://w3coded.com/*
 startpage.com##.w-gl__result:has(a[href*="w3coded.com"])
+*://thelivingtrove.com/*
+startpage.com##.w-gl__result:has(a[href*="thelivingtrove.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

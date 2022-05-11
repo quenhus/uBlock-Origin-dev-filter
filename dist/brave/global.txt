@@ -664,6 +664,8 @@ search.brave.com###results > div:has(a[href*="fullstackuser.com"])
 search.brave.com###results > div:has(a[href*="dtuto.com"])
 *://w3coded.com/*
 search.brave.com###results > div:has(a[href*="w3coded.com"])
+*://thelivingtrove.com/*
+search.brave.com###results > div:has(a[href*="thelivingtrove.com"])
 *://encyclopedia.thefreedictionary.com/*
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*
