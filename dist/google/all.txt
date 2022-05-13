@@ -666,3 +666,13 @@ google.*##.g:has(a[href*="dtuto.com"])
 google.*##.g:has(a[href*="w3coded.com"])
 *://thelivingtrove.com/*
 google.*##.g:has(a[href*="thelivingtrove.com"])
+*://www.ti-enxame.com/*
+google.*##.g:has(a[href*="www.ti-enxame.com"])
+*://www.desenv-web-rp-bd.com/*
+google.*##.g:has(a[href*="www.desenv-web-rp-bd.com"])
+*://www.web-dev-qa-db-pt.com/*
+google.*##.g:has(a[href*="www.web-dev-qa-db-pt.com"])
+*://www.tra-loi-cau-hoi-phat-trien-web.com/*
+google.*##.g:has(a[href*="www.tra-loi-cau-hoi-phat-trien-web.com"])
+*://suttonedfoundation.org/*
+google.*##.g:has(a[href*="suttonedfoundation.org"])

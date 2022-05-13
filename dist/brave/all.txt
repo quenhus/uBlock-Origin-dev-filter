@@ -666,3 +666,13 @@ search.brave.com###results > div:has(a[href*="dtuto.com"])
 search.brave.com###results > div:has(a[href*="w3coded.com"])
 *://thelivingtrove.com/*
 search.brave.com###results > div:has(a[href*="thelivingtrove.com"])
+*://www.ti-enxame.com/*
+search.brave.com###results > div:has(a[href*="www.ti-enxame.com"])
+*://www.desenv-web-rp-bd.com/*
+search.brave.com###results > div:has(a[href*="www.desenv-web-rp-bd.com"])
+*://www.web-dev-qa-db-pt.com/*
+search.brave.com###results > div:has(a[href*="www.web-dev-qa-db-pt.com"])
+*://www.tra-loi-cau-hoi-phat-trien-web.com/*
+search.brave.com###results > div:has(a[href*="www.tra-loi-cau-hoi-phat-trien-web.com"])
+*://suttonedfoundation.org/*
+search.brave.com###results > div:has(a[href*="suttonedfoundation.org"])
