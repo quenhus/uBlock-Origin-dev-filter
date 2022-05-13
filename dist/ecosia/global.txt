@@ -666,6 +666,16 @@ ecosia.org##.result:has(a[href*="dtuto.com"])
 ecosia.org##.result:has(a[href*="w3coded.com"])
 *://thelivingtrove.com/*
 ecosia.org##.result:has(a[href*="thelivingtrove.com"])
+*://www.ti-enxame.com/*
+ecosia.org##.result:has(a[href*="www.ti-enxame.com"])
+*://www.desenv-web-rp-bd.com/*
+ecosia.org##.result:has(a[href*="www.desenv-web-rp-bd.com"])
+*://www.web-dev-qa-db-pt.com/*
+ecosia.org##.result:has(a[href*="www.web-dev-qa-db-pt.com"])
+*://www.tra-loi-cau-hoi-phat-trien-web.com/*
+ecosia.org##.result:has(a[href*="www.tra-loi-cau-hoi-phat-trien-web.com"])
+*://suttonedfoundation.org/*
+ecosia.org##.result:has(a[href*="suttonedfoundation.org"])
 *://encyclopedia.thefreedictionary.com/*
 ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

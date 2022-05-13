@@ -267,4 +267,9 @@
 *://dtuto.com/*
 *://w3coded.com/*
 *://thelivingtrove.com/*
+*://www.ti-enxame.com/*
+*://www.desenv-web-rp-bd.com/*
+*://www.web-dev-qa-db-pt.com/*
+*://www.tra-loi-cau-hoi-phat-trien-web.com/*
+*://suttonedfoundation.org/*
 *://tousu.in/*

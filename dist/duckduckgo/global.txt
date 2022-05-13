@@ -666,6 +666,16 @@ duckduckgo.com###links>div:has(a[href*="dtuto.com"])
 duckduckgo.com###links>div:has(a[href*="w3coded.com"])
 *://thelivingtrove.com/*
 duckduckgo.com###links>div:has(a[href*="thelivingtrove.com"])
+*://www.ti-enxame.com/*
+duckduckgo.com###links>div:has(a[href*="www.ti-enxame.com"])
+*://www.desenv-web-rp-bd.com/*
+duckduckgo.com###links>div:has(a[href*="www.desenv-web-rp-bd.com"])
+*://www.web-dev-qa-db-pt.com/*
+duckduckgo.com###links>div:has(a[href*="www.web-dev-qa-db-pt.com"])
+*://www.tra-loi-cau-hoi-phat-trien-web.com/*
+duckduckgo.com###links>div:has(a[href*="www.tra-loi-cau-hoi-phat-trien-web.com"])
+*://suttonedfoundation.org/*
+duckduckgo.com###links>div:has(a[href*="suttonedfoundation.org"])
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

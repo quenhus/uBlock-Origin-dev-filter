@@ -666,6 +666,16 @@ startpage.com##.w-gl__result:has(a[href*="dtuto.com"])
 startpage.com##.w-gl__result:has(a[href*="w3coded.com"])
 *://thelivingtrove.com/*
 startpage.com##.w-gl__result:has(a[href*="thelivingtrove.com"])
+*://www.ti-enxame.com/*
+startpage.com##.w-gl__result:has(a[href*="www.ti-enxame.com"])
+*://www.desenv-web-rp-bd.com/*
+startpage.com##.w-gl__result:has(a[href*="www.desenv-web-rp-bd.com"])
+*://www.web-dev-qa-db-pt.com/*
+startpage.com##.w-gl__result:has(a[href*="www.web-dev-qa-db-pt.com"])
+*://www.tra-loi-cau-hoi-phat-trien-web.com/*
+startpage.com##.w-gl__result:has(a[href*="www.tra-loi-cau-hoi-phat-trien-web.com"])
+*://suttonedfoundation.org/*
+startpage.com##.w-gl__result:has(a[href*="suttonedfoundation.org"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*
