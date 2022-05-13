@@ -678,6 +678,10 @@ duckduckgo.com###links>div:has(a[href*="www.tra-loi-cau-hoi-phat-trien-web.com"]
 duckduckgo.com###links>div:has(a[href*="suttonedfoundation.org"])
 *://tousu.in/*
 duckduckgo.com###links>div:has(a[href*="tousu.in"])
+*://www.itdaan.com/*
+duckduckgo.com###links>div:has(a[href*="www.itdaan.com"])
+*://www.itranslater.com/*
+duckduckgo.com###links>div:has(a[href*="www.itranslater.com"])
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

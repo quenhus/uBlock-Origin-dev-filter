@@ -678,3 +678,7 @@ google.*##.g:has(a[href*="www.tra-loi-cau-hoi-phat-trien-web.com"])
 google.*##.g:has(a[href*="suttonedfoundation.org"])
 *://tousu.in/*
 google.*##.g:has(a[href*="tousu.in"])
+*://www.itdaan.com/*
+google.*##.g:has(a[href*="www.itdaan.com"])
+*://www.itranslater.com/*
+google.*##.g:has(a[href*="www.itranslater.com"])

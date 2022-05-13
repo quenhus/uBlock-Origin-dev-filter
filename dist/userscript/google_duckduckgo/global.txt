@@ -342,6 +342,8 @@
 [data-domain*="www.tra-loi-cau-hoi-phat-trien-web.com"],
 [data-domain*="suttonedfoundation.org"],
 [data-domain*="tousu.in"],
+[data-domain*="www.itdaan.com"],
+[data-domain*="www.itranslater.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

@@ -678,6 +678,10 @@ startpage.com##.w-gl__result:has(a[href*="www.tra-loi-cau-hoi-phat-trien-web.com
 startpage.com##.w-gl__result:has(a[href*="suttonedfoundation.org"])
 *://tousu.in/*
 startpage.com##.w-gl__result:has(a[href*="tousu.in"])
+*://www.itdaan.com/*
+startpage.com##.w-gl__result:has(a[href*="www.itdaan.com"])
+*://www.itranslater.com/*
+startpage.com##.w-gl__result:has(a[href*="www.itranslater.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*
