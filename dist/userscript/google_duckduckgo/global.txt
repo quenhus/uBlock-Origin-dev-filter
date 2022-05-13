@@ -341,6 +341,7 @@
 [data-domain*="www.web-dev-qa-db-pt.com"],
 [data-domain*="www.tra-loi-cau-hoi-phat-trien-web.com"],
 [data-domain*="suttonedfoundation.org"],
+[data-domain*="tousu.in"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

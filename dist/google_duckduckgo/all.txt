@@ -1011,3 +1011,6 @@ duckduckgo.com###links>div:has(a[href*="www.tra-loi-cau-hoi-phat-trien-web.com"]
 *://suttonedfoundation.org/*
 google.*##.g:has(a[href*="suttonedfoundation.org"])
 duckduckgo.com###links>div:has(a[href*="suttonedfoundation.org"])
+*://tousu.in/*
+google.*##.g:has(a[href*="tousu.in"])
+duckduckgo.com###links>div:has(a[href*="tousu.in"])

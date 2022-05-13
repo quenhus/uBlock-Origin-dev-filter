@@ -550,3 +550,5 @@ startpage.com##.w-gl__result:has(a[href*="www.web-dev-qa-db-pt.com"])
 startpage.com##.w-gl__result:has(a[href*="www.tra-loi-cau-hoi-phat-trien-web.com"])
 *://suttonedfoundation.org/*
 startpage.com##.w-gl__result:has(a[href*="suttonedfoundation.org"])
+*://tousu.in/*
+startpage.com##.w-gl__result:has(a[href*="tousu.in"])
