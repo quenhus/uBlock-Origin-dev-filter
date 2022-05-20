@@ -275,3 +275,4 @@
 *://tousu.in/*
 *://www.itdaan.com/*
 *://www.itranslater.com/*
+*://software-testing.com/*
