@@ -126,3 +126,5 @@ google.*##.g:has(a[href*="githublab.com"])
 google.*##.g:has(a[href*="libhunt.com"])
 *://andywarholpopartillustration.blogspot.com/*
 google.*##.g:has(a[href*="andywarholpopartillustration.blogspot.com"])
+*://bytemeta.vip/*
+google.*##.g:has(a[href*="bytemeta.vip"])

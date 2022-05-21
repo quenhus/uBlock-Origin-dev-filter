@@ -186,6 +186,9 @@ duckduckgo.com###links>div:has(a[href*="libhunt.com"])
 *://andywarholpopartillustration.blogspot.com/*
 google.*##.g:has(a[href*="andywarholpopartillustration.blogspot.com"])
 duckduckgo.com###links>div:has(a[href*="andywarholpopartillustration.blogspot.com"])
+*://bytemeta.vip/*
+google.*##.g:has(a[href*="bytemeta.vip"])
+duckduckgo.com###links>div:has(a[href*="bytemeta.vip"])
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])

@@ -66,6 +66,7 @@
 [data-domain*="githublab.com"],
 [data-domain*="libhunt.com"],
 [data-domain*="andywarholpopartillustration.blogspot.com"],
+[data-domain*="bytemeta.vip"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

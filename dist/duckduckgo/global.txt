@@ -126,6 +126,8 @@ duckduckgo.com###links>div:has(a[href*="githublab.com"])
 duckduckgo.com###links>div:has(a[href*="libhunt.com"])
 *://andywarholpopartillustration.blogspot.com/*
 duckduckgo.com###links>div:has(a[href*="andywarholpopartillustration.blogspot.com"])
+*://bytemeta.vip/*
+duckduckgo.com###links>div:has(a[href*="bytemeta.vip"])
 *://npmmirror.com/*
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*

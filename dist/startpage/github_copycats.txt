@@ -126,3 +126,5 @@ startpage.com##.w-gl__result:has(a[href*="githublab.com"])
 startpage.com##.w-gl__result:has(a[href*="libhunt.com"])
 *://andywarholpopartillustration.blogspot.com/*
 startpage.com##.w-gl__result:has(a[href*="andywarholpopartillustration.blogspot.com"])
+*://bytemeta.vip/*
+startpage.com##.w-gl__result:has(a[href*="bytemeta.vip"])

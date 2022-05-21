@@ -66,6 +66,7 @@
 [data-domain*="githublab.com"],
 [data-domain*="libhunt.com"],
 [data-domain*="andywarholpopartillustration.blogspot.com"],
+[data-domain*="bytemeta.vip"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="npm.io"],
