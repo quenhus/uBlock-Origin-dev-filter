@@ -281,6 +281,8 @@
 [data-domain*="tousu.in"],
 [data-domain*="www.itdaan.com"],
 [data-domain*="www.itranslater.com"],
+[data-domain*="www.itbaoku.cn"],
+[data-domain*="nibes.cn"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

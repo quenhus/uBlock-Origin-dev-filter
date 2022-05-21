@@ -682,6 +682,10 @@ startpage.com##.w-gl__result:has(a[href*="tousu.in"])
 startpage.com##.w-gl__result:has(a[href*="www.itdaan.com"])
 *://www.itranslater.com/*
 startpage.com##.w-gl__result:has(a[href*="www.itranslater.com"])
+*://www.itbaoku.cn/*
+startpage.com##.w-gl__result:has(a[href*="www.itbaoku.cn"])
+*://nibes.cn/*
+startpage.com##.w-gl__result:has(a[href*="nibes.cn"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

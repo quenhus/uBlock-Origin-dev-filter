@@ -682,3 +682,7 @@ search.brave.com###results > div:has(a[href*="tousu.in"])
 search.brave.com###results > div:has(a[href*="www.itdaan.com"])
 *://www.itranslater.com/*
 search.brave.com###results > div:has(a[href*="www.itranslater.com"])
+*://www.itbaoku.cn/*
+search.brave.com###results > div:has(a[href*="www.itbaoku.cn"])
+*://nibes.cn/*
+search.brave.com###results > div:has(a[href*="nibes.cn"])
