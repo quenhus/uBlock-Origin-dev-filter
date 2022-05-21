@@ -344,6 +344,7 @@
 [data-domain*="tousu.in"],
 [data-domain*="www.itdaan.com"],
 [data-domain*="www.itranslater.com"],
+[data-domain*="software-testing.com"],
 [data-domain*="www.itbaoku.cn"],
 [data-domain*="nibes.cn"],
 [data-domain*="encyclopedia.thefreedictionary.com"],

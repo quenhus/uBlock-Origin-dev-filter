@@ -682,6 +682,8 @@ google.*##.g:has(a[href*="tousu.in"])
 google.*##.g:has(a[href*="www.itdaan.com"])
 *://www.itranslater.com/*
 google.*##.g:has(a[href*="www.itranslater.com"])
+*://software-testing.com/*
+google.*##.g:has(a[href*="software-testing.com"])
 *://www.itbaoku.cn/*
 google.*##.g:has(a[href*="www.itbaoku.cn"])
 *://nibes.cn/*

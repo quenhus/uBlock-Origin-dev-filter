@@ -556,6 +556,8 @@ startpage.com##.w-gl__result:has(a[href*="tousu.in"])
 startpage.com##.w-gl__result:has(a[href*="www.itdaan.com"])
 *://www.itranslater.com/*
 startpage.com##.w-gl__result:has(a[href*="www.itranslater.com"])
+*://software-testing.com/*
+startpage.com##.w-gl__result:has(a[href*="software-testing.com"])
 *://www.itbaoku.cn/*
 startpage.com##.w-gl__result:has(a[href*="www.itbaoku.cn"])
 *://nibes.cn/*
