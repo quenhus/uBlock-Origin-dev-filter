@@ -275,3 +275,5 @@
 *://tousu.in/*
 *://www.itdaan.com/*
 *://www.itranslater.com/*
+*://www.itbaoku.cn/*
+*://nibes.cn/*
