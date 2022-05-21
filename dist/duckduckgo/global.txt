@@ -682,6 +682,10 @@ duckduckgo.com###links>div:has(a[href*="tousu.in"])
 duckduckgo.com###links>div:has(a[href*="www.itdaan.com"])
 *://www.itranslater.com/*
 duckduckgo.com###links>div:has(a[href*="www.itranslater.com"])
+*://www.itbaoku.cn/*
+duckduckgo.com###links>div:has(a[href*="www.itbaoku.cn"])
+*://nibes.cn/*
+duckduckgo.com###links>div:has(a[href*="nibes.cn"])
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

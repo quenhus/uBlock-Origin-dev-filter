@@ -1020,6 +1020,12 @@ duckduckgo.com###links>div:has(a[href*="www.itdaan.com"])
 *://www.itranslater.com/*
 google.*##.g:has(a[href*="www.itranslater.com"])
 duckduckgo.com###links>div:has(a[href*="www.itranslater.com"])
+*://www.itbaoku.cn/*
+google.*##.g:has(a[href*="www.itbaoku.cn"])
+duckduckgo.com###links>div:has(a[href*="www.itbaoku.cn"])
+*://nibes.cn/*
+google.*##.g:has(a[href*="nibes.cn"])
+duckduckgo.com###links>div:has(a[href*="nibes.cn"])
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
