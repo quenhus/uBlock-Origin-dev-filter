@@ -284,6 +284,16 @@
 [data-domain*="software-testing.com"],
 [data-domain*="www.itbaoku.cn"],
 [data-domain*="nibes.cn"],
+[data-domain*="devqanda.com"],
+[data-domain*="sargon24.com"],
+[data-domain*="www.javafixing.com"],
+[data-domain*="catchconsole.com"],
+[data-domain*="icopy.site"],
+[data-domain*="frameboxxindore.com"],
+[data-domain*="qa.wujigu.com"],
+[data-domain*="shenzhenjia.net"],
+[data-domain*="ogeek.cn"],
+[data-domain*="devdreamz.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
