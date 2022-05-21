@@ -278,3 +278,13 @@
 *://software-testing.com/*
 *://www.itbaoku.cn/*
 *://nibes.cn/*
+*://devqanda.com/*
+*://sargon24.com/*
+*://www.javafixing.com/*
+*://catchconsole.com/*
+*://*.icopy.site/*
+*://frameboxxindore.com/*
+*://qa.wujigu.com/*
+*://shenzhenjia.net/*
+*://ogeek.cn/*
+*://devdreamz.com/*
