@@ -275,5 +275,6 @@
 *://tousu.in/*
 *://www.itdaan.com/*
 *://www.itranslater.com/*
+*://software-testing.com/*
 *://www.itbaoku.cn/*
 *://nibes.cn/*
