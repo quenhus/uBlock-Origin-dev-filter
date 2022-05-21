@@ -276,4 +276,4 @@
 *://www.itdaan.com/*
 *://www.itranslater.com/*
 *://www.itbaoku.cn/*
-*://www.nibes.cn/*
+*://nibes.cn/*
