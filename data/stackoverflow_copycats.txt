@@ -288,3 +288,4 @@
 *://shenzhenjia.net/*
 *://ogeek.cn/*
 *://devdreamz.com/*
+*://*.imtqy.com/*
