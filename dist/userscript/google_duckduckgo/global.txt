@@ -358,6 +358,7 @@
 [data-domain*="shenzhenjia.net"],
 [data-domain*="ogeek.cn"],
 [data-domain*="devdreamz.com"],
+[data-domain*="imtqy.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

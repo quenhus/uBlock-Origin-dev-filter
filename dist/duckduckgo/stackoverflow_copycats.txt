@@ -582,3 +582,5 @@ duckduckgo.com###links>div:has(a[href*="shenzhenjia.net"])
 duckduckgo.com###links>div:has(a[href*="ogeek.cn"])
 *://devdreamz.com/*
 duckduckgo.com###links>div:has(a[href*="devdreamz.com"])
+*://*.imtqy.com/*
+duckduckgo.com###links>div:has(a[href*=".imtqy.com"])

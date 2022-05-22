@@ -358,6 +358,7 @@
 [data-domain*="shenzhenjia.net"],
 [data-domain*="ogeek.cn"],
 [data-domain*="devdreamz.com"],
+[data-domain*="imtqy.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

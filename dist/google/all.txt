@@ -710,3 +710,5 @@ google.*##.g:has(a[href*="shenzhenjia.net"])
 google.*##.g:has(a[href*="ogeek.cn"])
 *://devdreamz.com/*
 google.*##.g:has(a[href*="devdreamz.com"])
+*://*.imtqy.com/*
+google.*##.g:has(a[href*=".imtqy.com"])
