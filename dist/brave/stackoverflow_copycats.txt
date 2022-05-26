@@ -584,3 +584,5 @@ search.brave.com###results > div:has(a[href*="ogeek.cn"])
 search.brave.com###results > div:has(a[href*="devdreamz.com"])
 *://*.imtqy.com/*
 search.brave.com###results > div:has(a[href*=".imtqy.com"])
+*://idqna.com/*
+search.brave.com###results > div:has(a[href*="idqna.com"])

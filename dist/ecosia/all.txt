@@ -712,3 +712,5 @@ ecosia.org##.result:has(a[href*="ogeek.cn"])
 ecosia.org##.result:has(a[href*="devdreamz.com"])
 *://*.imtqy.com/*
 ecosia.org##.result:has(a[href*=".imtqy.com"])
+*://idqna.com/*
+ecosia.org##.result:has(a[href*="idqna.com"])

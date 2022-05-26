@@ -712,6 +712,8 @@ startpage.com##.w-gl__result:has(a[href*="ogeek.cn"])
 startpage.com##.w-gl__result:has(a[href*="devdreamz.com"])
 *://*.imtqy.com/*
 startpage.com##.w-gl__result:has(a[href*=".imtqy.com"])
+*://idqna.com/*
+startpage.com##.w-gl__result:has(a[href*="idqna.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

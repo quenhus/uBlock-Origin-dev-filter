@@ -712,6 +712,8 @@ duckduckgo.com###links>div:has(a[href*="ogeek.cn"])
 duckduckgo.com###links>div:has(a[href*="devdreamz.com"])
 *://*.imtqy.com/*
 duckduckgo.com###links>div:has(a[href*=".imtqy.com"])
+*://idqna.com/*
+duckduckgo.com###links>div:has(a[href*="idqna.com"])
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*
