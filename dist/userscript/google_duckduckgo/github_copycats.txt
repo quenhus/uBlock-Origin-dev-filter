@@ -67,6 +67,7 @@
 [data-domain*="libhunt.com"],
 [data-domain*="andywarholpopartillustration.blogspot.com"],
 [data-domain*="bytemeta.vip"],
+[data-domain*="www.editcode.net"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

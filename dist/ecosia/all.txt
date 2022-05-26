@@ -128,6 +128,8 @@ ecosia.org##.result:has(a[href*="libhunt.com"])
 ecosia.org##.result:has(a[href*="andywarholpopartillustration.blogspot.com"])
 *://bytemeta.vip/*
 ecosia.org##.result:has(a[href*="bytemeta.vip"])
+*://www.editcode.net/*
+ecosia.org##.result:has(a[href*="www.editcode.net"])
 *://npmmirror.com/*
 ecosia.org##.result:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
