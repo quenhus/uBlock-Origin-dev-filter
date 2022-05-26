@@ -289,3 +289,4 @@
 *://ogeek.cn/*
 *://devdreamz.com/*
 *://*.imtqy.com/*
+*://idqna.com/*
