@@ -61,6 +61,7 @@
 *://libhunt.com/*
 *://andywarholpopartillustration.blogspot.com/*
 *://bytemeta.vip/*
+*://www.editcode.net/*
 ! github-wiki-see.page is a service that allows indexing of GitHub Wikis that GitHub blocks indexing of which is nearly all of them.
 ! At the moment, only about a couple thousand GitHub Wikis are permitted to be indexed out of about 420,000 in existence.
 ! Please visit https://github-wiki-see.page for a more thorough and/or updated explanation of the situation.
