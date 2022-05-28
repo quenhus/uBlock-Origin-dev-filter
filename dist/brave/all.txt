@@ -716,3 +716,13 @@ search.brave.com###results > div:has(a[href*="devdreamz.com"])
 search.brave.com###results > div:has(a[href*=".imtqy.com"])
 *://idqna.com/*
 search.brave.com###results > div:has(a[href*="idqna.com"])
+*://peaku.co/*
+search.brave.com###results > div:has(a[href*="peaku.co"])
+*://*.javawenti.com.*
+search.brave.com###results > div:has(a[href*=".javawenti.com.*"])
+*://*.runexception.com/*
+search.brave.com###results > div:has(a[href*=".runexception.com"])
+*://ebestcode.com/*
+search.brave.com###results > div:has(a[href*="ebestcode.com"])
+*://www.likecs.com/*
+search.brave.com###results > div:has(a[href*="www.likecs.com"])

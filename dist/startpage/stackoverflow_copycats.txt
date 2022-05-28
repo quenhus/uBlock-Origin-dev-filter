@@ -586,3 +586,13 @@ startpage.com##.w-gl__result:has(a[href*="devdreamz.com"])
 startpage.com##.w-gl__result:has(a[href*=".imtqy.com"])
 *://idqna.com/*
 startpage.com##.w-gl__result:has(a[href*="idqna.com"])
+*://peaku.co/*
+startpage.com##.w-gl__result:has(a[href*="peaku.co"])
+*://*.javawenti.com.*
+startpage.com##.w-gl__result:has(a[href*=".javawenti.com.*"])
+*://*.runexception.com/*
+startpage.com##.w-gl__result:has(a[href*=".runexception.com"])
+*://ebestcode.com/*
+startpage.com##.w-gl__result:has(a[href*="ebestcode.com"])
+*://www.likecs.com/*
+startpage.com##.w-gl__result:has(a[href*="www.likecs.com"])

@@ -296,6 +296,11 @@
 [data-domain*="devdreamz.com"],
 [data-domain*="imtqy.com"],
 [data-domain*="idqna.com"],
+[data-domain*="peaku.co"],
+[data-domain*="javawenti.com.*"],
+[data-domain*="runexception.com"],
+[data-domain*="ebestcode.com"],
+[data-domain*="www.likecs.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

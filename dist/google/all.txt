@@ -716,3 +716,13 @@ google.*##.g:has(a[href*="devdreamz.com"])
 google.*##.g:has(a[href*=".imtqy.com"])
 *://idqna.com/*
 google.*##.g:has(a[href*="idqna.com"])
+*://peaku.co/*
+google.*##.g:has(a[href*="peaku.co"])
+*://*.javawenti.com.*
+google.*##.g:has(a[href*=".javawenti.com.*"])
+*://*.runexception.com/*
+google.*##.g:has(a[href*=".runexception.com"])
+*://ebestcode.com/*
+google.*##.g:has(a[href*="ebestcode.com"])
+*://www.likecs.com/*
+google.*##.g:has(a[href*="www.likecs.com"])

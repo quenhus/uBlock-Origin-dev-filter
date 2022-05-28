@@ -716,3 +716,13 @@ duckduckgo.com###links>div:has(a[href*="devdreamz.com"])
 duckduckgo.com###links>div:has(a[href*=".imtqy.com"])
 *://idqna.com/*
 duckduckgo.com###links>div:has(a[href*="idqna.com"])
+*://peaku.co/*
+duckduckgo.com###links>div:has(a[href*="peaku.co"])
+*://*.javawenti.com.*
+duckduckgo.com###links>div:has(a[href*=".javawenti.com.*"])
+*://*.runexception.com/*
+duckduckgo.com###links>div:has(a[href*=".runexception.com"])
+*://ebestcode.com/*
+duckduckgo.com###links>div:has(a[href*="ebestcode.com"])
+*://www.likecs.com/*
+duckduckgo.com###links>div:has(a[href*="www.likecs.com"])

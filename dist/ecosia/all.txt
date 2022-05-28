@@ -716,3 +716,13 @@ ecosia.org##.result:has(a[href*="devdreamz.com"])
 ecosia.org##.result:has(a[href*=".imtqy.com"])
 *://idqna.com/*
 ecosia.org##.result:has(a[href*="idqna.com"])
+*://peaku.co/*
+ecosia.org##.result:has(a[href*="peaku.co"])
+*://*.javawenti.com.*
+ecosia.org##.result:has(a[href*=".javawenti.com.*"])
+*://*.runexception.com/*
+ecosia.org##.result:has(a[href*=".runexception.com"])
+*://ebestcode.com/*
+ecosia.org##.result:has(a[href*="ebestcode.com"])
+*://www.likecs.com/*
+ecosia.org##.result:has(a[href*="www.likecs.com"])
