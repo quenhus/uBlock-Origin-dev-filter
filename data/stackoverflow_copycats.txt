@@ -290,3 +290,8 @@
 *://devdreamz.com/*
 *://*.imtqy.com/*
 *://idqna.com/*
+*://peaku.co/*
+*://*.javawenti.com.*
+*://*.runexception.com/*
+*://ebestcode.com/*
+*://www.likecs.com/*
