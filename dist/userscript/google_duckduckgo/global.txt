@@ -366,6 +366,8 @@
 [data-domain*="runexception.com"],
 [data-domain*="ebestcode.com"],
 [data-domain*="www.likecs.com"],
+[data-domain*="solveforum.com"],
+[data-domain*="www.codetd.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

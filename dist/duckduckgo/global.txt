@@ -726,6 +726,10 @@ duckduckgo.com###links>div:has(a[href*=".runexception.com"])
 duckduckgo.com###links>div:has(a[href*="ebestcode.com"])
 *://www.likecs.com/*
 duckduckgo.com###links>div:has(a[href*="www.likecs.com"])
+*://*.solveforum.com/*
+duckduckgo.com###links>div:has(a[href*=".solveforum.com"])
+*://www.codetd.com/*
+duckduckgo.com###links>div:has(a[href*="www.codetd.com"])
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

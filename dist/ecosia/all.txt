@@ -726,3 +726,7 @@ ecosia.org##.result:has(a[href*=".runexception.com"])
 ecosia.org##.result:has(a[href*="ebestcode.com"])
 *://www.likecs.com/*
 ecosia.org##.result:has(a[href*="www.likecs.com"])
+*://*.solveforum.com/*
+ecosia.org##.result:has(a[href*=".solveforum.com"])
+*://www.codetd.com/*
+ecosia.org##.result:has(a[href*="www.codetd.com"])

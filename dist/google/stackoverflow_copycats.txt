@@ -596,3 +596,7 @@ google.*##.g:has(a[href*=".runexception.com"])
 google.*##.g:has(a[href*="ebestcode.com"])
 *://www.likecs.com/*
 google.*##.g:has(a[href*="www.likecs.com"])
+*://*.solveforum.com/*
+google.*##.g:has(a[href*=".solveforum.com"])
+*://www.codetd.com/*
+google.*##.g:has(a[href*="www.codetd.com"])

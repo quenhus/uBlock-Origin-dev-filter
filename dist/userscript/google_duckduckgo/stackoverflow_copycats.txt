@@ -301,6 +301,8 @@
 [data-domain*="runexception.com"],
 [data-domain*="ebestcode.com"],
 [data-domain*="www.likecs.com"],
+[data-domain*="solveforum.com"],
+[data-domain*="www.codetd.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

@@ -726,6 +726,10 @@ startpage.com##.w-gl__result:has(a[href*=".runexception.com"])
 startpage.com##.w-gl__result:has(a[href*="ebestcode.com"])
 *://www.likecs.com/*
 startpage.com##.w-gl__result:has(a[href*="www.likecs.com"])
+*://*.solveforum.com/*
+startpage.com##.w-gl__result:has(a[href*=".solveforum.com"])
+*://www.codetd.com/*
+startpage.com##.w-gl__result:has(a[href*="www.codetd.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*
