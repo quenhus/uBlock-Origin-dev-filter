@@ -718,8 +718,8 @@ startpage.com##.w-gl__result:has(a[href*=".imtqy.com"])
 startpage.com##.w-gl__result:has(a[href*="idqna.com"])
 *://peaku.co/*
 startpage.com##.w-gl__result:has(a[href*="peaku.co"])
-*://*.javawenti.com.*
-startpage.com##.w-gl__result:has(a[href*=".javawenti.com.*"])
+*://*.javawenti.com/*
+startpage.com##.w-gl__result:has(a[href*=".javawenti.com"])
 *://*.runexception.com/*
 startpage.com##.w-gl__result:has(a[href*=".runexception.com"])
 *://ebestcode.com/*

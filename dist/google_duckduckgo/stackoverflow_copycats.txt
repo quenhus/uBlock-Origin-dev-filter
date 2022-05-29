@@ -879,9 +879,9 @@ duckduckgo.com###links>div:has(a[href*="idqna.com"])
 *://peaku.co/*
 google.*##.g:has(a[href*="peaku.co"])
 duckduckgo.com###links>div:has(a[href*="peaku.co"])
-*://*.javawenti.com.*
-google.*##.g:has(a[href*=".javawenti.com.*"])
-duckduckgo.com###links>div:has(a[href*=".javawenti.com.*"])
+*://*.javawenti.com/*
+google.*##.g:has(a[href*=".javawenti.com"])
+duckduckgo.com###links>div:has(a[href*=".javawenti.com"])
 *://*.runexception.com/*
 google.*##.g:has(a[href*=".runexception.com"])
 duckduckgo.com###links>div:has(a[href*=".runexception.com"])

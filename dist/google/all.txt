@@ -718,8 +718,8 @@ google.*##.g:has(a[href*=".imtqy.com"])
 google.*##.g:has(a[href*="idqna.com"])
 *://peaku.co/*
 google.*##.g:has(a[href*="peaku.co"])
-*://*.javawenti.com.*
-google.*##.g:has(a[href*=".javawenti.com.*"])
+*://*.javawenti.com/*
+google.*##.g:has(a[href*=".javawenti.com"])
 *://*.runexception.com/*
 google.*##.g:has(a[href*=".runexception.com"])
 *://ebestcode.com/*

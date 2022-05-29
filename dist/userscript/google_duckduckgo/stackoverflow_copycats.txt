@@ -297,7 +297,7 @@
 [data-domain*="imtqy.com"],
 [data-domain*="idqna.com"],
 [data-domain*="peaku.co"],
-[data-domain*="javawenti.com.*"],
+[data-domain*="javawenti.com"],
 [data-domain*="runexception.com"],
 [data-domain*="ebestcode.com"],
 [data-domain*="www.likecs.com"],
