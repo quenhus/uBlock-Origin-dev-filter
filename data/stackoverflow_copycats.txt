@@ -297,3 +297,4 @@
 *://www.likecs.com/*
 *://*.solveforum.com/*
 *://www.codetd.com/*
+*://www.anycodings.com/*
