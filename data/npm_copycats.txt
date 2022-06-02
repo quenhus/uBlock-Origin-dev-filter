@@ -1,3 +1,4 @@
 *://npmmirror.com/*
 *://cnpmjs.org/*
 *://npm.io/*
+*://codespots.com/*
