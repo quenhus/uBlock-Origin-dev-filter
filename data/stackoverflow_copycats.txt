@@ -302,3 +302,4 @@
 *://*.jonic.cn/*
 *://www.devasking.com/*
 *://askdevz.com/*
+*://cans.pro/*
