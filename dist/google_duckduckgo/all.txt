@@ -1095,3 +1095,6 @@ duckduckgo.com###links>div:has(a[href*=".solveforum.com"])
 *://www.codetd.com/*
 google.*##.g:has(a[href*="www.codetd.com"])
 duckduckgo.com###links>div:has(a[href*="www.codetd.com"])
+*://www.anycodings.com/*
+google.*##.g:has(a[href*="www.anycodings.com"])
+duckduckgo.com###links>div:has(a[href*="www.anycodings.com"])

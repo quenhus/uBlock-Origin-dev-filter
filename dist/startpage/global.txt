@@ -732,6 +732,8 @@ startpage.com##.w-gl__result:has(a[href*="www.likecs.com"])
 startpage.com##.w-gl__result:has(a[href*=".solveforum.com"])
 *://www.codetd.com/*
 startpage.com##.w-gl__result:has(a[href*="www.codetd.com"])
+*://www.anycodings.com/*
+startpage.com##.w-gl__result:has(a[href*="www.anycodings.com"])
 *://encyclopedia.thefreedictionary.com/*
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

@@ -369,6 +369,7 @@
 [data-domain*="www.likecs.com"],
 [data-domain*="solveforum.com"],
 [data-domain*="www.codetd.com"],
+[data-domain*="www.anycodings.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

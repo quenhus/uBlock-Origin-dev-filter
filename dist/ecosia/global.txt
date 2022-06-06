@@ -732,6 +732,8 @@ ecosia.org##.result:has(a[href*="www.likecs.com"])
 ecosia.org##.result:has(a[href*=".solveforum.com"])
 *://www.codetd.com/*
 ecosia.org##.result:has(a[href*="www.codetd.com"])
+*://www.anycodings.com/*
+ecosia.org##.result:has(a[href*="www.anycodings.com"])
 *://encyclopedia.thefreedictionary.com/*
 ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

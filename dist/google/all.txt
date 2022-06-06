@@ -732,3 +732,5 @@ google.*##.g:has(a[href*="www.likecs.com"])
 google.*##.g:has(a[href*=".solveforum.com"])
 *://www.codetd.com/*
 google.*##.g:has(a[href*="www.codetd.com"])
+*://www.anycodings.com/*
+google.*##.g:has(a[href*="www.anycodings.com"])

@@ -600,3 +600,5 @@ search.brave.com###results > div:has(a[href*="www.likecs.com"])
 search.brave.com###results > div:has(a[href*=".solveforum.com"])
 *://www.codetd.com/*
 search.brave.com###results > div:has(a[href*="www.codetd.com"])
+*://www.anycodings.com/*
+search.brave.com###results > div:has(a[href*="www.anycodings.com"])
