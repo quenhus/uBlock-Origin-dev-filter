@@ -82,3 +82,5 @@ search.brave.com###results > div:has(a[href*="wikipedia24.ru"])
 search.brave.com###results > div:has(a[href*="www.wikiwand.com"])
 *://*.encyclopedia.kz/*
 search.brave.com###results > div:has(a[href*=".encyclopedia.kz"])
+*://static.hlt.bme.hu/*
+search.brave.com###results > div:has(a[href*="static.hlt.bme.hu"])

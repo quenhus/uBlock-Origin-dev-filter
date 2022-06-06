@@ -808,3 +808,5 @@ startpage.com##.w-gl__result:has(a[href*="wikipedia24.ru"])
 startpage.com##.w-gl__result:has(a[href*="www.wikiwand.com"])
 *://*.encyclopedia.kz/*
 startpage.com##.w-gl__result:has(a[href*=".encyclopedia.kz"])
+*://static.hlt.bme.hu/*
+startpage.com##.w-gl__result:has(a[href*="static.hlt.bme.hu"])

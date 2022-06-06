@@ -1209,3 +1209,6 @@ duckduckgo.com###links>div:has(a[href*="www.wikiwand.com"])
 *://*.encyclopedia.kz/*
 google.*##.g:has(a[href*=".encyclopedia.kz"])
 duckduckgo.com###links>div:has(a[href*=".encyclopedia.kz"])
+*://static.hlt.bme.hu/*
+google.*##.g:has(a[href*="static.hlt.bme.hu"])
+duckduckgo.com###links>div:has(a[href*="static.hlt.bme.hu"])

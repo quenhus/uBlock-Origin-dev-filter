@@ -44,6 +44,7 @@
 [data-domain*="wikipedia24.ru"],
 [data-domain*="www.wikiwand.com"],
 [data-domain*="encyclopedia.kz"],
+[data-domain*="static.hlt.bme.hu"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
