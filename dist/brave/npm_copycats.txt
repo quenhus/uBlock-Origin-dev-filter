@@ -12,3 +12,5 @@ search.brave.com###results > div:has(a[href*="npmmirror.com"])
 search.brave.com###results > div:has(a[href*="cnpmjs.org"])
 *://npm.io/*
 search.brave.com###results > div:has(a[href*="npm.io"])
+*://codespots.com/*
+search.brave.com###results > div:has(a[href*="codespots.com"])

@@ -136,6 +136,8 @@ duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>div:has(a[href*="cnpmjs.org"])
 *://npm.io/*
 duckduckgo.com###links>div:has(a[href*="npm.io"])
+*://codespots.com/*
+duckduckgo.com###links>div:has(a[href*="codespots.com"])
 *://code-examples.net/*
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])
 *://kotaeta.com/*

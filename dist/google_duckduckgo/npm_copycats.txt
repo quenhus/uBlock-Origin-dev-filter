@@ -15,3 +15,6 @@ duckduckgo.com###links>div:has(a[href*="cnpmjs.org"])
 *://npm.io/*
 google.*##.g:has(a[href*="npm.io"])
 duckduckgo.com###links>div:has(a[href*="npm.io"])
+*://codespots.com/*
+google.*##.g:has(a[href*="codespots.com"])
+duckduckgo.com###links>div:has(a[href*="codespots.com"])
