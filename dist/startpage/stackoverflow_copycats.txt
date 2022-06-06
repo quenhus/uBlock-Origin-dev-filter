@@ -610,3 +610,5 @@ startpage.com##.w-gl__result:has(a[href*=".jonic.cn"])
 startpage.com##.w-gl__result:has(a[href*="www.devasking.com"])
 *://askdevz.com/*
 startpage.com##.w-gl__result:has(a[href*="askdevz.com"])
+*://cans.pro/*
+startpage.com##.w-gl__result:has(a[href*="cans.pro"])

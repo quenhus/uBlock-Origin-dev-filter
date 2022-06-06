@@ -610,3 +610,5 @@ ecosia.org##.result:has(a[href*=".jonic.cn"])
 ecosia.org##.result:has(a[href*="www.devasking.com"])
 *://askdevz.com/*
 ecosia.org##.result:has(a[href*="askdevz.com"])
+*://cans.pro/*
+ecosia.org##.result:has(a[href*="cans.pro"])

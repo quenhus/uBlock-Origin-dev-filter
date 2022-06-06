@@ -610,3 +610,5 @@ duckduckgo.com###links>div:has(a[href*=".jonic.cn"])
 duckduckgo.com###links>div:has(a[href*="www.devasking.com"])
 *://askdevz.com/*
 duckduckgo.com###links>div:has(a[href*="askdevz.com"])
+*://cans.pro/*
+duckduckgo.com###links>div:has(a[href*="cans.pro"])

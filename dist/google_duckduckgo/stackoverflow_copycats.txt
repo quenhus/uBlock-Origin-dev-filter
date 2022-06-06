@@ -912,3 +912,6 @@ duckduckgo.com###links>div:has(a[href*="www.devasking.com"])
 *://askdevz.com/*
 google.*##.g:has(a[href*="askdevz.com"])
 duckduckgo.com###links>div:has(a[href*="askdevz.com"])
+*://cans.pro/*
+google.*##.g:has(a[href*="cans.pro"])
+duckduckgo.com###links>div:has(a[href*="cans.pro"])

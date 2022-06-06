@@ -374,6 +374,7 @@
 [data-domain*="jonic.cn"],
 [data-domain*="www.devasking.com"],
 [data-domain*="askdevz.com"],
+[data-domain*="cans.pro"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

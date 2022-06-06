@@ -742,6 +742,8 @@ search.brave.com###results > div:has(a[href*=".jonic.cn"])
 search.brave.com###results > div:has(a[href*="www.devasking.com"])
 *://askdevz.com/*
 search.brave.com###results > div:has(a[href*="askdevz.com"])
+*://cans.pro/*
+search.brave.com###results > div:has(a[href*="cans.pro"])
 *://encyclopedia.thefreedictionary.com/*
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*
