@@ -298,3 +298,7 @@
 *://*.solveforum.com/*
 *://www.codetd.com/*
 *://www.anycodings.com/*
+*://*.overstack.in/*
+*://*.jonic.cn/*
+*://www.devasking.com/*
+*://askdevz.com/*
