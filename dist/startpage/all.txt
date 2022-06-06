@@ -734,3 +734,11 @@ startpage.com##.w-gl__result:has(a[href*=".solveforum.com"])
 startpage.com##.w-gl__result:has(a[href*="www.codetd.com"])
 *://www.anycodings.com/*
 startpage.com##.w-gl__result:has(a[href*="www.anycodings.com"])
+*://*.overstack.in/*
+startpage.com##.w-gl__result:has(a[href*=".overstack.in"])
+*://*.jonic.cn/*
+startpage.com##.w-gl__result:has(a[href*=".jonic.cn"])
+*://www.devasking.com/*
+startpage.com##.w-gl__result:has(a[href*="www.devasking.com"])
+*://askdevz.com/*
+startpage.com##.w-gl__result:has(a[href*="askdevz.com"])

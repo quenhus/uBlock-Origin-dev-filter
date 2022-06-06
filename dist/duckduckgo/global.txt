@@ -734,6 +734,14 @@ duckduckgo.com###links>div:has(a[href*=".solveforum.com"])
 duckduckgo.com###links>div:has(a[href*="www.codetd.com"])
 *://www.anycodings.com/*
 duckduckgo.com###links>div:has(a[href*="www.anycodings.com"])
+*://*.overstack.in/*
+duckduckgo.com###links>div:has(a[href*=".overstack.in"])
+*://*.jonic.cn/*
+duckduckgo.com###links>div:has(a[href*=".jonic.cn"])
+*://www.devasking.com/*
+duckduckgo.com###links>div:has(a[href*="www.devasking.com"])
+*://askdevz.com/*
+duckduckgo.com###links>div:has(a[href*="askdevz.com"])
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

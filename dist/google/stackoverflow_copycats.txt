@@ -602,3 +602,11 @@ google.*##.g:has(a[href*=".solveforum.com"])
 google.*##.g:has(a[href*="www.codetd.com"])
 *://www.anycodings.com/*
 google.*##.g:has(a[href*="www.anycodings.com"])
+*://*.overstack.in/*
+google.*##.g:has(a[href*=".overstack.in"])
+*://*.jonic.cn/*
+google.*##.g:has(a[href*=".jonic.cn"])
+*://www.devasking.com/*
+google.*##.g:has(a[href*="www.devasking.com"])
+*://askdevz.com/*
+google.*##.g:has(a[href*="askdevz.com"])
