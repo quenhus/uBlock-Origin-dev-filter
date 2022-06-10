@@ -1116,6 +1116,9 @@ duckduckgo.com###links>div:has(a[href*="askdevz.com"])
 *://cans.pro/*
 google.*##.g:has(a[href*="cans.pro"])
 duckduckgo.com###links>div:has(a[href*="cans.pro"])
+*://ddcode.net/*
+google.*##.g:has(a[href*="ddcode.net"])
+duckduckgo.com###links>div:has(a[href*="ddcode.net"])
 *://encyclopedia.thefreedictionary.com/*
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])

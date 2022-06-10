@@ -612,3 +612,5 @@ startpage.com##.w-gl__result:has(a[href*="www.devasking.com"])
 startpage.com##.w-gl__result:has(a[href*="askdevz.com"])
 *://cans.pro/*
 startpage.com##.w-gl__result:has(a[href*="cans.pro"])
+*://ddcode.net/*
+startpage.com##.w-gl__result:has(a[href*="ddcode.net"])

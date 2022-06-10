@@ -746,3 +746,5 @@ search.brave.com###results > div:has(a[href*="www.devasking.com"])
 search.brave.com###results > div:has(a[href*="askdevz.com"])
 *://cans.pro/*
 search.brave.com###results > div:has(a[href*="cans.pro"])
+*://ddcode.net/*
+search.brave.com###results > div:has(a[href*="ddcode.net"])
