@@ -130,3 +130,5 @@ startpage.com##.w-gl__result:has(a[href*="andywarholpopartillustration.blogspot.
 startpage.com##.w-gl__result:has(a[href*="bytemeta.vip"])
 *://www.editcode.net/*
 startpage.com##.w-gl__result:has(a[href*="www.editcode.net"])
+*://golangexample.com/*
+startpage.com##.w-gl__result:has(a[href*="golangexample.com"])

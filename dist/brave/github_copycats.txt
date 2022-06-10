@@ -130,3 +130,5 @@ search.brave.com###results > div:has(a[href*="andywarholpopartillustration.blogs
 search.brave.com###results > div:has(a[href*="bytemeta.vip"])
 *://www.editcode.net/*
 search.brave.com###results > div:has(a[href*="www.editcode.net"])
+*://golangexample.com/*
+search.brave.com###results > div:has(a[href*="golangexample.com"])

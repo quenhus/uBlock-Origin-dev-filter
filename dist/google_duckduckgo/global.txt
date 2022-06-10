@@ -192,6 +192,9 @@ duckduckgo.com###links>div:has(a[href*="bytemeta.vip"])
 *://www.editcode.net/*
 google.*##.g:has(a[href*="www.editcode.net"])
 duckduckgo.com###links>div:has(a[href*="www.editcode.net"])
+*://golangexample.com/*
+google.*##.g:has(a[href*="golangexample.com"])
+duckduckgo.com###links>div:has(a[href*="golangexample.com"])
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])

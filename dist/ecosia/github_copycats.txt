@@ -130,3 +130,5 @@ ecosia.org##.result:has(a[href*="andywarholpopartillustration.blogspot.com"])
 ecosia.org##.result:has(a[href*="bytemeta.vip"])
 *://www.editcode.net/*
 ecosia.org##.result:has(a[href*="www.editcode.net"])
+*://golangexample.com/*
+ecosia.org##.result:has(a[href*="golangexample.com"])

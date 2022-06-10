@@ -68,6 +68,7 @@
 [data-domain*="andywarholpopartillustration.blogspot.com"],
 [data-domain*="bytemeta.vip"],
 [data-domain*="www.editcode.net"],
+[data-domain*="golangexample.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

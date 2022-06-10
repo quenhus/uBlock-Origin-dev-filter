@@ -68,6 +68,7 @@
 [data-domain*="andywarholpopartillustration.blogspot.com"],
 [data-domain*="bytemeta.vip"],
 [data-domain*="www.editcode.net"],
+[data-domain*="golangexample.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="npm.io"],
