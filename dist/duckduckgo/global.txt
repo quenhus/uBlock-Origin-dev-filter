@@ -750,6 +750,14 @@ duckduckgo.com###links>div:has(a[href*="cans.pro"])
 duckduckgo.com###links>div:has(a[href*="ddcode.net"])
 *://w3programmers.org/*
 duckduckgo.com###links>div:has(a[href*="w3programmers.org"])
+*://www.faqcode4u.com/*
+duckduckgo.com###links>div:has(a[href*="www.faqcode4u.com"])
+*://www.studytonight.com/*
+duckduckgo.com###links>div:has(a[href*="www.studytonight.com"])
+*://chowdera.com/*
+duckduckgo.com###links>div:has(a[href*="chowdera.com"])
+*://www.faqcodes.com/*
+duckduckgo.com###links>div:has(a[href*="www.faqcodes.com"])
 *://encyclopedia.thefreedictionary.com/*
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

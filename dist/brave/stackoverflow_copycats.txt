@@ -616,3 +616,11 @@ search.brave.com###results > div:has(a[href*="cans.pro"])
 search.brave.com###results > div:has(a[href*="ddcode.net"])
 *://w3programmers.org/*
 search.brave.com###results > div:has(a[href*="w3programmers.org"])
+*://www.faqcode4u.com/*
+search.brave.com###results > div:has(a[href*="www.faqcode4u.com"])
+*://www.studytonight.com/*
+search.brave.com###results > div:has(a[href*="www.studytonight.com"])
+*://chowdera.com/*
+search.brave.com###results > div:has(a[href*="chowdera.com"])
+*://www.faqcodes.com/*
+search.brave.com###results > div:has(a[href*="www.faqcodes.com"])

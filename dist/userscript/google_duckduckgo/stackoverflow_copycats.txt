@@ -311,6 +311,10 @@
 [data-domain*="cans.pro"],
 [data-domain*="ddcode.net"],
 [data-domain*="w3programmers.org"],
+[data-domain*="www.faqcode4u.com"],
+[data-domain*="www.studytonight.com"],
+[data-domain*="chowdera.com"],
+[data-domain*="www.faqcodes.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
