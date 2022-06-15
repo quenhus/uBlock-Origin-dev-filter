@@ -310,6 +310,7 @@
 [data-domain*="askdevz.com"],
 [data-domain*="cans.pro"],
 [data-domain*="ddcode.net"],
+[data-domain*="w3programmers.org"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

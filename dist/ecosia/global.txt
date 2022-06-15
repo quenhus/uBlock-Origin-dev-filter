@@ -748,6 +748,8 @@ ecosia.org##.result:has(a[href*="askdevz.com"])
 ecosia.org##.result:has(a[href*="cans.pro"])
 *://ddcode.net/*
 ecosia.org##.result:has(a[href*="ddcode.net"])
+*://w3programmers.org/*
+ecosia.org##.result:has(a[href*="w3programmers.org"])
 *://encyclopedia.thefreedictionary.com/*
 ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
 *://www.algebra.com/*

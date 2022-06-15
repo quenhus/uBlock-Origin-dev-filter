@@ -614,3 +614,5 @@ google.*##.g:has(a[href*="askdevz.com"])
 google.*##.g:has(a[href*="cans.pro"])
 *://ddcode.net/*
 google.*##.g:has(a[href*="ddcode.net"])
+*://w3programmers.org/*
+google.*##.g:has(a[href*="w3programmers.org"])

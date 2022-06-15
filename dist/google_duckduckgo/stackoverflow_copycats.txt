@@ -918,3 +918,6 @@ duckduckgo.com###links>div:has(a[href*="cans.pro"])
 *://ddcode.net/*
 google.*##.g:has(a[href*="ddcode.net"])
 duckduckgo.com###links>div:has(a[href*="ddcode.net"])
+*://w3programmers.org/*
+google.*##.g:has(a[href*="w3programmers.org"])
+duckduckgo.com###links>div:has(a[href*="w3programmers.org"])

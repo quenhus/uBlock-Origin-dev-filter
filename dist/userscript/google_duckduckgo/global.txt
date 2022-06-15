@@ -377,6 +377,7 @@
 [data-domain*="askdevz.com"],
 [data-domain*="cans.pro"],
 [data-domain*="ddcode.net"],
+[data-domain*="w3programmers.org"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="www.algebra.com"],
 [data-domain*="wikizero.com"],

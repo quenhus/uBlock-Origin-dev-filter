@@ -748,3 +748,5 @@ startpage.com##.w-gl__result:has(a[href*="askdevz.com"])
 startpage.com##.w-gl__result:has(a[href*="cans.pro"])
 *://ddcode.net/*
 startpage.com##.w-gl__result:has(a[href*="ddcode.net"])
+*://w3programmers.org/*
+startpage.com##.w-gl__result:has(a[href*="w3programmers.org"])
