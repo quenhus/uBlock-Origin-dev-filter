@@ -305,3 +305,7 @@
 *://cans.pro/*
 *://ddcode.net/*
 *://w3programmers.org/*
+*://www.faqcode4u.com/*
+*://www.studytonight.com/*
+*://chowdera.com/*
+*://www.faqcodes.com/*
