@@ -132,6 +132,8 @@ startpage.com##.w-gl__result:has(a[href*="bytemeta.vip"])
 startpage.com##.w-gl__result:has(a[href*="www.editcode.net"])
 *://golangexample.com/*
 startpage.com##.w-gl__result:has(a[href*="golangexample.com"])
+*://github.astrophel.org/*
+startpage.com##.w-gl__result:has(a[href*="github.astrophel.org"])
 *://npmmirror.com/*
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*

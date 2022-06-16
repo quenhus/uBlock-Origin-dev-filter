@@ -132,6 +132,8 @@ google.*##.g:has(a[href*="bytemeta.vip"])
 google.*##.g:has(a[href*="www.editcode.net"])
 *://golangexample.com/*
 google.*##.g:has(a[href*="golangexample.com"])
+*://github.astrophel.org/*
+google.*##.g:has(a[href*="github.astrophel.org"])
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*

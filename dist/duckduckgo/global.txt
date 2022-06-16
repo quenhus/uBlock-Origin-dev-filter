@@ -132,6 +132,8 @@ duckduckgo.com###links>div:has(a[href*="bytemeta.vip"])
 duckduckgo.com###links>div:has(a[href*="www.editcode.net"])
 *://golangexample.com/*
 duckduckgo.com###links>div:has(a[href*="golangexample.com"])
+*://github.astrophel.org/*
+duckduckgo.com###links>div:has(a[href*="github.astrophel.org"])
 *://npmmirror.com/*
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
