@@ -70,6 +70,7 @@
 [data-domain*="www.editcode.net"],
 [data-domain*="golangexample.com"],
 [data-domain*="github.astrophel.org"],
+[data-domain*="www.gitdetail.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

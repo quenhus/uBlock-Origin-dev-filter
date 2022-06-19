@@ -134,6 +134,8 @@ duckduckgo.com###links>div:has(a[href*="www.editcode.net"])
 duckduckgo.com###links>div:has(a[href*="golangexample.com"])
 *://github.astrophel.org/*
 duckduckgo.com###links>div:has(a[href*="github.astrophel.org"])
+*://www.gitdetail.com/*
+duckduckgo.com###links>div:has(a[href*="www.gitdetail.com"])
 *://npmmirror.com/*
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*

@@ -70,6 +70,7 @@
 [data-domain*="www.editcode.net"],
 [data-domain*="golangexample.com"],
 [data-domain*="github.astrophel.org"],
+[data-domain*="www.gitdetail.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="npm.io"],

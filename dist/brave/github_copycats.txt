@@ -134,3 +134,5 @@ search.brave.com###results > div:has(a[href*="www.editcode.net"])
 search.brave.com###results > div:has(a[href*="golangexample.com"])
 *://github.astrophel.org/*
 search.brave.com###results > div:has(a[href*="github.astrophel.org"])
+*://www.gitdetail.com/*
+search.brave.com###results > div:has(a[href*="www.gitdetail.com"])

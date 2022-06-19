@@ -134,3 +134,5 @@ startpage.com##.w-gl__result:has(a[href*="www.editcode.net"])
 startpage.com##.w-gl__result:has(a[href*="golangexample.com"])
 *://github.astrophel.org/*
 startpage.com##.w-gl__result:has(a[href*="github.astrophel.org"])
+*://www.gitdetail.com/*
+startpage.com##.w-gl__result:has(a[href*="www.gitdetail.com"])

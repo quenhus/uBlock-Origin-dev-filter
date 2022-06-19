@@ -198,6 +198,9 @@ duckduckgo.com###links>div:has(a[href*="golangexample.com"])
 *://github.astrophel.org/*
 google.*##.g:has(a[href*="github.astrophel.org"])
 duckduckgo.com###links>div:has(a[href*="github.astrophel.org"])
+*://www.gitdetail.com/*
+google.*##.g:has(a[href*="www.gitdetail.com"])
+duckduckgo.com###links>div:has(a[href*="www.gitdetail.com"])
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
