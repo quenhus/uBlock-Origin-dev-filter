@@ -201,6 +201,9 @@ duckduckgo.com###links>div:has(a[href*="github.astrophel.org"])
 *://www.gitdetail.com/*
 google.*##.g:has(a[href*="www.gitdetail.com"])
 duckduckgo.com###links>div:has(a[href*="www.gitdetail.com"])
+*://codespots.com/*
+google.*##.g:has(a[href*="codespots.com"])
+duckduckgo.com###links>div:has(a[href*="codespots.com"])
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
@@ -210,9 +213,6 @@ duckduckgo.com###links>div:has(a[href*="cnpmjs.org"])
 *://npm.io/*
 google.*##.g:has(a[href*="npm.io"])
 duckduckgo.com###links>div:has(a[href*="npm.io"])
-*://codespots.com/*
-google.*##.g:has(a[href*="codespots.com"])
-duckduckgo.com###links>div:has(a[href*="codespots.com"])
 *://code-examples.net/*
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])

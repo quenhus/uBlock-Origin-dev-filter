@@ -136,14 +136,14 @@ startpage.com##.w-gl__result:has(a[href*="golangexample.com"])
 startpage.com##.w-gl__result:has(a[href*="github.astrophel.org"])
 *://www.gitdetail.com/*
 startpage.com##.w-gl__result:has(a[href*="www.gitdetail.com"])
+*://codespots.com/*
+startpage.com##.w-gl__result:has(a[href*="codespots.com"])
 *://npmmirror.com/*
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
 startpage.com##.w-gl__result:has(a[href*="cnpmjs.org"])
 *://npm.io/*
 startpage.com##.w-gl__result:has(a[href*="npm.io"])
-*://codespots.com/*
-startpage.com##.w-gl__result:has(a[href*="codespots.com"])
 *://code-examples.net/*
 startpage.com##.w-gl__result:has(a[href*="code-examples.net"])
 *://kotaeta.com/*

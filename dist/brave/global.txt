@@ -136,14 +136,14 @@ search.brave.com###results > div:has(a[href*="golangexample.com"])
 search.brave.com###results > div:has(a[href*="github.astrophel.org"])
 *://www.gitdetail.com/*
 search.brave.com###results > div:has(a[href*="www.gitdetail.com"])
+*://codespots.com/*
+search.brave.com###results > div:has(a[href*="codespots.com"])
 *://npmmirror.com/*
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
 search.brave.com###results > div:has(a[href*="cnpmjs.org"])
 *://npm.io/*
 search.brave.com###results > div:has(a[href*="npm.io"])
-*://codespots.com/*
-search.brave.com###results > div:has(a[href*="codespots.com"])
 *://code-examples.net/*
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 *://kotaeta.com/*

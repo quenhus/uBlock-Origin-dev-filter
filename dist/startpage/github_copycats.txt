@@ -136,3 +136,5 @@ startpage.com##.w-gl__result:has(a[href*="golangexample.com"])
 startpage.com##.w-gl__result:has(a[href*="github.astrophel.org"])
 *://www.gitdetail.com/*
 startpage.com##.w-gl__result:has(a[href*="www.gitdetail.com"])
+*://codespots.com/*
+startpage.com##.w-gl__result:has(a[href*="codespots.com"])

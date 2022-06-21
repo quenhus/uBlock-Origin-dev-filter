@@ -201,3 +201,6 @@ duckduckgo.com###links>div:has(a[href*="github.astrophel.org"])
 *://www.gitdetail.com/*
 google.*##.g:has(a[href*="www.gitdetail.com"])
 duckduckgo.com###links>div:has(a[href*="www.gitdetail.com"])
+*://codespots.com/*
+google.*##.g:has(a[href*="codespots.com"])
+duckduckgo.com###links>div:has(a[href*="codespots.com"])

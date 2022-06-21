@@ -136,3 +136,5 @@ google.*##.g:has(a[href*="golangexample.com"])
 google.*##.g:has(a[href*="github.astrophel.org"])
 *://www.gitdetail.com/*
 google.*##.g:has(a[href*="www.gitdetail.com"])
+*://codespots.com/*
+google.*##.g:has(a[href*="codespots.com"])
