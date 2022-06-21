@@ -5,8 +5,16 @@ from contextlib import ExitStack
 LINE_SEP = "\n"
 COMMA_SEP = ","
 
-def to_css_attr(url):
-    return url.replace("*://", "").replace("*.", ".").replace("/*", "")
+def left_replace(input_str, old, new, count=1):
+    return new.join(input_str.split(old, count))
+def right_replace(input_str, old, new, count=1):
+    return new.join(input_str.rsplit(old, count))
+
+def format_url(url):
+    url = left_replace(url, "*://", "", 1)
+    url = left_replace(url, "*.", "", 1)
+    url = right_replace(url, "/*", "", 1)
+    return url
 
 def to_domain_attr(url):
     return url \
@@ -15,20 +23,23 @@ def to_domain_attr(url):
         .replace("/*", "") \
         .lstrip(".")
 
+def to_domain_ublock(url):
+    return f"||{format_url(url)}$all"
+
 def to_google(url):
-    return f'google.*##.g:has(a[href*="{to_css_attr(url)}"])'
+    return f'google.*##.g:has(a[href*="{format_url(url)}"])'
 
 def to_duckduckgo(url):
-    return f'duckduckgo.com###links>div:has(a[href*="{to_css_attr(url)}"])'
+    return f'duckduckgo.com###links>div:has(a[href*="{format_url(url)}"])'
 
 def to_brave(url):
-    return f'search.brave.com###results > div:has(a[href*="{to_css_attr(url)}"])'
+    return f'search.brave.com###results > div:has(a[href*="{format_url(url)}"])'
 
 def to_startpage(url):
-    return f'startpage.com##.w-gl__result:has(a[href*="{to_css_attr(url)}"])'
+    return f'startpage.com##.w-gl__result:has(a[href*="{format_url(url)}"])'
 
 def to_ecosia(url):
-    return f'ecosia.org##.result:has(a[href*="{to_css_attr(url)}"])'
+    return f'ecosia.org##.result:has(a[href*="{format_url(url)}"])'
 
 def to_userscript(url):
     return f'[data-domain*="{to_domain_attr(url)}"]'
@@ -199,7 +210,7 @@ def main():
 
                     # Block the domain
                     for se in ubo_search_engines.keys():
-                        append_in_se(shared_fd_per_se, se, source_is_alltxt, url + LINE_SEP)
+                        append_in_se(shared_fd_per_se, se, source_is_alltxt, to_domain_ublock(url) + LINE_SEP)
 
                     # Block domain in search engine results
                     filter_google = to_google(url)
