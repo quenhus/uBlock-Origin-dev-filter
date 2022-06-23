@@ -138,3 +138,5 @@ ecosia.org##.result:has(a[href*="github.astrophel.org"])
 ecosia.org##.result:has(a[href*="www.gitdetail.com"])
 *://codespots.com/*
 ecosia.org##.result:has(a[href*="codespots.com"])
+*://issuemode.com/*
+ecosia.org##.result:has(a[href*="issuemode.com"])

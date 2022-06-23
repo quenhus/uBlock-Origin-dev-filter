@@ -138,3 +138,5 @@ duckduckgo.com###links>div:has(a[href*="github.astrophel.org"])
 duckduckgo.com###links>div:has(a[href*="www.gitdetail.com"])
 *://codespots.com/*
 duckduckgo.com###links>div:has(a[href*="codespots.com"])
+*://issuemode.com/*
+duckduckgo.com###links>div:has(a[href*="issuemode.com"])

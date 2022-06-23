@@ -331,6 +331,7 @@
 [data-domain*="yocker.com"],
 [data-domain*="955yes.com"],
 [data-domain*="dovov.com"],
+[data-domain*="dokry.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

@@ -656,3 +656,5 @@ duckduckgo.com###links>div:has(a[href*="yocker.com"])
 duckduckgo.com###links>div:has(a[href*="955yes.com"])
 *://dovov.com/*
 duckduckgo.com###links>div:has(a[href*="dovov.com"])
+*://dokry.com/*
+duckduckgo.com###links>div:has(a[href*="dokry.com"])

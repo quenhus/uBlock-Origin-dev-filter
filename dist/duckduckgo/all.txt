@@ -138,6 +138,8 @@ duckduckgo.com###links>div:has(a[href*="github.astrophel.org"])
 duckduckgo.com###links>div:has(a[href*="www.gitdetail.com"])
 *://codespots.com/*
 duckduckgo.com###links>div:has(a[href*="codespots.com"])
+*://issuemode.com/*
+duckduckgo.com###links>div:has(a[href*="issuemode.com"])
 *://npmmirror.com/*
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
@@ -794,3 +796,5 @@ duckduckgo.com###links>div:has(a[href*="yocker.com"])
 duckduckgo.com###links>div:has(a[href*="955yes.com"])
 *://dovov.com/*
 duckduckgo.com###links>div:has(a[href*="dovov.com"])
+*://dokry.com/*
+duckduckgo.com###links>div:has(a[href*="dokry.com"])

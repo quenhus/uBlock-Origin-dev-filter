@@ -656,3 +656,5 @@ google.*##.g:has(a[href*="yocker.com"])
 google.*##.g:has(a[href*="955yes.com"])
 *://dovov.com/*
 google.*##.g:has(a[href*="dovov.com"])
+*://dokry.com/*
+google.*##.g:has(a[href*="dokry.com"])

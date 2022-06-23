@@ -138,6 +138,8 @@ google.*##.g:has(a[href*="github.astrophel.org"])
 google.*##.g:has(a[href*="www.gitdetail.com"])
 *://codespots.com/*
 google.*##.g:has(a[href*="codespots.com"])
+*://issuemode.com/*
+google.*##.g:has(a[href*="issuemode.com"])
 *://npmmirror.com/*
 google.*##.g:has(a[href*="npmmirror.com"])
 *://cnpmjs.org/*
@@ -794,3 +796,5 @@ google.*##.g:has(a[href*="yocker.com"])
 google.*##.g:has(a[href*="955yes.com"])
 *://dovov.com/*
 google.*##.g:has(a[href*="dovov.com"])
+*://dokry.com/*
+google.*##.g:has(a[href*="dokry.com"])

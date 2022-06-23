@@ -138,3 +138,5 @@ startpage.com##.w-gl__result:has(a[href*="github.astrophel.org"])
 startpage.com##.w-gl__result:has(a[href*="www.gitdetail.com"])
 *://codespots.com/*
 startpage.com##.w-gl__result:has(a[href*="codespots.com"])
+*://issuemode.com/*
+startpage.com##.w-gl__result:has(a[href*="issuemode.com"])

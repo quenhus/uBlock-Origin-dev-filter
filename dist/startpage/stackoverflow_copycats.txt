@@ -656,3 +656,5 @@ startpage.com##.w-gl__result:has(a[href*="yocker.com"])
 startpage.com##.w-gl__result:has(a[href*="955yes.com"])
 *://dovov.com/*
 startpage.com##.w-gl__result:has(a[href*="dovov.com"])
+*://dokry.com/*
+startpage.com##.w-gl__result:has(a[href*="dokry.com"])
