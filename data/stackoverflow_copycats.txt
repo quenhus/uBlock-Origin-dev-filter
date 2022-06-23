@@ -325,3 +325,4 @@
 *://yocker.com/*
 *://955yes.com/*
 *://dovov.com/*
+*://dokry.com/*
