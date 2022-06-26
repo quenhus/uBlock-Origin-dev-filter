@@ -6,81 +6,81 @@
 !
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
-*://encyclopedia.thefreedictionary.com/*
+||encyclopedia.thefreedictionary.com$all
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
-*://www.algebra.com/*
+||www.algebra.com$all
 search.brave.com###results > div:has(a[href*="www.algebra.com"])
-*://wikizero.com/*
+||wikizero.com$all
 search.brave.com###results > div:has(a[href*="wikizero.com"])
-*://mediawiki.feverous.co.uk/*
+||mediawiki.feverous.co.uk$all
 search.brave.com###results > div:has(a[href*="mediawiki.feverous.co.uk"])
-*://everything.explained.today/*
+||everything.explained.today$all
 search.brave.com###results > div:has(a[href*="everything.explained.today"])
-*://www.wiwa.wiki/*
+||www.wiwa.wiki$all
 search.brave.com###results > div:has(a[href*="www.wiwa.wiki"])
-*://findatwiki.com/*
+||findatwiki.com$all
 search.brave.com###results > div:has(a[href*="findatwiki.com"])
-*://www.wikide.wiki/*
+||www.wikide.wiki$all
 search.brave.com###results > div:has(a[href*="www.wikide.wiki"])
-*://www.wikit.wiki/*
+||www.wikit.wiki$all
 search.brave.com###results > div:has(a[href*="www.wikit.wiki"])
-*://www.secret-bases.co.uk/wiki/*
+||www.secret-bases.co.uk/wiki$all
 search.brave.com###results > div:has(a[href*="www.secret-bases.co.uk/wiki"])
-*://www.scholarship.edu.vn/wiki/*
+||www.scholarship.edu.vn/wiki$all
 search.brave.com###results > div:has(a[href*="www.scholarship.edu.vn/wiki"])
-*://*.frwiki.wiki/*
-search.brave.com###results > div:has(a[href*=".frwiki.wiki"])
-*://*.zxc.wiki/*
-search.brave.com###results > div:has(a[href*=".zxc.wiki"])
-*://360wiki.ru/*
+||frwiki.wiki$all
+search.brave.com###results > div:has(a[href*="frwiki.wiki"])
+||zxc.wiki$all
+search.brave.com###results > div:has(a[href*="zxc.wiki"])
+||360wiki.ru$all
 search.brave.com###results > div:has(a[href*="360wiki.ru"])
-*://sv.abcdef.wiki/*
+||sv.abcdef.wiki$all
 search.brave.com###results > div:has(a[href*="sv.abcdef.wiki"])
-*://buildwiki.ru/*
+||buildwiki.ru$all
 search.brave.com###results > div:has(a[href*="buildwiki.ru"])
-*://*.datewiki.ru/*
-search.brave.com###results > div:has(a[href*=".datewiki.ru"])
-*://encyclopaedia.bid/*
+||datewiki.ru$all
+search.brave.com###results > div:has(a[href*="datewiki.ru"])
+||encyclopaedia.bid$all
 search.brave.com###results > div:has(a[href*="encyclopaedia.bid"])
-*://gaz.wiki/*
+||gaz.wiki$all
 search.brave.com###results > div:has(a[href*="gaz.wiki"])
-*://th.hmong.wiki/*
+||th.hmong.wiki$all
 search.brave.com###results > div:has(a[href*="th.hmong.wiki"])
-*://hmong.ru/*
+||hmong.ru$all
 search.brave.com###results > div:has(a[href*="hmong.ru"])
-*://livepcwiki.ru/*
+||livepcwiki.ru$all
 search.brave.com###results > div:has(a[href*="livepcwiki.ru"])
-*://enhancedwiki.territorioscuola.it/*
+||enhancedwiki.territorioscuola.it$all
 search.brave.com###results > div:has(a[href*="enhancedwiki.territorioscuola.it"])
-*://wiki-org.ru/*
+||wiki-org.ru$all
 search.brave.com###results > div:has(a[href*="wiki-org.ru"])
-*://wiki2.net/*
+||wiki2.net$all
 search.brave.com###results > div:has(a[href*="wiki2.net"])
-*://wiki2.info/*
+||wiki2.info$all
 search.brave.com###results > div:has(a[href*="wiki2.info"])
-*://wiki2.org/*
+||wiki2.org$all
 search.brave.com###results > div:has(a[href*="wiki2.org"])
-*://wiki.cologne/*
+||wiki.cologne$all
 search.brave.com###results > div:has(a[href*="wiki.cologne"])
-*://wikidea.ru/*
+||wikidea.ru$all
 search.brave.com###results > div:has(a[href*="wikidea.ru"])
-*://wiki2wiki.ru/*
+||wiki2wiki.ru$all
 search.brave.com###results > div:has(a[href*="wiki2wiki.ru"])
-*://globalwikionline.com/*
+||globalwikionline.com$all
 search.brave.com###results > div:has(a[href*="globalwikionline.com"])
-*://www.wikipe.wiki/*
+||www.wikipe.wiki$all
 search.brave.com###results > div:has(a[href*="www.wikipe.wiki"])
-*://wikipedia.tel/*
+||wikipedia.tel$all
 search.brave.com###results > div:has(a[href*="wikipedia.tel"])
-*://wikidark.ru/*
+||wikidark.ru$all
 search.brave.com###results > div:has(a[href*="wikidark.ru"])
-*://wikiredia.ru/*
+||wikiredia.ru$all
 search.brave.com###results > div:has(a[href*="wikiredia.ru"])
-*://wikipedia24.ru/*
+||wikipedia24.ru$all
 search.brave.com###results > div:has(a[href*="wikipedia24.ru"])
-*://www.wikiwand.com/*
+||www.wikiwand.com$all
 search.brave.com###results > div:has(a[href*="www.wikiwand.com"])
-*://*.encyclopedia.kz/*
-search.brave.com###results > div:has(a[href*=".encyclopedia.kz"])
-*://static.hlt.bme.hu/*
+||encyclopedia.kz$all
+search.brave.com###results > div:has(a[href*="encyclopedia.kz"])
+||static.hlt.bme.hu$all
 search.brave.com###results > div:has(a[href*="static.hlt.bme.hu"])

@@ -6,9 +6,9 @@
 !
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
-*://npmmirror.com/*
+||npmmirror.com$all
 google.*##.g:has(a[href*="npmmirror.com"])
-*://cnpmjs.org/*
+||cnpmjs.org$all
 google.*##.g:has(a[href*="cnpmjs.org"])
-*://npm.io/*
+||npm.io$all
 google.*##.g:has(a[href*="npm.io"])
