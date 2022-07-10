@@ -160,11 +160,12 @@ def main():
         for se, se_meta in ubo_search_engines.items():
             se_name = se_meta['name']
             shared_fd_per_se[se]["global"].write(get_ublock_filters_header(f"{se_name} – Global"))
-            shared_fd_per_se[se]["all"].write(get_ublock_filters_header(f"{se_name} – All"))
+            # The dev filter was formerly called "all". Dont rename it for compatibility
+            shared_fd_per_se[se]["all"].write(get_ublock_filters_header(f"{se_name} – Dev"))
 
         # Add header in each userscript filter
         shared_fd_per_se["userscript_gd"]["global"].write(get_userscript_start("Google+DuckDuckGo - Global"))
-        shared_fd_per_se["userscript_gd"]["all"].write(get_userscript_start("Google+DuckDuckGo - All"))
+        shared_fd_per_se["userscript_gd"]["all"].write(get_userscript_start("Google+DuckDuckGo - Dev"))
 
         for source_f in sorted(root_path.joinpath("data").glob("*.txt")):
             filename = source_f.name.split(".")[0]

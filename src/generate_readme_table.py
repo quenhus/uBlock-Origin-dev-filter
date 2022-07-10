@@ -79,7 +79,8 @@ def get_table_simple(*flavors: FlavorMeta):
 
 
 print(get_table(
-    FlavorMeta("All", "all", "all"),
+    # The dev filter was formerly called "all". Dont rename it for compatibility
+    FlavorMeta("Dev", "dev", "all"),
     FlavorMeta("Global", "global", "global"),
 ))
 
