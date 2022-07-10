@@ -48,8 +48,8 @@ search.brave.com###results > div:has(a[href*="pythonrepo.com"])
 search.brave.com###results > div:has(a[href*="bestofcpp.com"])
 ||github.innominds.com$all
 search.brave.com###results > div:has(a[href*="github.innominds.com"])
-||www.higithub.com$all
-search.brave.com###results > div:has(a[href*="www.higithub.com"])
+||higithub.com$all
+search.brave.com###results > div:has(a[href*="higithub.com"])
 ||openprojectrepo.com$all
 search.brave.com###results > div:has(a[href*="openprojectrepo.com"])
 ||golangissues.com$all
@@ -84,8 +84,8 @@ search.brave.com###results > div:has(a[href*="fastgit.org"])
 search.brave.com###results > div:has(a[href*="gitmetadata.com"])
 ||iboxshare.com$all
 search.brave.com###results > div:has(a[href*="iboxshare.com"])
-||www.fuscin.com$all
-search.brave.com###results > div:has(a[href*="www.fuscin.com"])
+||fuscin.com$all
+search.brave.com###results > div:has(a[href*="fuscin.com"])
 ||bestofvue.com$all
 search.brave.com###results > div:has(a[href*="bestofvue.com"])
 ||swiftobc.com$all
@@ -128,14 +128,14 @@ search.brave.com###results > div:has(a[href*="libhunt.com"])
 search.brave.com###results > div:has(a[href*="andywarholpopartillustration.blogspot.com"])
 ||bytemeta.vip$all
 search.brave.com###results > div:has(a[href*="bytemeta.vip"])
-||www.editcode.net$all
-search.brave.com###results > div:has(a[href*="www.editcode.net"])
+||editcode.net$all
+search.brave.com###results > div:has(a[href*="editcode.net"])
 ||golangexample.com$all
 search.brave.com###results > div:has(a[href*="golangexample.com"])
 ||github.astrophel.org$all
 search.brave.com###results > div:has(a[href*="github.astrophel.org"])
-||www.gitdetail.com$all
-search.brave.com###results > div:has(a[href*="www.gitdetail.com"])
+||gitdetail.com$all
+search.brave.com###results > div:has(a[href*="gitdetail.com"])
 ||codespots.com$all
 search.brave.com###results > div:has(a[href*="codespots.com"])
 ||issuemode.com$all
