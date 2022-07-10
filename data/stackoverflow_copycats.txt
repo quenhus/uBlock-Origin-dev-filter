@@ -326,3 +326,15 @@
 *://955yes.com/*
 *://dovov.com/*
 *://dokry.com/*
+*://codefordev.com/*
+*://empires-r.us/*
+*://answerspoint.com/*
+*://devebee.com/*
+*://w3codelab.com/*
+*://flvrclothing.com/*
+*://pyquestions.com/*
+*://djcxy.com/*
+*://python.engineering/*
+*://it1352.com/*
+*://adoclib.com/*
+*://796t.com/*
