@@ -1,0 +1,26 @@
+! Title: uBlock-Origin-dev-filter – All Search Engines – npm
+! Expires: 1 day
+! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+||npmmirror.com$all
+google.*##.g:has(a[href*="npmmirror.com"])
+duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
+search.brave.com###results > div:has(a[href*="npmmirror.com"])
+startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
+ecosia.org##.result:has(a[href*="npmmirror.com"])
+||cnpmjs.org$all
+google.*##.g:has(a[href*="cnpmjs.org"])
+duckduckgo.com###links>div:has(a[href*="cnpmjs.org"])
+search.brave.com###results > div:has(a[href*="cnpmjs.org"])
+startpage.com##.w-gl__result:has(a[href*="cnpmjs.org"])
+ecosia.org##.result:has(a[href*="cnpmjs.org"])
+||npm.io$all
+google.*##.g:has(a[href*="npm.io"])
+duckduckgo.com###links>div:has(a[href*="npm.io"])
+search.brave.com###results > div:has(a[href*="npm.io"])
+startpage.com##.w-gl__result:has(a[href*="npm.io"])
+ecosia.org##.result:has(a[href*="npm.io"])

@@ -22,7 +22,8 @@ search_engines = (
     SearchEngineMeta("Google+DDG", "google_duckduckgo", "9b59b6"),
     SearchEngineMeta("Startpage", "startpage", "5b7bca"),
     SearchEngineMeta("Brave", "brave", "f25100"),
-    SearchEngineMeta("Ecosia", "ecosia", "36acb8")
+    SearchEngineMeta("Ecosia", "ecosia", "36acb8"),
+    SearchEngineMeta("All Search Engines", "all_search_engines", "ffffff")
 )
 
 def param_encode(x):
