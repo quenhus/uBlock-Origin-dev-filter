@@ -2,10 +2,10 @@
 ! Github copycats
 *://bleepcoder.com/*
 *://githubja.com/*
-*://*.gitmemory.com/*
+*://gitmemory.com/*
 *://giters.com/*
 *://githubmemory.com/*
-*://*.wenyanet.com/*
+*://wenyanet.com/*
 *://issueexplorer.com/*
 *://opensourcelibs.com/*
 *://awesomeopensource.com/*
@@ -21,7 +21,7 @@
 *://pythonrepo.com/*
 *://bestofcpp.com/*
 *://github.innominds.com/*
-*://www.higithub.com/*
+*://higithub.com/*
 *://openprojectrepo.com/*
 *://golangissues.com/*
 *://gitfreak.com/*
@@ -36,10 +36,10 @@
 *://google-yandex.info/*
 *://coder.social/*
 *://javarepos.com/*
-*://*.fastgit.org/*
+*://fastgit.org/*
 *://gitmetadata.com/*
 *://iboxshare.com/*
-*://www.fuscin.com/*
+*://fuscin.com/*
 *://bestofvue.com/*
 *://swiftobc.com/*
 *://flutterrepos.com/*
@@ -61,10 +61,10 @@
 *://libhunt.com/*
 *://andywarholpopartillustration.blogspot.com/*
 *://bytemeta.vip/*
-*://www.editcode.net/*
+*://editcode.net/*
 *://golangexample.com/*
 *://github.astrophel.org/*
-*://www.gitdetail.com/*
+*://gitdetail.com/*
 *://codespots.com/*
 *://issuemode.com/*
 ! github-wiki-see.page is a service that allows indexing of GitHub Wikis that GitHub blocks indexing of which is nearly all of them.
