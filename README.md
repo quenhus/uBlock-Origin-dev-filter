@@ -7,7 +7,7 @@ To use this tools, you should have [uBlock Origin installed](https://github.com/
 
 Select the filters flavors you want, depending on your needs and search engine:
 
-💻 **`dev`** supports StackOverflow + GitHub + NPM (the original dev-oriented filter)
+💻 **`dev`** supports StackOverflow + GitHub + NPM (the original dev-oriented filter) \
 🌐 **`global`** supports StackOverflow + GitHub + NPM + Wikipedia
 
 ||dev|global|
