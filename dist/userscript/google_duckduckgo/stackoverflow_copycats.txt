@@ -332,6 +332,18 @@
 [data-domain*="955yes.com"],
 [data-domain*="dovov.com"],
 [data-domain*="dokry.com"],
+[data-domain*="codefordev.com"],
+[data-domain*="empires-r.us"],
+[data-domain*="answerspoint.com"],
+[data-domain*="devebee.com"],
+[data-domain*="w3codelab.com"],
+[data-domain*="flvrclothing.com"],
+[data-domain*="pyquestions.com"],
+[data-domain*="djcxy.com"],
+[data-domain*="python.engineering"],
+[data-domain*="it1352.com"],
+[data-domain*="adoclib.com"],
+[data-domain*="796t.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

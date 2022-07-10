@@ -658,3 +658,27 @@ search.brave.com###results > div:has(a[href*="955yes.com"])
 search.brave.com###results > div:has(a[href*="dovov.com"])
 ||dokry.com$all
 search.brave.com###results > div:has(a[href*="dokry.com"])
+||codefordev.com$all
+search.brave.com###results > div:has(a[href*="codefordev.com"])
+||empires-r.us$all
+search.brave.com###results > div:has(a[href*="empires-r.us"])
+||answerspoint.com$all
+search.brave.com###results > div:has(a[href*="answerspoint.com"])
+||devebee.com$all
+search.brave.com###results > div:has(a[href*="devebee.com"])
+||w3codelab.com$all
+search.brave.com###results > div:has(a[href*="w3codelab.com"])
+||flvrclothing.com$all
+search.brave.com###results > div:has(a[href*="flvrclothing.com"])
+||pyquestions.com$all
+search.brave.com###results > div:has(a[href*="pyquestions.com"])
+||djcxy.com$all
+search.brave.com###results > div:has(a[href*="djcxy.com"])
+||python.engineering$all
+search.brave.com###results > div:has(a[href*="python.engineering"])
+||it1352.com$all
+search.brave.com###results > div:has(a[href*="it1352.com"])
+||adoclib.com$all
+search.brave.com###results > div:has(a[href*="adoclib.com"])
+||796t.com$all
+search.brave.com###results > div:has(a[href*="796t.com"])
