@@ -142,3 +142,5 @@ startpage.com##.w-gl__result:has(a[href*="codespots.com"])
 startpage.com##.w-gl__result:has(a[href*="issuemode.com"])
 ||issuehint.com$all
 startpage.com##.w-gl__result:has(a[href*="issuehint.com"])
+||rpkg.in$all
+startpage.com##.w-gl__result:has(a[href*="rpkg.in"])

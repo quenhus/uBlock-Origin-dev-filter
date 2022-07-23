@@ -142,6 +142,8 @@ duckduckgo.com###links>div:has(a[href*="codespots.com"])
 duckduckgo.com###links>div:has(a[href*="issuemode.com"])
 ||issuehint.com$all
 duckduckgo.com###links>div:has(a[href*="issuehint.com"])
+||rpkg.in$all
+duckduckgo.com###links>div:has(a[href*="rpkg.in"])
 ||npmmirror.com$all
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all

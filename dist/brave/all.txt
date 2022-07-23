@@ -142,6 +142,8 @@ search.brave.com###results > div:has(a[href*="codespots.com"])
 search.brave.com###results > div:has(a[href*="issuemode.com"])
 ||issuehint.com$all
 search.brave.com###results > div:has(a[href*="issuehint.com"])
+||rpkg.in$all
+search.brave.com###results > div:has(a[href*="rpkg.in"])
 ||npmmirror.com$all
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
