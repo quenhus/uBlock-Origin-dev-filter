@@ -682,3 +682,9 @@ duckduckgo.com###links>div:has(a[href*="it1352.com"])
 duckduckgo.com###links>div:has(a[href*="adoclib.com"])
 ||796t.com$all
 duckduckgo.com###links>div:has(a[href*="796t.com"])
+||invalidtype.com$all
+duckduckgo.com###links>div:has(a[href*="invalidtype.com"])
+||string.quest$all
+duckduckgo.com###links>div:has(a[href*="string.quest"])
+||winmundo.com$all
+duckduckgo.com###links>div:has(a[href*="winmundo.com"])

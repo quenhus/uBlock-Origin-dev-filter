@@ -344,6 +344,9 @@
 [data-domain*="it1352.com"],
 [data-domain*="adoclib.com"],
 [data-domain*="796t.com"],
+[data-domain*="invalidtype.com"],
+[data-domain*="string.quest"],
+[data-domain*="winmundo.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

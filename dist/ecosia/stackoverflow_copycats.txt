@@ -682,3 +682,9 @@ ecosia.org##.result:has(a[href*="it1352.com"])
 ecosia.org##.result:has(a[href*="adoclib.com"])
 ||796t.com$all
 ecosia.org##.result:has(a[href*="796t.com"])
+||invalidtype.com$all
+ecosia.org##.result:has(a[href*="invalidtype.com"])
+||string.quest$all
+ecosia.org##.result:has(a[href*="string.quest"])
+||winmundo.com$all
+ecosia.org##.result:has(a[href*="winmundo.com"])

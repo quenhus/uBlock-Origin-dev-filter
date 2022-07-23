@@ -1230,3 +1230,12 @@ duckduckgo.com###links>div:has(a[href*="adoclib.com"])
 ||796t.com$all
 google.*##.g:has(a[href*="796t.com"])
 duckduckgo.com###links>div:has(a[href*="796t.com"])
+||invalidtype.com$all
+google.*##.g:has(a[href*="invalidtype.com"])
+duckduckgo.com###links>div:has(a[href*="invalidtype.com"])
+||string.quest$all
+google.*##.g:has(a[href*="string.quest"])
+duckduckgo.com###links>div:has(a[href*="string.quest"])
+||winmundo.com$all
+google.*##.g:has(a[href*="winmundo.com"])
+duckduckgo.com###links>div:has(a[href*="winmundo.com"])

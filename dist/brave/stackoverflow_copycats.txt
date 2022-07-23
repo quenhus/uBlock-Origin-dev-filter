@@ -682,3 +682,9 @@ search.brave.com###results > div:has(a[href*="it1352.com"])
 search.brave.com###results > div:has(a[href*="adoclib.com"])
 ||796t.com$all
 search.brave.com###results > div:has(a[href*="796t.com"])
+||invalidtype.com$all
+search.brave.com###results > div:has(a[href*="invalidtype.com"])
+||string.quest$all
+search.brave.com###results > div:has(a[href*="string.quest"])
+||winmundo.com$all
+search.brave.com###results > div:has(a[href*="winmundo.com"])

@@ -822,6 +822,12 @@ startpage.com##.w-gl__result:has(a[href*="it1352.com"])
 startpage.com##.w-gl__result:has(a[href*="adoclib.com"])
 ||796t.com$all
 startpage.com##.w-gl__result:has(a[href*="796t.com"])
+||invalidtype.com$all
+startpage.com##.w-gl__result:has(a[href*="invalidtype.com"])
+||string.quest$all
+startpage.com##.w-gl__result:has(a[href*="string.quest"])
+||winmundo.com$all
+startpage.com##.w-gl__result:has(a[href*="winmundo.com"])
 ||encyclopedia.thefreedictionary.com$all
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all
