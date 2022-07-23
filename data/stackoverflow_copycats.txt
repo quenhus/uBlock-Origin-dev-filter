@@ -338,3 +338,6 @@
 *://it1352.com/*
 *://adoclib.com/*
 *://796t.com/*
+*://invalidtype.com/*
+*://string.quest/*
+*://winmundo.com/*
