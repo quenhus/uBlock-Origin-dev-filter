@@ -84,3 +84,7 @@ duckduckgo.com###links>div:has(a[href*="wikiwand.com"])
 duckduckgo.com###links>div:has(a[href*="encyclopedia.kz"])
 ||static.hlt.bme.hu$all
 duckduckgo.com###links>div:has(a[href*="static.hlt.bme.hu"])
+||wikibrief.org$all
+duckduckgo.com###links>div:has(a[href*="wikibrief.org"])
+||second.wiki$all
+duckduckgo.com###links>div:has(a[href*="second.wiki"])

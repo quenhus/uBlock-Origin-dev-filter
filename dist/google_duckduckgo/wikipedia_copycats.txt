@@ -123,3 +123,9 @@ duckduckgo.com###links>div:has(a[href*="encyclopedia.kz"])
 ||static.hlt.bme.hu$all
 google.*##.g:has(a[href*="static.hlt.bme.hu"])
 duckduckgo.com###links>div:has(a[href*="static.hlt.bme.hu"])
+||wikibrief.org$all
+google.*##.g:has(a[href*="wikibrief.org"])
+duckduckgo.com###links>div:has(a[href*="wikibrief.org"])
+||second.wiki$all
+google.*##.g:has(a[href*="second.wiki"])
+duckduckgo.com###links>div:has(a[href*="second.wiki"])

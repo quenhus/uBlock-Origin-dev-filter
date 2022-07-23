@@ -908,3 +908,7 @@ startpage.com##.w-gl__result:has(a[href*="wikiwand.com"])
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.kz"])
 ||static.hlt.bme.hu$all
 startpage.com##.w-gl__result:has(a[href*="static.hlt.bme.hu"])
+||wikibrief.org$all
+startpage.com##.w-gl__result:has(a[href*="wikibrief.org"])
+||second.wiki$all
+startpage.com##.w-gl__result:has(a[href*="second.wiki"])
