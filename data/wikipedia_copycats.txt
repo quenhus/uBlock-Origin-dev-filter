@@ -37,3 +37,5 @@
 *://wikiwand.com/*
 *://encyclopedia.kz/*
 *://static.hlt.bme.hu/*
+*://wikibrief.org/*
+*://second.wiki/*
