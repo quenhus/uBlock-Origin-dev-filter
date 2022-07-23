@@ -140,3 +140,5 @@ search.brave.com###results > div:has(a[href*="gitdetail.com"])
 search.brave.com###results > div:has(a[href*="codespots.com"])
 ||issuemode.com$all
 search.brave.com###results > div:has(a[href*="issuemode.com"])
+||issuehint.com$all
+search.brave.com###results > div:has(a[href*="issuehint.com"])

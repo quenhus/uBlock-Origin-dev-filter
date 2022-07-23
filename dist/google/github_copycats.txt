@@ -140,3 +140,5 @@ google.*##.g:has(a[href*="gitdetail.com"])
 google.*##.g:has(a[href*="codespots.com"])
 ||issuemode.com$all
 google.*##.g:has(a[href*="issuemode.com"])
+||issuehint.com$all
+google.*##.g:has(a[href*="issuehint.com"])

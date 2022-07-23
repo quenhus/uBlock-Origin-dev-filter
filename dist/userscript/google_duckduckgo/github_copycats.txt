@@ -73,6 +73,7 @@
 [data-domain*="gitdetail.com"],
 [data-domain*="codespots.com"],
 [data-domain*="issuemode.com"],
+[data-domain*="issuehint.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

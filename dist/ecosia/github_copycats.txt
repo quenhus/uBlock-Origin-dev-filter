@@ -140,3 +140,5 @@ ecosia.org##.result:has(a[href*="gitdetail.com"])
 ecosia.org##.result:has(a[href*="codespots.com"])
 ||issuemode.com$all
 ecosia.org##.result:has(a[href*="issuemode.com"])
+||issuehint.com$all
+ecosia.org##.result:has(a[href*="issuehint.com"])

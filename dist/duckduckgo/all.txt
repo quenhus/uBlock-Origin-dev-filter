@@ -140,6 +140,8 @@ duckduckgo.com###links>div:has(a[href*="gitdetail.com"])
 duckduckgo.com###links>div:has(a[href*="codespots.com"])
 ||issuemode.com$all
 duckduckgo.com###links>div:has(a[href*="issuemode.com"])
+||issuehint.com$all
+duckduckgo.com###links>div:has(a[href*="issuehint.com"])
 ||npmmirror.com$all
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all

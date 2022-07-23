@@ -73,6 +73,7 @@
 [data-domain*="gitdetail.com"],
 [data-domain*="codespots.com"],
 [data-domain*="issuemode.com"],
+[data-domain*="issuehint.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="npm.io"],
