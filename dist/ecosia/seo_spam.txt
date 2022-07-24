@@ -1,0 +1,14 @@
+! Title: uBlock-Origin-dev-filter – Ecosia – seo_spam
+! Expires: 1 day
+! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+||spiegato.com$all
+ecosia.org##.result:has(a[href*="spiegato.com"])
+||actingcollegeses.com$all
+ecosia.org##.result:has(a[href*="actingcollegeses.com"])
+||patrickkidd3.typepad.com$all
+ecosia.org##.result:has(a[href*="patrickkidd3.typepad.com"])

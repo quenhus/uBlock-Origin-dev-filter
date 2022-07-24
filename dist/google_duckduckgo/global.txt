@@ -222,6 +222,15 @@ duckduckgo.com###links>div:has(a[href*="cnpmjs.org"])
 ||npm.io$all
 google.*##.g:has(a[href*="npm.io"])
 duckduckgo.com###links>div:has(a[href*="npm.io"])
+||spiegato.com$all
+google.*##.g:has(a[href*="spiegato.com"])
+duckduckgo.com###links>div:has(a[href*="spiegato.com"])
+||actingcollegeses.com$all
+google.*##.g:has(a[href*="actingcollegeses.com"])
+duckduckgo.com###links>div:has(a[href*="actingcollegeses.com"])
+||patrickkidd3.typepad.com$all
+google.*##.g:has(a[href*="patrickkidd3.typepad.com"])
+duckduckgo.com###links>div:has(a[href*="patrickkidd3.typepad.com"])
 ||code-examples.net$all
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])

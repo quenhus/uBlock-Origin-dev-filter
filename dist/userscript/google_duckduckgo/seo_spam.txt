@@ -1,0 +1,39 @@
+// ==UserScript==
+// @name        uBlock-Origin-dev-filter – Google+DuckDuckGo - seo_spam
+// @description Filter copycat-websites from DuckDuckGo and Google
+// @match       https://*.duckduckgo.com/*
+// @include     https://*.google.*/*
+// ==/UserScript==
+(function() {
+    const css = `
+[data-domain*="spiegato.com"],
+[data-domain*="actingcollegeses.com"],
+[data-domain*="patrickkidd3.typepad.com"],
+#__non-existent__{display: none}`;
+    if (document.location.hostname.includes('google')) {
+        const domains = css
+            .split('\n')
+            .map(
+                (s) => s.slice(15).replace('"],', '').trim(),
+            )
+            .filter(Boolean);
+        // Remove {display:none}
+        domains.splice(domains.length - 1, 1);
+        for (const domain of domains) {
+            try {
+                const p = document
+                    .querySelector(`#search a[href*="${domain}"]`)
+                    .parentNode.parentNode.parentNode.parentNode;
+                if (p) {
+                    p.parentNode.removeChild(p);
+                }
+            } catch (e) {
+                // Ignore
+            }
+        }
+    } else {
+        const style = document.createElement('style');
+        style.textContent = css;
+        document.head.insertAdjacentElement('beforeend', style);
+    }
+})();
