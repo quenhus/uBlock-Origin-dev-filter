@@ -92,4 +92,5 @@ print(get_table_simple(
     FlavorMeta("GitHub", "GitHub", "github_copycats"),
     FlavorMeta("NPM", "NPM", "npm_copycats"),
     FlavorMeta("Wikipedia", "Wikipedia", "wikipedia_copycats"),
+    FlavorMeta("SEO Spam", "SEO Spam", "seo_spam"),
 ))
