@@ -832,6 +832,8 @@ startpage.com##.w-gl__result:has(a[href*="invalidtype.com"])
 startpage.com##.w-gl__result:has(a[href*="string.quest"])
 ||winmundo.com$all
 startpage.com##.w-gl__result:has(a[href*="winmundo.com"])
+||questu.ru$all
+startpage.com##.w-gl__result:has(a[href*="questu.ru"])
 ||encyclopedia.thefreedictionary.com$all
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

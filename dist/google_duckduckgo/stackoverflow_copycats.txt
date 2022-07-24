@@ -1029,3 +1029,6 @@ duckduckgo.com###links>div:has(a[href*="string.quest"])
 ||winmundo.com$all
 google.*##.g:has(a[href*="winmundo.com"])
 duckduckgo.com###links>div:has(a[href*="winmundo.com"])
+||questu.ru$all
+google.*##.g:has(a[href*="questu.ru"])
+duckduckgo.com###links>div:has(a[href*="questu.ru"])

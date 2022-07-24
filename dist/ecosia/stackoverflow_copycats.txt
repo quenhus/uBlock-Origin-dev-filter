@@ -688,3 +688,5 @@ ecosia.org##.result:has(a[href*="invalidtype.com"])
 ecosia.org##.result:has(a[href*="string.quest"])
 ||winmundo.com$all
 ecosia.org##.result:has(a[href*="winmundo.com"])
+||questu.ru$all
+ecosia.org##.result:has(a[href*="questu.ru"])

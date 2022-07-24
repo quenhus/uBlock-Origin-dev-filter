@@ -419,6 +419,7 @@
 [data-domain*="invalidtype.com"],
 [data-domain*="string.quest"],
 [data-domain*="winmundo.com"],
+[data-domain*="questu.ru"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

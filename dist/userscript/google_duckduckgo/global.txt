@@ -419,6 +419,7 @@
 [data-domain*="invalidtype.com"],
 [data-domain*="string.quest"],
 [data-domain*="winmundo.com"],
+[data-domain*="questu.ru"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="algebra.com"],
 [data-domain*="wikizero.com"],

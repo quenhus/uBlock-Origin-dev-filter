@@ -832,6 +832,8 @@ search.brave.com###results > div:has(a[href*="invalidtype.com"])
 search.brave.com###results > div:has(a[href*="string.quest"])
 ||winmundo.com$all
 search.brave.com###results > div:has(a[href*="winmundo.com"])
+||questu.ru$all
+search.brave.com###results > div:has(a[href*="questu.ru"])
 ||encyclopedia.thefreedictionary.com$all
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

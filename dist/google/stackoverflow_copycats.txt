@@ -688,3 +688,5 @@ google.*##.g:has(a[href*="invalidtype.com"])
 google.*##.g:has(a[href*="string.quest"])
 ||winmundo.com$all
 google.*##.g:has(a[href*="winmundo.com"])
+||questu.ru$all
+google.*##.g:has(a[href*="questu.ru"])
