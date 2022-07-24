@@ -341,3 +341,4 @@
 *://invalidtype.com/*
 *://string.quest/*
 *://winmundo.com/*
+*://questu.ru/*
