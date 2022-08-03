@@ -213,3 +213,6 @@ duckduckgo.com###links>div:has(a[href*="issuehint.com"])
 ||rpkg.in$all
 google.*##.g:has(a[href*="rpkg.in"])
 duckduckgo.com###links>div:has(a[href*="rpkg.in"])
+||geeksrepos.com$all
+google.*##.g:has(a[href*="geeksrepos.com"])
+duckduckgo.com###links>div:has(a[href*="geeksrepos.com"])

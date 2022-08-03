@@ -144,3 +144,5 @@ search.brave.com###results > div:has(a[href*="issuemode.com"])
 search.brave.com###results > div:has(a[href*="issuehint.com"])
 ||rpkg.in$all
 search.brave.com###results > div:has(a[href*="rpkg.in"])
+||geeksrepos.com$all
+search.brave.com###results > div:has(a[href*="geeksrepos.com"])

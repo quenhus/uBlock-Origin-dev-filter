@@ -144,3 +144,5 @@ google.*##.g:has(a[href*="issuemode.com"])
 google.*##.g:has(a[href*="issuehint.com"])
 ||rpkg.in$all
 google.*##.g:has(a[href*="rpkg.in"])
+||geeksrepos.com$all
+google.*##.g:has(a[href*="geeksrepos.com"])

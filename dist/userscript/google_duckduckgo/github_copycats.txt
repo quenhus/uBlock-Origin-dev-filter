@@ -75,6 +75,7 @@
 [data-domain*="issuemode.com"],
 [data-domain*="issuehint.com"],
 [data-domain*="rpkg.in"],
+[data-domain*="geeksrepos.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
