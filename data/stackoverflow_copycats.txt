@@ -356,5 +356,6 @@
 *://code-error.com/*
 *://doraprojects.net/*
 *://wikitechy.com/*
-*://tistory.com/*
+*://rateye.tistory.com/*
+*://codestyle.tistory.com/*
 *://tracholar.top/*
