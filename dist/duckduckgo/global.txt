@@ -876,6 +876,16 @@ duckduckgo.com###links>div:has(a[href*="rateye.tistory.com"])
 duckduckgo.com###links>div:has(a[href*="codestyle.tistory.com"])
 ||tracholar.top$all
 duckduckgo.com###links>div:has(a[href*="tracholar.top"])
+||hellojava.com$all
+duckduckgo.com###links>div:has(a[href*="hellojava.com"])
+||anyabs.com$all
+duckduckgo.com###links>div:has(a[href*="anyabs.com"])
+||askcodes.net$all
+duckduckgo.com###links>div:has(a[href*="askcodes.net"])
+||python2.net$all
+duckduckgo.com###links>div:has(a[href*="python2.net"])
+||so.muouseo.com$all
+duckduckgo.com###links>div:has(a[href*="so.muouseo.com"])
 ||encyclopedia.thefreedictionary.com$all
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

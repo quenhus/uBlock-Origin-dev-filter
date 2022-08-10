@@ -724,3 +724,13 @@ ecosia.org##.result:has(a[href*="rateye.tistory.com"])
 ecosia.org##.result:has(a[href*="codestyle.tistory.com"])
 ||tracholar.top$all
 ecosia.org##.result:has(a[href*="tracholar.top"])
+||hellojava.com$all
+ecosia.org##.result:has(a[href*="hellojava.com"])
+||anyabs.com$all
+ecosia.org##.result:has(a[href*="anyabs.com"])
+||askcodes.net$all
+ecosia.org##.result:has(a[href*="askcodes.net"])
+||python2.net$all
+ecosia.org##.result:has(a[href*="python2.net"])
+||so.muouseo.com$all
+ecosia.org##.result:has(a[href*="so.muouseo.com"])

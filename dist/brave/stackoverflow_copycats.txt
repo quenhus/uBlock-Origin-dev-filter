@@ -724,3 +724,13 @@ search.brave.com###results > div:has(a[href*="rateye.tistory.com"])
 search.brave.com###results > div:has(a[href*="codestyle.tistory.com"])
 ||tracholar.top$all
 search.brave.com###results > div:has(a[href*="tracholar.top"])
+||hellojava.com$all
+search.brave.com###results > div:has(a[href*="hellojava.com"])
+||anyabs.com$all
+search.brave.com###results > div:has(a[href*="anyabs.com"])
+||askcodes.net$all
+search.brave.com###results > div:has(a[href*="askcodes.net"])
+||python2.net$all
+search.brave.com###results > div:has(a[href*="python2.net"])
+||so.muouseo.com$all
+search.brave.com###results > div:has(a[href*="so.muouseo.com"])

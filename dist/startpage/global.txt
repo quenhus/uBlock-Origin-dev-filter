@@ -876,6 +876,16 @@ startpage.com##.w-gl__result:has(a[href*="rateye.tistory.com"])
 startpage.com##.w-gl__result:has(a[href*="codestyle.tistory.com"])
 ||tracholar.top$all
 startpage.com##.w-gl__result:has(a[href*="tracholar.top"])
+||hellojava.com$all
+startpage.com##.w-gl__result:has(a[href*="hellojava.com"])
+||anyabs.com$all
+startpage.com##.w-gl__result:has(a[href*="anyabs.com"])
+||askcodes.net$all
+startpage.com##.w-gl__result:has(a[href*="askcodes.net"])
+||python2.net$all
+startpage.com##.w-gl__result:has(a[href*="python2.net"])
+||so.muouseo.com$all
+startpage.com##.w-gl__result:has(a[href*="so.muouseo.com"])
 ||encyclopedia.thefreedictionary.com$all
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

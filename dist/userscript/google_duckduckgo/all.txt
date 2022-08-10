@@ -438,6 +438,11 @@
 [data-domain*="rateye.tistory.com"],
 [data-domain*="codestyle.tistory.com"],
 [data-domain*="tracholar.top"],
+[data-domain*="hellojava.com"],
+[data-domain*="anyabs.com"],
+[data-domain*="askcodes.net"],
+[data-domain*="python2.net"],
+[data-domain*="so.muouseo.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

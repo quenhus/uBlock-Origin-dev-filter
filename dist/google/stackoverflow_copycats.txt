@@ -724,3 +724,13 @@ google.*##.g:has(a[href*="rateye.tistory.com"])
 google.*##.g:has(a[href*="codestyle.tistory.com"])
 ||tracholar.top$all
 google.*##.g:has(a[href*="tracholar.top"])
+||hellojava.com$all
+google.*##.g:has(a[href*="hellojava.com"])
+||anyabs.com$all
+google.*##.g:has(a[href*="anyabs.com"])
+||askcodes.net$all
+google.*##.g:has(a[href*="askcodes.net"])
+||python2.net$all
+google.*##.g:has(a[href*="python2.net"])
+||so.muouseo.com$all
+google.*##.g:has(a[href*="so.muouseo.com"])
