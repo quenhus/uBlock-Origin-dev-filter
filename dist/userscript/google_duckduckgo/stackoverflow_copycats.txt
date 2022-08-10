@@ -362,7 +362,8 @@
 [data-domain*="code-error.com"],
 [data-domain*="doraprojects.net"],
 [data-domain*="wikitechy.com"],
-[data-domain*="tistory.com"],
+[data-domain*="rateye.tistory.com"],
+[data-domain*="codestyle.tistory.com"],
 [data-domain*="tracholar.top"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {

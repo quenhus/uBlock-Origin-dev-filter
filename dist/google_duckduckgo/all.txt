@@ -1293,9 +1293,12 @@ duckduckgo.com###links>div:has(a[href*="doraprojects.net"])
 ||wikitechy.com$all
 google.*##.g:has(a[href*="wikitechy.com"])
 duckduckgo.com###links>div:has(a[href*="wikitechy.com"])
-||tistory.com$all
-google.*##.g:has(a[href*="tistory.com"])
-duckduckgo.com###links>div:has(a[href*="tistory.com"])
+||rateye.tistory.com$all
+google.*##.g:has(a[href*="rateye.tistory.com"])
+duckduckgo.com###links>div:has(a[href*="rateye.tistory.com"])
+||codestyle.tistory.com$all
+google.*##.g:has(a[href*="codestyle.tistory.com"])
+duckduckgo.com###links>div:has(a[href*="codestyle.tistory.com"])
 ||tracholar.top$all
 google.*##.g:has(a[href*="tracholar.top"])
 duckduckgo.com###links>div:has(a[href*="tracholar.top"])

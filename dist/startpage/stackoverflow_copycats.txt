@@ -718,7 +718,9 @@ startpage.com##.w-gl__result:has(a[href*="code-error.com"])
 startpage.com##.w-gl__result:has(a[href*="doraprojects.net"])
 ||wikitechy.com$all
 startpage.com##.w-gl__result:has(a[href*="wikitechy.com"])
-||tistory.com$all
-startpage.com##.w-gl__result:has(a[href*="tistory.com"])
+||rateye.tistory.com$all
+startpage.com##.w-gl__result:has(a[href*="rateye.tistory.com"])
+||codestyle.tistory.com$all
+startpage.com##.w-gl__result:has(a[href*="codestyle.tistory.com"])
 ||tracholar.top$all
 startpage.com##.w-gl__result:has(a[href*="tracholar.top"])

@@ -718,7 +718,9 @@ search.brave.com###results > div:has(a[href*="code-error.com"])
 search.brave.com###results > div:has(a[href*="doraprojects.net"])
 ||wikitechy.com$all
 search.brave.com###results > div:has(a[href*="wikitechy.com"])
-||tistory.com$all
-search.brave.com###results > div:has(a[href*="tistory.com"])
+||rateye.tistory.com$all
+search.brave.com###results > div:has(a[href*="rateye.tistory.com"])
+||codestyle.tistory.com$all
+search.brave.com###results > div:has(a[href*="codestyle.tistory.com"])
 ||tracholar.top$all
 search.brave.com###results > div:has(a[href*="tracholar.top"])
