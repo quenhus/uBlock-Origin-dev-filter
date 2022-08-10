@@ -359,3 +359,8 @@
 *://rateye.tistory.com/*
 *://codestyle.tistory.com/*
 *://tracholar.top/*
+*://hellojava.com/*
+*://anyabs.com/*
+*://askcodes.net/*
+*://python2.net/*
+*://so.muouseo.com/*
