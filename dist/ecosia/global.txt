@@ -146,6 +146,8 @@ ecosia.org##.result:has(a[href*="issuehint.com"])
 ecosia.org##.result:has(a[href*="rpkg.in"])
 ||geeksrepos.com$all
 ecosia.org##.result:has(a[href*="geeksrepos.com"])
+||lightrun.com$all
+ecosia.org##.result:has(a[href*="lightrun.com"])
 ||npmmirror.com$all
 ecosia.org##.result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
@@ -158,6 +160,8 @@ ecosia.org##.result:has(a[href*="spiegato.com"])
 ecosia.org##.result:has(a[href*="actingcollegeses.com"])
 ||patrickkidd3.typepad.com$all
 ecosia.org##.result:has(a[href*="patrickkidd3.typepad.com"])
+||durrell2012.com$all
+ecosia.org##.result:has(a[href*="durrell2012.com"])
 ||code-examples.net$all
 ecosia.org##.result:has(a[href*="code-examples.net"])
 ||kotaeta.com$all
@@ -886,6 +890,8 @@ ecosia.org##.result:has(a[href*="askcodes.net"])
 ecosia.org##.result:has(a[href*="python2.net"])
 ||so.muouseo.com$all
 ecosia.org##.result:has(a[href*="so.muouseo.com"])
+||dailydevsblog.com$all
+ecosia.org##.result:has(a[href*="dailydevsblog.com"])
 ||encyclopedia.thefreedictionary.com$all
 ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

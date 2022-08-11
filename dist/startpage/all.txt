@@ -146,6 +146,8 @@ startpage.com##.w-gl__result:has(a[href*="issuehint.com"])
 startpage.com##.w-gl__result:has(a[href*="rpkg.in"])
 ||geeksrepos.com$all
 startpage.com##.w-gl__result:has(a[href*="geeksrepos.com"])
+||lightrun.com$all
+startpage.com##.w-gl__result:has(a[href*="lightrun.com"])
 ||npmmirror.com$all
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
@@ -880,3 +882,5 @@ startpage.com##.w-gl__result:has(a[href*="askcodes.net"])
 startpage.com##.w-gl__result:has(a[href*="python2.net"])
 ||so.muouseo.com$all
 startpage.com##.w-gl__result:has(a[href*="so.muouseo.com"])
+||dailydevsblog.com$all
+startpage.com##.w-gl__result:has(a[href*="dailydevsblog.com"])

@@ -76,6 +76,7 @@
 [data-domain*="issuehint.com"],
 [data-domain*="rpkg.in"],
 [data-domain*="geeksrepos.com"],
+[data-domain*="lightrun.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="npm.io"],
@@ -443,6 +444,7 @@
 [data-domain*="askcodes.net"],
 [data-domain*="python2.net"],
 [data-domain*="so.muouseo.com"],
+[data-domain*="dailydevsblog.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

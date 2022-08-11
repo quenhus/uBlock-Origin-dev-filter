@@ -734,3 +734,5 @@ ecosia.org##.result:has(a[href*="askcodes.net"])
 ecosia.org##.result:has(a[href*="python2.net"])
 ||so.muouseo.com$all
 ecosia.org##.result:has(a[href*="so.muouseo.com"])
+||dailydevsblog.com$all
+ecosia.org##.result:has(a[href*="dailydevsblog.com"])

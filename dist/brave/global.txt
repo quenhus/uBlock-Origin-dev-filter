@@ -146,6 +146,8 @@ search.brave.com###results > div:has(a[href*="issuehint.com"])
 search.brave.com###results > div:has(a[href*="rpkg.in"])
 ||geeksrepos.com$all
 search.brave.com###results > div:has(a[href*="geeksrepos.com"])
+||lightrun.com$all
+search.brave.com###results > div:has(a[href*="lightrun.com"])
 ||npmmirror.com$all
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
@@ -158,6 +160,8 @@ search.brave.com###results > div:has(a[href*="spiegato.com"])
 search.brave.com###results > div:has(a[href*="actingcollegeses.com"])
 ||patrickkidd3.typepad.com$all
 search.brave.com###results > div:has(a[href*="patrickkidd3.typepad.com"])
+||durrell2012.com$all
+search.brave.com###results > div:has(a[href*="durrell2012.com"])
 ||code-examples.net$all
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 ||kotaeta.com$all
@@ -886,6 +890,8 @@ search.brave.com###results > div:has(a[href*="askcodes.net"])
 search.brave.com###results > div:has(a[href*="python2.net"])
 ||so.muouseo.com$all
 search.brave.com###results > div:has(a[href*="so.muouseo.com"])
+||dailydevsblog.com$all
+search.brave.com###results > div:has(a[href*="dailydevsblog.com"])
 ||encyclopedia.thefreedictionary.com$all
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

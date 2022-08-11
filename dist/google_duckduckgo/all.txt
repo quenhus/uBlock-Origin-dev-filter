@@ -216,6 +216,9 @@ duckduckgo.com###links>div:has(a[href*="rpkg.in"])
 ||geeksrepos.com$all
 google.*##.g:has(a[href*="geeksrepos.com"])
 duckduckgo.com###links>div:has(a[href*="geeksrepos.com"])
+||lightrun.com$all
+google.*##.g:has(a[href*="lightrun.com"])
+duckduckgo.com###links>div:has(a[href*="lightrun.com"])
 ||npmmirror.com$all
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
@@ -1317,3 +1320,6 @@ duckduckgo.com###links>div:has(a[href*="python2.net"])
 ||so.muouseo.com$all
 google.*##.g:has(a[href*="so.muouseo.com"])
 duckduckgo.com###links>div:has(a[href*="so.muouseo.com"])
+||dailydevsblog.com$all
+google.*##.g:has(a[href*="dailydevsblog.com"])
+duckduckgo.com###links>div:has(a[href*="dailydevsblog.com"])

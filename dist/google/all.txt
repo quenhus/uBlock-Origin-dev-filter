@@ -146,6 +146,8 @@ google.*##.g:has(a[href*="issuehint.com"])
 google.*##.g:has(a[href*="rpkg.in"])
 ||geeksrepos.com$all
 google.*##.g:has(a[href*="geeksrepos.com"])
+||lightrun.com$all
+google.*##.g:has(a[href*="lightrun.com"])
 ||npmmirror.com$all
 google.*##.g:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
@@ -880,3 +882,5 @@ google.*##.g:has(a[href*="askcodes.net"])
 google.*##.g:has(a[href*="python2.net"])
 ||so.muouseo.com$all
 google.*##.g:has(a[href*="so.muouseo.com"])
+||dailydevsblog.com$all
+google.*##.g:has(a[href*="dailydevsblog.com"])

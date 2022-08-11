@@ -734,3 +734,5 @@ search.brave.com###results > div:has(a[href*="askcodes.net"])
 search.brave.com###results > div:has(a[href*="python2.net"])
 ||so.muouseo.com$all
 search.brave.com###results > div:has(a[href*="so.muouseo.com"])
+||dailydevsblog.com$all
+search.brave.com###results > div:has(a[href*="dailydevsblog.com"])

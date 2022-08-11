@@ -12,3 +12,5 @@ duckduckgo.com###links>div:has(a[href*="spiegato.com"])
 duckduckgo.com###links>div:has(a[href*="actingcollegeses.com"])
 ||patrickkidd3.typepad.com$all
 duckduckgo.com###links>div:has(a[href*="patrickkidd3.typepad.com"])
+||durrell2012.com$all
+duckduckgo.com###links>div:has(a[href*="durrell2012.com"])

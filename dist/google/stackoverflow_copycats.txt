@@ -734,3 +734,5 @@ google.*##.g:has(a[href*="askcodes.net"])
 google.*##.g:has(a[href*="python2.net"])
 ||so.muouseo.com$all
 google.*##.g:has(a[href*="so.muouseo.com"])
+||dailydevsblog.com$all
+google.*##.g:has(a[href*="dailydevsblog.com"])

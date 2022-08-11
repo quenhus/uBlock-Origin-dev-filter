@@ -12,3 +12,5 @@ google.*##.g:has(a[href*="spiegato.com"])
 google.*##.g:has(a[href*="actingcollegeses.com"])
 ||patrickkidd3.typepad.com$all
 google.*##.g:has(a[href*="patrickkidd3.typepad.com"])
+||durrell2012.com$all
+google.*##.g:has(a[href*="durrell2012.com"])

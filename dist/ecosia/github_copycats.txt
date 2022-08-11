@@ -146,3 +146,5 @@ ecosia.org##.result:has(a[href*="issuehint.com"])
 ecosia.org##.result:has(a[href*="rpkg.in"])
 ||geeksrepos.com$all
 ecosia.org##.result:has(a[href*="geeksrepos.com"])
+||lightrun.com$all
+ecosia.org##.result:has(a[href*="lightrun.com"])

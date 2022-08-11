@@ -9,6 +9,7 @@
 [data-domain*="spiegato.com"],
 [data-domain*="actingcollegeses.com"],
 [data-domain*="patrickkidd3.typepad.com"],
+[data-domain*="durrell2012.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

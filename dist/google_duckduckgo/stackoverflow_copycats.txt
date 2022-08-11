@@ -1098,3 +1098,6 @@ duckduckgo.com###links>div:has(a[href*="python2.net"])
 ||so.muouseo.com$all
 google.*##.g:has(a[href*="so.muouseo.com"])
 duckduckgo.com###links>div:has(a[href*="so.muouseo.com"])
+||dailydevsblog.com$all
+google.*##.g:has(a[href*="dailydevsblog.com"])
+duckduckgo.com###links>div:has(a[href*="dailydevsblog.com"])

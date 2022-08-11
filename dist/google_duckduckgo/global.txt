@@ -216,6 +216,9 @@ duckduckgo.com###links>div:has(a[href*="rpkg.in"])
 ||geeksrepos.com$all
 google.*##.g:has(a[href*="geeksrepos.com"])
 duckduckgo.com###links>div:has(a[href*="geeksrepos.com"])
+||lightrun.com$all
+google.*##.g:has(a[href*="lightrun.com"])
+duckduckgo.com###links>div:has(a[href*="lightrun.com"])
 ||npmmirror.com$all
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
@@ -234,6 +237,9 @@ duckduckgo.com###links>div:has(a[href*="actingcollegeses.com"])
 ||patrickkidd3.typepad.com$all
 google.*##.g:has(a[href*="patrickkidd3.typepad.com"])
 duckduckgo.com###links>div:has(a[href*="patrickkidd3.typepad.com"])
+||durrell2012.com$all
+google.*##.g:has(a[href*="durrell2012.com"])
+duckduckgo.com###links>div:has(a[href*="durrell2012.com"])
 ||code-examples.net$all
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])
@@ -1326,6 +1332,9 @@ duckduckgo.com###links>div:has(a[href*="python2.net"])
 ||so.muouseo.com$all
 google.*##.g:has(a[href*="so.muouseo.com"])
 duckduckgo.com###links>div:has(a[href*="so.muouseo.com"])
+||dailydevsblog.com$all
+google.*##.g:has(a[href*="dailydevsblog.com"])
+duckduckgo.com###links>div:has(a[href*="dailydevsblog.com"])
 ||encyclopedia.thefreedictionary.com$all
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
