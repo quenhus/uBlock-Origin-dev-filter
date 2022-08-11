@@ -364,3 +364,4 @@
 *://askcodes.net/*
 *://python2.net/*
 *://so.muouseo.com/*
+*://dailydevsblog.com/*
