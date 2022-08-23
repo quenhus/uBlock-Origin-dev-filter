@@ -366,3 +366,7 @@
 *://so.muouseo.com/*
 *://dailydevsblog.com/*
 *://stackoverflowpoint.com/*
+*://developerfacts.com/*
+*://copyprogramming.com/*
+*://coder.gay/*
+*://codejzy.com/*
