@@ -736,3 +736,5 @@ startpage.com##.w-gl__result:has(a[href*="python2.net"])
 startpage.com##.w-gl__result:has(a[href*="so.muouseo.com"])
 ||dailydevsblog.com$all
 startpage.com##.w-gl__result:has(a[href*="dailydevsblog.com"])
+||stackoverflowpoint.com$all
+startpage.com##.w-gl__result:has(a[href*="stackoverflowpoint.com"])

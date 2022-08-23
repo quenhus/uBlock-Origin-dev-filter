@@ -2664,6 +2664,12 @@ duckduckgo.com###links>div:has(a[href*="dailydevsblog.com"])
 search.brave.com###results > div:has(a[href*="dailydevsblog.com"])
 startpage.com##.w-gl__result:has(a[href*="dailydevsblog.com"])
 ecosia.org##.result:has(a[href*="dailydevsblog.com"])
+||stackoverflowpoint.com$all
+google.*##.g:has(a[href*="stackoverflowpoint.com"])
+duckduckgo.com###links>div:has(a[href*="stackoverflowpoint.com"])
+search.brave.com###results > div:has(a[href*="stackoverflowpoint.com"])
+startpage.com##.w-gl__result:has(a[href*="stackoverflowpoint.com"])
+ecosia.org##.result:has(a[href*="stackoverflowpoint.com"])
 ||encyclopedia.thefreedictionary.com$all
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])

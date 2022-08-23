@@ -884,3 +884,5 @@ duckduckgo.com###links>div:has(a[href*="python2.net"])
 duckduckgo.com###links>div:has(a[href*="so.muouseo.com"])
 ||dailydevsblog.com$all
 duckduckgo.com###links>div:has(a[href*="dailydevsblog.com"])
+||stackoverflowpoint.com$all
+duckduckgo.com###links>div:has(a[href*="stackoverflowpoint.com"])

@@ -892,6 +892,8 @@ ecosia.org##.result:has(a[href*="python2.net"])
 ecosia.org##.result:has(a[href*="so.muouseo.com"])
 ||dailydevsblog.com$all
 ecosia.org##.result:has(a[href*="dailydevsblog.com"])
+||stackoverflowpoint.com$all
+ecosia.org##.result:has(a[href*="stackoverflowpoint.com"])
 ||encyclopedia.thefreedictionary.com$all
 ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

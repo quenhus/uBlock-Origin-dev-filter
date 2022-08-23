@@ -449,6 +449,7 @@
 [data-domain*="python2.net"],
 [data-domain*="so.muouseo.com"],
 [data-domain*="dailydevsblog.com"],
+[data-domain*="stackoverflowpoint.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="algebra.com"],
 [data-domain*="wikizero.com"],

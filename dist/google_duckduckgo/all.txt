@@ -1323,3 +1323,6 @@ duckduckgo.com###links>div:has(a[href*="so.muouseo.com"])
 ||dailydevsblog.com$all
 google.*##.g:has(a[href*="dailydevsblog.com"])
 duckduckgo.com###links>div:has(a[href*="dailydevsblog.com"])
+||stackoverflowpoint.com$all
+google.*##.g:has(a[href*="stackoverflowpoint.com"])
+duckduckgo.com###links>div:has(a[href*="stackoverflowpoint.com"])
