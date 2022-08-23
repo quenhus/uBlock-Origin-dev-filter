@@ -148,6 +148,8 @@ startpage.com##.w-gl__result:has(a[href*="rpkg.in"])
 startpage.com##.w-gl__result:has(a[href*="geeksrepos.com"])
 ||lightrun.com$all
 startpage.com##.w-gl__result:has(a[href*="lightrun.com"])
+||pullanswer.com$all
+startpage.com##.w-gl__result:has(a[href*="pullanswer.com"])
 ||npmmirror.com$all
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
@@ -894,6 +896,14 @@ startpage.com##.w-gl__result:has(a[href*="so.muouseo.com"])
 startpage.com##.w-gl__result:has(a[href*="dailydevsblog.com"])
 ||stackoverflowpoint.com$all
 startpage.com##.w-gl__result:has(a[href*="stackoverflowpoint.com"])
+||developerfacts.com$all
+startpage.com##.w-gl__result:has(a[href*="developerfacts.com"])
+||copyprogramming.com$all
+startpage.com##.w-gl__result:has(a[href*="copyprogramming.com"])
+||coder.gay$all
+startpage.com##.w-gl__result:has(a[href*="coder.gay"])
+||codejzy.com$all
+startpage.com##.w-gl__result:has(a[href*="codejzy.com"])
 ||encyclopedia.thefreedictionary.com$all
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

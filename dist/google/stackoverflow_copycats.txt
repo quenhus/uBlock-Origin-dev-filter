@@ -738,3 +738,11 @@ google.*##.g:has(a[href*="so.muouseo.com"])
 google.*##.g:has(a[href*="dailydevsblog.com"])
 ||stackoverflowpoint.com$all
 google.*##.g:has(a[href*="stackoverflowpoint.com"])
+||developerfacts.com$all
+google.*##.g:has(a[href*="developerfacts.com"])
+||copyprogramming.com$all
+google.*##.g:has(a[href*="copyprogramming.com"])
+||coder.gay$all
+google.*##.g:has(a[href*="coder.gay"])
+||codejzy.com$all
+google.*##.g:has(a[href*="codejzy.com"])

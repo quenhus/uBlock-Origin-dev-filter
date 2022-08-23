@@ -219,6 +219,9 @@ duckduckgo.com###links>div:has(a[href*="geeksrepos.com"])
 ||lightrun.com$all
 google.*##.g:has(a[href*="lightrun.com"])
 duckduckgo.com###links>div:has(a[href*="lightrun.com"])
+||pullanswer.com$all
+google.*##.g:has(a[href*="pullanswer.com"])
+duckduckgo.com###links>div:has(a[href*="pullanswer.com"])
 ||npmmirror.com$all
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
@@ -1326,3 +1329,15 @@ duckduckgo.com###links>div:has(a[href*="dailydevsblog.com"])
 ||stackoverflowpoint.com$all
 google.*##.g:has(a[href*="stackoverflowpoint.com"])
 duckduckgo.com###links>div:has(a[href*="stackoverflowpoint.com"])
+||developerfacts.com$all
+google.*##.g:has(a[href*="developerfacts.com"])
+duckduckgo.com###links>div:has(a[href*="developerfacts.com"])
+||copyprogramming.com$all
+google.*##.g:has(a[href*="copyprogramming.com"])
+duckduckgo.com###links>div:has(a[href*="copyprogramming.com"])
+||coder.gay$all
+google.*##.g:has(a[href*="coder.gay"])
+duckduckgo.com###links>div:has(a[href*="coder.gay"])
+||codejzy.com$all
+google.*##.g:has(a[href*="codejzy.com"])
+duckduckgo.com###links>div:has(a[href*="codejzy.com"])

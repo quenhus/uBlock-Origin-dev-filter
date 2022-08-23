@@ -372,6 +372,10 @@
 [data-domain*="so.muouseo.com"],
 [data-domain*="dailydevsblog.com"],
 [data-domain*="stackoverflowpoint.com"],
+[data-domain*="developerfacts.com"],
+[data-domain*="copyprogramming.com"],
+[data-domain*="coder.gay"],
+[data-domain*="codejzy.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

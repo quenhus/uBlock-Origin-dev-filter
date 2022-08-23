@@ -148,6 +148,8 @@ search.brave.com###results > div:has(a[href*="rpkg.in"])
 search.brave.com###results > div:has(a[href*="geeksrepos.com"])
 ||lightrun.com$all
 search.brave.com###results > div:has(a[href*="lightrun.com"])
+||pullanswer.com$all
+search.brave.com###results > div:has(a[href*="pullanswer.com"])
 ||npmmirror.com$all
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
@@ -886,3 +888,11 @@ search.brave.com###results > div:has(a[href*="so.muouseo.com"])
 search.brave.com###results > div:has(a[href*="dailydevsblog.com"])
 ||stackoverflowpoint.com$all
 search.brave.com###results > div:has(a[href*="stackoverflowpoint.com"])
+||developerfacts.com$all
+search.brave.com###results > div:has(a[href*="developerfacts.com"])
+||copyprogramming.com$all
+search.brave.com###results > div:has(a[href*="copyprogramming.com"])
+||coder.gay$all
+search.brave.com###results > div:has(a[href*="coder.gay"])
+||codejzy.com$all
+search.brave.com###results > div:has(a[href*="codejzy.com"])

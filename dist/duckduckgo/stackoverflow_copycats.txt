@@ -738,3 +738,11 @@ duckduckgo.com###links>div:has(a[href*="so.muouseo.com"])
 duckduckgo.com###links>div:has(a[href*="dailydevsblog.com"])
 ||stackoverflowpoint.com$all
 duckduckgo.com###links>div:has(a[href*="stackoverflowpoint.com"])
+||developerfacts.com$all
+duckduckgo.com###links>div:has(a[href*="developerfacts.com"])
+||copyprogramming.com$all
+duckduckgo.com###links>div:has(a[href*="copyprogramming.com"])
+||coder.gay$all
+duckduckgo.com###links>div:has(a[href*="coder.gay"])
+||codejzy.com$all
+duckduckgo.com###links>div:has(a[href*="codejzy.com"])

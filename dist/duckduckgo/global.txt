@@ -148,6 +148,8 @@ duckduckgo.com###links>div:has(a[href*="rpkg.in"])
 duckduckgo.com###links>div:has(a[href*="geeksrepos.com"])
 ||lightrun.com$all
 duckduckgo.com###links>div:has(a[href*="lightrun.com"])
+||pullanswer.com$all
+duckduckgo.com###links>div:has(a[href*="pullanswer.com"])
 ||npmmirror.com$all
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
@@ -894,6 +896,14 @@ duckduckgo.com###links>div:has(a[href*="so.muouseo.com"])
 duckduckgo.com###links>div:has(a[href*="dailydevsblog.com"])
 ||stackoverflowpoint.com$all
 duckduckgo.com###links>div:has(a[href*="stackoverflowpoint.com"])
+||developerfacts.com$all
+duckduckgo.com###links>div:has(a[href*="developerfacts.com"])
+||copyprogramming.com$all
+duckduckgo.com###links>div:has(a[href*="copyprogramming.com"])
+||coder.gay$all
+duckduckgo.com###links>div:has(a[href*="coder.gay"])
+||codejzy.com$all
+duckduckgo.com###links>div:has(a[href*="codejzy.com"])
 ||encyclopedia.thefreedictionary.com$all
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all
