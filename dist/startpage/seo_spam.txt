@@ -14,3 +14,9 @@ startpage.com##.w-gl__result:has(a[href*="actingcollegeses.com"])
 startpage.com##.w-gl__result:has(a[href*="patrickkidd3.typepad.com"])
 ||durrell2012.com$all
 startpage.com##.w-gl__result:has(a[href*="durrell2012.com"])
+||codesprogram.com$all
+startpage.com##.w-gl__result:has(a[href*="codesprogram.com"])
+||iqcode.com$all
+startpage.com##.w-gl__result:has(a[href*="iqcode.com"])
+||hum-berlin.de$all
+startpage.com##.w-gl__result:has(a[href*="hum-berlin.de"])

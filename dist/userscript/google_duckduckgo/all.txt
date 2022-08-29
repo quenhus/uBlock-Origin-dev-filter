@@ -451,6 +451,14 @@
 [data-domain*="copyprogramming.com"],
 [data-domain*="coder.gay"],
 [data-domain*="codejzy.com"],
+[data-domain*="dizzycoding.com"],
+[data-domain*="grabthiscode.com"],
+[data-domain*="realerlab.blogspot.com"],
+[data-domain*="quickanswer.blog"],
+[data-domain*="webdesigntips.blog"],
+[data-domain*="joyk.com"],
+[data-domain*="gushiciku.cn"],
+[data-domain*="truecodes.net"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

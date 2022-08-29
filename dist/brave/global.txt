@@ -164,6 +164,12 @@ search.brave.com###results > div:has(a[href*="actingcollegeses.com"])
 search.brave.com###results > div:has(a[href*="patrickkidd3.typepad.com"])
 ||durrell2012.com$all
 search.brave.com###results > div:has(a[href*="durrell2012.com"])
+||codesprogram.com$all
+search.brave.com###results > div:has(a[href*="codesprogram.com"])
+||iqcode.com$all
+search.brave.com###results > div:has(a[href*="iqcode.com"])
+||hum-berlin.de$all
+search.brave.com###results > div:has(a[href*="hum-berlin.de"])
 ||code-examples.net$all
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 ||kotaeta.com$all
@@ -904,6 +910,22 @@ search.brave.com###results > div:has(a[href*="copyprogramming.com"])
 search.brave.com###results > div:has(a[href*="coder.gay"])
 ||codejzy.com$all
 search.brave.com###results > div:has(a[href*="codejzy.com"])
+||dizzycoding.com$all
+search.brave.com###results > div:has(a[href*="dizzycoding.com"])
+||grabthiscode.com$all
+search.brave.com###results > div:has(a[href*="grabthiscode.com"])
+||realerlab.blogspot.com$all
+search.brave.com###results > div:has(a[href*="realerlab.blogspot.com"])
+||quickanswer.blog$all
+search.brave.com###results > div:has(a[href*="quickanswer.blog"])
+||webdesigntips.blog$all
+search.brave.com###results > div:has(a[href*="webdesigntips.blog"])
+||joyk.com$all
+search.brave.com###results > div:has(a[href*="joyk.com"])
+||gushiciku.cn$all
+search.brave.com###results > div:has(a[href*="gushiciku.cn"])
+||truecodes.net$all
+search.brave.com###results > div:has(a[href*="truecodes.net"])
 ||encyclopedia.thefreedictionary.com$all
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

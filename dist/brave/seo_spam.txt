@@ -14,3 +14,9 @@ search.brave.com###results > div:has(a[href*="actingcollegeses.com"])
 search.brave.com###results > div:has(a[href*="patrickkidd3.typepad.com"])
 ||durrell2012.com$all
 search.brave.com###results > div:has(a[href*="durrell2012.com"])
+||codesprogram.com$all
+search.brave.com###results > div:has(a[href*="codesprogram.com"])
+||iqcode.com$all
+search.brave.com###results > div:has(a[href*="iqcode.com"])
+||hum-berlin.de$all
+search.brave.com###results > div:has(a[href*="hum-berlin.de"])
