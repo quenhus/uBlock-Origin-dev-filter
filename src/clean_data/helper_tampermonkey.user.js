@@ -103,7 +103,7 @@ List of domains to review:<p>
 
         if(current_domain){
             container.innerHTML += `
-Current: <strong>${current_domain}</strong>
+Current: <strong><a href="//${current_domain}">${current_domain}</a></strong>
 <div class="uBlock_Origin_dev_filter__current_domain_links"></div>`;
         }
 
