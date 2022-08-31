@@ -20,3 +20,5 @@ duckduckgo.com###links>div:has(a[href*="codesprogram.com"])
 duckduckgo.com###links>div:has(a[href*="iqcode.com"])
 ||hum-berlin.de$all
 duckduckgo.com###links>div:has(a[href*="hum-berlin.de"])
+||britguidenewyork.net$all
+duckduckgo.com###links>div:has(a[href*="britguidenewyork.net"])

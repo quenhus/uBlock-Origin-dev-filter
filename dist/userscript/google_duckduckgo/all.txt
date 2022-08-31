@@ -78,6 +78,7 @@
 [data-domain*="geeksrepos.com"],
 [data-domain*="lightrun.com"],
 [data-domain*="pullanswer.com"],
+[data-domain*="devpick.io"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="npm.io"],
@@ -459,6 +460,16 @@
 [data-domain*="joyk.com"],
 [data-domain*="gushiciku.cn"],
 [data-domain*="truecodes.net"],
+[data-domain*="errorsandanswers.com"],
+[data-domain*="boolchr.com"],
+[data-domain*="itnursery.com"],
+[data-domain*="libsea.com"],
+[data-domain*="telepon.cyou"],
+[data-domain*="madanswer.com"],
+[data-domain*="programmatic.solutions"],
+[data-domain*="facit.edu.br"],
+[data-domain*="technointeract.com"],
+[data-domain*="saca.aussievitamin.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

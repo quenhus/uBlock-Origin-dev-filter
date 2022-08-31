@@ -20,3 +20,5 @@ ecosia.org##.result:has(a[href*="codesprogram.com"])
 ecosia.org##.result:has(a[href*="iqcode.com"])
 ||hum-berlin.de$all
 ecosia.org##.result:has(a[href*="hum-berlin.de"])
+||britguidenewyork.net$all
+ecosia.org##.result:has(a[href*="britguidenewyork.net"])

@@ -20,3 +20,5 @@ startpage.com##.w-gl__result:has(a[href*="codesprogram.com"])
 startpage.com##.w-gl__result:has(a[href*="iqcode.com"])
 ||hum-berlin.de$all
 startpage.com##.w-gl__result:has(a[href*="hum-berlin.de"])
+||britguidenewyork.net$all
+startpage.com##.w-gl__result:has(a[href*="britguidenewyork.net"])

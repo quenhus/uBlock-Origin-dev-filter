@@ -150,3 +150,5 @@ google.*##.g:has(a[href*="geeksrepos.com"])
 google.*##.g:has(a[href*="lightrun.com"])
 ||pullanswer.com$all
 google.*##.g:has(a[href*="pullanswer.com"])
+||devpick.io$all
+google.*##.g:has(a[href*="devpick.io"])

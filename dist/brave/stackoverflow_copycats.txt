@@ -762,3 +762,23 @@ search.brave.com###results > div:has(a[href*="joyk.com"])
 search.brave.com###results > div:has(a[href*="gushiciku.cn"])
 ||truecodes.net$all
 search.brave.com###results > div:has(a[href*="truecodes.net"])
+||errorsandanswers.com$all
+search.brave.com###results > div:has(a[href*="errorsandanswers.com"])
+||boolchr.com$all
+search.brave.com###results > div:has(a[href*="boolchr.com"])
+||itnursery.com$all
+search.brave.com###results > div:has(a[href*="itnursery.com"])
+||libsea.com$all
+search.brave.com###results > div:has(a[href*="libsea.com"])
+||telepon.cyou$all
+search.brave.com###results > div:has(a[href*="telepon.cyou"])
+||madanswer.com$all
+search.brave.com###results > div:has(a[href*="madanswer.com"])
+||programmatic.solutions$all
+search.brave.com###results > div:has(a[href*="programmatic.solutions"])
+||facit.edu.br$all
+search.brave.com###results > div:has(a[href*="facit.edu.br"])
+||technointeract.com$all
+search.brave.com###results > div:has(a[href*="technointeract.com"])
+||saca.aussievitamin.com$all
+search.brave.com###results > div:has(a[href*="saca.aussievitamin.com"])

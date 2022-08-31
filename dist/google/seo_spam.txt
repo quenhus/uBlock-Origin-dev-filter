@@ -20,3 +20,5 @@ google.*##.g:has(a[href*="codesprogram.com"])
 google.*##.g:has(a[href*="iqcode.com"])
 ||hum-berlin.de$all
 google.*##.g:has(a[href*="hum-berlin.de"])
+||britguidenewyork.net$all
+google.*##.g:has(a[href*="britguidenewyork.net"])
