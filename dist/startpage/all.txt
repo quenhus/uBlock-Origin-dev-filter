@@ -934,3 +934,7 @@ startpage.com##.w-gl__result:has(a[href*="facit.edu.br"])
 startpage.com##.w-gl__result:has(a[href*="technointeract.com"])
 ||saca.aussievitamin.com$all
 startpage.com##.w-gl__result:has(a[href*="saca.aussievitamin.com"])
+||stackorigin.com$all
+startpage.com##.w-gl__result:has(a[href*="stackorigin.com"])
+||solutionschecker.com$all
+startpage.com##.w-gl__result:has(a[href*="solutionschecker.com"])

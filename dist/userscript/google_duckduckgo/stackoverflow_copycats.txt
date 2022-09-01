@@ -394,6 +394,8 @@
 [data-domain*="facit.edu.br"],
 [data-domain*="technointeract.com"],
 [data-domain*="saca.aussievitamin.com"],
+[data-domain*="stackorigin.com"],
+[data-domain*="solutionschecker.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

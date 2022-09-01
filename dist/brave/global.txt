@@ -950,6 +950,10 @@ search.brave.com###results > div:has(a[href*="facit.edu.br"])
 search.brave.com###results > div:has(a[href*="technointeract.com"])
 ||saca.aussievitamin.com$all
 search.brave.com###results > div:has(a[href*="saca.aussievitamin.com"])
+||stackorigin.com$all
+search.brave.com###results > div:has(a[href*="stackorigin.com"])
+||solutionschecker.com$all
+search.brave.com###results > div:has(a[href*="solutionschecker.com"])
 ||encyclopedia.thefreedictionary.com$all
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

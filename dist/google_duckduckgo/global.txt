@@ -1422,6 +1422,12 @@ duckduckgo.com###links>div:has(a[href*="technointeract.com"])
 ||saca.aussievitamin.com$all
 google.*##.g:has(a[href*="saca.aussievitamin.com"])
 duckduckgo.com###links>div:has(a[href*="saca.aussievitamin.com"])
+||stackorigin.com$all
+google.*##.g:has(a[href*="stackorigin.com"])
+duckduckgo.com###links>div:has(a[href*="stackorigin.com"])
+||solutionschecker.com$all
+google.*##.g:has(a[href*="solutionschecker.com"])
+duckduckgo.com###links>div:has(a[href*="solutionschecker.com"])
 ||encyclopedia.thefreedictionary.com$all
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])

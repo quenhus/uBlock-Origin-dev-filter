@@ -478,6 +478,8 @@
 [data-domain*="facit.edu.br"],
 [data-domain*="technointeract.com"],
 [data-domain*="saca.aussievitamin.com"],
+[data-domain*="stackorigin.com"],
+[data-domain*="solutionschecker.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="algebra.com"],
 [data-domain*="wikizero.com"],

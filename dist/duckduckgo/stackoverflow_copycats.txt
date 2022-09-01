@@ -782,3 +782,7 @@ duckduckgo.com###links>div:has(a[href*="facit.edu.br"])
 duckduckgo.com###links>div:has(a[href*="technointeract.com"])
 ||saca.aussievitamin.com$all
 duckduckgo.com###links>div:has(a[href*="saca.aussievitamin.com"])
+||stackorigin.com$all
+duckduckgo.com###links>div:has(a[href*="stackorigin.com"])
+||solutionschecker.com$all
+duckduckgo.com###links>div:has(a[href*="solutionschecker.com"])

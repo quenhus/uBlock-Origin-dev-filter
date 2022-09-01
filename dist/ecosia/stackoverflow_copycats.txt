@@ -782,3 +782,7 @@ ecosia.org##.result:has(a[href*="facit.edu.br"])
 ecosia.org##.result:has(a[href*="technointeract.com"])
 ||saca.aussievitamin.com$all
 ecosia.org##.result:has(a[href*="saca.aussievitamin.com"])
+||stackorigin.com$all
+ecosia.org##.result:has(a[href*="stackorigin.com"])
+||solutionschecker.com$all
+ecosia.org##.result:has(a[href*="solutionschecker.com"])

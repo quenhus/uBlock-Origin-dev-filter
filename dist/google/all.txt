@@ -934,3 +934,7 @@ google.*##.g:has(a[href*="facit.edu.br"])
 google.*##.g:has(a[href*="technointeract.com"])
 ||saca.aussievitamin.com$all
 google.*##.g:has(a[href*="saca.aussievitamin.com"])
+||stackorigin.com$all
+google.*##.g:has(a[href*="stackorigin.com"])
+||solutionschecker.com$all
+google.*##.g:has(a[href*="solutionschecker.com"])
