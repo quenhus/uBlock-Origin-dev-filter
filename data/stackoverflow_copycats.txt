@@ -388,3 +388,5 @@
 *://facit.edu.br/*
 *://technointeract.com/*
 *://saca.aussievitamin.com/*
+*://stackorigin.com/*
+*://solutionschecker.com/*
