@@ -396,6 +396,12 @@
 [data-domain*="saca.aussievitamin.com"],
 [data-domain*="stackorigin.com"],
 [data-domain*="solutionschecker.com"],
+[data-domain*="oraask.com"],
+[data-domain*="yeahexp.com"],
+[data-domain*="fullstack.cafe"],
+[data-domain*="ansaurus.com"],
+[data-domain*="mars.railpage.com.au"],
+[data-domain*="wikifix.dev"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

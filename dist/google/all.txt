@@ -938,3 +938,15 @@ google.*##.g:has(a[href*="saca.aussievitamin.com"])
 google.*##.g:has(a[href*="stackorigin.com"])
 ||solutionschecker.com$all
 google.*##.g:has(a[href*="solutionschecker.com"])
+||oraask.com$all
+google.*##.g:has(a[href*="oraask.com"])
+||yeahexp.com$all
+google.*##.g:has(a[href*="yeahexp.com"])
+||fullstack.cafe$all
+google.*##.g:has(a[href*="fullstack.cafe"])
+||ansaurus.com$all
+google.*##.g:has(a[href*="ansaurus.com"])
+||mars.railpage.com.au$all
+google.*##.g:has(a[href*="mars.railpage.com.au"])
+||wikifix.dev$all
+google.*##.g:has(a[href*="wikifix.dev"])

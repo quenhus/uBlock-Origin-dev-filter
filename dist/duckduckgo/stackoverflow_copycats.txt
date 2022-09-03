@@ -786,3 +786,15 @@ duckduckgo.com###links>div:has(a[href*="saca.aussievitamin.com"])
 duckduckgo.com###links>div:has(a[href*="stackorigin.com"])
 ||solutionschecker.com$all
 duckduckgo.com###links>div:has(a[href*="solutionschecker.com"])
+||oraask.com$all
+duckduckgo.com###links>div:has(a[href*="oraask.com"])
+||yeahexp.com$all
+duckduckgo.com###links>div:has(a[href*="yeahexp.com"])
+||fullstack.cafe$all
+duckduckgo.com###links>div:has(a[href*="fullstack.cafe"])
+||ansaurus.com$all
+duckduckgo.com###links>div:has(a[href*="ansaurus.com"])
+||mars.railpage.com.au$all
+duckduckgo.com###links>div:has(a[href*="mars.railpage.com.au"])
+||wikifix.dev$all
+duckduckgo.com###links>div:has(a[href*="wikifix.dev"])
