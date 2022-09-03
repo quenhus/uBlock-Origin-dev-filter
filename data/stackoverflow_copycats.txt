@@ -390,3 +390,9 @@
 *://saca.aussievitamin.com/*
 *://stackorigin.com/*
 *://solutionschecker.com/*
+*://oraask.com/*
+*://yeahexp.com/*
+*://fullstack.cafe/*
+*://ansaurus.com/*
+*://mars.railpage.com.au/*
+*://wikifix.dev/*
