@@ -746,6 +746,56 @@ search.brave.com###results > div:has(a[href*="copyprogramming.com"])
 search.brave.com###results > div:has(a[href*="coder.gay"])
 ||codejzy.com$all
 search.brave.com###results > div:has(a[href*="codejzy.com"])
+||tutorialink.com$all
+search.brave.com###results > div:has(a[href*="tutorialink.com"])
+||maxinterview.com$all
+search.brave.com###results > div:has(a[href*="maxinterview.com"])
+||newdevzone.com$all
+search.brave.com###results > div:has(a[href*="newdevzone.com"])
+||dirask.com$all
+search.brave.com###results > div:has(a[href*="dirask.com"])
+||im-coder.com$all
+search.brave.com###results > div:has(a[href*="im-coder.com"])
+||contactform.dev$all
+search.brave.com###results > div:has(a[href*="contactform.dev"])
+||ciupacabra.com$all
+search.brave.com###results > div:has(a[href*="ciupacabra.com"])
+||bildiredi.com$all
+search.brave.com###results > div:has(a[href*="bildiredi.com"])
+||donolik.com$all
+search.brave.com###results > div:has(a[href*="donolik.com"])
+||sozdizimi.com$all
+search.brave.com###results > div:has(a[href*="sozdizimi.com"])
+||zapytay.com$all
+search.brave.com###results > div:has(a[href*="zapytay.com"])
+||while-do.com$all
+search.brave.com###results > div:has(a[href*="while-do.com"])
+||it-swarm.net$all
+search.brave.com###results > div:has(a[href*="it-swarm.net"])
+||it-swarm.dev$all
+search.brave.com###results > div:has(a[href*="it-swarm.dev"])
+||it-swarm.asia$all
+search.brave.com###results > div:has(a[href*="it-swarm.asia"])
+||it-swarm.xyz$all
+search.brave.com###results > div:has(a[href*="it-swarm.xyz"])
+||develop-bugs.com$all
+search.brave.com###results > div:has(a[href*="develop-bugs.com"])
+||android.bigresource.com$all
+search.brave.com###results > div:has(a[href*="android.bigresource.com"])
+||code-paper.com$all
+search.brave.com###results > div:has(a[href*="code-paper.com"])
+||howtobuildsoftware.com$all
+search.brave.com###results > div:has(a[href*="howtobuildsoftware.com"])
+||ittone.ma$all
+search.brave.com###results > div:has(a[href*="ittone.ma"])
+||spec-zone.ru$all
+search.brave.com###results > div:has(a[href*="spec-zone.ru"])
+||techinplanet.com$all
+search.brave.com###results > div:has(a[href*="techinplanet.com"])
+||javascript.tutorialink.com$all
+search.brave.com###results > div:has(a[href*="javascript.tutorialink.com"])
+||issuecloser.com$all
+search.brave.com###results > div:has(a[href*="issuecloser.com"])
 ||dizzycoding.com$all
 search.brave.com###results > div:has(a[href*="dizzycoding.com"])
 ||grabthiscode.com$all
