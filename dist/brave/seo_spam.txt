@@ -22,3 +22,5 @@ search.brave.com###results > div:has(a[href*="iqcode.com"])
 search.brave.com###results > div:has(a[href*="hum-berlin.de"])
 ||britguidenewyork.net$all
 search.brave.com###results > div:has(a[href*="britguidenewyork.net"])
+||justshowcode.com$all
+search.brave.com###results > div:has(a[href*="justshowcode.com"])

@@ -174,6 +174,8 @@ search.brave.com###results > div:has(a[href*="iqcode.com"])
 search.brave.com###results > div:has(a[href*="hum-berlin.de"])
 ||britguidenewyork.net$all
 search.brave.com###results > div:has(a[href*="britguidenewyork.net"])
+||justshowcode.com$all
+search.brave.com###results > div:has(a[href*="justshowcode.com"])
 ||code-examples.net$all
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 ||kotaeta.com$all
@@ -966,6 +968,36 @@ search.brave.com###results > div:has(a[href*="ansaurus.com"])
 search.brave.com###results > div:has(a[href*="mars.railpage.com.au"])
 ||wikifix.dev$all
 search.brave.com###results > div:has(a[href*="wikifix.dev"])
+||aing.railpage.com.au$all
+search.brave.com###results > div:has(a[href*="aing.railpage.com.au"])
+||hrefcode.com$all
+search.brave.com###results > div:has(a[href*="hrefcode.com"])
+||wyzant.com$all
+search.brave.com###results > div:has(a[href*="wyzant.com"])
+||fixpython.com$all
+search.brave.com###results > div:has(a[href*="fixpython.com"])
+||stackubuntu.com$all
+search.brave.com###results > div:has(a[href*="stackubuntu.com"])
+||coder.horje.com$all
+search.brave.com###results > div:has(a[href*="coder.horje.com"])
+||lowongan.live$all
+search.brave.com###results > div:has(a[href*="lowongan.live"])
+||pythondict.com$all
+search.brave.com###results > div:has(a[href*="pythondict.com"])
+||hsmap.xyz$all
+search.brave.com###results > div:has(a[href*="hsmap.xyz"])
+||pythonmana.com$all
+search.brave.com###results > div:has(a[href*="pythonmana.com"])
+||ittutorialpoint.com$all
+search.brave.com###results > div:has(a[href*="ittutorialpoint.com"])
+||qastack.lk$all
+search.brave.com###results > div:has(a[href*="qastack.lk"])
+||makemeengr.com$all
+search.brave.com###results > div:has(a[href*="makemeengr.com"])
+||py4u.org$all
+search.brave.com###results > div:has(a[href*="py4u.org"])
+||snippmate.com$all
+search.brave.com###results > div:has(a[href*="snippmate.com"])
 ||encyclopedia.thefreedictionary.com$all
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

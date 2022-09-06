@@ -402,6 +402,21 @@
 [data-domain*="ansaurus.com"],
 [data-domain*="mars.railpage.com.au"],
 [data-domain*="wikifix.dev"],
+[data-domain*="aing.railpage.com.au"],
+[data-domain*="hrefcode.com"],
+[data-domain*="wyzant.com"],
+[data-domain*="fixpython.com"],
+[data-domain*="stackubuntu.com"],
+[data-domain*="coder.horje.com"],
+[data-domain*="lowongan.live"],
+[data-domain*="pythondict.com"],
+[data-domain*="hsmap.xyz"],
+[data-domain*="pythonmana.com"],
+[data-domain*="ittutorialpoint.com"],
+[data-domain*="qastack.lk"],
+[data-domain*="makemeengr.com"],
+[data-domain*="py4u.org"],
+[data-domain*="snippmate.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

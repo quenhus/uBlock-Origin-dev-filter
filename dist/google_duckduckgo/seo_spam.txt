@@ -30,3 +30,6 @@ duckduckgo.com###links>div:has(a[href*="hum-berlin.de"])
 ||britguidenewyork.net$all
 google.*##.g:has(a[href*="britguidenewyork.net"])
 duckduckgo.com###links>div:has(a[href*="britguidenewyork.net"])
+||justshowcode.com$all
+google.*##.g:has(a[href*="justshowcode.com"])
+duckduckgo.com###links>div:has(a[href*="justshowcode.com"])
