@@ -78,6 +78,7 @@
 [data-domain*="geeksrepos.com"],
 [data-domain*="lightrun.com"],
 [data-domain*="pullanswer.com"],
+[data-domain*="devpick.io"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

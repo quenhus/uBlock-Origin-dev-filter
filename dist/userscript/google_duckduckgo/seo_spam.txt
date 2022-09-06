@@ -10,6 +10,11 @@
 [data-domain*="actingcollegeses.com"],
 [data-domain*="patrickkidd3.typepad.com"],
 [data-domain*="durrell2012.com"],
+[data-domain*="codesprogram.com"],
+[data-domain*="iqcode.com"],
+[data-domain*="hum-berlin.de"],
+[data-domain*="britguidenewyork.net"],
+[data-domain*="justshowcode.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

@@ -150,6 +150,8 @@ search.brave.com###results > div:has(a[href*="geeksrepos.com"])
 search.brave.com###results > div:has(a[href*="lightrun.com"])
 ||pullanswer.com$all
 search.brave.com###results > div:has(a[href*="pullanswer.com"])
+||devpick.io$all
+search.brave.com###results > div:has(a[href*="devpick.io"])
 ||npmmirror.com$all
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
@@ -164,6 +166,16 @@ search.brave.com###results > div:has(a[href*="actingcollegeses.com"])
 search.brave.com###results > div:has(a[href*="patrickkidd3.typepad.com"])
 ||durrell2012.com$all
 search.brave.com###results > div:has(a[href*="durrell2012.com"])
+||codesprogram.com$all
+search.brave.com###results > div:has(a[href*="codesprogram.com"])
+||iqcode.com$all
+search.brave.com###results > div:has(a[href*="iqcode.com"])
+||hum-berlin.de$all
+search.brave.com###results > div:has(a[href*="hum-berlin.de"])
+||britguidenewyork.net$all
+search.brave.com###results > div:has(a[href*="britguidenewyork.net"])
+||justshowcode.com$all
+search.brave.com###results > div:has(a[href*="justshowcode.com"])
 ||code-examples.net$all
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 ||kotaeta.com$all
@@ -904,6 +916,88 @@ search.brave.com###results > div:has(a[href*="copyprogramming.com"])
 search.brave.com###results > div:has(a[href*="coder.gay"])
 ||codejzy.com$all
 search.brave.com###results > div:has(a[href*="codejzy.com"])
+||dizzycoding.com$all
+search.brave.com###results > div:has(a[href*="dizzycoding.com"])
+||grabthiscode.com$all
+search.brave.com###results > div:has(a[href*="grabthiscode.com"])
+||realerlab.blogspot.com$all
+search.brave.com###results > div:has(a[href*="realerlab.blogspot.com"])
+||quickanswer.blog$all
+search.brave.com###results > div:has(a[href*="quickanswer.blog"])
+||webdesigntips.blog$all
+search.brave.com###results > div:has(a[href*="webdesigntips.blog"])
+||joyk.com$all
+search.brave.com###results > div:has(a[href*="joyk.com"])
+||gushiciku.cn$all
+search.brave.com###results > div:has(a[href*="gushiciku.cn"])
+||truecodes.net$all
+search.brave.com###results > div:has(a[href*="truecodes.net"])
+||errorsandanswers.com$all
+search.brave.com###results > div:has(a[href*="errorsandanswers.com"])
+||boolchr.com$all
+search.brave.com###results > div:has(a[href*="boolchr.com"])
+||itnursery.com$all
+search.brave.com###results > div:has(a[href*="itnursery.com"])
+||libsea.com$all
+search.brave.com###results > div:has(a[href*="libsea.com"])
+||telepon.cyou$all
+search.brave.com###results > div:has(a[href*="telepon.cyou"])
+||madanswer.com$all
+search.brave.com###results > div:has(a[href*="madanswer.com"])
+||programmatic.solutions$all
+search.brave.com###results > div:has(a[href*="programmatic.solutions"])
+||facit.edu.br$all
+search.brave.com###results > div:has(a[href*="facit.edu.br"])
+||technointeract.com$all
+search.brave.com###results > div:has(a[href*="technointeract.com"])
+||saca.aussievitamin.com$all
+search.brave.com###results > div:has(a[href*="saca.aussievitamin.com"])
+||stackorigin.com$all
+search.brave.com###results > div:has(a[href*="stackorigin.com"])
+||solutionschecker.com$all
+search.brave.com###results > div:has(a[href*="solutionschecker.com"])
+||oraask.com$all
+search.brave.com###results > div:has(a[href*="oraask.com"])
+||yeahexp.com$all
+search.brave.com###results > div:has(a[href*="yeahexp.com"])
+||fullstack.cafe$all
+search.brave.com###results > div:has(a[href*="fullstack.cafe"])
+||ansaurus.com$all
+search.brave.com###results > div:has(a[href*="ansaurus.com"])
+||mars.railpage.com.au$all
+search.brave.com###results > div:has(a[href*="mars.railpage.com.au"])
+||wikifix.dev$all
+search.brave.com###results > div:has(a[href*="wikifix.dev"])
+||aing.railpage.com.au$all
+search.brave.com###results > div:has(a[href*="aing.railpage.com.au"])
+||hrefcode.com$all
+search.brave.com###results > div:has(a[href*="hrefcode.com"])
+||wyzant.com$all
+search.brave.com###results > div:has(a[href*="wyzant.com"])
+||fixpython.com$all
+search.brave.com###results > div:has(a[href*="fixpython.com"])
+||stackubuntu.com$all
+search.brave.com###results > div:has(a[href*="stackubuntu.com"])
+||coder.horje.com$all
+search.brave.com###results > div:has(a[href*="coder.horje.com"])
+||lowongan.live$all
+search.brave.com###results > div:has(a[href*="lowongan.live"])
+||pythondict.com$all
+search.brave.com###results > div:has(a[href*="pythondict.com"])
+||hsmap.xyz$all
+search.brave.com###results > div:has(a[href*="hsmap.xyz"])
+||pythonmana.com$all
+search.brave.com###results > div:has(a[href*="pythonmana.com"])
+||ittutorialpoint.com$all
+search.brave.com###results > div:has(a[href*="ittutorialpoint.com"])
+||qastack.lk$all
+search.brave.com###results > div:has(a[href*="qastack.lk"])
+||makemeengr.com$all
+search.brave.com###results > div:has(a[href*="makemeengr.com"])
+||py4u.org$all
+search.brave.com###results > div:has(a[href*="py4u.org"])
+||snippmate.com$all
+search.brave.com###results > div:has(a[href*="snippmate.com"])
 ||encyclopedia.thefreedictionary.com$all
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

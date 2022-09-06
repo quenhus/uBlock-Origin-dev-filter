@@ -222,3 +222,6 @@ duckduckgo.com###links>div:has(a[href*="lightrun.com"])
 ||pullanswer.com$all
 google.*##.g:has(a[href*="pullanswer.com"])
 duckduckgo.com###links>div:has(a[href*="pullanswer.com"])
+||devpick.io$all
+google.*##.g:has(a[href*="devpick.io"])
+duckduckgo.com###links>div:has(a[href*="devpick.io"])

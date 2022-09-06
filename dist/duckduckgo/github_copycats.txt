@@ -150,3 +150,5 @@ duckduckgo.com###links>div:has(a[href*="geeksrepos.com"])
 duckduckgo.com###links>div:has(a[href*="lightrun.com"])
 ||pullanswer.com$all
 duckduckgo.com###links>div:has(a[href*="pullanswer.com"])
+||devpick.io$all
+duckduckgo.com###links>div:has(a[href*="devpick.io"])

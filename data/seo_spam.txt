@@ -18,3 +18,8 @@
 *://jqueryscript.net/*
 *://osqa.net/*
 *://codingwithfun.com/*
+*://codesprogram.com/*
+*://iqcode.com/*
+*://hum-berlin.de/*
+*://britguidenewyork.net/*
+*://justshowcode.com/*
