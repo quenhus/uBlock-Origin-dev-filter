@@ -880,3 +880,5 @@ ecosia.org##.result:has(a[href*="py4u.org"])
 ecosia.org##.result:has(a[href*="snippmate.com"])
 ||oursbrand.com$all
 ecosia.org##.result:has(a[href*="oursbrand.com"])
+||rowcoding.com$all
+ecosia.org##.result:has(a[href*="rowcoding.com"])

@@ -152,3 +152,5 @@ google.*##.g:has(a[href*="lightrun.com"])
 google.*##.g:has(a[href*="pullanswer.com"])
 ||devpick.io$all
 google.*##.g:has(a[href*="devpick.io"])
+||opensourceagenda.com$all
+google.*##.g:has(a[href*="opensourceagenda.com"])

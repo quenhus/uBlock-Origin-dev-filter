@@ -152,3 +152,5 @@ startpage.com##.w-gl__result:has(a[href*="lightrun.com"])
 startpage.com##.w-gl__result:has(a[href*="pullanswer.com"])
 ||devpick.io$all
 startpage.com##.w-gl__result:has(a[href*="devpick.io"])
+||opensourceagenda.com$all
+startpage.com##.w-gl__result:has(a[href*="opensourceagenda.com"])

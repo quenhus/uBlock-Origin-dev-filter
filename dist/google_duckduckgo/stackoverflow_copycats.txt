@@ -1317,3 +1317,6 @@ duckduckgo.com###links>div:has(a[href*="snippmate.com"])
 ||oursbrand.com$all
 google.*##.g:has(a[href*="oursbrand.com"])
 duckduckgo.com###links>div:has(a[href*="oursbrand.com"])
+||rowcoding.com$all
+google.*##.g:has(a[href*="rowcoding.com"])
+duckduckgo.com###links>div:has(a[href*="rowcoding.com"])

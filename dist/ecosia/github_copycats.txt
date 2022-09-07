@@ -152,3 +152,5 @@ ecosia.org##.result:has(a[href*="lightrun.com"])
 ecosia.org##.result:has(a[href*="pullanswer.com"])
 ||devpick.io$all
 ecosia.org##.result:has(a[href*="devpick.io"])
+||opensourceagenda.com$all
+ecosia.org##.result:has(a[href*="opensourceagenda.com"])

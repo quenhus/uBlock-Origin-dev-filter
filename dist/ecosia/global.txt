@@ -152,6 +152,8 @@ ecosia.org##.result:has(a[href*="lightrun.com"])
 ecosia.org##.result:has(a[href*="pullanswer.com"])
 ||devpick.io$all
 ecosia.org##.result:has(a[href*="devpick.io"])
+||opensourceagenda.com$all
+ecosia.org##.result:has(a[href*="opensourceagenda.com"])
 ||npmmirror.com$all
 ecosia.org##.result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
@@ -1082,6 +1084,8 @@ ecosia.org##.result:has(a[href*="py4u.org"])
 ecosia.org##.result:has(a[href*="snippmate.com"])
 ||oursbrand.com$all
 ecosia.org##.result:has(a[href*="oursbrand.com"])
+||rowcoding.com$all
+ecosia.org##.result:has(a[href*="rowcoding.com"])
 ||encyclopedia.thefreedictionary.com$all
 ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

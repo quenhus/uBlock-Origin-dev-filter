@@ -152,6 +152,8 @@ startpage.com##.w-gl__result:has(a[href*="lightrun.com"])
 startpage.com##.w-gl__result:has(a[href*="pullanswer.com"])
 ||devpick.io$all
 startpage.com##.w-gl__result:has(a[href*="devpick.io"])
+||opensourceagenda.com$all
+startpage.com##.w-gl__result:has(a[href*="opensourceagenda.com"])
 ||npmmirror.com$all
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
@@ -1082,6 +1084,8 @@ startpage.com##.w-gl__result:has(a[href*="py4u.org"])
 startpage.com##.w-gl__result:has(a[href*="snippmate.com"])
 ||oursbrand.com$all
 startpage.com##.w-gl__result:has(a[href*="oursbrand.com"])
+||rowcoding.com$all
+startpage.com##.w-gl__result:has(a[href*="rowcoding.com"])
 ||encyclopedia.thefreedictionary.com$all
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

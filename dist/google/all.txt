@@ -152,6 +152,8 @@ google.*##.g:has(a[href*="lightrun.com"])
 google.*##.g:has(a[href*="pullanswer.com"])
 ||devpick.io$all
 google.*##.g:has(a[href*="devpick.io"])
+||opensourceagenda.com$all
+google.*##.g:has(a[href*="opensourceagenda.com"])
 ||npmmirror.com$all
 google.*##.g:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
@@ -1032,3 +1034,5 @@ google.*##.g:has(a[href*="py4u.org"])
 google.*##.g:has(a[href*="snippmate.com"])
 ||oursbrand.com$all
 google.*##.g:has(a[href*="oursbrand.com"])
+||rowcoding.com$all
+google.*##.g:has(a[href*="rowcoding.com"])

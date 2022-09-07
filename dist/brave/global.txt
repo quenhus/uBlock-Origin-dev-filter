@@ -152,6 +152,8 @@ search.brave.com###results > div:has(a[href*="lightrun.com"])
 search.brave.com###results > div:has(a[href*="pullanswer.com"])
 ||devpick.io$all
 search.brave.com###results > div:has(a[href*="devpick.io"])
+||opensourceagenda.com$all
+search.brave.com###results > div:has(a[href*="opensourceagenda.com"])
 ||npmmirror.com$all
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
@@ -1082,6 +1084,8 @@ search.brave.com###results > div:has(a[href*="py4u.org"])
 search.brave.com###results > div:has(a[href*="snippmate.com"])
 ||oursbrand.com$all
 search.brave.com###results > div:has(a[href*="oursbrand.com"])
+||rowcoding.com$all
+search.brave.com###results > div:has(a[href*="rowcoding.com"])
 ||encyclopedia.thefreedictionary.com$all
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

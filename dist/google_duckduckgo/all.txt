@@ -225,6 +225,9 @@ duckduckgo.com###links>div:has(a[href*="pullanswer.com"])
 ||devpick.io$all
 google.*##.g:has(a[href*="devpick.io"])
 duckduckgo.com###links>div:has(a[href*="devpick.io"])
+||opensourceagenda.com$all
+google.*##.g:has(a[href*="opensourceagenda.com"])
+duckduckgo.com###links>div:has(a[href*="opensourceagenda.com"])
 ||npmmirror.com$all
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
@@ -1545,3 +1548,6 @@ duckduckgo.com###links>div:has(a[href*="snippmate.com"])
 ||oursbrand.com$all
 google.*##.g:has(a[href*="oursbrand.com"])
 duckduckgo.com###links>div:has(a[href*="oursbrand.com"])
+||rowcoding.com$all
+google.*##.g:has(a[href*="rowcoding.com"])
+duckduckgo.com###links>div:has(a[href*="rowcoding.com"])

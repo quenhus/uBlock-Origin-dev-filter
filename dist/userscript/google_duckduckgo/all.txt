@@ -79,6 +79,7 @@
 [data-domain*="lightrun.com"],
 [data-domain*="pullanswer.com"],
 [data-domain*="devpick.io"],
+[data-domain*="opensourceagenda.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="npm.io"],
@@ -519,6 +520,7 @@
 [data-domain*="py4u.org"],
 [data-domain*="snippmate.com"],
 [data-domain*="oursbrand.com"],
+[data-domain*="rowcoding.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

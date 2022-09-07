@@ -152,3 +152,5 @@ search.brave.com###results > div:has(a[href*="lightrun.com"])
 search.brave.com###results > div:has(a[href*="pullanswer.com"])
 ||devpick.io$all
 search.brave.com###results > div:has(a[href*="devpick.io"])
+||opensourceagenda.com$all
+search.brave.com###results > div:has(a[href*="opensourceagenda.com"])
