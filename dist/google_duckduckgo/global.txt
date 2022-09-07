@@ -1626,6 +1626,15 @@ duckduckgo.com###links>div:has(a[href*="oursbrand.com"])
 ||rowcoding.com$all
 google.*##.g:has(a[href*="rowcoding.com"])
 duckduckgo.com###links>div:has(a[href*="rowcoding.com"])
+||kausalvikash.in$all
+google.*##.g:has(a[href*="kausalvikash.in"])
+duckduckgo.com###links>div:has(a[href*="kausalvikash.in"])
+||pythonhowto.org$all
+google.*##.g:has(a[href*="pythonhowto.org"])
+duckduckgo.com###links>div:has(a[href*="pythonhowto.org"])
+||getridbug.com$all
+google.*##.g:has(a[href*="getridbug.com"])
+duckduckgo.com###links>div:has(a[href*="getridbug.com"])
 ||encyclopedia.thefreedictionary.com$all
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])

@@ -882,3 +882,9 @@ startpage.com##.w-gl__result:has(a[href*="snippmate.com"])
 startpage.com##.w-gl__result:has(a[href*="oursbrand.com"])
 ||rowcoding.com$all
 startpage.com##.w-gl__result:has(a[href*="rowcoding.com"])
+||kausalvikash.in$all
+startpage.com##.w-gl__result:has(a[href*="kausalvikash.in"])
+||pythonhowto.org$all
+startpage.com##.w-gl__result:has(a[href*="pythonhowto.org"])
+||getridbug.com$all
+startpage.com##.w-gl__result:has(a[href*="getridbug.com"])

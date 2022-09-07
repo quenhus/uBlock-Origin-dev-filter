@@ -1086,6 +1086,12 @@ search.brave.com###results > div:has(a[href*="snippmate.com"])
 search.brave.com###results > div:has(a[href*="oursbrand.com"])
 ||rowcoding.com$all
 search.brave.com###results > div:has(a[href*="rowcoding.com"])
+||kausalvikash.in$all
+search.brave.com###results > div:has(a[href*="kausalvikash.in"])
+||pythonhowto.org$all
+search.brave.com###results > div:has(a[href*="pythonhowto.org"])
+||getridbug.com$all
+search.brave.com###results > div:has(a[href*="getridbug.com"])
 ||encyclopedia.thefreedictionary.com$all
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

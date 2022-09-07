@@ -1036,3 +1036,9 @@ google.*##.g:has(a[href*="snippmate.com"])
 google.*##.g:has(a[href*="oursbrand.com"])
 ||rowcoding.com$all
 google.*##.g:has(a[href*="rowcoding.com"])
+||kausalvikash.in$all
+google.*##.g:has(a[href*="kausalvikash.in"])
+||pythonhowto.org$all
+google.*##.g:has(a[href*="pythonhowto.org"])
+||getridbug.com$all
+google.*##.g:has(a[href*="getridbug.com"])

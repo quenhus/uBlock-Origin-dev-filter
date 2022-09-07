@@ -444,6 +444,9 @@
 [data-domain*="snippmate.com"],
 [data-domain*="oursbrand.com"],
 [data-domain*="rowcoding.com"],
+[data-domain*="kausalvikash.in"],
+[data-domain*="pythonhowto.org"],
+[data-domain*="getridbug.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
