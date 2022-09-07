@@ -543,6 +543,7 @@
 [data-domain*="makemeengr.com"],
 [data-domain*="py4u.org"],
 [data-domain*="snippmate.com"],
+[data-domain*="oursbrand.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="algebra.com"],
 [data-domain*="wikizero.com"],

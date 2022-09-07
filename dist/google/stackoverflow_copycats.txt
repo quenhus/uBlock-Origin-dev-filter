@@ -878,3 +878,5 @@ google.*##.g:has(a[href*="makemeengr.com"])
 google.*##.g:has(a[href*="py4u.org"])
 ||snippmate.com$all
 google.*##.g:has(a[href*="snippmate.com"])
+||oursbrand.com$all
+google.*##.g:has(a[href*="oursbrand.com"])

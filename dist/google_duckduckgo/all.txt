@@ -1542,3 +1542,6 @@ duckduckgo.com###links>div:has(a[href*="py4u.org"])
 ||snippmate.com$all
 google.*##.g:has(a[href*="snippmate.com"])
 duckduckgo.com###links>div:has(a[href*="snippmate.com"])
+||oursbrand.com$all
+google.*##.g:has(a[href*="oursbrand.com"])
+duckduckgo.com###links>div:has(a[href*="oursbrand.com"])

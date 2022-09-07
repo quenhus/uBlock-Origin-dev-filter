@@ -878,3 +878,5 @@ search.brave.com###results > div:has(a[href*="makemeengr.com"])
 search.brave.com###results > div:has(a[href*="py4u.org"])
 ||snippmate.com$all
 search.brave.com###results > div:has(a[href*="snippmate.com"])
+||oursbrand.com$all
+search.brave.com###results > div:has(a[href*="oursbrand.com"])

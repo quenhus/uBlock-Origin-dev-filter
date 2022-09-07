@@ -878,3 +878,5 @@ startpage.com##.w-gl__result:has(a[href*="makemeengr.com"])
 startpage.com##.w-gl__result:has(a[href*="py4u.org"])
 ||snippmate.com$all
 startpage.com##.w-gl__result:has(a[href*="snippmate.com"])
+||oursbrand.com$all
+startpage.com##.w-gl__result:has(a[href*="oursbrand.com"])

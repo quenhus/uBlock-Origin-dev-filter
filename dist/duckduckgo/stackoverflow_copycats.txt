@@ -878,3 +878,5 @@ duckduckgo.com###links>div:has(a[href*="makemeengr.com"])
 duckduckgo.com###links>div:has(a[href*="py4u.org"])
 ||snippmate.com$all
 duckduckgo.com###links>div:has(a[href*="snippmate.com"])
+||oursbrand.com$all
+duckduckgo.com###links>div:has(a[href*="oursbrand.com"])
