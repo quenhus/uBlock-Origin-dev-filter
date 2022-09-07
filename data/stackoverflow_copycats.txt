@@ -438,3 +438,6 @@
 *://snippmate.com/*
 *://oursbrand.com/*
 *://rowcoding.com/*
+*://kausalvikash.in/*
+*://pythonhowto.org/*
+*://getridbug.com/*
