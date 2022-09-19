@@ -461,3 +461,8 @@
 *://stklowf.blogspot.com/*
 *://91r.net/*
 *://manongdao.com/*
+*://prograide.com/*
+*://iteramos.com/*
+*://resultfor.dev/*
+*://heavenlymutex.com/*
+*://encodingcompiler.com/*
