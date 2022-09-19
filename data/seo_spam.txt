@@ -23,3 +23,5 @@
 *://hum-berlin.de/*
 *://britguidenewyork.net/*
 *://justshowcode.com/*
+*://itw01.com/*
+*://codertw.com/*
