@@ -315,6 +315,12 @@ duckduckgo.com###links>div:has(a[href*="britguidenewyork.net"])
 ||justshowcode.com$all
 google.*##.g:has(a[href*="justshowcode.com"])
 duckduckgo.com###links>div:has(a[href*="justshowcode.com"])
+||itw01.com$all
+google.*##.g:has(a[href*="itw01.com"])
+duckduckgo.com###links>div:has(a[href*="itw01.com"])
+||codertw.com$all
+google.*##.g:has(a[href*="codertw.com"])
+duckduckgo.com###links>div:has(a[href*="codertw.com"])
 ||code-examples.net$all
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])

@@ -56,3 +56,7 @@ search.brave.com###results > div:has(a[href*="hum-berlin.de"])
 search.brave.com###results > div:has(a[href*="britguidenewyork.net"])
 ||justshowcode.com$all
 search.brave.com###results > div:has(a[href*="justshowcode.com"])
+||itw01.com$all
+search.brave.com###results > div:has(a[href*="itw01.com"])
+||codertw.com$all
+search.brave.com###results > div:has(a[href*="codertw.com"])

@@ -56,3 +56,7 @@ ecosia.org##.result:has(a[href*="hum-berlin.de"])
 ecosia.org##.result:has(a[href*="britguidenewyork.net"])
 ||justshowcode.com$all
 ecosia.org##.result:has(a[href*="justshowcode.com"])
+||itw01.com$all
+ecosia.org##.result:has(a[href*="itw01.com"])
+||codertw.com$all
+ecosia.org##.result:has(a[href*="codertw.com"])

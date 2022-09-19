@@ -109,6 +109,8 @@
 [data-domain*="hum-berlin.de"],
 [data-domain*="britguidenewyork.net"],
 [data-domain*="justshowcode.com"],
+[data-domain*="itw01.com"],
+[data-domain*="codertw.com"],
 [data-domain*="code-examples.net"],
 [data-domain*="kotaeta.com"],
 [data-domain*="answer-id.com"],

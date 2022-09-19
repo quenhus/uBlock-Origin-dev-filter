@@ -56,3 +56,7 @@ duckduckgo.com###links>div:has(a[href*="hum-berlin.de"])
 duckduckgo.com###links>div:has(a[href*="britguidenewyork.net"])
 ||justshowcode.com$all
 duckduckgo.com###links>div:has(a[href*="justshowcode.com"])
+||itw01.com$all
+duckduckgo.com###links>div:has(a[href*="itw01.com"])
+||codertw.com$all
+duckduckgo.com###links>div:has(a[href*="codertw.com"])

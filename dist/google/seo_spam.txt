@@ -56,3 +56,7 @@ google.*##.g:has(a[href*="hum-berlin.de"])
 google.*##.g:has(a[href*="britguidenewyork.net"])
 ||justshowcode.com$all
 google.*##.g:has(a[href*="justshowcode.com"])
+||itw01.com$all
+google.*##.g:has(a[href*="itw01.com"])
+||codertw.com$all
+google.*##.g:has(a[href*="codertw.com"])

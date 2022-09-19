@@ -31,6 +31,8 @@
 [data-domain*="hum-berlin.de"],
 [data-domain*="britguidenewyork.net"],
 [data-domain*="justshowcode.com"],
+[data-domain*="itw01.com"],
+[data-domain*="codertw.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

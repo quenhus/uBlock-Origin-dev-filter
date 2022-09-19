@@ -56,3 +56,7 @@ startpage.com##.w-gl__result:has(a[href*="hum-berlin.de"])
 startpage.com##.w-gl__result:has(a[href*="britguidenewyork.net"])
 ||justshowcode.com$all
 startpage.com##.w-gl__result:has(a[href*="justshowcode.com"])
+||itw01.com$all
+startpage.com##.w-gl__result:has(a[href*="itw01.com"])
+||codertw.com$all
+startpage.com##.w-gl__result:has(a[href*="codertw.com"])
