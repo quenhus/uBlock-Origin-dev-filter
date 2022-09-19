@@ -154,6 +154,8 @@ google.*##.g:has(a[href*="pullanswer.com"])
 google.*##.g:has(a[href*="devpick.io"])
 ||opensourceagenda.com$all
 google.*##.g:has(a[href*="opensourceagenda.com"])
+||gitmemories.com$all
+google.*##.g:has(a[href*="gitmemories.com"])
 ||npmmirror.com$all
 google.*##.g:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all

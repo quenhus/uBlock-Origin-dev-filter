@@ -80,6 +80,7 @@
 [data-domain*="pullanswer.com"],
 [data-domain*="devpick.io"],
 [data-domain*="opensourceagenda.com"],
+[data-domain*="gitmemories.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="npm.io"],
