@@ -928,3 +928,13 @@ search.brave.com###results > div:has(a[href*="stklowf.blogspot.com"])
 search.brave.com###results > div:has(a[href*="91r.net"])
 ||manongdao.com$all
 search.brave.com###results > div:has(a[href*="manongdao.com"])
+||prograide.com$all
+search.brave.com###results > div:has(a[href*="prograide.com"])
+||iteramos.com$all
+search.brave.com###results > div:has(a[href*="iteramos.com"])
+||resultfor.dev$all
+search.brave.com###results > div:has(a[href*="resultfor.dev"])
+||heavenlymutex.com$all
+search.brave.com###results > div:has(a[href*="heavenlymutex.com"])
+||encodingcompiler.com$all
+search.brave.com###results > div:has(a[href*="encodingcompiler.com"])

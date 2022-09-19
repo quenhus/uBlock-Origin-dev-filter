@@ -467,6 +467,11 @@
 [data-domain*="stklowf.blogspot.com"],
 [data-domain*="91r.net"],
 [data-domain*="manongdao.com"],
+[data-domain*="prograide.com"],
+[data-domain*="iteramos.com"],
+[data-domain*="resultfor.dev"],
+[data-domain*="heavenlymutex.com"],
+[data-domain*="encodingcompiler.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

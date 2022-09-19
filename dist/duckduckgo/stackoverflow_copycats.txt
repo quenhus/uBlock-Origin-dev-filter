@@ -928,3 +928,13 @@ duckduckgo.com###links>div:has(a[href*="stklowf.blogspot.com"])
 duckduckgo.com###links>div:has(a[href*="91r.net"])
 ||manongdao.com$all
 duckduckgo.com###links>div:has(a[href*="manongdao.com"])
+||prograide.com$all
+duckduckgo.com###links>div:has(a[href*="prograide.com"])
+||iteramos.com$all
+duckduckgo.com###links>div:has(a[href*="iteramos.com"])
+||resultfor.dev$all
+duckduckgo.com###links>div:has(a[href*="resultfor.dev"])
+||heavenlymutex.com$all
+duckduckgo.com###links>div:has(a[href*="heavenlymutex.com"])
+||encodingcompiler.com$all
+duckduckgo.com###links>div:has(a[href*="encodingcompiler.com"])

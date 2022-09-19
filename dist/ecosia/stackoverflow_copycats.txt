@@ -928,3 +928,13 @@ ecosia.org##.result:has(a[href*="stklowf.blogspot.com"])
 ecosia.org##.result:has(a[href*="91r.net"])
 ||manongdao.com$all
 ecosia.org##.result:has(a[href*="manongdao.com"])
+||prograide.com$all
+ecosia.org##.result:has(a[href*="prograide.com"])
+||iteramos.com$all
+ecosia.org##.result:has(a[href*="iteramos.com"])
+||resultfor.dev$all
+ecosia.org##.result:has(a[href*="resultfor.dev"])
+||heavenlymutex.com$all
+ecosia.org##.result:has(a[href*="heavenlymutex.com"])
+||encodingcompiler.com$all
+ecosia.org##.result:has(a[href*="encodingcompiler.com"])

@@ -1134,6 +1134,16 @@ startpage.com##.w-gl__result:has(a[href*="stklowf.blogspot.com"])
 startpage.com##.w-gl__result:has(a[href*="91r.net"])
 ||manongdao.com$all
 startpage.com##.w-gl__result:has(a[href*="manongdao.com"])
+||prograide.com$all
+startpage.com##.w-gl__result:has(a[href*="prograide.com"])
+||iteramos.com$all
+startpage.com##.w-gl__result:has(a[href*="iteramos.com"])
+||resultfor.dev$all
+startpage.com##.w-gl__result:has(a[href*="resultfor.dev"])
+||heavenlymutex.com$all
+startpage.com##.w-gl__result:has(a[href*="heavenlymutex.com"])
+||encodingcompiler.com$all
+startpage.com##.w-gl__result:has(a[href*="encodingcompiler.com"])
 ||encyclopedia.thefreedictionary.com$all
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

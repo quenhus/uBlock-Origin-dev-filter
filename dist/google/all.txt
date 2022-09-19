@@ -1084,3 +1084,13 @@ google.*##.g:has(a[href*="stklowf.blogspot.com"])
 google.*##.g:has(a[href*="91r.net"])
 ||manongdao.com$all
 google.*##.g:has(a[href*="manongdao.com"])
+||prograide.com$all
+google.*##.g:has(a[href*="prograide.com"])
+||iteramos.com$all
+google.*##.g:has(a[href*="iteramos.com"])
+||resultfor.dev$all
+google.*##.g:has(a[href*="resultfor.dev"])
+||heavenlymutex.com$all
+google.*##.g:has(a[href*="heavenlymutex.com"])
+||encodingcompiler.com$all
+google.*##.g:has(a[href*="encodingcompiler.com"])
