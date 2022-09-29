@@ -1148,6 +1148,8 @@ duckduckgo.com###links>div:has(a[href*="resultfor.dev"])
 duckduckgo.com###links>div:has(a[href*="heavenlymutex.com"])
 ||encodingcompiler.com$all
 duckduckgo.com###links>div:has(a[href*="encodingcompiler.com"])
+||bitcoden.com$all
+duckduckgo.com###links>div:has(a[href*="bitcoden.com"])
 ||encyclopedia.thefreedictionary.com$all
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

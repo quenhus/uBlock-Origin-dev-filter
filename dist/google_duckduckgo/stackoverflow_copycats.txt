@@ -1404,3 +1404,6 @@ duckduckgo.com###links>div:has(a[href*="heavenlymutex.com"])
 ||encodingcompiler.com$all
 google.*##.g:has(a[href*="encodingcompiler.com"])
 duckduckgo.com###links>div:has(a[href*="encodingcompiler.com"])
+||bitcoden.com$all
+google.*##.g:has(a[href*="bitcoden.com"])
+duckduckgo.com###links>div:has(a[href*="bitcoden.com"])
