@@ -938,3 +938,5 @@ google.*##.g:has(a[href*="resultfor.dev"])
 google.*##.g:has(a[href*="heavenlymutex.com"])
 ||encodingcompiler.com$all
 google.*##.g:has(a[href*="encodingcompiler.com"])
+||bitcoden.com$all
+google.*##.g:has(a[href*="bitcoden.com"])

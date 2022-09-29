@@ -938,3 +938,5 @@ startpage.com##.w-gl__result:has(a[href*="resultfor.dev"])
 startpage.com##.w-gl__result:has(a[href*="heavenlymutex.com"])
 ||encodingcompiler.com$all
 startpage.com##.w-gl__result:has(a[href*="encodingcompiler.com"])
+||bitcoden.com$all
+startpage.com##.w-gl__result:has(a[href*="bitcoden.com"])
