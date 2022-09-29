@@ -156,3 +156,11 @@ search.brave.com###results > div:has(a[href*="devpick.io"])
 search.brave.com###results > div:has(a[href*="opensourceagenda.com"])
 ||gitmemories.com$all
 search.brave.com###results > div:has(a[href*="gitmemories.com"])
+||wikimili.com$all
+search.brave.com###results > div:has(a[href*="wikimili.com"])
+||newworldencyclopedia.org$all
+search.brave.com###results > div:has(a[href*="newworldencyclopedia.org"])
+||bestproduct-review.com$all
+search.brave.com###results > div:has(a[href*="bestproduct-review.com"])
+||citizendium.org$all
+search.brave.com###results > div:has(a[href*="citizendium.org"])

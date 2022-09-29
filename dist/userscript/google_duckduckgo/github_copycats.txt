@@ -81,6 +81,10 @@
 [data-domain*="devpick.io"],
 [data-domain*="opensourceagenda.com"],
 [data-domain*="gitmemories.com"],
+[data-domain*="wikimili.com"],
+[data-domain*="newworldencyclopedia.org"],
+[data-domain*="bestproduct-review.com"],
+[data-domain*="citizendium.org"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

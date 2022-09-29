@@ -156,3 +156,11 @@ google.*##.g:has(a[href*="devpick.io"])
 google.*##.g:has(a[href*="opensourceagenda.com"])
 ||gitmemories.com$all
 google.*##.g:has(a[href*="gitmemories.com"])
+||wikimili.com$all
+google.*##.g:has(a[href*="wikimili.com"])
+||newworldencyclopedia.org$all
+google.*##.g:has(a[href*="newworldencyclopedia.org"])
+||bestproduct-review.com$all
+google.*##.g:has(a[href*="bestproduct-review.com"])
+||citizendium.org$all
+google.*##.g:has(a[href*="citizendium.org"])

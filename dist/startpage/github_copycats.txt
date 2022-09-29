@@ -156,3 +156,11 @@ startpage.com##.w-gl__result:has(a[href*="devpick.io"])
 startpage.com##.w-gl__result:has(a[href*="opensourceagenda.com"])
 ||gitmemories.com$all
 startpage.com##.w-gl__result:has(a[href*="gitmemories.com"])
+||wikimili.com$all
+startpage.com##.w-gl__result:has(a[href*="wikimili.com"])
+||newworldencyclopedia.org$all
+startpage.com##.w-gl__result:has(a[href*="newworldencyclopedia.org"])
+||bestproduct-review.com$all
+startpage.com##.w-gl__result:has(a[href*="bestproduct-review.com"])
+||citizendium.org$all
+startpage.com##.w-gl__result:has(a[href*="citizendium.org"])

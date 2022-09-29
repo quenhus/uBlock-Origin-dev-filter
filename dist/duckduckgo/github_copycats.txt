@@ -156,3 +156,11 @@ duckduckgo.com###links>div:has(a[href*="devpick.io"])
 duckduckgo.com###links>div:has(a[href*="opensourceagenda.com"])
 ||gitmemories.com$all
 duckduckgo.com###links>div:has(a[href*="gitmemories.com"])
+||wikimili.com$all
+duckduckgo.com###links>div:has(a[href*="wikimili.com"])
+||newworldencyclopedia.org$all
+duckduckgo.com###links>div:has(a[href*="newworldencyclopedia.org"])
+||bestproduct-review.com$all
+duckduckgo.com###links>div:has(a[href*="bestproduct-review.com"])
+||citizendium.org$all
+duckduckgo.com###links>div:has(a[href*="citizendium.org"])

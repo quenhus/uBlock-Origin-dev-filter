@@ -231,3 +231,15 @@ duckduckgo.com###links>div:has(a[href*="opensourceagenda.com"])
 ||gitmemories.com$all
 google.*##.g:has(a[href*="gitmemories.com"])
 duckduckgo.com###links>div:has(a[href*="gitmemories.com"])
+||wikimili.com$all
+google.*##.g:has(a[href*="wikimili.com"])
+duckduckgo.com###links>div:has(a[href*="wikimili.com"])
+||newworldencyclopedia.org$all
+google.*##.g:has(a[href*="newworldencyclopedia.org"])
+duckduckgo.com###links>div:has(a[href*="newworldencyclopedia.org"])
+||bestproduct-review.com$all
+google.*##.g:has(a[href*="bestproduct-review.com"])
+duckduckgo.com###links>div:has(a[href*="bestproduct-review.com"])
+||citizendium.org$all
+google.*##.g:has(a[href*="citizendium.org"])
+duckduckgo.com###links>div:has(a[href*="citizendium.org"])
