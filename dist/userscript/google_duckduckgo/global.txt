@@ -577,6 +577,7 @@
 [data-domain*="resultfor.dev"],
 [data-domain*="heavenlymutex.com"],
 [data-domain*="encodingcompiler.com"],
+[data-domain*="technoteshelp.com"],
 [data-domain*="bitcoden.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="algebra.com"],

@@ -1148,6 +1148,8 @@ search.brave.com###results > div:has(a[href*="resultfor.dev"])
 search.brave.com###results > div:has(a[href*="heavenlymutex.com"])
 ||encodingcompiler.com$all
 search.brave.com###results > div:has(a[href*="encodingcompiler.com"])
+||technoteshelp.com$all
+search.brave.com###results > div:has(a[href*="technoteshelp.com"])
 ||bitcoden.com$all
 search.brave.com###results > div:has(a[href*="bitcoden.com"])
 ||encyclopedia.thefreedictionary.com$all

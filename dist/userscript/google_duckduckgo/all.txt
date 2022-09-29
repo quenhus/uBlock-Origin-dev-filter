@@ -550,6 +550,7 @@
 [data-domain*="resultfor.dev"],
 [data-domain*="heavenlymutex.com"],
 [data-domain*="encodingcompiler.com"],
+[data-domain*="technoteshelp.com"],
 [data-domain*="bitcoden.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
