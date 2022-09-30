@@ -493,3 +493,4 @@
 *://narkive.cz/*
 *://narkive.in/*
 *://niceans.com/*
+*://itecnotes.com/*
