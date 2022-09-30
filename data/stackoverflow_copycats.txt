@@ -492,3 +492,4 @@
 *://narkive.hr/*
 *://narkive.cz/*
 *://narkive.in/*
+*://folkstalk.com/*
