@@ -494,3 +494,4 @@
 *://narkive.in/*
 *://niceans.com/*
 *://itecnotes.com/*
+*://9to5answer.com.com/*
