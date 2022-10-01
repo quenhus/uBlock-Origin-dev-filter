@@ -492,3 +492,6 @@
 *://narkive.hr/*
 *://narkive.cz/*
 *://narkive.in/*
+*://niceans.com/*
+*://itecnotes.com/*
+*://9to5answer.com/*
