@@ -1728,3 +1728,12 @@ duckduckgo.com###links>div:has(a[href*="narkive.cz"])
 ||narkive.in$all
 google.*##.g:has(a[href*="narkive.in"])
 duckduckgo.com###links>div:has(a[href*="narkive.in"])
+||niceans.com$all
+google.*##.g:has(a[href*="niceans.com"])
+duckduckgo.com###links>div:has(a[href*="niceans.com"])
+||itecnotes.com$all
+google.*##.g:has(a[href*="itecnotes.com"])
+duckduckgo.com###links>div:has(a[href*="itecnotes.com"])
+||9to5answer.com$all
+google.*##.g:has(a[href*="9to5answer.com"])
+duckduckgo.com###links>div:has(a[href*="9to5answer.com"])

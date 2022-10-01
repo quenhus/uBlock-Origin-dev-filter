@@ -1154,3 +1154,9 @@ ecosia.org##.result:has(a[href*="narkive.hr"])
 ecosia.org##.result:has(a[href*="narkive.cz"])
 ||narkive.in$all
 ecosia.org##.result:has(a[href*="narkive.in"])
+||niceans.com$all
+ecosia.org##.result:has(a[href*="niceans.com"])
+||itecnotes.com$all
+ecosia.org##.result:has(a[href*="itecnotes.com"])
+||9to5answer.com$all
+ecosia.org##.result:has(a[href*="9to5answer.com"])

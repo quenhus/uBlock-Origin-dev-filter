@@ -1154,3 +1154,9 @@ startpage.com##.w-gl__result:has(a[href*="narkive.hr"])
 startpage.com##.w-gl__result:has(a[href*="narkive.cz"])
 ||narkive.in$all
 startpage.com##.w-gl__result:has(a[href*="narkive.in"])
+||niceans.com$all
+startpage.com##.w-gl__result:has(a[href*="niceans.com"])
+||itecnotes.com$all
+startpage.com##.w-gl__result:has(a[href*="itecnotes.com"])
+||9to5answer.com$all
+startpage.com##.w-gl__result:has(a[href*="9to5answer.com"])
