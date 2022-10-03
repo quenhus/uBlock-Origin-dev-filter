@@ -1154,3 +1154,9 @@ duckduckgo.com###links>div:has(a[href*="narkive.hr"])
 duckduckgo.com###links>div:has(a[href*="narkive.cz"])
 ||narkive.in$all
 duckduckgo.com###links>div:has(a[href*="narkive.in"])
+||niceans.com$all
+duckduckgo.com###links>div:has(a[href*="niceans.com"])
+||itecnotes.com$all
+duckduckgo.com###links>div:has(a[href*="itecnotes.com"])
+||9to5answer.com$all
+duckduckgo.com###links>div:has(a[href*="9to5answer.com"])

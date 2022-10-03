@@ -492,6 +492,9 @@
 *://narkive.hr/*
 *://narkive.cz/*
 *://narkive.in/*
+*://niceans.com/*
+*://itecnotes.com/*
+*://9to5answer.com/*
 *://zditect.com/*
 *://boxhoidap.com/*
 *://mortgagefasr860.weebly.com/*
