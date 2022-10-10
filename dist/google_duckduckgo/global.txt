@@ -1818,6 +1818,12 @@ duckduckgo.com###links>div:has(a[href*="itecnotes.com"])
 ||9to5answer.com$all
 google.*##.g:has(a[href*="9to5answer.com"])
 duckduckgo.com###links>div:has(a[href*="9to5answer.com"])
+||splunktool.com$all
+google.*##.g:has(a[href*="splunktool.com"])
+duckduckgo.com###links>div:has(a[href*="splunktool.com"])
+||addcodings.com$all
+google.*##.g:has(a[href*="addcodings.com"])
+duckduckgo.com###links>div:has(a[href*="addcodings.com"])
 ||encyclopedia.thefreedictionary.com$all
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])

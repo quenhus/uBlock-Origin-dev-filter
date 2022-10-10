@@ -1160,3 +1160,7 @@ ecosia.org##.result:has(a[href*="niceans.com"])
 ecosia.org##.result:has(a[href*="itecnotes.com"])
 ||9to5answer.com$all
 ecosia.org##.result:has(a[href*="9to5answer.com"])
+||splunktool.com$all
+ecosia.org##.result:has(a[href*="splunktool.com"])
+||addcodings.com$all
+ecosia.org##.result:has(a[href*="addcodings.com"])

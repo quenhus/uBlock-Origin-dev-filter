@@ -583,6 +583,8 @@
 [data-domain*="niceans.com"],
 [data-domain*="itecnotes.com"],
 [data-domain*="9to5answer.com"],
+[data-domain*="splunktool.com"],
+[data-domain*="addcodings.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

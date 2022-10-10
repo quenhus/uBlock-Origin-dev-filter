@@ -1160,3 +1160,7 @@ google.*##.g:has(a[href*="niceans.com"])
 google.*##.g:has(a[href*="itecnotes.com"])
 ||9to5answer.com$all
 google.*##.g:has(a[href*="9to5answer.com"])
+||splunktool.com$all
+google.*##.g:has(a[href*="splunktool.com"])
+||addcodings.com$all
+google.*##.g:has(a[href*="addcodings.com"])

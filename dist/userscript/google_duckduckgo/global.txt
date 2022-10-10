@@ -610,6 +610,8 @@
 [data-domain*="niceans.com"],
 [data-domain*="itecnotes.com"],
 [data-domain*="9to5answer.com"],
+[data-domain*="splunktool.com"],
+[data-domain*="addcodings.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="algebra.com"],
 [data-domain*="wikizero.com"],
