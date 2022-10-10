@@ -996,6 +996,16 @@ search.brave.com###results > div:has(a[href*="niceans.com"])
 search.brave.com###results > div:has(a[href*="itecnotes.com"])
 ||9to5answer.com$all
 search.brave.com###results > div:has(a[href*="9to5answer.com"])
+||zditect.com$all
+search.brave.com###results > div:has(a[href*="zditect.com"])
+||boxhoidap.com$all
+search.brave.com###results > div:has(a[href*="boxhoidap.com"])
+||mortgagefasr860.weebly.com$all
+search.brave.com###results > div:has(a[href*="mortgagefasr860.weebly.com"])
+||folkstalk.com$all
+search.brave.com###results > div:has(a[href*="folkstalk.com"])
+||angularfixing.com$all
+search.brave.com###results > div:has(a[href*="angularfixing.com"])
 ||splunktool.com$all
 search.brave.com###results > div:has(a[href*="splunktool.com"])
 ||addcodings.com$all

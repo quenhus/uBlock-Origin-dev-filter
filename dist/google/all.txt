@@ -1160,6 +1160,16 @@ google.*##.g:has(a[href*="niceans.com"])
 google.*##.g:has(a[href*="itecnotes.com"])
 ||9to5answer.com$all
 google.*##.g:has(a[href*="9to5answer.com"])
+||zditect.com$all
+google.*##.g:has(a[href*="zditect.com"])
+||boxhoidap.com$all
+google.*##.g:has(a[href*="boxhoidap.com"])
+||mortgagefasr860.weebly.com$all
+google.*##.g:has(a[href*="mortgagefasr860.weebly.com"])
+||folkstalk.com$all
+google.*##.g:has(a[href*="folkstalk.com"])
+||angularfixing.com$all
+google.*##.g:has(a[href*="angularfixing.com"])
 ||splunktool.com$all
 google.*##.g:has(a[href*="splunktool.com"])
 ||addcodings.com$all

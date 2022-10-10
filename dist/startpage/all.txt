@@ -1160,6 +1160,16 @@ startpage.com##.w-gl__result:has(a[href*="niceans.com"])
 startpage.com##.w-gl__result:has(a[href*="itecnotes.com"])
 ||9to5answer.com$all
 startpage.com##.w-gl__result:has(a[href*="9to5answer.com"])
+||zditect.com$all
+startpage.com##.w-gl__result:has(a[href*="zditect.com"])
+||boxhoidap.com$all
+startpage.com##.w-gl__result:has(a[href*="boxhoidap.com"])
+||mortgagefasr860.weebly.com$all
+startpage.com##.w-gl__result:has(a[href*="mortgagefasr860.weebly.com"])
+||folkstalk.com$all
+startpage.com##.w-gl__result:has(a[href*="folkstalk.com"])
+||angularfixing.com$all
+startpage.com##.w-gl__result:has(a[href*="angularfixing.com"])
 ||splunktool.com$all
 startpage.com##.w-gl__result:has(a[href*="splunktool.com"])
 ||addcodings.com$all

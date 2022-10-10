@@ -1214,6 +1214,16 @@ duckduckgo.com###links>div:has(a[href*="niceans.com"])
 duckduckgo.com###links>div:has(a[href*="itecnotes.com"])
 ||9to5answer.com$all
 duckduckgo.com###links>div:has(a[href*="9to5answer.com"])
+||zditect.com$all
+duckduckgo.com###links>div:has(a[href*="zditect.com"])
+||boxhoidap.com$all
+duckduckgo.com###links>div:has(a[href*="boxhoidap.com"])
+||mortgagefasr860.weebly.com$all
+duckduckgo.com###links>div:has(a[href*="mortgagefasr860.weebly.com"])
+||folkstalk.com$all
+duckduckgo.com###links>div:has(a[href*="folkstalk.com"])
+||angularfixing.com$all
+duckduckgo.com###links>div:has(a[href*="angularfixing.com"])
 ||splunktool.com$all
 duckduckgo.com###links>div:has(a[href*="splunktool.com"])
 ||addcodings.com$all

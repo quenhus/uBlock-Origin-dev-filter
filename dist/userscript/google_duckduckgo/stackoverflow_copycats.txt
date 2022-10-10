@@ -501,6 +501,11 @@
 [data-domain*="niceans.com"],
 [data-domain*="itecnotes.com"],
 [data-domain*="9to5answer.com"],
+[data-domain*="zditect.com"],
+[data-domain*="boxhoidap.com"],
+[data-domain*="mortgagefasr860.weebly.com"],
+[data-domain*="folkstalk.com"],
+[data-domain*="angularfixing.com"],
 [data-domain*="splunktool.com"],
 [data-domain*="addcodings.com"],
 #__non-existent__{display: none}`;
