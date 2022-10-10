@@ -1160,3 +1160,7 @@ search.brave.com###results > div:has(a[href*="niceans.com"])
 search.brave.com###results > div:has(a[href*="itecnotes.com"])
 ||9to5answer.com$all
 search.brave.com###results > div:has(a[href*="9to5answer.com"])
+||splunktool.com$all
+search.brave.com###results > div:has(a[href*="splunktool.com"])
+||addcodings.com$all
+search.brave.com###results > div:has(a[href*="addcodings.com"])

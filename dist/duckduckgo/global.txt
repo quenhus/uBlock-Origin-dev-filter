@@ -1214,6 +1214,10 @@ duckduckgo.com###links>div:has(a[href*="niceans.com"])
 duckduckgo.com###links>div:has(a[href*="itecnotes.com"])
 ||9to5answer.com$all
 duckduckgo.com###links>div:has(a[href*="9to5answer.com"])
+||splunktool.com$all
+duckduckgo.com###links>div:has(a[href*="splunktool.com"])
+||addcodings.com$all
+duckduckgo.com###links>div:has(a[href*="addcodings.com"])
 ||encyclopedia.thefreedictionary.com$all
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

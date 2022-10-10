@@ -1160,3 +1160,7 @@ startpage.com##.w-gl__result:has(a[href*="niceans.com"])
 startpage.com##.w-gl__result:has(a[href*="itecnotes.com"])
 ||9to5answer.com$all
 startpage.com##.w-gl__result:has(a[href*="9to5answer.com"])
+||splunktool.com$all
+startpage.com##.w-gl__result:has(a[href*="splunktool.com"])
+||addcodings.com$all
+startpage.com##.w-gl__result:has(a[href*="addcodings.com"])
