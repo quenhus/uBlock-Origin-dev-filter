@@ -495,3 +495,5 @@
 *://niceans.com/*
 *://itecnotes.com/*
 *://9to5answer.com/*
+*://splunktool.com/*
+*://addcodings.com/*
