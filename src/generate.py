@@ -24,7 +24,7 @@ def to_domain_attr(url):
         .lstrip(".")
 
 def to_domain_ublock(url):
-    return f"||{format_url(url)}$all"
+    return f"||{format_url(url)}^$all"
 
 def to_google(url):
     return f'google.*##.g:has(a[href*="{format_url(url)}"])'
