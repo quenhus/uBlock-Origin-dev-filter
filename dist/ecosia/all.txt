@@ -164,6 +164,8 @@ ecosia.org##.result:has(a[href*="newworldencyclopedia.org"])
 ecosia.org##.result:has(a[href*="bestproduct-review.com"])
 ||citizendium.org$all
 ecosia.org##.result:has(a[href*="citizendium.org"])
+||codesti.com$all
+ecosia.org##.result:has(a[href*="codesti.com"])
 ||npmmirror.com$all
 ecosia.org##.result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all

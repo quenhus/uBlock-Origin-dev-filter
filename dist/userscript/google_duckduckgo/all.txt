@@ -85,6 +85,7 @@
 [data-domain*="newworldencyclopedia.org"],
 [data-domain*="bestproduct-review.com"],
 [data-domain*="citizendium.org"],
+[data-domain*="codesti.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="npm.io"],

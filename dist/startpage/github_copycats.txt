@@ -164,3 +164,5 @@ startpage.com##.w-gl__result:has(a[href*="newworldencyclopedia.org"])
 startpage.com##.w-gl__result:has(a[href*="bestproduct-review.com"])
 ||citizendium.org$all
 startpage.com##.w-gl__result:has(a[href*="citizendium.org"])
+||codesti.com$all
+startpage.com##.w-gl__result:has(a[href*="codesti.com"])

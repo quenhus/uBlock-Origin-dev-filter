@@ -164,3 +164,5 @@ duckduckgo.com###links>div:has(a[href*="newworldencyclopedia.org"])
 duckduckgo.com###links>div:has(a[href*="bestproduct-review.com"])
 ||citizendium.org$all
 duckduckgo.com###links>div:has(a[href*="citizendium.org"])
+||codesti.com$all
+duckduckgo.com###links>div:has(a[href*="codesti.com"])

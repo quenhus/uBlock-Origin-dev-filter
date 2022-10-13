@@ -164,6 +164,8 @@ google.*##.g:has(a[href*="newworldencyclopedia.org"])
 google.*##.g:has(a[href*="bestproduct-review.com"])
 ||citizendium.org$all
 google.*##.g:has(a[href*="citizendium.org"])
+||codesti.com$all
+google.*##.g:has(a[href*="codesti.com"])
 ||npmmirror.com$all
 google.*##.g:has(a[href*="npmmirror.com"])
 ||cnpmjs.org$all
