@@ -27,7 +27,7 @@ def to_domain_ublock(url):
     if "/" in url:
         return f"||{format_url(url)}$all"
     else:
-        return f"||{format_url(url)}^$all"
+        return f"||{format_url(to_domain_attr(url))}^$all"
 
 def to_google(url):
     return f'google.*##.g:has(a[href*="{format_url(url)}"])'
