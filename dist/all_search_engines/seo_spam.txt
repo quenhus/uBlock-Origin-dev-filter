@@ -6,163 +6,163 @@
 !
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
-||spiegato.com$all
+||spiegato.com^$all
 google.*##.g:has(a[href*="spiegato.com"])
 duckduckgo.com###links>div:has(a[href*="spiegato.com"])
 search.brave.com###results > div:has(a[href*="spiegato.com"])
 startpage.com##.w-gl__result:has(a[href*="spiegato.com"])
 ecosia.org##.result:has(a[href*="spiegato.com"])
-||actingcollegeses.com$all
+||actingcollegeses.com^$all
 google.*##.g:has(a[href*="actingcollegeses.com"])
 duckduckgo.com###links>div:has(a[href*="actingcollegeses.com"])
 search.brave.com###results > div:has(a[href*="actingcollegeses.com"])
 startpage.com##.w-gl__result:has(a[href*="actingcollegeses.com"])
 ecosia.org##.result:has(a[href*="actingcollegeses.com"])
-||patrickkidd3.typepad.com$all
+||patrickkidd3.typepad.com^$all
 google.*##.g:has(a[href*="patrickkidd3.typepad.com"])
 duckduckgo.com###links>div:has(a[href*="patrickkidd3.typepad.com"])
 search.brave.com###results > div:has(a[href*="patrickkidd3.typepad.com"])
 startpage.com##.w-gl__result:has(a[href*="patrickkidd3.typepad.com"])
 ecosia.org##.result:has(a[href*="patrickkidd3.typepad.com"])
-||durrell2012.com$all
+||durrell2012.com^$all
 google.*##.g:has(a[href*="durrell2012.com"])
 duckduckgo.com###links>div:has(a[href*="durrell2012.com"])
 search.brave.com###results > div:has(a[href*="durrell2012.com"])
 startpage.com##.w-gl__result:has(a[href*="durrell2012.com"])
 ecosia.org##.result:has(a[href*="durrell2012.com"])
-||developpaper.com$all
+||developpaper.com^$all
 google.*##.g:has(a[href*="developpaper.com"])
 duckduckgo.com###links>div:has(a[href*="developpaper.com"])
 search.brave.com###results > div:has(a[href*="developpaper.com"])
 startpage.com##.w-gl__result:has(a[href*="developpaper.com"])
 ecosia.org##.result:has(a[href*="developpaper.com"])
-||topcode.in$all
+||topcode.in^$all
 google.*##.g:has(a[href*="topcode.in"])
 duckduckgo.com###links>div:has(a[href*="topcode.in"])
 search.brave.com###results > div:has(a[href*="topcode.in"])
 startpage.com##.w-gl__result:has(a[href*="topcode.in"])
 ecosia.org##.result:has(a[href*="topcode.in"])
-||c-sharpcorner.com$all
+||c-sharpcorner.com^$all
 google.*##.g:has(a[href*="c-sharpcorner.com"])
 duckduckgo.com###links>div:has(a[href*="c-sharpcorner.com"])
 search.brave.com###results > div:has(a[href*="c-sharpcorner.com"])
 startpage.com##.w-gl__result:has(a[href*="c-sharpcorner.com"])
 ecosia.org##.result:has(a[href*="c-sharpcorner.com"])
-||javascripttutorial.net$all
+||javascripttutorial.net^$all
 google.*##.g:has(a[href*="javascripttutorial.net"])
 duckduckgo.com###links>div:has(a[href*="javascripttutorial.net"])
 search.brave.com###results > div:has(a[href*="javascripttutorial.net"])
 startpage.com##.w-gl__result:has(a[href*="javascripttutorial.net"])
 ecosia.org##.result:has(a[href*="javascripttutorial.net"])
-||geekwall.in$all
+||geekwall.in^$all
 google.*##.g:has(a[href*="geekwall.in"])
 duckduckgo.com###links>div:has(a[href*="geekwall.in"])
 search.brave.com###results > div:has(a[href*="geekwall.in"])
 startpage.com##.w-gl__result:has(a[href*="geekwall.in"])
 ecosia.org##.result:has(a[href*="geekwall.in"])
-||dzone.com$all
+||dzone.com^$all
 google.*##.g:has(a[href*="dzone.com"])
 duckduckgo.com###links>div:has(a[href*="dzone.com"])
 search.brave.com###results > div:has(a[href*="dzone.com"])
 startpage.com##.w-gl__result:has(a[href*="dzone.com"])
 ecosia.org##.result:has(a[href*="dzone.com"])
-||mailinglistapi.info$all
+||mailinglistapi.info^$all
 google.*##.g:has(a[href*="mailinglistapi.info"])
 duckduckgo.com###links>div:has(a[href*="mailinglistapi.info"])
 search.brave.com###results > div:has(a[href*="mailinglistapi.info"])
 startpage.com##.w-gl__result:has(a[href*="mailinglistapi.info"])
 ecosia.org##.result:has(a[href*="mailinglistapi.info"])
-||worldgrowthtoday.com$all
+||worldgrowthtoday.com^$all
 google.*##.g:has(a[href*="worldgrowthtoday.com"])
 duckduckgo.com###links>div:has(a[href*="worldgrowthtoday.com"])
 search.brave.com###results > div:has(a[href*="worldgrowthtoday.com"])
 startpage.com##.w-gl__result:has(a[href*="worldgrowthtoday.com"])
 ecosia.org##.result:has(a[href*="worldgrowthtoday.com"])
-||emailconverts.info$all
+||emailconverts.info^$all
 google.*##.g:has(a[href*="emailconverts.info"])
 duckduckgo.com###links>div:has(a[href*="emailconverts.info"])
 search.brave.com###results > div:has(a[href*="emailconverts.info"])
 startpage.com##.w-gl__result:has(a[href*="emailconverts.info"])
 ecosia.org##.result:has(a[href*="emailconverts.info"])
-||email-pro.info$all
+||email-pro.info^$all
 google.*##.g:has(a[href*="email-pro.info"])
 duckduckgo.com###links>div:has(a[href*="email-pro.info"])
 search.brave.com###results > div:has(a[href*="email-pro.info"])
 startpage.com##.w-gl__result:has(a[href*="email-pro.info"])
 ecosia.org##.result:has(a[href*="email-pro.info"])
-||icode9.com$all
+||icode9.com^$all
 google.*##.g:has(a[href*="icode9.com"])
 duckduckgo.com###links>div:has(a[href*="icode9.com"])
 search.brave.com###results > div:has(a[href*="icode9.com"])
 startpage.com##.w-gl__result:has(a[href*="icode9.com"])
 ecosia.org##.result:has(a[href*="icode9.com"])
-||900913.ru$all
+||900913.ru^$all
 google.*##.g:has(a[href*="900913.ru"])
 duckduckgo.com###links>div:has(a[href*="900913.ru"])
 search.brave.com###results > div:has(a[href*="900913.ru"])
 startpage.com##.w-gl__result:has(a[href*="900913.ru"])
 ecosia.org##.result:has(a[href*="900913.ru"])
-||iditect.com$all
+||iditect.com^$all
 google.*##.g:has(a[href*="iditect.com"])
 duckduckgo.com###links>div:has(a[href*="iditect.com"])
 search.brave.com###results > div:has(a[href*="iditect.com"])
 startpage.com##.w-gl__result:has(a[href*="iditect.com"])
 ecosia.org##.result:has(a[href*="iditect.com"])
-||jqueryscript.net$all
+||jqueryscript.net^$all
 google.*##.g:has(a[href*="jqueryscript.net"])
 duckduckgo.com###links>div:has(a[href*="jqueryscript.net"])
 search.brave.com###results > div:has(a[href*="jqueryscript.net"])
 startpage.com##.w-gl__result:has(a[href*="jqueryscript.net"])
 ecosia.org##.result:has(a[href*="jqueryscript.net"])
-||osqa.net$all
+||osqa.net^$all
 google.*##.g:has(a[href*="osqa.net"])
 duckduckgo.com###links>div:has(a[href*="osqa.net"])
 search.brave.com###results > div:has(a[href*="osqa.net"])
 startpage.com##.w-gl__result:has(a[href*="osqa.net"])
 ecosia.org##.result:has(a[href*="osqa.net"])
-||codingwithfun.com$all
+||codingwithfun.com^$all
 google.*##.g:has(a[href*="codingwithfun.com"])
 duckduckgo.com###links>div:has(a[href*="codingwithfun.com"])
 search.brave.com###results > div:has(a[href*="codingwithfun.com"])
 startpage.com##.w-gl__result:has(a[href*="codingwithfun.com"])
 ecosia.org##.result:has(a[href*="codingwithfun.com"])
-||codesprogram.com$all
+||codesprogram.com^$all
 google.*##.g:has(a[href*="codesprogram.com"])
 duckduckgo.com###links>div:has(a[href*="codesprogram.com"])
 search.brave.com###results > div:has(a[href*="codesprogram.com"])
 startpage.com##.w-gl__result:has(a[href*="codesprogram.com"])
 ecosia.org##.result:has(a[href*="codesprogram.com"])
-||iqcode.com$all
+||iqcode.com^$all
 google.*##.g:has(a[href*="iqcode.com"])
 duckduckgo.com###links>div:has(a[href*="iqcode.com"])
 search.brave.com###results > div:has(a[href*="iqcode.com"])
 startpage.com##.w-gl__result:has(a[href*="iqcode.com"])
 ecosia.org##.result:has(a[href*="iqcode.com"])
-||hum-berlin.de$all
+||hum-berlin.de^$all
 google.*##.g:has(a[href*="hum-berlin.de"])
 duckduckgo.com###links>div:has(a[href*="hum-berlin.de"])
 search.brave.com###results > div:has(a[href*="hum-berlin.de"])
 startpage.com##.w-gl__result:has(a[href*="hum-berlin.de"])
 ecosia.org##.result:has(a[href*="hum-berlin.de"])
-||britguidenewyork.net$all
+||britguidenewyork.net^$all
 google.*##.g:has(a[href*="britguidenewyork.net"])
 duckduckgo.com###links>div:has(a[href*="britguidenewyork.net"])
 search.brave.com###results > div:has(a[href*="britguidenewyork.net"])
 startpage.com##.w-gl__result:has(a[href*="britguidenewyork.net"])
 ecosia.org##.result:has(a[href*="britguidenewyork.net"])
-||justshowcode.com$all
+||justshowcode.com^$all
 google.*##.g:has(a[href*="justshowcode.com"])
 duckduckgo.com###links>div:has(a[href*="justshowcode.com"])
 search.brave.com###results > div:has(a[href*="justshowcode.com"])
 startpage.com##.w-gl__result:has(a[href*="justshowcode.com"])
 ecosia.org##.result:has(a[href*="justshowcode.com"])
-||itw01.com$all
+||itw01.com^$all
 google.*##.g:has(a[href*="itw01.com"])
 duckduckgo.com###links>div:has(a[href*="itw01.com"])
 search.brave.com###results > div:has(a[href*="itw01.com"])
 startpage.com##.w-gl__result:has(a[href*="itw01.com"])
 ecosia.org##.result:has(a[href*="itw01.com"])
-||codertw.com$all
+||codertw.com^$all
 google.*##.g:has(a[href*="codertw.com"])
 duckduckgo.com###links>div:has(a[href*="codertw.com"])
 search.brave.com###results > div:has(a[href*="codertw.com"])
