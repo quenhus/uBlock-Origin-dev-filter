@@ -502,3 +502,7 @@
 *://angularfixing.com/*
 *://splunktool.com/*
 *://addcodings.com/*
+*://erg.tcta.com.au/*
+*://quick-advisors.com/*
+*://mulloverthing.com/*
+*://linuxfixes.com/*
