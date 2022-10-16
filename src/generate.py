@@ -24,7 +24,12 @@ def to_domain_attr(url):
         .lstrip(".")
 
 def to_domain_ublock(url):
-    return f"||{format_url(url)}$all"
+    formated_url = format_url(url)
+    if "/" in formated_url:
+        return f"||{formated_url}$all"
+    else:
+        # We can use this syntax which is more optimized
+        return f"||{formated_url}^$all"
 
 def to_google(url):
     return f'google.*##.g:has(a[href*="{format_url(url)}"])'
