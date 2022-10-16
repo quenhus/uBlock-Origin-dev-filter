@@ -1230,6 +1230,14 @@ duckduckgo.com###links>div:has(a[href*="angularfixing.com"])
 duckduckgo.com###links>div:has(a[href*="splunktool.com"])
 ||addcodings.com$all
 duckduckgo.com###links>div:has(a[href*="addcodings.com"])
+||erg.tcta.com.au$all
+duckduckgo.com###links>div:has(a[href*="erg.tcta.com.au"])
+||quick-advisors.com$all
+duckduckgo.com###links>div:has(a[href*="quick-advisors.com"])
+||mulloverthing.com$all
+duckduckgo.com###links>div:has(a[href*="mulloverthing.com"])
+||linuxfixes.com$all
+duckduckgo.com###links>div:has(a[href*="linuxfixes.com"])
 ||encyclopedia.thefreedictionary.com$all
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com$all

@@ -1176,3 +1176,11 @@ google.*##.g:has(a[href*="angularfixing.com"])
 google.*##.g:has(a[href*="splunktool.com"])
 ||addcodings.com$all
 google.*##.g:has(a[href*="addcodings.com"])
+||erg.tcta.com.au$all
+google.*##.g:has(a[href*="erg.tcta.com.au"])
+||quick-advisors.com$all
+google.*##.g:has(a[href*="quick-advisors.com"])
+||mulloverthing.com$all
+google.*##.g:has(a[href*="mulloverthing.com"])
+||linuxfixes.com$all
+google.*##.g:has(a[href*="linuxfixes.com"])

@@ -1176,3 +1176,11 @@ search.brave.com###results > div:has(a[href*="angularfixing.com"])
 search.brave.com###results > div:has(a[href*="splunktool.com"])
 ||addcodings.com$all
 search.brave.com###results > div:has(a[href*="addcodings.com"])
+||erg.tcta.com.au$all
+search.brave.com###results > div:has(a[href*="erg.tcta.com.au"])
+||quick-advisors.com$all
+search.brave.com###results > div:has(a[href*="quick-advisors.com"])
+||mulloverthing.com$all
+search.brave.com###results > div:has(a[href*="mulloverthing.com"])
+||linuxfixes.com$all
+search.brave.com###results > div:has(a[href*="linuxfixes.com"])
