@@ -39,3 +39,4 @@
 *://static.hlt.bme.hu/*
 *://wikibrief.org/*
 *://second.wiki/*
+*://dewiki.de/*

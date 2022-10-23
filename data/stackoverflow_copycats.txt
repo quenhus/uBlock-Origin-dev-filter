@@ -506,3 +506,4 @@
 *://quick-advisors.com/*
 *://mulloverthing.com/*
 *://linuxfixes.com/*
+*://forumming.com/*
