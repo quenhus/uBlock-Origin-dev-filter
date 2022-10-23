@@ -1018,3 +1018,5 @@ duckduckgo.com###links>div:has(a[href*="quick-advisors.com"])
 duckduckgo.com###links>div:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 duckduckgo.com###links>div:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+duckduckgo.com###links>div:has(a[href*="forumming.com"])

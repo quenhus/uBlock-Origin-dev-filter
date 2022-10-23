@@ -166,6 +166,8 @@ startpage.com##.w-gl__result:has(a[href*="bestproduct-review.com"])
 startpage.com##.w-gl__result:has(a[href*="citizendium.org"])
 ||codesti.com^$all
 startpage.com##.w-gl__result:has(a[href*="codesti.com"])
+||pythontechworld.com^$all
+startpage.com##.w-gl__result:has(a[href*="pythontechworld.com"])
 ||npmmirror.com^$all
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -226,6 +228,12 @@ startpage.com##.w-gl__result:has(a[href*="justshowcode.com"])
 startpage.com##.w-gl__result:has(a[href*="itw01.com"])
 ||codertw.com^$all
 startpage.com##.w-gl__result:has(a[href*="codertw.com"])
+||multi-let.co.uk^$all
+startpage.com##.w-gl__result:has(a[href*="multi-let.co.uk"])
+||answerforyou.net^$all
+startpage.com##.w-gl__result:has(a[href*="answerforyou.net"])
+||globalizethis.org^$all
+startpage.com##.w-gl__result:has(a[href*="globalizethis.org"])
 ||code-examples.net^$all
 startpage.com##.w-gl__result:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
@@ -1238,6 +1246,8 @@ startpage.com##.w-gl__result:has(a[href*="quick-advisors.com"])
 startpage.com##.w-gl__result:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 startpage.com##.w-gl__result:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+startpage.com##.w-gl__result:has(a[href*="forumming.com"])
 ||encyclopedia.thefreedictionary.com^$all
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all
@@ -1320,3 +1330,5 @@ startpage.com##.w-gl__result:has(a[href*="static.hlt.bme.hu"])
 startpage.com##.w-gl__result:has(a[href*="wikibrief.org"])
 ||second.wiki^$all
 startpage.com##.w-gl__result:has(a[href*="second.wiki"])
+||dewiki.de^$all
+startpage.com##.w-gl__result:has(a[href*="dewiki.de"])

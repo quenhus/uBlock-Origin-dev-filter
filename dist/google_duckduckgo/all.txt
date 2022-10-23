@@ -246,6 +246,9 @@ duckduckgo.com###links>div:has(a[href*="citizendium.org"])
 ||codesti.com^$all
 google.*##.g:has(a[href*="codesti.com"])
 duckduckgo.com###links>div:has(a[href*="codesti.com"])
+||pythontechworld.com^$all
+google.*##.g:has(a[href*="pythontechworld.com"])
+duckduckgo.com###links>div:has(a[href*="pythontechworld.com"])
 ||npmmirror.com^$all
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
@@ -1773,3 +1776,6 @@ duckduckgo.com###links>div:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 google.*##.g:has(a[href*="linuxfixes.com"])
 duckduckgo.com###links>div:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+google.*##.g:has(a[href*="forumming.com"])
+duckduckgo.com###links>div:has(a[href*="forumming.com"])

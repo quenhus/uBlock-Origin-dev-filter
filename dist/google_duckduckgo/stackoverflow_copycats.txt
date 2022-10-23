@@ -1524,3 +1524,6 @@ duckduckgo.com###links>div:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 google.*##.g:has(a[href*="linuxfixes.com"])
 duckduckgo.com###links>div:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+google.*##.g:has(a[href*="forumming.com"])
+duckduckgo.com###links>div:has(a[href*="forumming.com"])

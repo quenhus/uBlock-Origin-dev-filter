@@ -166,6 +166,8 @@ google.*##.g:has(a[href*="bestproduct-review.com"])
 google.*##.g:has(a[href*="citizendium.org"])
 ||codesti.com^$all
 google.*##.g:has(a[href*="codesti.com"])
+||pythontechworld.com^$all
+google.*##.g:has(a[href*="pythontechworld.com"])
 ||npmmirror.com^$all
 google.*##.g:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -226,6 +228,12 @@ google.*##.g:has(a[href*="justshowcode.com"])
 google.*##.g:has(a[href*="itw01.com"])
 ||codertw.com^$all
 google.*##.g:has(a[href*="codertw.com"])
+||multi-let.co.uk^$all
+google.*##.g:has(a[href*="multi-let.co.uk"])
+||answerforyou.net^$all
+google.*##.g:has(a[href*="answerforyou.net"])
+||globalizethis.org^$all
+google.*##.g:has(a[href*="globalizethis.org"])
 ||code-examples.net^$all
 google.*##.g:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
@@ -1238,6 +1246,8 @@ google.*##.g:has(a[href*="quick-advisors.com"])
 google.*##.g:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 google.*##.g:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+google.*##.g:has(a[href*="forumming.com"])
 ||encyclopedia.thefreedictionary.com^$all
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all
@@ -1320,3 +1330,5 @@ google.*##.g:has(a[href*="static.hlt.bme.hu"])
 google.*##.g:has(a[href*="wikibrief.org"])
 ||second.wiki^$all
 google.*##.g:has(a[href*="second.wiki"])
+||dewiki.de^$all
+google.*##.g:has(a[href*="dewiki.de"])

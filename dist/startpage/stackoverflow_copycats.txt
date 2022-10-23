@@ -1018,3 +1018,5 @@ startpage.com##.w-gl__result:has(a[href*="quick-advisors.com"])
 startpage.com##.w-gl__result:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 startpage.com##.w-gl__result:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+startpage.com##.w-gl__result:has(a[href*="forumming.com"])

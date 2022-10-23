@@ -1018,3 +1018,5 @@ search.brave.com###results > div:has(a[href*="quick-advisors.com"])
 search.brave.com###results > div:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 search.brave.com###results > div:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+search.brave.com###results > div:has(a[href*="forumming.com"])

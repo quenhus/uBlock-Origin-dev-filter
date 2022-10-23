@@ -88,3 +88,5 @@ startpage.com##.w-gl__result:has(a[href*="static.hlt.bme.hu"])
 startpage.com##.w-gl__result:has(a[href*="wikibrief.org"])
 ||second.wiki^$all
 startpage.com##.w-gl__result:has(a[href*="second.wiki"])
+||dewiki.de^$all
+startpage.com##.w-gl__result:has(a[href*="dewiki.de"])

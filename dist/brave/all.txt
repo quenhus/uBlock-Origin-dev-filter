@@ -166,6 +166,8 @@ search.brave.com###results > div:has(a[href*="bestproduct-review.com"])
 search.brave.com###results > div:has(a[href*="citizendium.org"])
 ||codesti.com^$all
 search.brave.com###results > div:has(a[href*="codesti.com"])
+||pythontechworld.com^$all
+search.brave.com###results > div:has(a[href*="pythontechworld.com"])
 ||npmmirror.com^$all
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -1184,3 +1186,5 @@ search.brave.com###results > div:has(a[href*="quick-advisors.com"])
 search.brave.com###results > div:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 search.brave.com###results > div:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+search.brave.com###results > div:has(a[href*="forumming.com"])

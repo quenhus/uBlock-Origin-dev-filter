@@ -60,3 +60,9 @@ startpage.com##.w-gl__result:has(a[href*="justshowcode.com"])
 startpage.com##.w-gl__result:has(a[href*="itw01.com"])
 ||codertw.com^$all
 startpage.com##.w-gl__result:has(a[href*="codertw.com"])
+||multi-let.co.uk^$all
+startpage.com##.w-gl__result:has(a[href*="multi-let.co.uk"])
+||answerforyou.net^$all
+startpage.com##.w-gl__result:has(a[href*="answerforyou.net"])
+||globalizethis.org^$all
+startpage.com##.w-gl__result:has(a[href*="globalizethis.org"])

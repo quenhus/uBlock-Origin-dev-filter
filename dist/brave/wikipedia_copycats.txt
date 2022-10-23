@@ -88,3 +88,5 @@ search.brave.com###results > div:has(a[href*="static.hlt.bme.hu"])
 search.brave.com###results > div:has(a[href*="wikibrief.org"])
 ||second.wiki^$all
 search.brave.com###results > div:has(a[href*="second.wiki"])
+||dewiki.de^$all
+search.brave.com###results > div:has(a[href*="dewiki.de"])

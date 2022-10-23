@@ -166,6 +166,8 @@ search.brave.com###results > div:has(a[href*="bestproduct-review.com"])
 search.brave.com###results > div:has(a[href*="citizendium.org"])
 ||codesti.com^$all
 search.brave.com###results > div:has(a[href*="codesti.com"])
+||pythontechworld.com^$all
+search.brave.com###results > div:has(a[href*="pythontechworld.com"])
 ||npmmirror.com^$all
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -226,6 +228,12 @@ search.brave.com###results > div:has(a[href*="justshowcode.com"])
 search.brave.com###results > div:has(a[href*="itw01.com"])
 ||codertw.com^$all
 search.brave.com###results > div:has(a[href*="codertw.com"])
+||multi-let.co.uk^$all
+search.brave.com###results > div:has(a[href*="multi-let.co.uk"])
+||answerforyou.net^$all
+search.brave.com###results > div:has(a[href*="answerforyou.net"])
+||globalizethis.org^$all
+search.brave.com###results > div:has(a[href*="globalizethis.org"])
 ||code-examples.net^$all
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
@@ -1238,6 +1246,8 @@ search.brave.com###results > div:has(a[href*="quick-advisors.com"])
 search.brave.com###results > div:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 search.brave.com###results > div:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+search.brave.com###results > div:has(a[href*="forumming.com"])
 ||encyclopedia.thefreedictionary.com^$all
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all
@@ -1320,3 +1330,5 @@ search.brave.com###results > div:has(a[href*="static.hlt.bme.hu"])
 search.brave.com###results > div:has(a[href*="wikibrief.org"])
 ||second.wiki^$all
 search.brave.com###results > div:has(a[href*="second.wiki"])
+||dewiki.de^$all
+search.brave.com###results > div:has(a[href*="dewiki.de"])

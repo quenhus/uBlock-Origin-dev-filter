@@ -1018,3 +1018,5 @@ ecosia.org##.result:has(a[href*="quick-advisors.com"])
 ecosia.org##.result:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 ecosia.org##.result:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+ecosia.org##.result:has(a[href*="forumming.com"])

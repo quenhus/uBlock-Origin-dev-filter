@@ -60,3 +60,9 @@ ecosia.org##.result:has(a[href*="justshowcode.com"])
 ecosia.org##.result:has(a[href*="itw01.com"])
 ||codertw.com^$all
 ecosia.org##.result:has(a[href*="codertw.com"])
+||multi-let.co.uk^$all
+ecosia.org##.result:has(a[href*="multi-let.co.uk"])
+||answerforyou.net^$all
+ecosia.org##.result:has(a[href*="answerforyou.net"])
+||globalizethis.org^$all
+ecosia.org##.result:has(a[href*="globalizethis.org"])

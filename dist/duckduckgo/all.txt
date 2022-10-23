@@ -166,6 +166,8 @@ duckduckgo.com###links>div:has(a[href*="bestproduct-review.com"])
 duckduckgo.com###links>div:has(a[href*="citizendium.org"])
 ||codesti.com^$all
 duckduckgo.com###links>div:has(a[href*="codesti.com"])
+||pythontechworld.com^$all
+duckduckgo.com###links>div:has(a[href*="pythontechworld.com"])
 ||npmmirror.com^$all
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -1184,3 +1186,5 @@ duckduckgo.com###links>div:has(a[href*="quick-advisors.com"])
 duckduckgo.com###links>div:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 duckduckgo.com###links>div:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+duckduckgo.com###links>div:has(a[href*="forumming.com"])

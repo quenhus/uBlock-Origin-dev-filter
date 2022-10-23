@@ -166,6 +166,8 @@ startpage.com##.w-gl__result:has(a[href*="bestproduct-review.com"])
 startpage.com##.w-gl__result:has(a[href*="citizendium.org"])
 ||codesti.com^$all
 startpage.com##.w-gl__result:has(a[href*="codesti.com"])
+||pythontechworld.com^$all
+startpage.com##.w-gl__result:has(a[href*="pythontechworld.com"])
 ||npmmirror.com^$all
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -1184,3 +1186,5 @@ startpage.com##.w-gl__result:has(a[href*="quick-advisors.com"])
 startpage.com##.w-gl__result:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 startpage.com##.w-gl__result:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+startpage.com##.w-gl__result:has(a[href*="forumming.com"])

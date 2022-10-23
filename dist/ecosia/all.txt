@@ -166,6 +166,8 @@ ecosia.org##.result:has(a[href*="bestproduct-review.com"])
 ecosia.org##.result:has(a[href*="citizendium.org"])
 ||codesti.com^$all
 ecosia.org##.result:has(a[href*="codesti.com"])
+||pythontechworld.com^$all
+ecosia.org##.result:has(a[href*="pythontechworld.com"])
 ||npmmirror.com^$all
 ecosia.org##.result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -1184,3 +1186,5 @@ ecosia.org##.result:has(a[href*="quick-advisors.com"])
 ecosia.org##.result:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 ecosia.org##.result:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+ecosia.org##.result:has(a[href*="forumming.com"])

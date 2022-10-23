@@ -512,6 +512,7 @@
 [data-domain*="quick-advisors.com"],
 [data-domain*="mulloverthing.com"],
 [data-domain*="linuxfixes.com"],
+[data-domain*="forumming.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

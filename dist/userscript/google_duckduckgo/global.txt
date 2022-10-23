@@ -86,6 +86,7 @@
 [data-domain*="bestproduct-review.com"],
 [data-domain*="citizendium.org"],
 [data-domain*="codesti.com"],
+[data-domain*="pythontechworld.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="npm.io"],
@@ -116,6 +117,9 @@
 [data-domain*="justshowcode.com"],
 [data-domain*="itw01.com"],
 [data-domain*="codertw.com"],
+[data-domain*="multi-let.co.uk"],
+[data-domain*="answerforyou.net"],
+[data-domain*="globalizethis.org"],
 [data-domain*="code-examples.net"],
 [data-domain*="kotaeta.com"],
 [data-domain*="answer-id.com"],
@@ -622,6 +626,7 @@
 [data-domain*="quick-advisors.com"],
 [data-domain*="mulloverthing.com"],
 [data-domain*="linuxfixes.com"],
+[data-domain*="forumming.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="algebra.com"],
 [data-domain*="wikizero.com"],
@@ -663,6 +668,7 @@
 [data-domain*="static.hlt.bme.hu"],
 [data-domain*="wikibrief.org"],
 [data-domain*="second.wiki"],
+[data-domain*="dewiki.de"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

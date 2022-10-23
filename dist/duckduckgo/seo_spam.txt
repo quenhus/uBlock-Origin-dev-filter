@@ -60,3 +60,9 @@ duckduckgo.com###links>div:has(a[href*="justshowcode.com"])
 duckduckgo.com###links>div:has(a[href*="itw01.com"])
 ||codertw.com^$all
 duckduckgo.com###links>div:has(a[href*="codertw.com"])
+||multi-let.co.uk^$all
+duckduckgo.com###links>div:has(a[href*="multi-let.co.uk"])
+||answerforyou.net^$all
+duckduckgo.com###links>div:has(a[href*="answerforyou.net"])
+||globalizethis.org^$all
+duckduckgo.com###links>div:has(a[href*="globalizethis.org"])

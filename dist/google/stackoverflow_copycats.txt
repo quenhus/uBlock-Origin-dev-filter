@@ -1018,3 +1018,5 @@ google.*##.g:has(a[href*="quick-advisors.com"])
 google.*##.g:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 google.*##.g:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+google.*##.g:has(a[href*="forumming.com"])

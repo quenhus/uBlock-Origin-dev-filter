@@ -86,6 +86,7 @@
 [data-domain*="bestproduct-review.com"],
 [data-domain*="citizendium.org"],
 [data-domain*="codesti.com"],
+[data-domain*="pythontechworld.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

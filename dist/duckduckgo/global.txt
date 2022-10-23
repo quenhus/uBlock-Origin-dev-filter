@@ -166,6 +166,8 @@ duckduckgo.com###links>div:has(a[href*="bestproduct-review.com"])
 duckduckgo.com###links>div:has(a[href*="citizendium.org"])
 ||codesti.com^$all
 duckduckgo.com###links>div:has(a[href*="codesti.com"])
+||pythontechworld.com^$all
+duckduckgo.com###links>div:has(a[href*="pythontechworld.com"])
 ||npmmirror.com^$all
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -226,6 +228,12 @@ duckduckgo.com###links>div:has(a[href*="justshowcode.com"])
 duckduckgo.com###links>div:has(a[href*="itw01.com"])
 ||codertw.com^$all
 duckduckgo.com###links>div:has(a[href*="codertw.com"])
+||multi-let.co.uk^$all
+duckduckgo.com###links>div:has(a[href*="multi-let.co.uk"])
+||answerforyou.net^$all
+duckduckgo.com###links>div:has(a[href*="answerforyou.net"])
+||globalizethis.org^$all
+duckduckgo.com###links>div:has(a[href*="globalizethis.org"])
 ||code-examples.net^$all
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
@@ -1238,6 +1246,8 @@ duckduckgo.com###links>div:has(a[href*="quick-advisors.com"])
 duckduckgo.com###links>div:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
 duckduckgo.com###links>div:has(a[href*="linuxfixes.com"])
+||forumming.com^$all
+duckduckgo.com###links>div:has(a[href*="forumming.com"])
 ||encyclopedia.thefreedictionary.com^$all
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all
@@ -1320,3 +1330,5 @@ duckduckgo.com###links>div:has(a[href*="static.hlt.bme.hu"])
 duckduckgo.com###links>div:has(a[href*="wikibrief.org"])
 ||second.wiki^$all
 duckduckgo.com###links>div:has(a[href*="second.wiki"])
+||dewiki.de^$all
+duckduckgo.com###links>div:has(a[href*="dewiki.de"])
