@@ -507,3 +507,5 @@
 *://mulloverthing.com/*
 *://linuxfixes.com/*
 *://forumming.com/*
+*://pullrequest.ru/*
+*://lmlphp.com/*
