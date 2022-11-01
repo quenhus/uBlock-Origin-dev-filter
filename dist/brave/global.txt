@@ -234,6 +234,10 @@ search.brave.com###results > div:has(a[href*="multi-let.co.uk"])
 search.brave.com###results > div:has(a[href*="answerforyou.net"])
 ||globalizethis.org^$all
 search.brave.com###results > div:has(a[href*="globalizethis.org"])
+||unbate.com^$all
+search.brave.com###results > div:has(a[href*="unbate.com"])
+||ngontinh24.com^$all
+search.brave.com###results > div:has(a[href*="ngontinh24.com"])
 ||code-examples.net^$all
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
@@ -1248,6 +1252,10 @@ search.brave.com###results > div:has(a[href*="mulloverthing.com"])
 search.brave.com###results > div:has(a[href*="linuxfixes.com"])
 ||forumming.com^$all
 search.brave.com###results > div:has(a[href*="forumming.com"])
+||pullrequest.ru^$all
+search.brave.com###results > div:has(a[href*="pullrequest.ru"])
+||lmlphp.com^$all
+search.brave.com###results > div:has(a[href*="lmlphp.com"])
 ||encyclopedia.thefreedictionary.com^$all
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

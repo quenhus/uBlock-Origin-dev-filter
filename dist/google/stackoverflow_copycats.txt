@@ -1020,3 +1020,7 @@ google.*##.g:has(a[href*="mulloverthing.com"])
 google.*##.g:has(a[href*="linuxfixes.com"])
 ||forumming.com^$all
 google.*##.g:has(a[href*="forumming.com"])
+||pullrequest.ru^$all
+google.*##.g:has(a[href*="pullrequest.ru"])
+||lmlphp.com^$all
+google.*##.g:has(a[href*="lmlphp.com"])

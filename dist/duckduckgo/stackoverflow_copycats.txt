@@ -1020,3 +1020,7 @@ duckduckgo.com###links>div:has(a[href*="mulloverthing.com"])
 duckduckgo.com###links>div:has(a[href*="linuxfixes.com"])
 ||forumming.com^$all
 duckduckgo.com###links>div:has(a[href*="forumming.com"])
+||pullrequest.ru^$all
+duckduckgo.com###links>div:has(a[href*="pullrequest.ru"])
+||lmlphp.com^$all
+duckduckgo.com###links>div:has(a[href*="lmlphp.com"])

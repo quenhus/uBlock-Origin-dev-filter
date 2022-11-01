@@ -66,3 +66,7 @@ startpage.com##.w-gl__result:has(a[href*="multi-let.co.uk"])
 startpage.com##.w-gl__result:has(a[href*="answerforyou.net"])
 ||globalizethis.org^$all
 startpage.com##.w-gl__result:has(a[href*="globalizethis.org"])
+||unbate.com^$all
+startpage.com##.w-gl__result:has(a[href*="unbate.com"])
+||ngontinh24.com^$all
+startpage.com##.w-gl__result:has(a[href*="ngontinh24.com"])

@@ -96,3 +96,9 @@ duckduckgo.com###links>div:has(a[href*="answerforyou.net"])
 ||globalizethis.org^$all
 google.*##.g:has(a[href*="globalizethis.org"])
 duckduckgo.com###links>div:has(a[href*="globalizethis.org"])
+||unbate.com^$all
+google.*##.g:has(a[href*="unbate.com"])
+duckduckgo.com###links>div:has(a[href*="unbate.com"])
+||ngontinh24.com^$all
+google.*##.g:has(a[href*="ngontinh24.com"])
+duckduckgo.com###links>div:has(a[href*="ngontinh24.com"])

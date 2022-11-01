@@ -1020,3 +1020,7 @@ ecosia.org##.result:has(a[href*="mulloverthing.com"])
 ecosia.org##.result:has(a[href*="linuxfixes.com"])
 ||forumming.com^$all
 ecosia.org##.result:has(a[href*="forumming.com"])
+||pullrequest.ru^$all
+ecosia.org##.result:has(a[href*="pullrequest.ru"])
+||lmlphp.com^$all
+ecosia.org##.result:has(a[href*="lmlphp.com"])

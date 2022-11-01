@@ -234,6 +234,10 @@ duckduckgo.com###links>div:has(a[href*="multi-let.co.uk"])
 duckduckgo.com###links>div:has(a[href*="answerforyou.net"])
 ||globalizethis.org^$all
 duckduckgo.com###links>div:has(a[href*="globalizethis.org"])
+||unbate.com^$all
+duckduckgo.com###links>div:has(a[href*="unbate.com"])
+||ngontinh24.com^$all
+duckduckgo.com###links>div:has(a[href*="ngontinh24.com"])
 ||code-examples.net^$all
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
@@ -1248,6 +1252,10 @@ duckduckgo.com###links>div:has(a[href*="mulloverthing.com"])
 duckduckgo.com###links>div:has(a[href*="linuxfixes.com"])
 ||forumming.com^$all
 duckduckgo.com###links>div:has(a[href*="forumming.com"])
+||pullrequest.ru^$all
+duckduckgo.com###links>div:has(a[href*="pullrequest.ru"])
+||lmlphp.com^$all
+duckduckgo.com###links>div:has(a[href*="lmlphp.com"])
 ||encyclopedia.thefreedictionary.com^$all
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

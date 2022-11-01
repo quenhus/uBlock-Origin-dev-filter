@@ -66,3 +66,7 @@ duckduckgo.com###links>div:has(a[href*="multi-let.co.uk"])
 duckduckgo.com###links>div:has(a[href*="answerforyou.net"])
 ||globalizethis.org^$all
 duckduckgo.com###links>div:has(a[href*="globalizethis.org"])
+||unbate.com^$all
+duckduckgo.com###links>div:has(a[href*="unbate.com"])
+||ngontinh24.com^$all
+duckduckgo.com###links>div:has(a[href*="ngontinh24.com"])

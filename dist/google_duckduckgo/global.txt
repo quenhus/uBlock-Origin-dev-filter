@@ -348,6 +348,12 @@ duckduckgo.com###links>div:has(a[href*="answerforyou.net"])
 ||globalizethis.org^$all
 google.*##.g:has(a[href*="globalizethis.org"])
 duckduckgo.com###links>div:has(a[href*="globalizethis.org"])
+||unbate.com^$all
+google.*##.g:has(a[href*="unbate.com"])
+duckduckgo.com###links>div:has(a[href*="unbate.com"])
+||ngontinh24.com^$all
+google.*##.g:has(a[href*="ngontinh24.com"])
+duckduckgo.com###links>div:has(a[href*="ngontinh24.com"])
 ||code-examples.net^$all
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])
@@ -1869,6 +1875,12 @@ duckduckgo.com###links>div:has(a[href*="linuxfixes.com"])
 ||forumming.com^$all
 google.*##.g:has(a[href*="forumming.com"])
 duckduckgo.com###links>div:has(a[href*="forumming.com"])
+||pullrequest.ru^$all
+google.*##.g:has(a[href*="pullrequest.ru"])
+duckduckgo.com###links>div:has(a[href*="pullrequest.ru"])
+||lmlphp.com^$all
+google.*##.g:has(a[href*="lmlphp.com"])
+duckduckgo.com###links>div:has(a[href*="lmlphp.com"])
 ||encyclopedia.thefreedictionary.com^$all
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])

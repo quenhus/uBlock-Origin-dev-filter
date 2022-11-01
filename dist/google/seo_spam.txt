@@ -66,3 +66,7 @@ google.*##.g:has(a[href*="multi-let.co.uk"])
 google.*##.g:has(a[href*="answerforyou.net"])
 ||globalizethis.org^$all
 google.*##.g:has(a[href*="globalizethis.org"])
+||unbate.com^$all
+google.*##.g:has(a[href*="unbate.com"])
+||ngontinh24.com^$all
+google.*##.g:has(a[href*="ngontinh24.com"])

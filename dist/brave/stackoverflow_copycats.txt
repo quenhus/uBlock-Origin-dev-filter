@@ -1020,3 +1020,7 @@ search.brave.com###results > div:has(a[href*="mulloverthing.com"])
 search.brave.com###results > div:has(a[href*="linuxfixes.com"])
 ||forumming.com^$all
 search.brave.com###results > div:has(a[href*="forumming.com"])
+||pullrequest.ru^$all
+search.brave.com###results > div:has(a[href*="pullrequest.ru"])
+||lmlphp.com^$all
+search.brave.com###results > div:has(a[href*="lmlphp.com"])

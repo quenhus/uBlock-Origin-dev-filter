@@ -1188,3 +1188,7 @@ startpage.com##.w-gl__result:has(a[href*="mulloverthing.com"])
 startpage.com##.w-gl__result:has(a[href*="linuxfixes.com"])
 ||forumming.com^$all
 startpage.com##.w-gl__result:has(a[href*="forumming.com"])
+||pullrequest.ru^$all
+startpage.com##.w-gl__result:has(a[href*="pullrequest.ru"])
+||lmlphp.com^$all
+startpage.com##.w-gl__result:has(a[href*="lmlphp.com"])
