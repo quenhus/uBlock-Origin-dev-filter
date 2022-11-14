@@ -238,6 +238,10 @@ search.brave.com###results > div:has(a[href*="globalizethis.org"])
 search.brave.com###results > div:has(a[href*="unbate.com"])
 ||ngontinh24.com^$all
 search.brave.com###results > div:has(a[href*="ngontinh24.com"])
+||nmstep.org^$all
+search.brave.com###results > div:has(a[href*="nmstep.org"])
+||juicycleanses.com^$all
+search.brave.com###results > div:has(a[href*="juicycleanses.com"])
 ||code-examples.net^$all
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all

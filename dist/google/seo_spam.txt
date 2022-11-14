@@ -70,3 +70,7 @@ google.*##.g:has(a[href*="globalizethis.org"])
 google.*##.g:has(a[href*="unbate.com"])
 ||ngontinh24.com^$all
 google.*##.g:has(a[href*="ngontinh24.com"])
+||nmstep.org^$all
+google.*##.g:has(a[href*="nmstep.org"])
+||juicycleanses.com^$all
+google.*##.g:has(a[href*="juicycleanses.com"])

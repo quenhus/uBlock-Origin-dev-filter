@@ -38,6 +38,8 @@
 [data-domain*="globalizethis.org"],
 [data-domain*="unbate.com"],
 [data-domain*="ngontinh24.com"],
+[data-domain*="nmstep.org"],
+[data-domain*="juicycleanses.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
