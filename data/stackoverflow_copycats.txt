@@ -509,3 +509,4 @@
 *://forumming.com/*
 *://pullrequest.ru/*
 *://lmlphp.com/*
+*://w3guides.com/*
