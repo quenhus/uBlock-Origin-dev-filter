@@ -1260,6 +1260,8 @@ startpage.com##.w-gl__result:has(a[href*="forumming.com"])
 startpage.com##.w-gl__result:has(a[href*="pullrequest.ru"])
 ||lmlphp.com^$all
 startpage.com##.w-gl__result:has(a[href*="lmlphp.com"])
+||w3guides.com^$all
+startpage.com##.w-gl__result:has(a[href*="w3guides.com"])
 ||encyclopedia.thefreedictionary.com^$all
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

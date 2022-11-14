@@ -1533,3 +1533,6 @@ duckduckgo.com###links>div:has(a[href*="pullrequest.ru"])
 ||lmlphp.com^$all
 google.*##.g:has(a[href*="lmlphp.com"])
 duckduckgo.com###links>div:has(a[href*="lmlphp.com"])
+||w3guides.com^$all
+google.*##.g:has(a[href*="w3guides.com"])
+duckduckgo.com###links>div:has(a[href*="w3guides.com"])

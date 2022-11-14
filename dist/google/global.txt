@@ -1260,6 +1260,8 @@ google.*##.g:has(a[href*="forumming.com"])
 google.*##.g:has(a[href*="pullrequest.ru"])
 ||lmlphp.com^$all
 google.*##.g:has(a[href*="lmlphp.com"])
+||w3guides.com^$all
+google.*##.g:has(a[href*="w3guides.com"])
 ||encyclopedia.thefreedictionary.com^$all
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

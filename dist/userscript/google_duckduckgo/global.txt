@@ -633,6 +633,7 @@
 [data-domain*="forumming.com"],
 [data-domain*="pullrequest.ru"],
 [data-domain*="lmlphp.com"],
+[data-domain*="w3guides.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="algebra.com"],
 [data-domain*="wikizero.com"],

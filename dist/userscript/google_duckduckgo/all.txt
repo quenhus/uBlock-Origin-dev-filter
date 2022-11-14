@@ -599,6 +599,7 @@
 [data-domain*="forumming.com"],
 [data-domain*="pullrequest.ru"],
 [data-domain*="lmlphp.com"],
+[data-domain*="w3guides.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
