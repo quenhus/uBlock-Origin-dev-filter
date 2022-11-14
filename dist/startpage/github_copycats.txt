@@ -10,8 +10,6 @@
 startpage.com##.w-gl__result:has(a[href*="bleepcoder.com"])
 ||githubja.com^$all
 startpage.com##.w-gl__result:has(a[href*="githubja.com"])
-||gitmemory.com^$all
-startpage.com##.w-gl__result:has(a[href*="gitmemory.com"])
 ||giters.com^$all
 startpage.com##.w-gl__result:has(a[href*="giters.com"])
 ||githubmemory.com^$all
@@ -50,8 +48,6 @@ startpage.com##.w-gl__result:has(a[href*="bestofcpp.com"])
 startpage.com##.w-gl__result:has(a[href*="github.innominds.com"])
 ||higithub.com^$all
 startpage.com##.w-gl__result:has(a[href*="higithub.com"])
-||openprojectrepo.com^$all
-startpage.com##.w-gl__result:has(a[href*="openprojectrepo.com"])
 ||golangissues.com^$all
 startpage.com##.w-gl__result:has(a[href*="golangissues.com"])
 ||gitfreak.com^$all
@@ -62,12 +58,8 @@ startpage.com##.w-gl__result:has(a[href*="pythonawesome.com"])
 startpage.com##.w-gl__result:has(a[href*="gitmotion.com"])
 ||fantashit.com^$all
 startpage.com##.w-gl__result:has(a[href*="fantashit.com"])
-||githubhot.com^$all
-startpage.com##.w-gl__result:has(a[href*="githubhot.com"])
 ||gitcode.net^$all
 startpage.com##.w-gl__result:has(a[href*="gitcode.net"])
-||readintrend.com^$all
-startpage.com##.w-gl__result:has(a[href*="readintrend.com"])
 ||news24lite.com^$all
 startpage.com##.w-gl__result:has(a[href*="news24lite.com"])
 ||github.phala.one^$all
@@ -108,14 +100,8 @@ startpage.com##.w-gl__result:has(a[href*="rustrepo.com"])
 startpage.com##.w-gl__result:has(a[href*="bestofreactjs.com"])
 ||bestofphp.com^$all
 startpage.com##.w-gl__result:has(a[href*="bestofphp.com"])
-||bestofjava.com^$all
-startpage.com##.w-gl__result:has(a[href*="bestofjava.com"])
-||lifesaver.codes^$all
-startpage.com##.w-gl__result:has(a[href*="lifesaver.codes"])
 ||softbranchdevelopers.com^$all
 startpage.com##.w-gl__result:has(a[href*="softbranchdevelopers.com"])
-||vuejscode.com^$all
-startpage.com##.w-gl__result:has(a[href*="vuejscode.com"])
 ||issueantenna.com^$all
 startpage.com##.w-gl__result:has(a[href*="issueantenna.com"])
 ||pythonlang.dev^$all

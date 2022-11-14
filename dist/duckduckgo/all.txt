@@ -10,8 +10,6 @@
 duckduckgo.com###links>div:has(a[href*="bleepcoder.com"])
 ||githubja.com^$all
 duckduckgo.com###links>div:has(a[href*="githubja.com"])
-||gitmemory.com^$all
-duckduckgo.com###links>div:has(a[href*="gitmemory.com"])
 ||giters.com^$all
 duckduckgo.com###links>div:has(a[href*="giters.com"])
 ||githubmemory.com^$all
@@ -50,8 +48,6 @@ duckduckgo.com###links>div:has(a[href*="bestofcpp.com"])
 duckduckgo.com###links>div:has(a[href*="github.innominds.com"])
 ||higithub.com^$all
 duckduckgo.com###links>div:has(a[href*="higithub.com"])
-||openprojectrepo.com^$all
-duckduckgo.com###links>div:has(a[href*="openprojectrepo.com"])
 ||golangissues.com^$all
 duckduckgo.com###links>div:has(a[href*="golangissues.com"])
 ||gitfreak.com^$all
@@ -62,12 +58,8 @@ duckduckgo.com###links>div:has(a[href*="pythonawesome.com"])
 duckduckgo.com###links>div:has(a[href*="gitmotion.com"])
 ||fantashit.com^$all
 duckduckgo.com###links>div:has(a[href*="fantashit.com"])
-||githubhot.com^$all
-duckduckgo.com###links>div:has(a[href*="githubhot.com"])
 ||gitcode.net^$all
 duckduckgo.com###links>div:has(a[href*="gitcode.net"])
-||readintrend.com^$all
-duckduckgo.com###links>div:has(a[href*="readintrend.com"])
 ||news24lite.com^$all
 duckduckgo.com###links>div:has(a[href*="news24lite.com"])
 ||github.phala.one^$all
@@ -108,14 +100,8 @@ duckduckgo.com###links>div:has(a[href*="rustrepo.com"])
 duckduckgo.com###links>div:has(a[href*="bestofreactjs.com"])
 ||bestofphp.com^$all
 duckduckgo.com###links>div:has(a[href*="bestofphp.com"])
-||bestofjava.com^$all
-duckduckgo.com###links>div:has(a[href*="bestofjava.com"])
-||lifesaver.codes^$all
-duckduckgo.com###links>div:has(a[href*="lifesaver.codes"])
 ||softbranchdevelopers.com^$all
 duckduckgo.com###links>div:has(a[href*="softbranchdevelopers.com"])
-||vuejscode.com^$all
-duckduckgo.com###links>div:has(a[href*="vuejscode.com"])
 ||issueantenna.com^$all
 duckduckgo.com###links>div:has(a[href*="issueantenna.com"])
 ||pythonlang.dev^$all

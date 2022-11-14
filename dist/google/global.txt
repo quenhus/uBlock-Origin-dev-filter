@@ -10,8 +10,6 @@
 google.*##.g:has(a[href*="bleepcoder.com"])
 ||githubja.com^$all
 google.*##.g:has(a[href*="githubja.com"])
-||gitmemory.com^$all
-google.*##.g:has(a[href*="gitmemory.com"])
 ||giters.com^$all
 google.*##.g:has(a[href*="giters.com"])
 ||githubmemory.com^$all
@@ -50,8 +48,6 @@ google.*##.g:has(a[href*="bestofcpp.com"])
 google.*##.g:has(a[href*="github.innominds.com"])
 ||higithub.com^$all
 google.*##.g:has(a[href*="higithub.com"])
-||openprojectrepo.com^$all
-google.*##.g:has(a[href*="openprojectrepo.com"])
 ||golangissues.com^$all
 google.*##.g:has(a[href*="golangissues.com"])
 ||gitfreak.com^$all
@@ -62,12 +58,8 @@ google.*##.g:has(a[href*="pythonawesome.com"])
 google.*##.g:has(a[href*="gitmotion.com"])
 ||fantashit.com^$all
 google.*##.g:has(a[href*="fantashit.com"])
-||githubhot.com^$all
-google.*##.g:has(a[href*="githubhot.com"])
 ||gitcode.net^$all
 google.*##.g:has(a[href*="gitcode.net"])
-||readintrend.com^$all
-google.*##.g:has(a[href*="readintrend.com"])
 ||news24lite.com^$all
 google.*##.g:has(a[href*="news24lite.com"])
 ||github.phala.one^$all
@@ -108,14 +100,8 @@ google.*##.g:has(a[href*="rustrepo.com"])
 google.*##.g:has(a[href*="bestofreactjs.com"])
 ||bestofphp.com^$all
 google.*##.g:has(a[href*="bestofphp.com"])
-||bestofjava.com^$all
-google.*##.g:has(a[href*="bestofjava.com"])
-||lifesaver.codes^$all
-google.*##.g:has(a[href*="lifesaver.codes"])
 ||softbranchdevelopers.com^$all
 google.*##.g:has(a[href*="softbranchdevelopers.com"])
-||vuejscode.com^$all
-google.*##.g:has(a[href*="vuejscode.com"])
 ||issueantenna.com^$all
 google.*##.g:has(a[href*="issueantenna.com"])
 ||pythonlang.dev^$all

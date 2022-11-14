@@ -10,8 +10,6 @@
 ecosia.org##.result:has(a[href*="bleepcoder.com"])
 ||githubja.com^$all
 ecosia.org##.result:has(a[href*="githubja.com"])
-||gitmemory.com^$all
-ecosia.org##.result:has(a[href*="gitmemory.com"])
 ||giters.com^$all
 ecosia.org##.result:has(a[href*="giters.com"])
 ||githubmemory.com^$all
@@ -50,8 +48,6 @@ ecosia.org##.result:has(a[href*="bestofcpp.com"])
 ecosia.org##.result:has(a[href*="github.innominds.com"])
 ||higithub.com^$all
 ecosia.org##.result:has(a[href*="higithub.com"])
-||openprojectrepo.com^$all
-ecosia.org##.result:has(a[href*="openprojectrepo.com"])
 ||golangissues.com^$all
 ecosia.org##.result:has(a[href*="golangissues.com"])
 ||gitfreak.com^$all
@@ -62,12 +58,8 @@ ecosia.org##.result:has(a[href*="pythonawesome.com"])
 ecosia.org##.result:has(a[href*="gitmotion.com"])
 ||fantashit.com^$all
 ecosia.org##.result:has(a[href*="fantashit.com"])
-||githubhot.com^$all
-ecosia.org##.result:has(a[href*="githubhot.com"])
 ||gitcode.net^$all
 ecosia.org##.result:has(a[href*="gitcode.net"])
-||readintrend.com^$all
-ecosia.org##.result:has(a[href*="readintrend.com"])
 ||news24lite.com^$all
 ecosia.org##.result:has(a[href*="news24lite.com"])
 ||github.phala.one^$all
@@ -108,14 +100,8 @@ ecosia.org##.result:has(a[href*="rustrepo.com"])
 ecosia.org##.result:has(a[href*="bestofreactjs.com"])
 ||bestofphp.com^$all
 ecosia.org##.result:has(a[href*="bestofphp.com"])
-||bestofjava.com^$all
-ecosia.org##.result:has(a[href*="bestofjava.com"])
-||lifesaver.codes^$all
-ecosia.org##.result:has(a[href*="lifesaver.codes"])
 ||softbranchdevelopers.com^$all
 ecosia.org##.result:has(a[href*="softbranchdevelopers.com"])
-||vuejscode.com^$all
-ecosia.org##.result:has(a[href*="vuejscode.com"])
 ||issueantenna.com^$all
 ecosia.org##.result:has(a[href*="issueantenna.com"])
 ||pythonlang.dev^$all
