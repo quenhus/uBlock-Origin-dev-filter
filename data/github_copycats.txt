@@ -2,7 +2,6 @@
 ! Github copycats
 *://bleepcoder.com/*
 *://githubja.com/*
-*://gitmemory.com/*
 *://giters.com/*
 *://githubmemory.com/*
 *://wenyanet.com/*
@@ -22,15 +21,12 @@
 *://bestofcpp.com/*
 *://github.innominds.com/*
 *://higithub.com/*
-*://openprojectrepo.com/*
 *://golangissues.com/*
 *://gitfreak.com/*
 *://pythonawesome.com/*
 *://gitmotion.com/*
 *://fantashit.com/*
-*://githubhot.com/*
 *://gitcode.net/*
-*://readintrend.com/*
 *://news24lite.com/*
 *://github.phala.one/*
 *://google-yandex.info/*
@@ -51,10 +47,7 @@
 *://rustrepo.com/*
 *://bestofreactjs.com/*
 *://bestofphp.com/*
-*://bestofjava.com/*
-*://lifesaver.codes/*
 *://softbranchdevelopers.com/*
-*://vuejscode.com/*
 *://issueantenna.com/*
 *://pythonlang.dev/*
 *://githublab.com/*
