@@ -12,7 +12,6 @@
 [data-domain*="durrell2012.com"],
 [data-domain*="developpaper.com"],
 [data-domain*="topcode.in"],
-[data-domain*="c-sharpcorner.com"],
 [data-domain*="javascripttutorial.net"],
 [data-domain*="geekwall.in"],
 [data-domain*="dzone.com"],

@@ -172,8 +172,6 @@ search.brave.com###results > div:has(a[href*="durrell2012.com"])
 search.brave.com###results > div:has(a[href*="developpaper.com"])
 ||topcode.in^$all
 search.brave.com###results > div:has(a[href*="topcode.in"])
-||c-sharpcorner.com^$all
-search.brave.com###results > div:has(a[href*="c-sharpcorner.com"])
 ||javascripttutorial.net^$all
 search.brave.com###results > div:has(a[href*="javascripttutorial.net"])
 ||geekwall.in^$all
