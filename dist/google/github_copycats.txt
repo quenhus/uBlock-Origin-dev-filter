@@ -7,150 +7,150 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 ||bleepcoder.com^$all
-google.*##.g:has(a[href*="bleepcoder.com"])
+google.*###rso .MjjYud a[href*="bleepcoder.com"]:upward(.MjjYud)
 ||githubja.com^$all
-google.*##.g:has(a[href*="githubja.com"])
+google.*###rso .MjjYud a[href*="githubja.com"]:upward(.MjjYud)
 ||giters.com^$all
-google.*##.g:has(a[href*="giters.com"])
+google.*###rso .MjjYud a[href*="giters.com"]:upward(.MjjYud)
 ||githubmemory.com^$all
-google.*##.g:has(a[href*="githubmemory.com"])
+google.*###rso .MjjYud a[href*="githubmemory.com"]:upward(.MjjYud)
 ||wenyanet.com^$all
-google.*##.g:has(a[href*="wenyanet.com"])
+google.*###rso .MjjYud a[href*="wenyanet.com"]:upward(.MjjYud)
 ||issueexplorer.com^$all
-google.*##.g:has(a[href*="issueexplorer.com"])
+google.*###rso .MjjYud a[href*="issueexplorer.com"]:upward(.MjjYud)
 ||opensourcelibs.com^$all
-google.*##.g:has(a[href*="opensourcelibs.com"])
+google.*###rso .MjjYud a[href*="opensourcelibs.com"]:upward(.MjjYud)
 ||awesomeopensource.com^$all
-google.*##.g:has(a[href*="awesomeopensource.com"])
+google.*###rso .MjjYud a[href*="awesomeopensource.com"]:upward(.MjjYud)
 ||findbestopensource.com^$all
-google.*##.g:has(a[href*="findbestopensource.com"])
+google.*###rso .MjjYud a[href*="findbestopensource.com"]:upward(.MjjYud)
 ||githubhelp.com^$all
-google.*##.g:has(a[href*="githubhelp.com"])
+google.*###rso .MjjYud a[href*="githubhelp.com"]:upward(.MjjYud)
 ||pythonissues.com^$all
-google.*##.g:has(a[href*="pythonissues.com"])
+google.*###rso .MjjYud a[href*="pythonissues.com"]:upward(.MjjYud)
 ||golangrepo.com^$all
-google.*##.g:has(a[href*="golangrepo.com"])
+google.*###rso .MjjYud a[href*="golangrepo.com"]:upward(.MjjYud)
 ||gitmemory.cn^$all
-google.*##.g:has(a[href*="gitmemory.cn"])
+google.*###rso .MjjYud a[href*="gitmemory.cn"]:upward(.MjjYud)
 ||githubmate.com^$all
-google.*##.g:has(a[href*="githubmate.com"])
+google.*###rso .MjjYud a[href*="githubmate.com"]:upward(.MjjYud)
 ||reposhub.com^$all
-google.*##.g:has(a[href*="reposhub.com"])
+google.*###rso .MjjYud a[href*="reposhub.com"]:upward(.MjjYud)
 ||gitanswer.com^$all
-google.*##.g:has(a[href*="gitanswer.com"])
+google.*###rso .MjjYud a[href*="gitanswer.com"]:upward(.MjjYud)
 ||githubplus.com^$all
-google.*##.g:has(a[href*="githubplus.com"])
+google.*###rso .MjjYud a[href*="githubplus.com"]:upward(.MjjYud)
 ||pythonrepo.com^$all
-google.*##.g:has(a[href*="pythonrepo.com"])
+google.*###rso .MjjYud a[href*="pythonrepo.com"]:upward(.MjjYud)
 ||bestofcpp.com^$all
-google.*##.g:has(a[href*="bestofcpp.com"])
+google.*###rso .MjjYud a[href*="bestofcpp.com"]:upward(.MjjYud)
 ||github.innominds.com^$all
-google.*##.g:has(a[href*="github.innominds.com"])
+google.*###rso .MjjYud a[href*="github.innominds.com"]:upward(.MjjYud)
 ||higithub.com^$all
-google.*##.g:has(a[href*="higithub.com"])
+google.*###rso .MjjYud a[href*="higithub.com"]:upward(.MjjYud)
 ||golangissues.com^$all
-google.*##.g:has(a[href*="golangissues.com"])
+google.*###rso .MjjYud a[href*="golangissues.com"]:upward(.MjjYud)
 ||gitfreak.com^$all
-google.*##.g:has(a[href*="gitfreak.com"])
+google.*###rso .MjjYud a[href*="gitfreak.com"]:upward(.MjjYud)
 ||pythonawesome.com^$all
-google.*##.g:has(a[href*="pythonawesome.com"])
+google.*###rso .MjjYud a[href*="pythonawesome.com"]:upward(.MjjYud)
 ||gitmotion.com^$all
-google.*##.g:has(a[href*="gitmotion.com"])
+google.*###rso .MjjYud a[href*="gitmotion.com"]:upward(.MjjYud)
 ||fantashit.com^$all
-google.*##.g:has(a[href*="fantashit.com"])
+google.*###rso .MjjYud a[href*="fantashit.com"]:upward(.MjjYud)
 ||gitcode.net^$all
-google.*##.g:has(a[href*="gitcode.net"])
+google.*###rso .MjjYud a[href*="gitcode.net"]:upward(.MjjYud)
 ||news24lite.com^$all
-google.*##.g:has(a[href*="news24lite.com"])
+google.*###rso .MjjYud a[href*="news24lite.com"]:upward(.MjjYud)
 ||github.phala.one^$all
-google.*##.g:has(a[href*="github.phala.one"])
+google.*###rso .MjjYud a[href*="github.phala.one"]:upward(.MjjYud)
 ||google-yandex.info^$all
-google.*##.g:has(a[href*="google-yandex.info"])
+google.*###rso .MjjYud a[href*="google-yandex.info"]:upward(.MjjYud)
 ||coder.social^$all
-google.*##.g:has(a[href*="coder.social"])
+google.*###rso .MjjYud a[href*="coder.social"]:upward(.MjjYud)
 ||javarepos.com^$all
-google.*##.g:has(a[href*="javarepos.com"])
+google.*###rso .MjjYud a[href*="javarepos.com"]:upward(.MjjYud)
 ||fastgit.org^$all
-google.*##.g:has(a[href*="fastgit.org"])
+google.*###rso .MjjYud a[href*="fastgit.org"]:upward(.MjjYud)
 ||gitmetadata.com^$all
-google.*##.g:has(a[href*="gitmetadata.com"])
+google.*###rso .MjjYud a[href*="gitmetadata.com"]:upward(.MjjYud)
 ||iboxshare.com^$all
-google.*##.g:has(a[href*="iboxshare.com"])
+google.*###rso .MjjYud a[href*="iboxshare.com"]:upward(.MjjYud)
 ||fuscin.com^$all
-google.*##.g:has(a[href*="fuscin.com"])
+google.*###rso .MjjYud a[href*="fuscin.com"]:upward(.MjjYud)
 ||bestofvue.com^$all
-google.*##.g:has(a[href*="bestofvue.com"])
+google.*###rso .MjjYud a[href*="bestofvue.com"]:upward(.MjjYud)
 ||swiftobc.com^$all
-google.*##.g:has(a[href*="swiftobc.com"])
+google.*###rso .MjjYud a[href*="swiftobc.com"]:upward(.MjjYud)
 ||flutterrepos.com^$all
-google.*##.g:has(a[href*="flutterrepos.com"])
+google.*###rso .MjjYud a[href*="flutterrepos.com"]:upward(.MjjYud)
 ||androidrepo.com^$all
-google.*##.g:has(a[href*="androidrepo.com"])
+google.*###rso .MjjYud a[href*="androidrepo.com"]:upward(.MjjYud)
 ||bestofflutter.com^$all
-google.*##.g:has(a[href*="bestofflutter.com"])
+google.*###rso .MjjYud a[href*="bestofflutter.com"]:upward(.MjjYud)
 ||jsrepos.com^$all
-google.*##.g:has(a[href*="jsrepos.com"])
+google.*###rso .MjjYud a[href*="jsrepos.com"]:upward(.MjjYud)
 ||macosrepo.com^$all
-google.*##.g:has(a[href*="macosrepo.com"])
+google.*###rso .MjjYud a[href*="macosrepo.com"]:upward(.MjjYud)
 ||zzun.app^$all
-google.*##.g:has(a[href*="zzun.app"])
+google.*###rso .MjjYud a[href*="zzun.app"]:upward(.MjjYud)
 ||rustrepo.com^$all
-google.*##.g:has(a[href*="rustrepo.com"])
+google.*###rso .MjjYud a[href*="rustrepo.com"]:upward(.MjjYud)
 ||bestofreactjs.com^$all
-google.*##.g:has(a[href*="bestofreactjs.com"])
+google.*###rso .MjjYud a[href*="bestofreactjs.com"]:upward(.MjjYud)
 ||bestofphp.com^$all
-google.*##.g:has(a[href*="bestofphp.com"])
+google.*###rso .MjjYud a[href*="bestofphp.com"]:upward(.MjjYud)
 ||softbranchdevelopers.com^$all
-google.*##.g:has(a[href*="softbranchdevelopers.com"])
+google.*###rso .MjjYud a[href*="softbranchdevelopers.com"]:upward(.MjjYud)
 ||issueantenna.com^$all
-google.*##.g:has(a[href*="issueantenna.com"])
+google.*###rso .MjjYud a[href*="issueantenna.com"]:upward(.MjjYud)
 ||pythonlang.dev^$all
-google.*##.g:has(a[href*="pythonlang.dev"])
+google.*###rso .MjjYud a[href*="pythonlang.dev"]:upward(.MjjYud)
 ||githublab.com^$all
-google.*##.g:has(a[href*="githublab.com"])
+google.*###rso .MjjYud a[href*="githublab.com"]:upward(.MjjYud)
 ||libhunt.com^$all
-google.*##.g:has(a[href*="libhunt.com"])
+google.*###rso .MjjYud a[href*="libhunt.com"]:upward(.MjjYud)
 ||andywarholpopartillustration.blogspot.com^$all
-google.*##.g:has(a[href*="andywarholpopartillustration.blogspot.com"])
+google.*###rso .MjjYud a[href*="andywarholpopartillustration.blogspot.com"]:upward(.MjjYud)
 ||bytemeta.vip^$all
-google.*##.g:has(a[href*="bytemeta.vip"])
+google.*###rso .MjjYud a[href*="bytemeta.vip"]:upward(.MjjYud)
 ||editcode.net^$all
-google.*##.g:has(a[href*="editcode.net"])
+google.*###rso .MjjYud a[href*="editcode.net"]:upward(.MjjYud)
 ||golangexample.com^$all
-google.*##.g:has(a[href*="golangexample.com"])
+google.*###rso .MjjYud a[href*="golangexample.com"]:upward(.MjjYud)
 ||github.astrophel.org^$all
-google.*##.g:has(a[href*="github.astrophel.org"])
+google.*###rso .MjjYud a[href*="github.astrophel.org"]:upward(.MjjYud)
 ||gitdetail.com^$all
-google.*##.g:has(a[href*="gitdetail.com"])
+google.*###rso .MjjYud a[href*="gitdetail.com"]:upward(.MjjYud)
 ||codespots.com^$all
-google.*##.g:has(a[href*="codespots.com"])
+google.*###rso .MjjYud a[href*="codespots.com"]:upward(.MjjYud)
 ||issuemode.com^$all
-google.*##.g:has(a[href*="issuemode.com"])
+google.*###rso .MjjYud a[href*="issuemode.com"]:upward(.MjjYud)
 ||issuehint.com^$all
-google.*##.g:has(a[href*="issuehint.com"])
+google.*###rso .MjjYud a[href*="issuehint.com"]:upward(.MjjYud)
 ||rpkg.in^$all
-google.*##.g:has(a[href*="rpkg.in"])
+google.*###rso .MjjYud a[href*="rpkg.in"]:upward(.MjjYud)
 ||geeksrepos.com^$all
-google.*##.g:has(a[href*="geeksrepos.com"])
+google.*###rso .MjjYud a[href*="geeksrepos.com"]:upward(.MjjYud)
 ||lightrun.com^$all
-google.*##.g:has(a[href*="lightrun.com"])
+google.*###rso .MjjYud a[href*="lightrun.com"]:upward(.MjjYud)
 ||pullanswer.com^$all
-google.*##.g:has(a[href*="pullanswer.com"])
+google.*###rso .MjjYud a[href*="pullanswer.com"]:upward(.MjjYud)
 ||devpick.io^$all
-google.*##.g:has(a[href*="devpick.io"])
+google.*###rso .MjjYud a[href*="devpick.io"]:upward(.MjjYud)
 ||opensourceagenda.com^$all
-google.*##.g:has(a[href*="opensourceagenda.com"])
+google.*###rso .MjjYud a[href*="opensourceagenda.com"]:upward(.MjjYud)
 ||gitmemories.com^$all
-google.*##.g:has(a[href*="gitmemories.com"])
+google.*###rso .MjjYud a[href*="gitmemories.com"]:upward(.MjjYud)
 ||wikimili.com^$all
-google.*##.g:has(a[href*="wikimili.com"])
+google.*###rso .MjjYud a[href*="wikimili.com"]:upward(.MjjYud)
 ||newworldencyclopedia.org^$all
-google.*##.g:has(a[href*="newworldencyclopedia.org"])
+google.*###rso .MjjYud a[href*="newworldencyclopedia.org"]:upward(.MjjYud)
 ||bestproduct-review.com^$all
-google.*##.g:has(a[href*="bestproduct-review.com"])
+google.*###rso .MjjYud a[href*="bestproduct-review.com"]:upward(.MjjYud)
 ||citizendium.org^$all
-google.*##.g:has(a[href*="citizendium.org"])
+google.*###rso .MjjYud a[href*="citizendium.org"]:upward(.MjjYud)
 ||codesti.com^$all
-google.*##.g:has(a[href*="codesti.com"])
+google.*###rso .MjjYud a[href*="codesti.com"]:upward(.MjjYud)
 ||pythontechworld.com^$all
-google.*##.g:has(a[href*="pythontechworld.com"])
+google.*###rso .MjjYud a[href*="pythontechworld.com"]:upward(.MjjYud)
