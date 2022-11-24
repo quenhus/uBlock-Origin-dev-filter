@@ -510,3 +510,6 @@
 *://pullrequest.ru/*
 *://lmlphp.com/*
 *://w3guides.com/*
+*://stackprinter.com/*
+*://pnpsummit.com/*
+*://breadybready.blogspot.com/*
