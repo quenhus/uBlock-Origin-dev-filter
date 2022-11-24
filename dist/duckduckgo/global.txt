@@ -132,8 +132,8 @@ duckduckgo.com###links>div:has(a[href*="issuehint.com"])
 duckduckgo.com###links>div:has(a[href*="rpkg.in"])
 ||geeksrepos.com^$all
 duckduckgo.com###links>div:has(a[href*="geeksrepos.com"])
-||lightrun.com^$all
-duckduckgo.com###links>div:has(a[href*="lightrun.com"])
+||lightrun.com/answers$all
+duckduckgo.com###links>div:has(a[href*="lightrun.com/answers"])
 ||pullanswer.com^$all
 duckduckgo.com###links>div:has(a[href*="pullanswer.com"])
 ||devpick.io^$all

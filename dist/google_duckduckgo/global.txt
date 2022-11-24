@@ -195,9 +195,9 @@ duckduckgo.com###links>div:has(a[href*="rpkg.in"])
 ||geeksrepos.com^$all
 google.*##.g:has(a[href*="geeksrepos.com"])
 duckduckgo.com###links>div:has(a[href*="geeksrepos.com"])
-||lightrun.com^$all
-google.*##.g:has(a[href*="lightrun.com"])
-duckduckgo.com###links>div:has(a[href*="lightrun.com"])
+||lightrun.com/answers$all
+google.*##.g:has(a[href*="lightrun.com/answers"])
+duckduckgo.com###links>div:has(a[href*="lightrun.com/answers"])
 ||pullanswer.com^$all
 google.*##.g:has(a[href*="pullanswer.com"])
 duckduckgo.com###links>div:has(a[href*="pullanswer.com"])

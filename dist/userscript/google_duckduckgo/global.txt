@@ -69,7 +69,7 @@
 [data-domain*="issuehint.com"],
 [data-domain*="rpkg.in"],
 [data-domain*="geeksrepos.com"],
-[data-domain*="lightrun.com"],
+[data-domain*="lightrun.com/answers"],
 [data-domain*="pullanswer.com"],
 [data-domain*="devpick.io"],
 [data-domain*="opensourceagenda.com"],

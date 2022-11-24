@@ -384,12 +384,12 @@ duckduckgo.com###links>div:has(a[href*="geeksrepos.com"])
 search.brave.com###results > div:has(a[href*="geeksrepos.com"])
 startpage.com##.w-gl__result:has(a[href*="geeksrepos.com"])
 ecosia.org##.result:has(a[href*="geeksrepos.com"])
-||lightrun.com^$all
-google.*##.g:has(a[href*="lightrun.com"])
-duckduckgo.com###links>div:has(a[href*="lightrun.com"])
-search.brave.com###results > div:has(a[href*="lightrun.com"])
-startpage.com##.w-gl__result:has(a[href*="lightrun.com"])
-ecosia.org##.result:has(a[href*="lightrun.com"])
+||lightrun.com/answers$all
+google.*##.g:has(a[href*="lightrun.com/answers"])
+duckduckgo.com###links>div:has(a[href*="lightrun.com/answers"])
+search.brave.com###results > div:has(a[href*="lightrun.com/answers"])
+startpage.com##.w-gl__result:has(a[href*="lightrun.com/answers"])
+ecosia.org##.result:has(a[href*="lightrun.com/answers"])
 ||pullanswer.com^$all
 google.*##.g:has(a[href*="pullanswer.com"])
 duckduckgo.com###links>div:has(a[href*="pullanswer.com"])
