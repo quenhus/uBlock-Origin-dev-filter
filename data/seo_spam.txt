@@ -4,7 +4,6 @@
 *://durrell2012.com/*
 *://developpaper.com/*
 *://topcode.in/*
-*://c-sharpcorner.com/*
 *://javascripttutorial.net/*
 *://geekwall.in/*
 *://dzone.com/*
