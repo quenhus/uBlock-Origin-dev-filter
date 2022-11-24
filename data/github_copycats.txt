@@ -63,7 +63,7 @@
 *://issuehint.com/*
 *://rpkg.in/*
 *://geeksrepos.com/*
-*://lightrun.com/*
+*://lightrun.com/answers/*
 *://pullanswer.com/*
 *://devpick.io/*
 *://opensourceagenda.com/*
