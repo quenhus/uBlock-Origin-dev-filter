@@ -80,6 +80,7 @@
 [data-domain*="citizendium.org"],
 [data-domain*="codesti.com"],
 [data-domain*="pythontechworld.com"],
+[data-domain*="web.bluecomtech.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

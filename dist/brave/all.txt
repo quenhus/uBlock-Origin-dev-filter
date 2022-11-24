@@ -154,6 +154,8 @@ search.brave.com###results > div:has(a[href*="citizendium.org"])
 search.brave.com###results > div:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
 search.brave.com###results > div:has(a[href*="pythontechworld.com"])
+||web.bluecomtech.com^$all
+search.brave.com###results > div:has(a[href*="web.bluecomtech.com"])
 ||npmmirror.com^$all
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -1180,3 +1182,9 @@ search.brave.com###results > div:has(a[href*="pullrequest.ru"])
 search.brave.com###results > div:has(a[href*="lmlphp.com"])
 ||w3guides.com^$all
 search.brave.com###results > div:has(a[href*="w3guides.com"])
+||stackprinter.com^$all
+search.brave.com###results > div:has(a[href*="stackprinter.com"])
+||pnpsummit.com^$all
+search.brave.com###results > div:has(a[href*="pnpsummit.com"])
+||breadybready.blogspot.com^$all
+search.brave.com###results > div:has(a[href*="breadybready.blogspot.com"])

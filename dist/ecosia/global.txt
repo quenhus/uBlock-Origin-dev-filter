@@ -154,6 +154,8 @@ ecosia.org##.result:has(a[href*="citizendium.org"])
 ecosia.org##.result:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
 ecosia.org##.result:has(a[href*="pythontechworld.com"])
+||web.bluecomtech.com^$all
+ecosia.org##.result:has(a[href*="web.bluecomtech.com"])
 ||npmmirror.com^$all
 ecosia.org##.result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -1246,6 +1248,12 @@ ecosia.org##.result:has(a[href*="pullrequest.ru"])
 ecosia.org##.result:has(a[href*="lmlphp.com"])
 ||w3guides.com^$all
 ecosia.org##.result:has(a[href*="w3guides.com"])
+||stackprinter.com^$all
+ecosia.org##.result:has(a[href*="stackprinter.com"])
+||pnpsummit.com^$all
+ecosia.org##.result:has(a[href*="pnpsummit.com"])
+||breadybready.blogspot.com^$all
+ecosia.org##.result:has(a[href*="breadybready.blogspot.com"])
 ||encyclopedia.thefreedictionary.com^$all
 ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

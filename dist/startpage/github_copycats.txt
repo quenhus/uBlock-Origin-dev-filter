@@ -154,3 +154,5 @@ startpage.com##.w-gl__result:has(a[href*="citizendium.org"])
 startpage.com##.w-gl__result:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
 startpage.com##.w-gl__result:has(a[href*="pythontechworld.com"])
+||web.bluecomtech.com^$all
+startpage.com##.w-gl__result:has(a[href*="web.bluecomtech.com"])

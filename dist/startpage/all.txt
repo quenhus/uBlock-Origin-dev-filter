@@ -154,6 +154,8 @@ startpage.com##.w-gl__result:has(a[href*="citizendium.org"])
 startpage.com##.w-gl__result:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
 startpage.com##.w-gl__result:has(a[href*="pythontechworld.com"])
+||web.bluecomtech.com^$all
+startpage.com##.w-gl__result:has(a[href*="web.bluecomtech.com"])
 ||npmmirror.com^$all
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -1180,3 +1182,9 @@ startpage.com##.w-gl__result:has(a[href*="pullrequest.ru"])
 startpage.com##.w-gl__result:has(a[href*="lmlphp.com"])
 ||w3guides.com^$all
 startpage.com##.w-gl__result:has(a[href*="w3guides.com"])
+||stackprinter.com^$all
+startpage.com##.w-gl__result:has(a[href*="stackprinter.com"])
+||pnpsummit.com^$all
+startpage.com##.w-gl__result:has(a[href*="pnpsummit.com"])
+||breadybready.blogspot.com^$all
+startpage.com##.w-gl__result:has(a[href*="breadybready.blogspot.com"])

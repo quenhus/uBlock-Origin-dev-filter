@@ -1026,3 +1026,9 @@ google.*##.g:has(a[href*="pullrequest.ru"])
 google.*##.g:has(a[href*="lmlphp.com"])
 ||w3guides.com^$all
 google.*##.g:has(a[href*="w3guides.com"])
+||stackprinter.com^$all
+google.*##.g:has(a[href*="stackprinter.com"])
+||pnpsummit.com^$all
+google.*##.g:has(a[href*="pnpsummit.com"])
+||breadybready.blogspot.com^$all
+google.*##.g:has(a[href*="breadybready.blogspot.com"])

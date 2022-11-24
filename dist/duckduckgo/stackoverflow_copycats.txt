@@ -1026,3 +1026,9 @@ duckduckgo.com###links>div:has(a[href*="pullrequest.ru"])
 duckduckgo.com###links>div:has(a[href*="lmlphp.com"])
 ||w3guides.com^$all
 duckduckgo.com###links>div:has(a[href*="w3guides.com"])
+||stackprinter.com^$all
+duckduckgo.com###links>div:has(a[href*="stackprinter.com"])
+||pnpsummit.com^$all
+duckduckgo.com###links>div:has(a[href*="pnpsummit.com"])
+||breadybready.blogspot.com^$all
+duckduckgo.com###links>div:has(a[href*="breadybready.blogspot.com"])

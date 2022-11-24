@@ -228,6 +228,9 @@ duckduckgo.com###links>div:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
 google.*##.g:has(a[href*="pythontechworld.com"])
 duckduckgo.com###links>div:has(a[href*="pythontechworld.com"])
+||web.bluecomtech.com^$all
+google.*##.g:has(a[href*="web.bluecomtech.com"])
+duckduckgo.com###links>div:has(a[href*="web.bluecomtech.com"])
 ||npmmirror.com^$all
 google.*##.g:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
@@ -1767,3 +1770,12 @@ duckduckgo.com###links>div:has(a[href*="lmlphp.com"])
 ||w3guides.com^$all
 google.*##.g:has(a[href*="w3guides.com"])
 duckduckgo.com###links>div:has(a[href*="w3guides.com"])
+||stackprinter.com^$all
+google.*##.g:has(a[href*="stackprinter.com"])
+duckduckgo.com###links>div:has(a[href*="stackprinter.com"])
+||pnpsummit.com^$all
+google.*##.g:has(a[href*="pnpsummit.com"])
+duckduckgo.com###links>div:has(a[href*="pnpsummit.com"])
+||breadybready.blogspot.com^$all
+google.*##.g:has(a[href*="breadybready.blogspot.com"])
+duckduckgo.com###links>div:has(a[href*="breadybready.blogspot.com"])

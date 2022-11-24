@@ -228,3 +228,6 @@ duckduckgo.com###links>div:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
 google.*##.g:has(a[href*="pythontechworld.com"])
 duckduckgo.com###links>div:has(a[href*="pythontechworld.com"])
+||web.bluecomtech.com^$all
+google.*##.g:has(a[href*="web.bluecomtech.com"])
+duckduckgo.com###links>div:has(a[href*="web.bluecomtech.com"])

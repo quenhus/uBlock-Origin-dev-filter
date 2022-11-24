@@ -154,3 +154,5 @@ google.*##.g:has(a[href*="citizendium.org"])
 google.*##.g:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
 google.*##.g:has(a[href*="pythontechworld.com"])
+||web.bluecomtech.com^$all
+google.*##.g:has(a[href*="web.bluecomtech.com"])
