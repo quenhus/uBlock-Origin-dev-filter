@@ -7,8 +7,8 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 ||npmmirror.com^$all
-ecosia.org##.result:has(a[href*="npmmirror.com"])
+ecosia.org###main .result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
-ecosia.org##.result:has(a[href*="cnpmjs.org"])
+ecosia.org###main .result:has(a[href*="cnpmjs.org"])
 ||npm.io^$all
-ecosia.org##.result:has(a[href*="npm.io"])
+ecosia.org###main .result:has(a[href*="npm.io"])
