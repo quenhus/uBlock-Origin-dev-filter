@@ -1254,6 +1254,10 @@ duckduckgo.com###links>div:has(a[href*="stackprinter.com"])
 duckduckgo.com###links>div:has(a[href*="pnpsummit.com"])
 ||breadybready.blogspot.com^$all
 duckduckgo.com###links>div:has(a[href*="breadybready.blogspot.com"])
+||itcodar.com^$all
+duckduckgo.com###links>div:has(a[href*="itcodar.com"])
+||cplusplusbug.info^$all
+duckduckgo.com###links>div:has(a[href*="cplusplusbug.info"])
 ||encyclopedia.thefreedictionary.com^$all
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

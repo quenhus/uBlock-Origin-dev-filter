@@ -1032,3 +1032,7 @@ ecosia.org##.result:has(a[href*="stackprinter.com"])
 ecosia.org##.result:has(a[href*="pnpsummit.com"])
 ||breadybready.blogspot.com^$all
 ecosia.org##.result:has(a[href*="breadybready.blogspot.com"])
+||itcodar.com^$all
+ecosia.org##.result:has(a[href*="itcodar.com"])
+||cplusplusbug.info^$all
+ecosia.org##.result:has(a[href*="cplusplusbug.info"])

@@ -3750,6 +3750,18 @@ duckduckgo.com###links>div:has(a[href*="breadybready.blogspot.com"])
 search.brave.com###results > div:has(a[href*="breadybready.blogspot.com"])
 startpage.com##.w-gl__result:has(a[href*="breadybready.blogspot.com"])
 ecosia.org##.result:has(a[href*="breadybready.blogspot.com"])
+||itcodar.com^$all
+google.*##.g:has(a[href*="itcodar.com"])
+duckduckgo.com###links>div:has(a[href*="itcodar.com"])
+search.brave.com###results > div:has(a[href*="itcodar.com"])
+startpage.com##.w-gl__result:has(a[href*="itcodar.com"])
+ecosia.org##.result:has(a[href*="itcodar.com"])
+||cplusplusbug.info^$all
+google.*##.g:has(a[href*="cplusplusbug.info"])
+duckduckgo.com###links>div:has(a[href*="cplusplusbug.info"])
+search.brave.com###results > div:has(a[href*="cplusplusbug.info"])
+startpage.com##.w-gl__result:has(a[href*="cplusplusbug.info"])
+ecosia.org##.result:has(a[href*="cplusplusbug.info"])
 ||encyclopedia.thefreedictionary.com^$all
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])

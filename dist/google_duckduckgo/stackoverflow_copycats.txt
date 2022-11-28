@@ -1545,3 +1545,9 @@ duckduckgo.com###links>div:has(a[href*="pnpsummit.com"])
 ||breadybready.blogspot.com^$all
 google.*##.g:has(a[href*="breadybready.blogspot.com"])
 duckduckgo.com###links>div:has(a[href*="breadybready.blogspot.com"])
+||itcodar.com^$all
+google.*##.g:has(a[href*="itcodar.com"])
+duckduckgo.com###links>div:has(a[href*="itcodar.com"])
+||cplusplusbug.info^$all
+google.*##.g:has(a[href*="cplusplusbug.info"])
+duckduckgo.com###links>div:has(a[href*="cplusplusbug.info"])

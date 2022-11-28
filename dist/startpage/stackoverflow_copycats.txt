@@ -1032,3 +1032,7 @@ startpage.com##.w-gl__result:has(a[href*="stackprinter.com"])
 startpage.com##.w-gl__result:has(a[href*="pnpsummit.com"])
 ||breadybready.blogspot.com^$all
 startpage.com##.w-gl__result:has(a[href*="breadybready.blogspot.com"])
+||itcodar.com^$all
+startpage.com##.w-gl__result:has(a[href*="itcodar.com"])
+||cplusplusbug.info^$all
+startpage.com##.w-gl__result:has(a[href*="cplusplusbug.info"])

@@ -630,6 +630,8 @@
 [data-domain*="stackprinter.com"],
 [data-domain*="pnpsummit.com"],
 [data-domain*="breadybready.blogspot.com"],
+[data-domain*="itcodar.com"],
+[data-domain*="cplusplusbug.info"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="algebra.com"],
 [data-domain*="wikizero.com"],

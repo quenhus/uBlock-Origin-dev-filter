@@ -1254,6 +1254,10 @@ google.*##.g:has(a[href*="stackprinter.com"])
 google.*##.g:has(a[href*="pnpsummit.com"])
 ||breadybready.blogspot.com^$all
 google.*##.g:has(a[href*="breadybready.blogspot.com"])
+||itcodar.com^$all
+google.*##.g:has(a[href*="itcodar.com"])
+||cplusplusbug.info^$all
+google.*##.g:has(a[href*="cplusplusbug.info"])
 ||encyclopedia.thefreedictionary.com^$all
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

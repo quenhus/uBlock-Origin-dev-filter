@@ -1254,6 +1254,10 @@ search.brave.com###results > div:has(a[href*="stackprinter.com"])
 search.brave.com###results > div:has(a[href*="pnpsummit.com"])
 ||breadybready.blogspot.com^$all
 search.brave.com###results > div:has(a[href*="breadybready.blogspot.com"])
+||itcodar.com^$all
+search.brave.com###results > div:has(a[href*="itcodar.com"])
+||cplusplusbug.info^$all
+search.brave.com###results > div:has(a[href*="cplusplusbug.info"])
 ||encyclopedia.thefreedictionary.com^$all
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all
