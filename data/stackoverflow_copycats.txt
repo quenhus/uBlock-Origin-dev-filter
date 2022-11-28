@@ -513,3 +513,5 @@
 *://stackprinter.com/*
 *://pnpsummit.com/*
 *://breadybready.blogspot.com/*
+*://itcodar.com/*
+*://cplusplusbug.info/*
