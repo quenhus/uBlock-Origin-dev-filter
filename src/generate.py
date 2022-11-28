@@ -44,7 +44,7 @@ def to_startpage(url):
     return f'startpage.com##.w-gl__result:has(a[href*="{format_url(url)}"])'
 
 def to_ecosia(url):
-    return f'ecosia.org##.result:has(a[href*="{format_url(url)}"])'
+    return f'ecosia.org###main .result:has(a[href*="{format_url(url)}"])'
 
 def to_userscript(url):
     return f'[data-domain*="{to_domain_attr(url)}"]'
