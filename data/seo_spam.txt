@@ -31,3 +31,4 @@
 *://ngontinh24.com/*
 *://nmstep.org/*
 *://juicycleanses.com/*
+*://pylint.org/*
