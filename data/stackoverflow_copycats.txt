@@ -515,3 +515,4 @@
 *://breadybready.blogspot.com/*
 *://itcodar.com/*
 *://cplusplusbug.info/*
+*://qiniu.com/*
