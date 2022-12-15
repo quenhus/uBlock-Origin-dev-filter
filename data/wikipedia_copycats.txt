@@ -40,3 +40,4 @@
 *://wikibrief.org/*
 *://second.wiki/*
 *://dewiki.de/*
+*://wiki.alquds.edu/*
