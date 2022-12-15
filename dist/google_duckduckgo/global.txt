@@ -339,6 +339,12 @@ duckduckgo.com###links>div:has(a[href*="nmstep.org"])
 ||juicycleanses.com^$all
 google.*##.g:has(a[href*="juicycleanses.com"])
 duckduckgo.com###links>div:has(a[href*="juicycleanses.com"])
+||code-discuss.com^$all
+google.*##.g:has(a[href*="code-discuss.com"])
+duckduckgo.com###links>div:has(a[href*="code-discuss.com"])
+||bong-faq.com^$all
+google.*##.g:has(a[href*="bong-faq.com"])
+duckduckgo.com###links>div:has(a[href*="bong-faq.com"])
 ||code-examples.net^$all
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])
@@ -1884,6 +1890,9 @@ duckduckgo.com###links>div:has(a[href*="itcodar.com"])
 ||cplusplusbug.info^$all
 google.*##.g:has(a[href*="cplusplusbug.info"])
 duckduckgo.com###links>div:has(a[href*="cplusplusbug.info"])
+||qiniu.com^$all
+google.*##.g:has(a[href*="qiniu.com"])
+duckduckgo.com###links>div:has(a[href*="qiniu.com"])
 ||encyclopedia.thefreedictionary.com^$all
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])

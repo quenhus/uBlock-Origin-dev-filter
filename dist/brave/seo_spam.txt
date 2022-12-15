@@ -72,3 +72,7 @@ search.brave.com###results > div:has(a[href*="ngontinh24.com"])
 search.brave.com###results > div:has(a[href*="nmstep.org"])
 ||juicycleanses.com^$all
 search.brave.com###results > div:has(a[href*="juicycleanses.com"])
+||code-discuss.com^$all
+search.brave.com###results > div:has(a[href*="code-discuss.com"])
+||bong-faq.com^$all
+search.brave.com###results > div:has(a[href*="bong-faq.com"])

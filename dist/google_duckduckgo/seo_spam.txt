@@ -105,3 +105,9 @@ duckduckgo.com###links>div:has(a[href*="nmstep.org"])
 ||juicycleanses.com^$all
 google.*##.g:has(a[href*="juicycleanses.com"])
 duckduckgo.com###links>div:has(a[href*="juicycleanses.com"])
+||code-discuss.com^$all
+google.*##.g:has(a[href*="code-discuss.com"])
+duckduckgo.com###links>div:has(a[href*="code-discuss.com"])
+||bong-faq.com^$all
+google.*##.g:has(a[href*="bong-faq.com"])
+duckduckgo.com###links>div:has(a[href*="bong-faq.com"])

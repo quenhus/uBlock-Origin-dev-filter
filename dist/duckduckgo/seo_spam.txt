@@ -72,3 +72,7 @@ duckduckgo.com###links>div:has(a[href*="ngontinh24.com"])
 duckduckgo.com###links>div:has(a[href*="nmstep.org"])
 ||juicycleanses.com^$all
 duckduckgo.com###links>div:has(a[href*="juicycleanses.com"])
+||code-discuss.com^$all
+duckduckgo.com###links>div:has(a[href*="code-discuss.com"])
+||bong-faq.com^$all
+duckduckgo.com###links>div:has(a[href*="bong-faq.com"])

@@ -521,6 +521,7 @@
 [data-domain*="breadybready.blogspot.com"],
 [data-domain*="itcodar.com"],
 [data-domain*="cplusplusbug.info"],
+[data-domain*="qiniu.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

@@ -228,6 +228,10 @@ google.*##.g:has(a[href*="ngontinh24.com"])
 google.*##.g:has(a[href*="nmstep.org"])
 ||juicycleanses.com^$all
 google.*##.g:has(a[href*="juicycleanses.com"])
+||code-discuss.com^$all
+google.*##.g:has(a[href*="code-discuss.com"])
+||bong-faq.com^$all
+google.*##.g:has(a[href*="bong-faq.com"])
 ||code-examples.net^$all
 google.*##.g:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
@@ -1258,6 +1262,8 @@ google.*##.g:has(a[href*="breadybready.blogspot.com"])
 google.*##.g:has(a[href*="itcodar.com"])
 ||cplusplusbug.info^$all
 google.*##.g:has(a[href*="cplusplusbug.info"])
+||qiniu.com^$all
+google.*##.g:has(a[href*="qiniu.com"])
 ||encyclopedia.thefreedictionary.com^$all
 google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

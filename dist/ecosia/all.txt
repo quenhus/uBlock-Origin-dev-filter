@@ -1192,3 +1192,5 @@ ecosia.org##.result:has(a[href*="breadybready.blogspot.com"])
 ecosia.org##.result:has(a[href*="itcodar.com"])
 ||cplusplusbug.info^$all
 ecosia.org##.result:has(a[href*="cplusplusbug.info"])
+||qiniu.com^$all
+ecosia.org##.result:has(a[href*="qiniu.com"])

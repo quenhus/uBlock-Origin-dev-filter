@@ -1036,3 +1036,5 @@ duckduckgo.com###links>div:has(a[href*="breadybready.blogspot.com"])
 duckduckgo.com###links>div:has(a[href*="itcodar.com"])
 ||cplusplusbug.info^$all
 duckduckgo.com###links>div:has(a[href*="cplusplusbug.info"])
+||qiniu.com^$all
+duckduckgo.com###links>div:has(a[href*="qiniu.com"])

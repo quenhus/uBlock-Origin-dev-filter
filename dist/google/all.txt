@@ -1192,3 +1192,5 @@ google.*##.g:has(a[href*="breadybready.blogspot.com"])
 google.*##.g:has(a[href*="itcodar.com"])
 ||cplusplusbug.info^$all
 google.*##.g:has(a[href*="cplusplusbug.info"])
+||qiniu.com^$all
+google.*##.g:has(a[href*="qiniu.com"])
