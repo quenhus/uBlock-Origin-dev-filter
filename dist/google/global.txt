@@ -1342,3 +1342,5 @@ google.*##.g:has(a[href*="wikibrief.org"])
 google.*##.g:has(a[href*="second.wiki"])
 ||dewiki.de^$all
 google.*##.g:has(a[href*="dewiki.de"])
+||wiki.alquds.edu^$all
+google.*##.g:has(a[href*="wiki.alquds.edu"])

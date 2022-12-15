@@ -1342,3 +1342,5 @@ startpage.com##.w-gl__result:has(a[href*="wikibrief.org"])
 startpage.com##.w-gl__result:has(a[href*="second.wiki"])
 ||dewiki.de^$all
 startpage.com##.w-gl__result:has(a[href*="dewiki.de"])
+||wiki.alquds.edu^$all
+startpage.com##.w-gl__result:has(a[href*="wiki.alquds.edu"])

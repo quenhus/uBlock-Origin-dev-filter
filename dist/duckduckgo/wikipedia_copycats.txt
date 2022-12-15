@@ -90,3 +90,5 @@ duckduckgo.com###links>div:has(a[href*="wikibrief.org"])
 duckduckgo.com###links>div:has(a[href*="second.wiki"])
 ||dewiki.de^$all
 duckduckgo.com###links>div:has(a[href*="dewiki.de"])
+||wiki.alquds.edu^$all
+duckduckgo.com###links>div:has(a[href*="wiki.alquds.edu"])

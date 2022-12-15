@@ -1342,3 +1342,5 @@ search.brave.com###results > div:has(a[href*="wikibrief.org"])
 search.brave.com###results > div:has(a[href*="second.wiki"])
 ||dewiki.de^$all
 search.brave.com###results > div:has(a[href*="dewiki.de"])
+||wiki.alquds.edu^$all
+search.brave.com###results > div:has(a[href*="wiki.alquds.edu"])
