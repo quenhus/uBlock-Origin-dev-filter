@@ -516,3 +516,4 @@
 *://itcodar.com/*
 *://cplusplusbug.info/*
 *://qiniu.com/*
+*://answall.com/*
