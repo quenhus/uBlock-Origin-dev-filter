@@ -1038,3 +1038,5 @@ search.brave.com###results > div:has(a[href*="itcodar.com"])
 search.brave.com###results > div:has(a[href*="cplusplusbug.info"])
 ||qiniu.com^$all
 search.brave.com###results > div:has(a[href*="qiniu.com"])
+||answall.com^$all
+search.brave.com###results > div:has(a[href*="answall.com"])

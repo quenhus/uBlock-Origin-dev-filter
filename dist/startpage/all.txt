@@ -1194,3 +1194,5 @@ startpage.com##.w-gl__result:has(a[href*="itcodar.com"])
 startpage.com##.w-gl__result:has(a[href*="cplusplusbug.info"])
 ||qiniu.com^$all
 startpage.com##.w-gl__result:has(a[href*="qiniu.com"])
+||answall.com^$all
+startpage.com##.w-gl__result:has(a[href*="answall.com"])

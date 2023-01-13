@@ -1554,3 +1554,6 @@ duckduckgo.com###links>div:has(a[href*="cplusplusbug.info"])
 ||qiniu.com^$all
 google.*##.g:has(a[href*="qiniu.com"])
 duckduckgo.com###links>div:has(a[href*="qiniu.com"])
+||answall.com^$all
+google.*##.g:has(a[href*="answall.com"])
+duckduckgo.com###links>div:has(a[href*="answall.com"])

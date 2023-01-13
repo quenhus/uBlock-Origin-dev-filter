@@ -635,6 +635,7 @@
 [data-domain*="itcodar.com"],
 [data-domain*="cplusplusbug.info"],
 [data-domain*="qiniu.com"],
+[data-domain*="answall.com"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="algebra.com"],
 [data-domain*="wikizero.com"],
