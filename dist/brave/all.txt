@@ -1196,3 +1196,21 @@ search.brave.com###results > div:has(a[href*="cplusplusbug.info"])
 search.brave.com###results > div:has(a[href*="qiniu.com"])
 ||answall.com^$all
 search.brave.com###results > div:has(a[href*="answall.com"])
+||tagmerge.com^$all
+search.brave.com###results > div:has(a[href*="tagmerge.com"])
+||9to5science.com^$all
+search.brave.com###results > div:has(a[href*="9to5science.com"])
+||find-error.com^$all
+search.brave.com###results > div:has(a[href*="find-error.com"])
+||whereismyanswer.com^$all
+search.brave.com###results > div:has(a[href*="whereismyanswer.com"])
+||lokasi.live^$all
+search.brave.com###results > div:has(a[href*="lokasi.live"])
+||minggu.live^$all
+search.brave.com###results > div:has(a[href*="minggu.live"])
+||interface.pub^$all
+search.brave.com###results > div:has(a[href*="interface.pub"])
+||coolfire25.com^$all
+search.brave.com###results > div:has(a[href*="coolfire25.com"])
+||segmentfault.com^$all
+search.brave.com###results > div:has(a[href*="segmentfault.com"])

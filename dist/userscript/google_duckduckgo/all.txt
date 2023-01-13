@@ -601,6 +601,15 @@
 [data-domain*="cplusplusbug.info"],
 [data-domain*="qiniu.com"],
 [data-domain*="answall.com"],
+[data-domain*="tagmerge.com"],
+[data-domain*="9to5science.com"],
+[data-domain*="find-error.com"],
+[data-domain*="whereismyanswer.com"],
+[data-domain*="lokasi.live"],
+[data-domain*="minggu.live"],
+[data-domain*="interface.pub"],
+[data-domain*="coolfire25.com"],
+[data-domain*="segmentfault.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
