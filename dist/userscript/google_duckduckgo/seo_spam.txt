@@ -41,6 +41,7 @@
 [data-domain*="juicycleanses.com"],
 [data-domain*="code-discuss.com"],
 [data-domain*="bong-faq.com"],
+[data-domain*="suptitles.de"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

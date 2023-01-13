@@ -111,3 +111,6 @@ duckduckgo.com###links>div:has(a[href*="code-discuss.com"])
 ||bong-faq.com^$all
 google.*##.g:has(a[href*="bong-faq.com"])
 duckduckgo.com###links>div:has(a[href*="bong-faq.com"])
+||suptitles.de^$all
+google.*##.g:has(a[href*="suptitles.de"])
+duckduckgo.com###links>div:has(a[href*="suptitles.de"])

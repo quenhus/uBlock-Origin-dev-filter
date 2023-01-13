@@ -232,6 +232,8 @@ google.*##.g:has(a[href*="juicycleanses.com"])
 google.*##.g:has(a[href*="code-discuss.com"])
 ||bong-faq.com^$all
 google.*##.g:has(a[href*="bong-faq.com"])
+||suptitles.de^$all
+google.*##.g:has(a[href*="suptitles.de"])
 ||code-examples.net^$all
 google.*##.g:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all

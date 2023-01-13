@@ -232,6 +232,8 @@ duckduckgo.com###links>div:has(a[href*="juicycleanses.com"])
 duckduckgo.com###links>div:has(a[href*="code-discuss.com"])
 ||bong-faq.com^$all
 duckduckgo.com###links>div:has(a[href*="bong-faq.com"])
+||suptitles.de^$all
+duckduckgo.com###links>div:has(a[href*="suptitles.de"])
 ||code-examples.net^$all
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all

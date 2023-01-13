@@ -119,6 +119,7 @@
 [data-domain*="juicycleanses.com"],
 [data-domain*="code-discuss.com"],
 [data-domain*="bong-faq.com"],
+[data-domain*="suptitles.de"],
 [data-domain*="code-examples.net"],
 [data-domain*="kotaeta.com"],
 [data-domain*="answer-id.com"],

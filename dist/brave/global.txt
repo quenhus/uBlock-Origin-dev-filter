@@ -232,6 +232,8 @@ search.brave.com###results > div:has(a[href*="juicycleanses.com"])
 search.brave.com###results > div:has(a[href*="code-discuss.com"])
 ||bong-faq.com^$all
 search.brave.com###results > div:has(a[href*="bong-faq.com"])
+||suptitles.de^$all
+search.brave.com###results > div:has(a[href*="suptitles.de"])
 ||code-examples.net^$all
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all

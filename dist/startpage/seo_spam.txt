@@ -76,3 +76,5 @@ startpage.com##.w-gl__result:has(a[href*="juicycleanses.com"])
 startpage.com##.w-gl__result:has(a[href*="code-discuss.com"])
 ||bong-faq.com^$all
 startpage.com##.w-gl__result:has(a[href*="bong-faq.com"])
+||suptitles.de^$all
+startpage.com##.w-gl__result:has(a[href*="suptitles.de"])
