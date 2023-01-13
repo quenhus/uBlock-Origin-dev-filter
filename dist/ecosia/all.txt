@@ -131,9 +131,9 @@ ecosia.org###main .result:has(a[href*="issuehint.com"])
 ||rpkg.in^$all
 ecosia.org###main .result:has(a[href*="rpkg.in"])
 ||geeksrepos.com^$all
-ecosia.org##.result:has(a[href*="geeksrepos.com"])
+ecosia.org###main .result:has(a[href*="geeksrepos.com"])
 ||lightrun.com/answers$all
-ecosia.org##.result:has(a[href*="lightrun.com/answers"])
+ecosia.org###main .result:has(a[href*="lightrun.com/answers"])
 ||pullanswer.com^$all
 ecosia.org###main .result:has(a[href*="pullanswer.com"])
 ||devpick.io^$all
@@ -153,9 +153,9 @@ ecosia.org###main .result:has(a[href*="citizendium.org"])
 ||codesti.com^$all
 ecosia.org###main .result:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
-ecosia.org##.result:has(a[href*="pythontechworld.com"])
+ecosia.org###main .result:has(a[href*="pythontechworld.com"])
 ||web.bluecomtech.com^$all
-ecosia.org##.result:has(a[href*="web.bluecomtech.com"])
+ecosia.org###main .result:has(a[href*="web.bluecomtech.com"])
 ||npmmirror.com^$all
 ecosia.org###main .result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -1181,36 +1181,36 @@ ecosia.org###main .result:has(a[href*="pullrequest.ru"])
 ||lmlphp.com^$all
 ecosia.org###main .result:has(a[href*="lmlphp.com"])
 ||w3guides.com^$all
-ecosia.org##.result:has(a[href*="w3guides.com"])
+ecosia.org###main .result:has(a[href*="w3guides.com"])
 ||stackprinter.com^$all
-ecosia.org##.result:has(a[href*="stackprinter.com"])
+ecosia.org###main .result:has(a[href*="stackprinter.com"])
 ||pnpsummit.com^$all
-ecosia.org##.result:has(a[href*="pnpsummit.com"])
+ecosia.org###main .result:has(a[href*="pnpsummit.com"])
 ||breadybready.blogspot.com^$all
-ecosia.org##.result:has(a[href*="breadybready.blogspot.com"])
+ecosia.org###main .result:has(a[href*="breadybready.blogspot.com"])
 ||itcodar.com^$all
-ecosia.org##.result:has(a[href*="itcodar.com"])
+ecosia.org###main .result:has(a[href*="itcodar.com"])
 ||cplusplusbug.info^$all
-ecosia.org##.result:has(a[href*="cplusplusbug.info"])
+ecosia.org###main .result:has(a[href*="cplusplusbug.info"])
 ||qiniu.com^$all
-ecosia.org##.result:has(a[href*="qiniu.com"])
+ecosia.org###main .result:has(a[href*="qiniu.com"])
 ||answall.com^$all
-ecosia.org##.result:has(a[href*="answall.com"])
+ecosia.org###main .result:has(a[href*="answall.com"])
 ||tagmerge.com^$all
-ecosia.org##.result:has(a[href*="tagmerge.com"])
+ecosia.org###main .result:has(a[href*="tagmerge.com"])
 ||9to5science.com^$all
-ecosia.org##.result:has(a[href*="9to5science.com"])
+ecosia.org###main .result:has(a[href*="9to5science.com"])
 ||find-error.com^$all
-ecosia.org##.result:has(a[href*="find-error.com"])
+ecosia.org###main .result:has(a[href*="find-error.com"])
 ||whereismyanswer.com^$all
-ecosia.org##.result:has(a[href*="whereismyanswer.com"])
+ecosia.org###main .result:has(a[href*="whereismyanswer.com"])
 ||lokasi.live^$all
-ecosia.org##.result:has(a[href*="lokasi.live"])
+ecosia.org###main .result:has(a[href*="lokasi.live"])
 ||minggu.live^$all
-ecosia.org##.result:has(a[href*="minggu.live"])
+ecosia.org###main .result:has(a[href*="minggu.live"])
 ||interface.pub^$all
-ecosia.org##.result:has(a[href*="interface.pub"])
+ecosia.org###main .result:has(a[href*="interface.pub"])
 ||coolfire25.com^$all
-ecosia.org##.result:has(a[href*="coolfire25.com"])
+ecosia.org###main .result:has(a[href*="coolfire25.com"])
 ||segmentfault.com^$all
-ecosia.org##.result:has(a[href*="segmentfault.com"])
+ecosia.org###main .result:has(a[href*="segmentfault.com"])

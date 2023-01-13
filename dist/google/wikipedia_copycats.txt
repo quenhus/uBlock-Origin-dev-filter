@@ -89,6 +89,6 @@ google.*###rso .MjjYud a[href*="wikibrief.org"]:upward(.MjjYud)
 ||second.wiki^$all
 google.*###rso .MjjYud a[href*="second.wiki"]:upward(.MjjYud)
 ||dewiki.de^$all
-google.*##.g:has(a[href*="dewiki.de"])
+google.*###rso .MjjYud a[href*="dewiki.de"]:upward(.MjjYud)
 ||wiki.alquds.edu^$all
-google.*##.g:has(a[href*="wiki.alquds.edu"])
+google.*###rso .MjjYud a[href*="wiki.alquds.edu"]:upward(.MjjYud)

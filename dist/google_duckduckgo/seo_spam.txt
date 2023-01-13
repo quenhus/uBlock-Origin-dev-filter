@@ -106,11 +106,11 @@ duckduckgo.com###links>div:has(a[href*="nmstep.org"])
 google.*###rso .MjjYud a[href*="juicycleanses.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="juicycleanses.com"])
 ||code-discuss.com^$all
-google.*##.g:has(a[href*="code-discuss.com"])
+google.*###rso .MjjYud a[href*="code-discuss.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="code-discuss.com"])
 ||bong-faq.com^$all
-google.*##.g:has(a[href*="bong-faq.com"])
+google.*###rso .MjjYud a[href*="bong-faq.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="bong-faq.com"])
 ||suptitles.de^$all
-google.*##.g:has(a[href*="suptitles.de"])
+google.*###rso .MjjYud a[href*="suptitles.de"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="suptitles.de"])

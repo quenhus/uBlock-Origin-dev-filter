@@ -1025,36 +1025,36 @@ google.*###rso .MjjYud a[href*="pullrequest.ru"]:upward(.MjjYud)
 ||lmlphp.com^$all
 google.*###rso .MjjYud a[href*="lmlphp.com"]:upward(.MjjYud)
 ||w3guides.com^$all
-google.*##.g:has(a[href*="w3guides.com"])
+google.*###rso .MjjYud a[href*="w3guides.com"]:upward(.MjjYud)
 ||stackprinter.com^$all
-google.*##.g:has(a[href*="stackprinter.com"])
+google.*###rso .MjjYud a[href*="stackprinter.com"]:upward(.MjjYud)
 ||pnpsummit.com^$all
-google.*##.g:has(a[href*="pnpsummit.com"])
+google.*###rso .MjjYud a[href*="pnpsummit.com"]:upward(.MjjYud)
 ||breadybready.blogspot.com^$all
-google.*##.g:has(a[href*="breadybready.blogspot.com"])
+google.*###rso .MjjYud a[href*="breadybready.blogspot.com"]:upward(.MjjYud)
 ||itcodar.com^$all
-google.*##.g:has(a[href*="itcodar.com"])
+google.*###rso .MjjYud a[href*="itcodar.com"]:upward(.MjjYud)
 ||cplusplusbug.info^$all
-google.*##.g:has(a[href*="cplusplusbug.info"])
+google.*###rso .MjjYud a[href*="cplusplusbug.info"]:upward(.MjjYud)
 ||qiniu.com^$all
-google.*##.g:has(a[href*="qiniu.com"])
+google.*###rso .MjjYud a[href*="qiniu.com"]:upward(.MjjYud)
 ||answall.com^$all
-google.*##.g:has(a[href*="answall.com"])
+google.*###rso .MjjYud a[href*="answall.com"]:upward(.MjjYud)
 ||tagmerge.com^$all
-google.*##.g:has(a[href*="tagmerge.com"])
+google.*###rso .MjjYud a[href*="tagmerge.com"]:upward(.MjjYud)
 ||9to5science.com^$all
-google.*##.g:has(a[href*="9to5science.com"])
+google.*###rso .MjjYud a[href*="9to5science.com"]:upward(.MjjYud)
 ||find-error.com^$all
-google.*##.g:has(a[href*="find-error.com"])
+google.*###rso .MjjYud a[href*="find-error.com"]:upward(.MjjYud)
 ||whereismyanswer.com^$all
-google.*##.g:has(a[href*="whereismyanswer.com"])
+google.*###rso .MjjYud a[href*="whereismyanswer.com"]:upward(.MjjYud)
 ||lokasi.live^$all
-google.*##.g:has(a[href*="lokasi.live"])
+google.*###rso .MjjYud a[href*="lokasi.live"]:upward(.MjjYud)
 ||minggu.live^$all
-google.*##.g:has(a[href*="minggu.live"])
+google.*###rso .MjjYud a[href*="minggu.live"]:upward(.MjjYud)
 ||interface.pub^$all
-google.*##.g:has(a[href*="interface.pub"])
+google.*###rso .MjjYud a[href*="interface.pub"]:upward(.MjjYud)
 ||coolfire25.com^$all
-google.*##.g:has(a[href*="coolfire25.com"])
+google.*###rso .MjjYud a[href*="coolfire25.com"]:upward(.MjjYud)
 ||segmentfault.com^$all
-google.*##.g:has(a[href*="segmentfault.com"])
+google.*###rso .MjjYud a[href*="segmentfault.com"]:upward(.MjjYud)

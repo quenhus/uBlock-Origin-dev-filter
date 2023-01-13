@@ -133,5 +133,5 @@ duckduckgo.com###links>div:has(a[href*="second.wiki"])
 google.*###rso .MjjYud a[href*="dewiki.de"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="dewiki.de"])
 ||wiki.alquds.edu^$all
-google.*##.g:has(a[href*="wiki.alquds.edu"])
+google.*###rso .MjjYud a[href*="wiki.alquds.edu"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="wiki.alquds.edu"])

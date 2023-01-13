@@ -1537,50 +1537,50 @@ duckduckgo.com###links>div:has(a[href*="lmlphp.com"])
 google.*###rso .MjjYud a[href*="w3guides.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="w3guides.com"])
 ||stackprinter.com^$all
-google.*##.g:has(a[href*="stackprinter.com"])
+google.*###rso .MjjYud a[href*="stackprinter.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="stackprinter.com"])
 ||pnpsummit.com^$all
-google.*##.g:has(a[href*="pnpsummit.com"])
+google.*###rso .MjjYud a[href*="pnpsummit.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="pnpsummit.com"])
 ||breadybready.blogspot.com^$all
-google.*##.g:has(a[href*="breadybready.blogspot.com"])
+google.*###rso .MjjYud a[href*="breadybready.blogspot.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="breadybready.blogspot.com"])
 ||itcodar.com^$all
-google.*##.g:has(a[href*="itcodar.com"])
+google.*###rso .MjjYud a[href*="itcodar.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="itcodar.com"])
 ||cplusplusbug.info^$all
-google.*##.g:has(a[href*="cplusplusbug.info"])
+google.*###rso .MjjYud a[href*="cplusplusbug.info"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="cplusplusbug.info"])
 ||qiniu.com^$all
-google.*##.g:has(a[href*="qiniu.com"])
+google.*###rso .MjjYud a[href*="qiniu.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="qiniu.com"])
 ||answall.com^$all
-google.*##.g:has(a[href*="answall.com"])
+google.*###rso .MjjYud a[href*="answall.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="answall.com"])
 ||tagmerge.com^$all
-google.*##.g:has(a[href*="tagmerge.com"])
+google.*###rso .MjjYud a[href*="tagmerge.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="tagmerge.com"])
 ||9to5science.com^$all
-google.*##.g:has(a[href*="9to5science.com"])
+google.*###rso .MjjYud a[href*="9to5science.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="9to5science.com"])
 ||find-error.com^$all
-google.*##.g:has(a[href*="find-error.com"])
+google.*###rso .MjjYud a[href*="find-error.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="find-error.com"])
 ||whereismyanswer.com^$all
-google.*##.g:has(a[href*="whereismyanswer.com"])
+google.*###rso .MjjYud a[href*="whereismyanswer.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="whereismyanswer.com"])
 ||lokasi.live^$all
-google.*##.g:has(a[href*="lokasi.live"])
+google.*###rso .MjjYud a[href*="lokasi.live"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="lokasi.live"])
 ||minggu.live^$all
-google.*##.g:has(a[href*="minggu.live"])
+google.*###rso .MjjYud a[href*="minggu.live"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="minggu.live"])
 ||interface.pub^$all
-google.*##.g:has(a[href*="interface.pub"])
+google.*###rso .MjjYud a[href*="interface.pub"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="interface.pub"])
 ||coolfire25.com^$all
-google.*##.g:has(a[href*="coolfire25.com"])
+google.*###rso .MjjYud a[href*="coolfire25.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="coolfire25.com"])
 ||segmentfault.com^$all
-google.*##.g:has(a[href*="segmentfault.com"])
+google.*###rso .MjjYud a[href*="segmentfault.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="segmentfault.com"])
