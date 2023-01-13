@@ -517,3 +517,12 @@
 *://cplusplusbug.info/*
 *://qiniu.com/*
 *://answall.com/*
+*://tagmerge.com/*
+*://9to5science.com/*
+*://find-error.com/*
+*://whereismyanswer.com/*
+*://lokasi.live/*
+*://minggu.live/*
+*://interface.pub/*
+*://coolfire25.com/*
+*://segmentfault.com/*
