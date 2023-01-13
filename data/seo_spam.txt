@@ -4,7 +4,6 @@
 *://durrell2012.com/*
 *://developpaper.com/*
 *://topcode.in/*
-*://c-sharpcorner.com/*
 *://javascripttutorial.net/*
 *://geekwall.in/*
 *://dzone.com/*
@@ -32,3 +31,6 @@
 *://ngontinh24.com/*
 *://nmstep.org/*
 *://juicycleanses.com/*
+*://code-discuss.com/*
+*://bong-faq.com/*
+*://suptitles.de/*

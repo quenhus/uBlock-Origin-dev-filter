@@ -131,9 +131,9 @@ google.*###rso .MjjYud a[href*="issuehint.com"]:upward(.MjjYud)
 ||rpkg.in^$all
 google.*###rso .MjjYud a[href*="rpkg.in"]:upward(.MjjYud)
 ||geeksrepos.com^$all
-google.*###rso .MjjYud a[href*="geeksrepos.com"]:upward(.MjjYud)
-||lightrun.com^$all
-google.*###rso .MjjYud a[href*="lightrun.com"]:upward(.MjjYud)
+google.*##.g:has(a[href*="geeksrepos.com"])
+||lightrun.com/answers$all
+google.*##.g:has(a[href*="lightrun.com/answers"])
 ||pullanswer.com^$all
 google.*###rso .MjjYud a[href*="pullanswer.com"]:upward(.MjjYud)
 ||devpick.io^$all
@@ -153,7 +153,9 @@ google.*###rso .MjjYud a[href*="citizendium.org"]:upward(.MjjYud)
 ||codesti.com^$all
 google.*###rso .MjjYud a[href*="codesti.com"]:upward(.MjjYud)
 ||pythontechworld.com^$all
-google.*###rso .MjjYud a[href*="pythontechworld.com"]:upward(.MjjYud)
+google.*##.g:has(a[href*="pythontechworld.com"])
+||web.bluecomtech.com^$all
+google.*##.g:has(a[href*="web.bluecomtech.com"])
 ||npmmirror.com^$all
 google.*###rso .MjjYud a[href*="npmmirror.com"]:upward(.MjjYud)
 ||cnpmjs.org^$all
@@ -171,9 +173,7 @@ google.*###rso .MjjYud a[href*="durrell2012.com"]:upward(.MjjYud)
 ||developpaper.com^$all
 google.*###rso .MjjYud a[href*="developpaper.com"]:upward(.MjjYud)
 ||topcode.in^$all
-google.*###rso .MjjYud a[href*="topcode.in"]:upward(.MjjYud)
-||c-sharpcorner.com^$all
-google.*###rso .MjjYud a[href*="c-sharpcorner.com"]:upward(.MjjYud)
+google.*##.g:has(a[href*="topcode.in"])
 ||javascripttutorial.net^$all
 google.*###rso .MjjYud a[href*="javascripttutorial.net"]:upward(.MjjYud)
 ||geekwall.in^$all
@@ -227,7 +227,13 @@ google.*###rso .MjjYud a[href*="ngontinh24.com"]:upward(.MjjYud)
 ||nmstep.org^$all
 google.*###rso .MjjYud a[href*="nmstep.org"]:upward(.MjjYud)
 ||juicycleanses.com^$all
-google.*###rso .MjjYud a[href*="juicycleanses.com"]:upward(.MjjYud)
+google.*##.g:has(a[href*="juicycleanses.com"])
+||code-discuss.com^$all
+google.*##.g:has(a[href*="code-discuss.com"])
+||bong-faq.com^$all
+google.*##.g:has(a[href*="bong-faq.com"])
+||suptitles.de^$all
+google.*##.g:has(a[href*="suptitles.de"])
 ||code-examples.net^$all
 google.*###rso .MjjYud a[href*="code-examples.net"]:upward(.MjjYud)
 ||kotaeta.com^$all
@@ -1247,7 +1253,39 @@ google.*###rso .MjjYud a[href*="pullrequest.ru"]:upward(.MjjYud)
 ||lmlphp.com^$all
 google.*###rso .MjjYud a[href*="lmlphp.com"]:upward(.MjjYud)
 ||w3guides.com^$all
-google.*###rso .MjjYud a[href*="w3guides.com"]:upward(.MjjYud)
+google.*##.g:has(a[href*="w3guides.com"])
+||stackprinter.com^$all
+google.*##.g:has(a[href*="stackprinter.com"])
+||pnpsummit.com^$all
+google.*##.g:has(a[href*="pnpsummit.com"])
+||breadybready.blogspot.com^$all
+google.*##.g:has(a[href*="breadybready.blogspot.com"])
+||itcodar.com^$all
+google.*##.g:has(a[href*="itcodar.com"])
+||cplusplusbug.info^$all
+google.*##.g:has(a[href*="cplusplusbug.info"])
+||qiniu.com^$all
+google.*##.g:has(a[href*="qiniu.com"])
+||answall.com^$all
+google.*##.g:has(a[href*="answall.com"])
+||tagmerge.com^$all
+google.*##.g:has(a[href*="tagmerge.com"])
+||9to5science.com^$all
+google.*##.g:has(a[href*="9to5science.com"])
+||find-error.com^$all
+google.*##.g:has(a[href*="find-error.com"])
+||whereismyanswer.com^$all
+google.*##.g:has(a[href*="whereismyanswer.com"])
+||lokasi.live^$all
+google.*##.g:has(a[href*="lokasi.live"])
+||minggu.live^$all
+google.*##.g:has(a[href*="minggu.live"])
+||interface.pub^$all
+google.*##.g:has(a[href*="interface.pub"])
+||coolfire25.com^$all
+google.*##.g:has(a[href*="coolfire25.com"])
+||segmentfault.com^$all
+google.*##.g:has(a[href*="segmentfault.com"])
 ||encyclopedia.thefreedictionary.com^$all
 google.*###rso .MjjYud a[href*="encyclopedia.thefreedictionary.com"]:upward(.MjjYud)
 ||algebra.com^$all
@@ -1331,4 +1369,6 @@ google.*###rso .MjjYud a[href*="wikibrief.org"]:upward(.MjjYud)
 ||second.wiki^$all
 google.*###rso .MjjYud a[href*="second.wiki"]:upward(.MjjYud)
 ||dewiki.de^$all
-google.*###rso .MjjYud a[href*="dewiki.de"]:upward(.MjjYud)
+google.*##.g:has(a[href*="dewiki.de"])
+||wiki.alquds.edu^$all
+google.*##.g:has(a[href*="wiki.alquds.edu"])

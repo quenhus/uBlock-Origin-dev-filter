@@ -18,8 +18,6 @@ duckduckgo.com###links>div:has(a[href*="durrell2012.com"])
 duckduckgo.com###links>div:has(a[href*="developpaper.com"])
 ||topcode.in^$all
 duckduckgo.com###links>div:has(a[href*="topcode.in"])
-||c-sharpcorner.com^$all
-duckduckgo.com###links>div:has(a[href*="c-sharpcorner.com"])
 ||javascripttutorial.net^$all
 duckduckgo.com###links>div:has(a[href*="javascripttutorial.net"])
 ||geekwall.in^$all
@@ -74,3 +72,9 @@ duckduckgo.com###links>div:has(a[href*="ngontinh24.com"])
 duckduckgo.com###links>div:has(a[href*="nmstep.org"])
 ||juicycleanses.com^$all
 duckduckgo.com###links>div:has(a[href*="juicycleanses.com"])
+||code-discuss.com^$all
+duckduckgo.com###links>div:has(a[href*="code-discuss.com"])
+||bong-faq.com^$all
+duckduckgo.com###links>div:has(a[href*="bong-faq.com"])
+||suptitles.de^$all
+duckduckgo.com###links>div:has(a[href*="suptitles.de"])

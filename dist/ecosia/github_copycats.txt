@@ -131,9 +131,9 @@ ecosia.org###main .result:has(a[href*="issuehint.com"])
 ||rpkg.in^$all
 ecosia.org###main .result:has(a[href*="rpkg.in"])
 ||geeksrepos.com^$all
-ecosia.org###main .result:has(a[href*="geeksrepos.com"])
-||lightrun.com^$all
-ecosia.org###main .result:has(a[href*="lightrun.com"])
+ecosia.org##.result:has(a[href*="geeksrepos.com"])
+||lightrun.com/answers$all
+ecosia.org##.result:has(a[href*="lightrun.com/answers"])
 ||pullanswer.com^$all
 ecosia.org###main .result:has(a[href*="pullanswer.com"])
 ||devpick.io^$all
@@ -153,4 +153,6 @@ ecosia.org###main .result:has(a[href*="citizendium.org"])
 ||codesti.com^$all
 ecosia.org###main .result:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
-ecosia.org###main .result:has(a[href*="pythontechworld.com"])
+ecosia.org##.result:has(a[href*="pythontechworld.com"])
+||web.bluecomtech.com^$all
+ecosia.org##.result:has(a[href*="web.bluecomtech.com"])

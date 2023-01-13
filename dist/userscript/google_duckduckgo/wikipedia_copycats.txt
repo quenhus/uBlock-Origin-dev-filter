@@ -48,6 +48,7 @@
 [data-domain*="wikibrief.org"],
 [data-domain*="second.wiki"],
 [data-domain*="dewiki.de"],
+[data-domain*="wiki.alquds.edu"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

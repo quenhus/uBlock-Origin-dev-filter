@@ -195,9 +195,9 @@ duckduckgo.com###links>div:has(a[href*="rpkg.in"])
 ||geeksrepos.com^$all
 google.*###rso .MjjYud a[href*="geeksrepos.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="geeksrepos.com"])
-||lightrun.com^$all
-google.*###rso .MjjYud a[href*="lightrun.com"]:upward(.MjjYud)
-duckduckgo.com###links>div:has(a[href*="lightrun.com"])
+||lightrun.com/answers$all
+google.*##.g:has(a[href*="lightrun.com/answers"])
+duckduckgo.com###links>div:has(a[href*="lightrun.com/answers"])
 ||pullanswer.com^$all
 google.*###rso .MjjYud a[href*="pullanswer.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="pullanswer.com"])
@@ -228,3 +228,6 @@ duckduckgo.com###links>div:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
 google.*###rso .MjjYud a[href*="pythontechworld.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="pythontechworld.com"])
+||web.bluecomtech.com^$all
+google.*##.g:has(a[href*="web.bluecomtech.com"])
+duckduckgo.com###links>div:has(a[href*="web.bluecomtech.com"])

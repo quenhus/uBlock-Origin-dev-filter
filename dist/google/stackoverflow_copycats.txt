@@ -1025,4 +1025,36 @@ google.*###rso .MjjYud a[href*="pullrequest.ru"]:upward(.MjjYud)
 ||lmlphp.com^$all
 google.*###rso .MjjYud a[href*="lmlphp.com"]:upward(.MjjYud)
 ||w3guides.com^$all
-google.*###rso .MjjYud a[href*="w3guides.com"]:upward(.MjjYud)
+google.*##.g:has(a[href*="w3guides.com"])
+||stackprinter.com^$all
+google.*##.g:has(a[href*="stackprinter.com"])
+||pnpsummit.com^$all
+google.*##.g:has(a[href*="pnpsummit.com"])
+||breadybready.blogspot.com^$all
+google.*##.g:has(a[href*="breadybready.blogspot.com"])
+||itcodar.com^$all
+google.*##.g:has(a[href*="itcodar.com"])
+||cplusplusbug.info^$all
+google.*##.g:has(a[href*="cplusplusbug.info"])
+||qiniu.com^$all
+google.*##.g:has(a[href*="qiniu.com"])
+||answall.com^$all
+google.*##.g:has(a[href*="answall.com"])
+||tagmerge.com^$all
+google.*##.g:has(a[href*="tagmerge.com"])
+||9to5science.com^$all
+google.*##.g:has(a[href*="9to5science.com"])
+||find-error.com^$all
+google.*##.g:has(a[href*="find-error.com"])
+||whereismyanswer.com^$all
+google.*##.g:has(a[href*="whereismyanswer.com"])
+||lokasi.live^$all
+google.*##.g:has(a[href*="lokasi.live"])
+||minggu.live^$all
+google.*##.g:has(a[href*="minggu.live"])
+||interface.pub^$all
+google.*##.g:has(a[href*="interface.pub"])
+||coolfire25.com^$all
+google.*##.g:has(a[href*="coolfire25.com"])
+||segmentfault.com^$all
+google.*##.g:has(a[href*="segmentfault.com"])

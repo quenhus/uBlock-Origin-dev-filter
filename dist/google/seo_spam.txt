@@ -17,9 +17,7 @@ google.*###rso .MjjYud a[href*="durrell2012.com"]:upward(.MjjYud)
 ||developpaper.com^$all
 google.*###rso .MjjYud a[href*="developpaper.com"]:upward(.MjjYud)
 ||topcode.in^$all
-google.*###rso .MjjYud a[href*="topcode.in"]:upward(.MjjYud)
-||c-sharpcorner.com^$all
-google.*###rso .MjjYud a[href*="c-sharpcorner.com"]:upward(.MjjYud)
+google.*##.g:has(a[href*="topcode.in"])
 ||javascripttutorial.net^$all
 google.*###rso .MjjYud a[href*="javascripttutorial.net"]:upward(.MjjYud)
 ||geekwall.in^$all
@@ -73,4 +71,10 @@ google.*###rso .MjjYud a[href*="ngontinh24.com"]:upward(.MjjYud)
 ||nmstep.org^$all
 google.*###rso .MjjYud a[href*="nmstep.org"]:upward(.MjjYud)
 ||juicycleanses.com^$all
-google.*###rso .MjjYud a[href*="juicycleanses.com"]:upward(.MjjYud)
+google.*##.g:has(a[href*="juicycleanses.com"])
+||code-discuss.com^$all
+google.*##.g:has(a[href*="code-discuss.com"])
+||bong-faq.com^$all
+google.*##.g:has(a[href*="bong-faq.com"])
+||suptitles.de^$all
+google.*##.g:has(a[href*="suptitles.de"])

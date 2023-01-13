@@ -131,9 +131,9 @@ ecosia.org###main .result:has(a[href*="issuehint.com"])
 ||rpkg.in^$all
 ecosia.org###main .result:has(a[href*="rpkg.in"])
 ||geeksrepos.com^$all
-ecosia.org###main .result:has(a[href*="geeksrepos.com"])
-||lightrun.com^$all
-ecosia.org###main .result:has(a[href*="lightrun.com"])
+ecosia.org##.result:has(a[href*="geeksrepos.com"])
+||lightrun.com/answers$all
+ecosia.org##.result:has(a[href*="lightrun.com/answers"])
 ||pullanswer.com^$all
 ecosia.org###main .result:has(a[href*="pullanswer.com"])
 ||devpick.io^$all
@@ -153,7 +153,9 @@ ecosia.org###main .result:has(a[href*="citizendium.org"])
 ||codesti.com^$all
 ecosia.org###main .result:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
-ecosia.org###main .result:has(a[href*="pythontechworld.com"])
+ecosia.org##.result:has(a[href*="pythontechworld.com"])
+||web.bluecomtech.com^$all
+ecosia.org##.result:has(a[href*="web.bluecomtech.com"])
 ||npmmirror.com^$all
 ecosia.org###main .result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -171,9 +173,7 @@ ecosia.org###main .result:has(a[href*="durrell2012.com"])
 ||developpaper.com^$all
 ecosia.org###main .result:has(a[href*="developpaper.com"])
 ||topcode.in^$all
-ecosia.org###main .result:has(a[href*="topcode.in"])
-||c-sharpcorner.com^$all
-ecosia.org###main .result:has(a[href*="c-sharpcorner.com"])
+ecosia.org##.result:has(a[href*="topcode.in"])
 ||javascripttutorial.net^$all
 ecosia.org###main .result:has(a[href*="javascripttutorial.net"])
 ||geekwall.in^$all
@@ -227,7 +227,13 @@ ecosia.org###main .result:has(a[href*="ngontinh24.com"])
 ||nmstep.org^$all
 ecosia.org###main .result:has(a[href*="nmstep.org"])
 ||juicycleanses.com^$all
-ecosia.org###main .result:has(a[href*="juicycleanses.com"])
+ecosia.org##.result:has(a[href*="juicycleanses.com"])
+||code-discuss.com^$all
+ecosia.org##.result:has(a[href*="code-discuss.com"])
+||bong-faq.com^$all
+ecosia.org##.result:has(a[href*="bong-faq.com"])
+||suptitles.de^$all
+ecosia.org##.result:has(a[href*="suptitles.de"])
 ||code-examples.net^$all
 ecosia.org###main .result:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
@@ -1247,7 +1253,39 @@ ecosia.org###main .result:has(a[href*="pullrequest.ru"])
 ||lmlphp.com^$all
 ecosia.org###main .result:has(a[href*="lmlphp.com"])
 ||w3guides.com^$all
-ecosia.org###main .result:has(a[href*="w3guides.com"])
+ecosia.org##.result:has(a[href*="w3guides.com"])
+||stackprinter.com^$all
+ecosia.org##.result:has(a[href*="stackprinter.com"])
+||pnpsummit.com^$all
+ecosia.org##.result:has(a[href*="pnpsummit.com"])
+||breadybready.blogspot.com^$all
+ecosia.org##.result:has(a[href*="breadybready.blogspot.com"])
+||itcodar.com^$all
+ecosia.org##.result:has(a[href*="itcodar.com"])
+||cplusplusbug.info^$all
+ecosia.org##.result:has(a[href*="cplusplusbug.info"])
+||qiniu.com^$all
+ecosia.org##.result:has(a[href*="qiniu.com"])
+||answall.com^$all
+ecosia.org##.result:has(a[href*="answall.com"])
+||tagmerge.com^$all
+ecosia.org##.result:has(a[href*="tagmerge.com"])
+||9to5science.com^$all
+ecosia.org##.result:has(a[href*="9to5science.com"])
+||find-error.com^$all
+ecosia.org##.result:has(a[href*="find-error.com"])
+||whereismyanswer.com^$all
+ecosia.org##.result:has(a[href*="whereismyanswer.com"])
+||lokasi.live^$all
+ecosia.org##.result:has(a[href*="lokasi.live"])
+||minggu.live^$all
+ecosia.org##.result:has(a[href*="minggu.live"])
+||interface.pub^$all
+ecosia.org##.result:has(a[href*="interface.pub"])
+||coolfire25.com^$all
+ecosia.org##.result:has(a[href*="coolfire25.com"])
+||segmentfault.com^$all
+ecosia.org##.result:has(a[href*="segmentfault.com"])
 ||encyclopedia.thefreedictionary.com^$all
 ecosia.org###main .result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all
@@ -1331,4 +1369,6 @@ ecosia.org###main .result:has(a[href*="wikibrief.org"])
 ||second.wiki^$all
 ecosia.org###main .result:has(a[href*="second.wiki"])
 ||dewiki.de^$all
-ecosia.org###main .result:has(a[href*="dewiki.de"])
+ecosia.org##.result:has(a[href*="dewiki.de"])
+||wiki.alquds.edu^$all
+ecosia.org##.result:has(a[href*="wiki.alquds.edu"])

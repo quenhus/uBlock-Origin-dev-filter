@@ -12,7 +12,6 @@
 [data-domain*="durrell2012.com"],
 [data-domain*="developpaper.com"],
 [data-domain*="topcode.in"],
-[data-domain*="c-sharpcorner.com"],
 [data-domain*="javascripttutorial.net"],
 [data-domain*="geekwall.in"],
 [data-domain*="dzone.com"],
@@ -40,6 +39,9 @@
 [data-domain*="ngontinh24.com"],
 [data-domain*="nmstep.org"],
 [data-domain*="juicycleanses.com"],
+[data-domain*="code-discuss.com"],
+[data-domain*="bong-faq.com"],
+[data-domain*="suptitles.de"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

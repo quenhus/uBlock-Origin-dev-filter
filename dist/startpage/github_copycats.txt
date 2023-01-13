@@ -132,8 +132,8 @@ startpage.com##.w-gl__result:has(a[href*="issuehint.com"])
 startpage.com##.w-gl__result:has(a[href*="rpkg.in"])
 ||geeksrepos.com^$all
 startpage.com##.w-gl__result:has(a[href*="geeksrepos.com"])
-||lightrun.com^$all
-startpage.com##.w-gl__result:has(a[href*="lightrun.com"])
+||lightrun.com/answers$all
+startpage.com##.w-gl__result:has(a[href*="lightrun.com/answers"])
 ||pullanswer.com^$all
 startpage.com##.w-gl__result:has(a[href*="pullanswer.com"])
 ||devpick.io^$all
@@ -154,3 +154,5 @@ startpage.com##.w-gl__result:has(a[href*="citizendium.org"])
 startpage.com##.w-gl__result:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
 startpage.com##.w-gl__result:has(a[href*="pythontechworld.com"])
+||web.bluecomtech.com^$all
+startpage.com##.w-gl__result:has(a[href*="web.bluecomtech.com"])

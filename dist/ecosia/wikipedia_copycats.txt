@@ -89,4 +89,6 @@ ecosia.org###main .result:has(a[href*="wikibrief.org"])
 ||second.wiki^$all
 ecosia.org###main .result:has(a[href*="second.wiki"])
 ||dewiki.de^$all
-ecosia.org###main .result:has(a[href*="dewiki.de"])
+ecosia.org##.result:has(a[href*="dewiki.de"])
+||wiki.alquds.edu^$all
+ecosia.org##.result:has(a[href*="wiki.alquds.edu"])

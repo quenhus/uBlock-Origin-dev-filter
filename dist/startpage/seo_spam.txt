@@ -18,8 +18,6 @@ startpage.com##.w-gl__result:has(a[href*="durrell2012.com"])
 startpage.com##.w-gl__result:has(a[href*="developpaper.com"])
 ||topcode.in^$all
 startpage.com##.w-gl__result:has(a[href*="topcode.in"])
-||c-sharpcorner.com^$all
-startpage.com##.w-gl__result:has(a[href*="c-sharpcorner.com"])
 ||javascripttutorial.net^$all
 startpage.com##.w-gl__result:has(a[href*="javascripttutorial.net"])
 ||geekwall.in^$all
@@ -74,3 +72,9 @@ startpage.com##.w-gl__result:has(a[href*="ngontinh24.com"])
 startpage.com##.w-gl__result:has(a[href*="nmstep.org"])
 ||juicycleanses.com^$all
 startpage.com##.w-gl__result:has(a[href*="juicycleanses.com"])
+||code-discuss.com^$all
+startpage.com##.w-gl__result:has(a[href*="code-discuss.com"])
+||bong-faq.com^$all
+startpage.com##.w-gl__result:has(a[href*="bong-faq.com"])
+||suptitles.de^$all
+startpage.com##.w-gl__result:has(a[href*="suptitles.de"])
