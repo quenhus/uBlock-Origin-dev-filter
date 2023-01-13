@@ -7,225 +7,225 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 ||bleepcoder.com^$all
-ecosia.org##.result:has(a[href*="bleepcoder.com"])
+ecosia.org###main .result:has(a[href*="bleepcoder.com"])
 ||githubja.com^$all
-ecosia.org##.result:has(a[href*="githubja.com"])
+ecosia.org###main .result:has(a[href*="githubja.com"])
 ||giters.com^$all
-ecosia.org##.result:has(a[href*="giters.com"])
+ecosia.org###main .result:has(a[href*="giters.com"])
 ||githubmemory.com^$all
-ecosia.org##.result:has(a[href*="githubmemory.com"])
+ecosia.org###main .result:has(a[href*="githubmemory.com"])
 ||wenyanet.com^$all
-ecosia.org##.result:has(a[href*="wenyanet.com"])
+ecosia.org###main .result:has(a[href*="wenyanet.com"])
 ||issueexplorer.com^$all
-ecosia.org##.result:has(a[href*="issueexplorer.com"])
+ecosia.org###main .result:has(a[href*="issueexplorer.com"])
 ||opensourcelibs.com^$all
-ecosia.org##.result:has(a[href*="opensourcelibs.com"])
+ecosia.org###main .result:has(a[href*="opensourcelibs.com"])
 ||awesomeopensource.com^$all
-ecosia.org##.result:has(a[href*="awesomeopensource.com"])
+ecosia.org###main .result:has(a[href*="awesomeopensource.com"])
 ||findbestopensource.com^$all
-ecosia.org##.result:has(a[href*="findbestopensource.com"])
+ecosia.org###main .result:has(a[href*="findbestopensource.com"])
 ||githubhelp.com^$all
-ecosia.org##.result:has(a[href*="githubhelp.com"])
+ecosia.org###main .result:has(a[href*="githubhelp.com"])
 ||pythonissues.com^$all
-ecosia.org##.result:has(a[href*="pythonissues.com"])
+ecosia.org###main .result:has(a[href*="pythonissues.com"])
 ||golangrepo.com^$all
-ecosia.org##.result:has(a[href*="golangrepo.com"])
+ecosia.org###main .result:has(a[href*="golangrepo.com"])
 ||gitmemory.cn^$all
-ecosia.org##.result:has(a[href*="gitmemory.cn"])
+ecosia.org###main .result:has(a[href*="gitmemory.cn"])
 ||githubmate.com^$all
-ecosia.org##.result:has(a[href*="githubmate.com"])
+ecosia.org###main .result:has(a[href*="githubmate.com"])
 ||reposhub.com^$all
-ecosia.org##.result:has(a[href*="reposhub.com"])
+ecosia.org###main .result:has(a[href*="reposhub.com"])
 ||gitanswer.com^$all
-ecosia.org##.result:has(a[href*="gitanswer.com"])
+ecosia.org###main .result:has(a[href*="gitanswer.com"])
 ||githubplus.com^$all
-ecosia.org##.result:has(a[href*="githubplus.com"])
+ecosia.org###main .result:has(a[href*="githubplus.com"])
 ||pythonrepo.com^$all
-ecosia.org##.result:has(a[href*="pythonrepo.com"])
+ecosia.org###main .result:has(a[href*="pythonrepo.com"])
 ||bestofcpp.com^$all
-ecosia.org##.result:has(a[href*="bestofcpp.com"])
+ecosia.org###main .result:has(a[href*="bestofcpp.com"])
 ||github.innominds.com^$all
-ecosia.org##.result:has(a[href*="github.innominds.com"])
+ecosia.org###main .result:has(a[href*="github.innominds.com"])
 ||higithub.com^$all
-ecosia.org##.result:has(a[href*="higithub.com"])
+ecosia.org###main .result:has(a[href*="higithub.com"])
 ||golangissues.com^$all
-ecosia.org##.result:has(a[href*="golangissues.com"])
+ecosia.org###main .result:has(a[href*="golangissues.com"])
 ||gitfreak.com^$all
-ecosia.org##.result:has(a[href*="gitfreak.com"])
+ecosia.org###main .result:has(a[href*="gitfreak.com"])
 ||pythonawesome.com^$all
-ecosia.org##.result:has(a[href*="pythonawesome.com"])
+ecosia.org###main .result:has(a[href*="pythonawesome.com"])
 ||gitmotion.com^$all
-ecosia.org##.result:has(a[href*="gitmotion.com"])
+ecosia.org###main .result:has(a[href*="gitmotion.com"])
 ||fantashit.com^$all
-ecosia.org##.result:has(a[href*="fantashit.com"])
+ecosia.org###main .result:has(a[href*="fantashit.com"])
 ||gitcode.net^$all
-ecosia.org##.result:has(a[href*="gitcode.net"])
+ecosia.org###main .result:has(a[href*="gitcode.net"])
 ||news24lite.com^$all
-ecosia.org##.result:has(a[href*="news24lite.com"])
+ecosia.org###main .result:has(a[href*="news24lite.com"])
 ||github.phala.one^$all
-ecosia.org##.result:has(a[href*="github.phala.one"])
+ecosia.org###main .result:has(a[href*="github.phala.one"])
 ||google-yandex.info^$all
-ecosia.org##.result:has(a[href*="google-yandex.info"])
+ecosia.org###main .result:has(a[href*="google-yandex.info"])
 ||coder.social^$all
-ecosia.org##.result:has(a[href*="coder.social"])
+ecosia.org###main .result:has(a[href*="coder.social"])
 ||javarepos.com^$all
-ecosia.org##.result:has(a[href*="javarepos.com"])
+ecosia.org###main .result:has(a[href*="javarepos.com"])
 ||fastgit.org^$all
-ecosia.org##.result:has(a[href*="fastgit.org"])
+ecosia.org###main .result:has(a[href*="fastgit.org"])
 ||gitmetadata.com^$all
-ecosia.org##.result:has(a[href*="gitmetadata.com"])
+ecosia.org###main .result:has(a[href*="gitmetadata.com"])
 ||iboxshare.com^$all
-ecosia.org##.result:has(a[href*="iboxshare.com"])
+ecosia.org###main .result:has(a[href*="iboxshare.com"])
 ||fuscin.com^$all
-ecosia.org##.result:has(a[href*="fuscin.com"])
+ecosia.org###main .result:has(a[href*="fuscin.com"])
 ||bestofvue.com^$all
-ecosia.org##.result:has(a[href*="bestofvue.com"])
+ecosia.org###main .result:has(a[href*="bestofvue.com"])
 ||swiftobc.com^$all
-ecosia.org##.result:has(a[href*="swiftobc.com"])
+ecosia.org###main .result:has(a[href*="swiftobc.com"])
 ||flutterrepos.com^$all
-ecosia.org##.result:has(a[href*="flutterrepos.com"])
+ecosia.org###main .result:has(a[href*="flutterrepos.com"])
 ||androidrepo.com^$all
-ecosia.org##.result:has(a[href*="androidrepo.com"])
+ecosia.org###main .result:has(a[href*="androidrepo.com"])
 ||bestofflutter.com^$all
-ecosia.org##.result:has(a[href*="bestofflutter.com"])
+ecosia.org###main .result:has(a[href*="bestofflutter.com"])
 ||jsrepos.com^$all
-ecosia.org##.result:has(a[href*="jsrepos.com"])
+ecosia.org###main .result:has(a[href*="jsrepos.com"])
 ||macosrepo.com^$all
-ecosia.org##.result:has(a[href*="macosrepo.com"])
+ecosia.org###main .result:has(a[href*="macosrepo.com"])
 ||zzun.app^$all
-ecosia.org##.result:has(a[href*="zzun.app"])
+ecosia.org###main .result:has(a[href*="zzun.app"])
 ||rustrepo.com^$all
-ecosia.org##.result:has(a[href*="rustrepo.com"])
+ecosia.org###main .result:has(a[href*="rustrepo.com"])
 ||bestofreactjs.com^$all
-ecosia.org##.result:has(a[href*="bestofreactjs.com"])
+ecosia.org###main .result:has(a[href*="bestofreactjs.com"])
 ||bestofphp.com^$all
-ecosia.org##.result:has(a[href*="bestofphp.com"])
+ecosia.org###main .result:has(a[href*="bestofphp.com"])
 ||softbranchdevelopers.com^$all
-ecosia.org##.result:has(a[href*="softbranchdevelopers.com"])
+ecosia.org###main .result:has(a[href*="softbranchdevelopers.com"])
 ||issueantenna.com^$all
-ecosia.org##.result:has(a[href*="issueantenna.com"])
+ecosia.org###main .result:has(a[href*="issueantenna.com"])
 ||pythonlang.dev^$all
-ecosia.org##.result:has(a[href*="pythonlang.dev"])
+ecosia.org###main .result:has(a[href*="pythonlang.dev"])
 ||githublab.com^$all
-ecosia.org##.result:has(a[href*="githublab.com"])
+ecosia.org###main .result:has(a[href*="githublab.com"])
 ||libhunt.com^$all
-ecosia.org##.result:has(a[href*="libhunt.com"])
+ecosia.org###main .result:has(a[href*="libhunt.com"])
 ||andywarholpopartillustration.blogspot.com^$all
-ecosia.org##.result:has(a[href*="andywarholpopartillustration.blogspot.com"])
+ecosia.org###main .result:has(a[href*="andywarholpopartillustration.blogspot.com"])
 ||bytemeta.vip^$all
-ecosia.org##.result:has(a[href*="bytemeta.vip"])
+ecosia.org###main .result:has(a[href*="bytemeta.vip"])
 ||editcode.net^$all
-ecosia.org##.result:has(a[href*="editcode.net"])
+ecosia.org###main .result:has(a[href*="editcode.net"])
 ||golangexample.com^$all
-ecosia.org##.result:has(a[href*="golangexample.com"])
+ecosia.org###main .result:has(a[href*="golangexample.com"])
 ||github.astrophel.org^$all
-ecosia.org##.result:has(a[href*="github.astrophel.org"])
+ecosia.org###main .result:has(a[href*="github.astrophel.org"])
 ||gitdetail.com^$all
-ecosia.org##.result:has(a[href*="gitdetail.com"])
+ecosia.org###main .result:has(a[href*="gitdetail.com"])
 ||codespots.com^$all
-ecosia.org##.result:has(a[href*="codespots.com"])
+ecosia.org###main .result:has(a[href*="codespots.com"])
 ||issuemode.com^$all
-ecosia.org##.result:has(a[href*="issuemode.com"])
+ecosia.org###main .result:has(a[href*="issuemode.com"])
 ||issuehint.com^$all
-ecosia.org##.result:has(a[href*="issuehint.com"])
+ecosia.org###main .result:has(a[href*="issuehint.com"])
 ||rpkg.in^$all
-ecosia.org##.result:has(a[href*="rpkg.in"])
+ecosia.org###main .result:has(a[href*="rpkg.in"])
 ||geeksrepos.com^$all
 ecosia.org##.result:has(a[href*="geeksrepos.com"])
 ||lightrun.com/answers$all
 ecosia.org##.result:has(a[href*="lightrun.com/answers"])
 ||pullanswer.com^$all
-ecosia.org##.result:has(a[href*="pullanswer.com"])
+ecosia.org###main .result:has(a[href*="pullanswer.com"])
 ||devpick.io^$all
-ecosia.org##.result:has(a[href*="devpick.io"])
+ecosia.org###main .result:has(a[href*="devpick.io"])
 ||opensourceagenda.com^$all
-ecosia.org##.result:has(a[href*="opensourceagenda.com"])
+ecosia.org###main .result:has(a[href*="opensourceagenda.com"])
 ||gitmemories.com^$all
-ecosia.org##.result:has(a[href*="gitmemories.com"])
+ecosia.org###main .result:has(a[href*="gitmemories.com"])
 ||wikimili.com^$all
-ecosia.org##.result:has(a[href*="wikimili.com"])
+ecosia.org###main .result:has(a[href*="wikimili.com"])
 ||newworldencyclopedia.org^$all
-ecosia.org##.result:has(a[href*="newworldencyclopedia.org"])
+ecosia.org###main .result:has(a[href*="newworldencyclopedia.org"])
 ||bestproduct-review.com^$all
-ecosia.org##.result:has(a[href*="bestproduct-review.com"])
+ecosia.org###main .result:has(a[href*="bestproduct-review.com"])
 ||citizendium.org^$all
-ecosia.org##.result:has(a[href*="citizendium.org"])
+ecosia.org###main .result:has(a[href*="citizendium.org"])
 ||codesti.com^$all
-ecosia.org##.result:has(a[href*="codesti.com"])
+ecosia.org###main .result:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
 ecosia.org##.result:has(a[href*="pythontechworld.com"])
 ||web.bluecomtech.com^$all
 ecosia.org##.result:has(a[href*="web.bluecomtech.com"])
 ||npmmirror.com^$all
-ecosia.org##.result:has(a[href*="npmmirror.com"])
+ecosia.org###main .result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
-ecosia.org##.result:has(a[href*="cnpmjs.org"])
+ecosia.org###main .result:has(a[href*="cnpmjs.org"])
 ||npm.io^$all
-ecosia.org##.result:has(a[href*="npm.io"])
+ecosia.org###main .result:has(a[href*="npm.io"])
 ||spiegato.com^$all
-ecosia.org##.result:has(a[href*="spiegato.com"])
+ecosia.org###main .result:has(a[href*="spiegato.com"])
 ||actingcollegeses.com^$all
-ecosia.org##.result:has(a[href*="actingcollegeses.com"])
+ecosia.org###main .result:has(a[href*="actingcollegeses.com"])
 ||patrickkidd3.typepad.com^$all
-ecosia.org##.result:has(a[href*="patrickkidd3.typepad.com"])
+ecosia.org###main .result:has(a[href*="patrickkidd3.typepad.com"])
 ||durrell2012.com^$all
-ecosia.org##.result:has(a[href*="durrell2012.com"])
+ecosia.org###main .result:has(a[href*="durrell2012.com"])
 ||developpaper.com^$all
-ecosia.org##.result:has(a[href*="developpaper.com"])
+ecosia.org###main .result:has(a[href*="developpaper.com"])
 ||topcode.in^$all
 ecosia.org##.result:has(a[href*="topcode.in"])
 ||javascripttutorial.net^$all
-ecosia.org##.result:has(a[href*="javascripttutorial.net"])
+ecosia.org###main .result:has(a[href*="javascripttutorial.net"])
 ||geekwall.in^$all
-ecosia.org##.result:has(a[href*="geekwall.in"])
+ecosia.org###main .result:has(a[href*="geekwall.in"])
 ||dzone.com^$all
-ecosia.org##.result:has(a[href*="dzone.com"])
+ecosia.org###main .result:has(a[href*="dzone.com"])
 ||mailinglistapi.info^$all
-ecosia.org##.result:has(a[href*="mailinglistapi.info"])
+ecosia.org###main .result:has(a[href*="mailinglistapi.info"])
 ||worldgrowthtoday.com^$all
-ecosia.org##.result:has(a[href*="worldgrowthtoday.com"])
+ecosia.org###main .result:has(a[href*="worldgrowthtoday.com"])
 ||emailconverts.info^$all
-ecosia.org##.result:has(a[href*="emailconverts.info"])
+ecosia.org###main .result:has(a[href*="emailconverts.info"])
 ||email-pro.info^$all
-ecosia.org##.result:has(a[href*="email-pro.info"])
+ecosia.org###main .result:has(a[href*="email-pro.info"])
 ||icode9.com^$all
-ecosia.org##.result:has(a[href*="icode9.com"])
+ecosia.org###main .result:has(a[href*="icode9.com"])
 ||900913.ru^$all
-ecosia.org##.result:has(a[href*="900913.ru"])
+ecosia.org###main .result:has(a[href*="900913.ru"])
 ||iditect.com^$all
-ecosia.org##.result:has(a[href*="iditect.com"])
+ecosia.org###main .result:has(a[href*="iditect.com"])
 ||jqueryscript.net^$all
-ecosia.org##.result:has(a[href*="jqueryscript.net"])
+ecosia.org###main .result:has(a[href*="jqueryscript.net"])
 ||osqa.net^$all
-ecosia.org##.result:has(a[href*="osqa.net"])
+ecosia.org###main .result:has(a[href*="osqa.net"])
 ||codingwithfun.com^$all
-ecosia.org##.result:has(a[href*="codingwithfun.com"])
+ecosia.org###main .result:has(a[href*="codingwithfun.com"])
 ||codesprogram.com^$all
-ecosia.org##.result:has(a[href*="codesprogram.com"])
+ecosia.org###main .result:has(a[href*="codesprogram.com"])
 ||iqcode.com^$all
-ecosia.org##.result:has(a[href*="iqcode.com"])
+ecosia.org###main .result:has(a[href*="iqcode.com"])
 ||hum-berlin.de^$all
-ecosia.org##.result:has(a[href*="hum-berlin.de"])
+ecosia.org###main .result:has(a[href*="hum-berlin.de"])
 ||britguidenewyork.net^$all
-ecosia.org##.result:has(a[href*="britguidenewyork.net"])
+ecosia.org###main .result:has(a[href*="britguidenewyork.net"])
 ||justshowcode.com^$all
-ecosia.org##.result:has(a[href*="justshowcode.com"])
+ecosia.org###main .result:has(a[href*="justshowcode.com"])
 ||itw01.com^$all
-ecosia.org##.result:has(a[href*="itw01.com"])
+ecosia.org###main .result:has(a[href*="itw01.com"])
 ||codertw.com^$all
-ecosia.org##.result:has(a[href*="codertw.com"])
+ecosia.org###main .result:has(a[href*="codertw.com"])
 ||multi-let.co.uk^$all
-ecosia.org##.result:has(a[href*="multi-let.co.uk"])
+ecosia.org###main .result:has(a[href*="multi-let.co.uk"])
 ||answerforyou.net^$all
-ecosia.org##.result:has(a[href*="answerforyou.net"])
+ecosia.org###main .result:has(a[href*="answerforyou.net"])
 ||globalizethis.org^$all
-ecosia.org##.result:has(a[href*="globalizethis.org"])
+ecosia.org###main .result:has(a[href*="globalizethis.org"])
 ||unbate.com^$all
-ecosia.org##.result:has(a[href*="unbate.com"])
+ecosia.org###main .result:has(a[href*="unbate.com"])
 ||ngontinh24.com^$all
-ecosia.org##.result:has(a[href*="ngontinh24.com"])
+ecosia.org###main .result:has(a[href*="ngontinh24.com"])
 ||nmstep.org^$all
-ecosia.org##.result:has(a[href*="nmstep.org"])
+ecosia.org###main .result:has(a[href*="nmstep.org"])
 ||juicycleanses.com^$all
 ecosia.org##.result:has(a[href*="juicycleanses.com"])
 ||code-discuss.com^$all
@@ -235,1023 +235,1023 @@ ecosia.org##.result:has(a[href*="bong-faq.com"])
 ||suptitles.de^$all
 ecosia.org##.result:has(a[href*="suptitles.de"])
 ||code-examples.net^$all
-ecosia.org##.result:has(a[href*="code-examples.net"])
+ecosia.org###main .result:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
-ecosia.org##.result:has(a[href*="kotaeta.com"])
+ecosia.org###main .result:has(a[href*="kotaeta.com"])
 ||answer-id.com^$all
-ecosia.org##.result:has(a[href*="answer-id.com"])
+ecosia.org###main .result:has(a[href*="answer-id.com"])
 ||code.i-harness.com^$all
-ecosia.org##.result:has(a[href*="code.i-harness.com"])
+ecosia.org###main .result:has(a[href*="code.i-harness.com"])
 ||living-sun.com^$all
-ecosia.org##.result:has(a[href*="living-sun.com"])
+ecosia.org###main .result:has(a[href*="living-sun.com"])
 ||qastack.jp^$all
-ecosia.org##.result:has(a[href*="qastack.jp"])
+ecosia.org###main .result:has(a[href*="qastack.jp"])
 ||qastack.ru^$all
-ecosia.org##.result:has(a[href*="qastack.ru"])
+ecosia.org###main .result:has(a[href*="qastack.ru"])
 ||qastack.it^$all
-ecosia.org##.result:has(a[href*="qastack.it"])
+ecosia.org###main .result:has(a[href*="qastack.it"])
 ||qastack.mx^$all
-ecosia.org##.result:has(a[href*="qastack.mx"])
+ecosia.org###main .result:has(a[href*="qastack.mx"])
 ||qastack.com.br^$all
-ecosia.org##.result:has(a[href*="qastack.com.br"])
+ecosia.org###main .result:has(a[href*="qastack.com.br"])
 ||qastack.info.tr^$all
-ecosia.org##.result:has(a[href*="qastack.info.tr"])
+ecosia.org###main .result:has(a[href*="qastack.info.tr"])
 ||qastack.in.th^$all
-ecosia.org##.result:has(a[href*="qastack.in.th"])
+ecosia.org###main .result:has(a[href*="qastack.in.th"])
 ||qastack.com.de^$all
-ecosia.org##.result:has(a[href*="qastack.com.de"])
+ecosia.org###main .result:has(a[href*="qastack.com.de"])
 ||qastack.fr^$all
-ecosia.org##.result:has(a[href*="qastack.fr"])
+ecosia.org###main .result:has(a[href*="qastack.fr"])
 ||qastack.cn^$all
-ecosia.org##.result:has(a[href*="qastack.cn"])
+ecosia.org###main .result:has(a[href*="qastack.cn"])
 ||qastack.com.ua^$all
-ecosia.org##.result:has(a[href*="qastack.com.ua"])
+ecosia.org###main .result:has(a[href*="qastack.com.ua"])
 ||qastack.co.in^$all
-ecosia.org##.result:has(a[href*="qastack.co.in"])
+ecosia.org###main .result:has(a[href*="qastack.co.in"])
 ||qastack.kr^$all
-ecosia.org##.result:has(a[href*="qastack.kr"])
+ecosia.org###main .result:has(a[href*="qastack.kr"])
 ||qastack.vn^$all
-ecosia.org##.result:has(a[href*="qastack.vn"])
+ecosia.org###main .result:has(a[href*="qastack.vn"])
 ||qastack.net.bd^$all
-ecosia.org##.result:has(a[href*="qastack.net.bd"])
+ecosia.org###main .result:has(a[href*="qastack.net.bd"])
 ||qa-stack.pl^$all
-ecosia.org##.result:has(a[href*="qa-stack.pl"])
+ecosia.org###main .result:has(a[href*="qa-stack.pl"])
 ||qastack.id^$all
-ecosia.org##.result:has(a[href*="qastack.id"])
+ecosia.org###main .result:has(a[href*="qastack.id"])
 ||coder.work^$all
-ecosia.org##.result:has(a[href*="coder.work"])
+ecosia.org###main .result:has(a[href*="coder.work"])
 ||it-swarm-ja.tech^$all
-ecosia.org##.result:has(a[href*="it-swarm-ja.tech"])
+ecosia.org###main .result:has(a[href*="it-swarm-ja.tech"])
 ||it-swarm.jp.net^$all
-ecosia.org##.result:has(a[href*="it-swarm.jp.net"])
+ecosia.org###main .result:has(a[href*="it-swarm.jp.net"])
 ||it-mure.jp.net^$all
-ecosia.org##.result:has(a[href*="it-mure.jp.net"])
+ecosia.org###main .result:has(a[href*="it-mure.jp.net"])
 ||it-swarm-ja.com^$all
-ecosia.org##.result:has(a[href*="it-swarm-ja.com"])
+ecosia.org###main .result:has(a[href*="it-swarm-ja.com"])
 ||it-swarm.com.ru^$all
-ecosia.org##.result:has(a[href*="it-swarm.com.ru"])
+ecosia.org###main .result:has(a[href*="it-swarm.com.ru"])
 ||it-swarm-fr.com^$all
-ecosia.org##.result:has(a[href*="it-swarm-fr.com"])
+ecosia.org###main .result:has(a[href*="it-swarm-fr.com"])
 ||codeflow.site^$all
-ecosia.org##.result:has(a[href*="codeflow.site"])
+ecosia.org###main .result:has(a[href*="codeflow.site"])
 ||codeguides.site^$all
-ecosia.org##.result:has(a[href*="codeguides.site"])
+ecosia.org###main .result:has(a[href*="codeguides.site"])
 ||overcoder.net^$all
-ecosia.org##.result:has(a[href*="overcoder.net"])
+ecosia.org###main .result:has(a[href*="overcoder.net"])
 ||coderoad.ru^$all
-ecosia.org##.result:has(a[href*="coderoad.ru"])
+ecosia.org###main .result:has(a[href*="coderoad.ru"])
 ||generacodice.blog^$all
-ecosia.org##.result:has(a[href*="generacodice.blog"])
+ecosia.org###main .result:has(a[href*="generacodice.blog"])
 ||generacodice.it^$all
-ecosia.org##.result:has(a[href*="generacodice.it"])
+ecosia.org###main .result:has(a[href*="generacodice.it"])
 ||generacodice.com^$all
-ecosia.org##.result:has(a[href*="generacodice.com"])
+ecosia.org###main .result:has(a[href*="generacodice.com"])
 ||javaer101.com^$all
-ecosia.org##.result:has(a[href*="javaer101.com"])
+ecosia.org###main .result:has(a[href*="javaer101.com"])
 ||voidcc.com^$all
-ecosia.org##.result:has(a[href*="voidcc.com"])
+ecosia.org###main .result:has(a[href*="voidcc.com"])
 ||siwib.org^$all
-ecosia.org##.result:has(a[href*="siwib.org"])
+ecosia.org###main .result:has(a[href*="siwib.org"])
 ||fluffyfables.com^$all
-ecosia.org##.result:has(a[href*="fluffyfables.com"])
+ecosia.org###main .result:has(a[href*="fluffyfables.com"])
 ||fixes.pub^$all
-ecosia.org##.result:has(a[href*="fixes.pub"])
+ecosia.org###main .result:has(a[href*="fixes.pub"])
 ||knews.vip^$all
-ecosia.org##.result:has(a[href*="knews.vip"])
+ecosia.org###main .result:has(a[href*="knews.vip"])
 ||isolution.pro^$all
-ecosia.org##.result:has(a[href*="isolution.pro"])
+ecosia.org###main .result:has(a[href*="isolution.pro"])
 ||uwenku.com^$all
-ecosia.org##.result:has(a[href*="uwenku.com"])
+ecosia.org###main .result:has(a[href*="uwenku.com"])
 ||lycaeum.dev^$all
-ecosia.org##.result:has(a[href*="lycaeum.dev"])
+ecosia.org###main .result:has(a[href*="lycaeum.dev"])
 ||brocante.dev^$all
-ecosia.org##.result:has(a[href*="brocante.dev"])
+ecosia.org###main .result:has(a[href*="brocante.dev"])
 ||classmethod.dev^$all
-ecosia.org##.result:has(a[href*="classmethod.dev"])
+ecosia.org###main .result:has(a[href*="classmethod.dev"])
 ||stormcrow.dev^$all
-ecosia.org##.result:has(a[href*="stormcrow.dev"])
+ecosia.org###main .result:has(a[href*="stormcrow.dev"])
 ||athabasca-foto.com^$all
-ecosia.org##.result:has(a[href*="athabasca-foto.com"])
+ecosia.org###main .result:has(a[href*="athabasca-foto.com"])
 ||zsharp.org^$all
-ecosia.org##.result:has(a[href*="zsharp.org"])
+ecosia.org###main .result:has(a[href*="zsharp.org"])
 ||projectbackpack.org^$all
-ecosia.org##.result:has(a[href*="projectbackpack.org"])
+ecosia.org###main .result:has(a[href*="projectbackpack.org"])
 ||waymanamechurch.org^$all
-ecosia.org##.result:has(a[href*="waymanamechurch.org"])
+ecosia.org###main .result:has(a[href*="waymanamechurch.org"])
 ||sunflowercreations.org^$all
-ecosia.org##.result:has(a[href*="sunflowercreations.org"])
+ecosia.org###main .result:has(a[href*="sunflowercreations.org"])
 ||cfadnc.org^$all
-ecosia.org##.result:has(a[href*="cfadnc.org"])
+ecosia.org###main .result:has(a[href*="cfadnc.org"])
 ||fitforlearning.org^$all
-ecosia.org##.result:has(a[href*="fitforlearning.org"])
+ecosia.org###main .result:has(a[href*="fitforlearning.org"])
 ||panaindustrial.com^$all
-ecosia.org##.result:has(a[href*="panaindustrial.com"])
+ecosia.org###main .result:has(a[href*="panaindustrial.com"])
 ||sierrasummit2005.org^$all
-ecosia.org##.result:has(a[href*="sierrasummit2005.org"])
+ecosia.org###main .result:has(a[href*="sierrasummit2005.org"])
 ||theshuggahpies.com^$all
-ecosia.org##.result:has(a[href*="theshuggahpies.com"])
+ecosia.org###main .result:has(a[href*="theshuggahpies.com"])
 ||pcbconline.org^$all
-ecosia.org##.result:has(a[href*="pcbconline.org"])
+ecosia.org###main .result:has(a[href*="pcbconline.org"])
 ||nuomiphp.com^$all
-ecosia.org##.result:has(a[href*="nuomiphp.com"])
+ecosia.org###main .result:has(a[href*="nuomiphp.com"])
 ||ubuntu.buildwebhost.com^$all
-ecosia.org##.result:has(a[href*="ubuntu.buildwebhost.com"])
+ecosia.org###main .result:has(a[href*="ubuntu.buildwebhost.com"])
 ||ubuntuaa.com^$all
-ecosia.org##.result:has(a[href*="ubuntuaa.com"])
+ecosia.org###main .result:has(a[href*="ubuntuaa.com"])
 ||debugcn.com^$all
-ecosia.org##.result:has(a[href*="debugcn.com"])
+ecosia.org###main .result:has(a[href*="debugcn.com"])
 ||sch22.org^$all
-ecosia.org##.result:has(a[href*="sch22.org"])
+ecosia.org###main .result:has(a[href*="sch22.org"])
 ||gupgallery.com^$all
-ecosia.org##.result:has(a[href*="gupgallery.com"])
+ecosia.org###main .result:has(a[href*="gupgallery.com"])
 ||amuddycup.com^$all
-ecosia.org##.result:has(a[href*="amuddycup.com"])
+ecosia.org###main .result:has(a[href*="amuddycup.com"])
 ||ecnf2016.org^$all
-ecosia.org##.result:has(a[href*="ecnf2016.org"])
+ecosia.org###main .result:has(a[href*="ecnf2016.org"])
 ||softwareuser.asklobster.com^$all
-ecosia.org##.result:has(a[href*="softwareuser.asklobster.com"])
+ecosia.org###main .result:has(a[href*="softwareuser.asklobster.com"])
 ||domainelespailles.net^$all
-ecosia.org##.result:has(a[href*="domainelespailles.net"])
+ecosia.org###main .result:has(a[href*="domainelespailles.net"])
 ||ec-europe.org^$all
-ecosia.org##.result:has(a[href*="ec-europe.org"])
+ecosia.org###main .result:has(a[href*="ec-europe.org"])
 ||pakostnici.com^$all
-ecosia.org##.result:has(a[href*="pakostnici.com"])
+ecosia.org###main .result:has(a[href*="pakostnici.com"])
 ||try2explore.com^$all
-ecosia.org##.result:has(a[href*="try2explore.com"])
+ecosia.org###main .result:has(a[href*="try2explore.com"])
 ||laravelquestions.com^$all
-ecosia.org##.result:has(a[href*="laravelquestions.com"])
+ecosia.org###main .result:has(a[href*="laravelquestions.com"])
 ||itectec.com^$all
-ecosia.org##.result:has(a[href*="itectec.com"])
+ecosia.org###main .result:has(a[href*="itectec.com"])
 ||stackovergo.com^$all
-ecosia.org##.result:has(a[href*="stackovergo.com"])
+ecosia.org###main .result:has(a[href*="stackovergo.com"])
 ||faithcov.org^$all
-ecosia.org##.result:has(a[href*="faithcov.org"])
+ecosia.org###main .result:has(a[href*="faithcov.org"])
 ||noblenaz.org^$all
-ecosia.org##.result:has(a[href*="noblenaz.org"])
+ecosia.org###main .result:has(a[href*="noblenaz.org"])
 ||py4u.net^$all
-ecosia.org##.result:has(a[href*="py4u.net"])
+ecosia.org###main .result:has(a[href*="py4u.net"])
 ||culinarydegree.info^$all
-ecosia.org##.result:has(a[href*="culinarydegree.info"])
+ecosia.org###main .result:has(a[href*="culinarydegree.info"])
 ||safehavenpetrescue.org^$all
-ecosia.org##.result:has(a[href*="safehavenpetrescue.org"])
+ecosia.org###main .result:has(a[href*="safehavenpetrescue.org"])
 ||qapicks.com^$all
-ecosia.org##.result:has(a[href*="qapicks.com"])
+ecosia.org###main .result:has(a[href*="qapicks.com"])
 ||issues-world.com^$all
-ecosia.org##.result:has(a[href*="issues-world.com"])
+ecosia.org###main .result:has(a[href*="issues-world.com"])
 ||narkive.jp^$all
-ecosia.org##.result:has(a[href*="narkive.jp"])
+ecosia.org###main .result:has(a[href*="narkive.jp"])
 ||ourladylakes.org^$all
-ecosia.org##.result:has(a[href*="ourladylakes.org"])
+ecosia.org###main .result:has(a[href*="ourladylakes.org"])
 ||intellipaat.com^$all
-ecosia.org##.result:has(a[href*="intellipaat.com"])
+ecosia.org###main .result:has(a[href*="intellipaat.com"])
 ||article.docway.net^$all
-ecosia.org##.result:has(a[href*="article.docway.net"])
+ecosia.org###main .result:has(a[href*="article.docway.net"])
 ||xiu2.net^$all
-ecosia.org##.result:has(a[href*="xiu2.net"])
+ecosia.org###main .result:has(a[href*="xiu2.net"])
 ||codehero.jp^$all
-ecosia.org##.result:has(a[href*="codehero.jp"])
+ecosia.org###main .result:has(a[href*="codehero.jp"])
 ||quabr.com^$all
-ecosia.org##.result:has(a[href*="quabr.com"])
+ecosia.org###main .result:has(a[href*="quabr.com"])
 ||webdevqa.jp.net^$all
-ecosia.org##.result:has(a[href*="webdevqa.jp.net"])
+ecosia.org###main .result:has(a[href*="webdevqa.jp.net"])
 ||exceptionshub.com^$all
-ecosia.org##.result:has(a[href*="exceptionshub.com"])
+ecosia.org###main .result:has(a[href*="exceptionshub.com"])
 ||newbedev.com^$all
-ecosia.org##.result:has(a[href*="newbedev.com"])
+ecosia.org###main .result:has(a[href*="newbedev.com"])
 ||codenong.com^$all
-ecosia.org##.result:has(a[href*="codenong.com"])
+ecosia.org###main .result:has(a[href*="codenong.com"])
 ||cainiaojiaocheng.com^$all
-ecosia.org##.result:has(a[href*="cainiaojiaocheng.com"])
+ecosia.org###main .result:has(a[href*="cainiaojiaocheng.com"])
 ||routinepanic.com^$all
-ecosia.org##.result:has(a[href*="routinepanic.com"])
+ecosia.org###main .result:has(a[href*="routinepanic.com"])
 ||pythonwd.com^$all
-ecosia.org##.result:has(a[href*="pythonwd.com"])
+ecosia.org###main .result:has(a[href*="pythonwd.com"])
 ||tutorialmore.com^$all
-ecosia.org##.result:has(a[href*="tutorialmore.com"])
+ecosia.org###main .result:has(a[href*="tutorialmore.com"])
 ||alwaysemmyhope.com^$all
-ecosia.org##.result:has(a[href*="alwaysemmyhope.com"])
+ecosia.org###main .result:has(a[href*="alwaysemmyhope.com"])
 ||pretagteam.com^$all
-ecosia.org##.result:has(a[href*="pretagteam.com"])
+ecosia.org###main .result:has(a[href*="pretagteam.com"])
 ||titanwolf.org^$all
-ecosia.org##.result:has(a[href*="titanwolf.org"])
+ecosia.org###main .result:has(a[href*="titanwolf.org"])
 ||coderedirect.com^$all
-ecosia.org##.result:has(a[href*="coderedirect.com"])
+ecosia.org###main .result:has(a[href*="coderedirect.com"])
 ||ostack.cn^$all
-ecosia.org##.result:has(a[href*="ostack.cn"])
+ecosia.org###main .result:has(a[href*="ostack.cn"])
 ||easysavecode.com^$all
-ecosia.org##.result:has(a[href*="easysavecode.com"])
+ecosia.org###main .result:has(a[href*="easysavecode.com"])
 ||webdevdesigner.com^$all
-ecosia.org##.result:has(a[href*="webdevdesigner.com"])
+ecosia.org###main .result:has(a[href*="webdevdesigner.com"])
 ||ghcc.net^$all
-ecosia.org##.result:has(a[href*="ghcc.net"])
+ecosia.org###main .result:has(a[href*="ghcc.net"])
 ||developreference.com^$all
-ecosia.org##.result:has(a[href*="developreference.com"])
+ecosia.org###main .result:has(a[href*="developreference.com"])
 ||semicolonworld.com^$all
-ecosia.org##.result:has(a[href*="semicolonworld.com"])
+ecosia.org###main .result:has(a[href*="semicolonworld.com"])
 ||tipsfordev.com^$all
-ecosia.org##.result:has(a[href*="tipsfordev.com"])
+ecosia.org###main .result:has(a[href*="tipsfordev.com"])
 ||qi-u.com^$all
-ecosia.org##.result:has(a[href*="qi-u.com"])
+ecosia.org###main .result:has(a[href*="qi-u.com"])
 ||stackqna.com^$all
-ecosia.org##.result:has(a[href*="stackqna.com"])
+ecosia.org###main .result:has(a[href*="stackqna.com"])
 ||xsprogram.com^$all
-ecosia.org##.result:has(a[href*="xsprogram.com"])
+ecosia.org###main .result:has(a[href*="xsprogram.com"])
 ||stackoom.com^$all
-ecosia.org##.result:has(a[href*="stackoom.com"])
+ecosia.org###main .result:has(a[href*="stackoom.com"])
 ||christfever.in^$all
-ecosia.org##.result:has(a[href*="christfever.in"])
+ecosia.org###main .result:has(a[href*="christfever.in"])
 ||codersatellite.com^$all
-ecosia.org##.result:has(a[href*="codersatellite.com"])
+ecosia.org###main .result:has(a[href*="codersatellite.com"])
 ||cndgn.com^$all
-ecosia.org##.result:has(a[href*="cndgn.com"])
+ecosia.org###main .result:has(a[href*="cndgn.com"])
 ||coredump.biz^$all
-ecosia.org##.result:has(a[href*="coredump.biz"])
+ecosia.org###main .result:has(a[href*="coredump.biz"])
 ||farath.com^$all
-ecosia.org##.result:has(a[href*="farath.com"])
+ecosia.org###main .result:has(a[href*="farath.com"])
 ||devbugfix.com^$all
-ecosia.org##.result:has(a[href*="devbugfix.com"])
+ecosia.org###main .result:has(a[href*="devbugfix.com"])
 ||tech.wayne-chu.com^$all
-ecosia.org##.result:has(a[href*="tech.wayne-chu.com"])
+ecosia.org###main .result:has(a[href*="tech.wayne-chu.com"])
 ||stackify.dev^$all
-ecosia.org##.result:has(a[href*="stackify.dev"])
+ecosia.org###main .result:has(a[href*="stackify.dev"])
 ||webknox.com^$all
-ecosia.org##.result:has(a[href*="webknox.com"])
+ecosia.org###main .result:has(a[href*="webknox.com"])
 ||stackfinder.jp.net^$all
-ecosia.org##.result:has(a[href*="stackfinder.jp.net"])
+ecosia.org###main .result:has(a[href*="stackfinder.jp.net"])
 ||coder-solution-jp.com^$all
-ecosia.org##.result:has(a[href*="coder-solution-jp.com"])
+ecosia.org###main .result:has(a[href*="coder-solution-jp.com"])
 ||jpndev.com^$all
-ecosia.org##.result:has(a[href*="jpndev.com"])
+ecosia.org###main .result:has(a[href*="jpndev.com"])
 ||uebu-kaihatsu.jp.net^$all
-ecosia.org##.result:has(a[href*="uebu-kaihatsu.jp.net"])
+ecosia.org###main .result:has(a[href*="uebu-kaihatsu.jp.net"])
 ||sqlite.in^$all
-ecosia.org##.result:has(a[href*="sqlite.in"])
+ecosia.org###main .result:has(a[href*="sqlite.in"])
 ||stackguides.com^$all
-ecosia.org##.result:has(a[href*="stackguides.com"])
+ecosia.org###main .result:has(a[href*="stackguides.com"])
 ||younggeeks.in^$all
-ecosia.org##.result:has(a[href*="younggeeks.in"])
+ecosia.org###main .result:has(a[href*="younggeeks.in"])
 ||answerlib.com^$all
-ecosia.org##.result:has(a[href*="answerlib.com"])
+ecosia.org###main .result:has(a[href*="answerlib.com"])
 ||edupro.id^$all
-ecosia.org##.result:has(a[href*="edupro.id"])
+ecosia.org###main .result:has(a[href*="edupro.id"])
 ||python-stack.de^$all
-ecosia.org##.result:has(a[href*="python-stack.de"])
+ecosia.org###main .result:has(a[href*="python-stack.de"])
 ||stackfinder.ru^$all
-ecosia.org##.result:has(a[href*="stackfinder.ru"])
+ecosia.org###main .result:has(a[href*="stackfinder.ru"])
 ||stackfault.net^$all
-ecosia.org##.result:has(a[href*="stackfault.net"])
+ecosia.org###main .result:has(a[href*="stackfault.net"])
 ||howtofix.io^$all
-ecosia.org##.result:has(a[href*="howtofix.io"])
+ecosia.org###main .result:has(a[href*="howtofix.io"])
 ||buzzphp.com^$all
-ecosia.org##.result:has(a[href*="buzzphp.com"])
+ecosia.org###main .result:has(a[href*="buzzphp.com"])
 ||desenv-web-rp.com^$all
-ecosia.org##.result:has(a[href*="desenv-web-rp.com"])
+ecosia.org###main .result:has(a[href*="desenv-web-rp.com"])
 ||askdev.vn^$all
-ecosia.org##.result:has(a[href*="askdev.vn"])
+ecosia.org###main .result:has(a[href*="askdev.vn"])
 ||quares.ru^$all
-ecosia.org##.result:has(a[href*="quares.ru"])
+ecosia.org###main .result:has(a[href*="quares.ru"])
 ||examplefiles.net^$all
-ecosia.org##.result:has(a[href*="examplefiles.net"])
+ecosia.org###main .result:has(a[href*="examplefiles.net"])
 ||codewdw.com^$all
-ecosia.org##.result:has(a[href*="codewdw.com"])
+ecosia.org###main .result:has(a[href*="codewdw.com"])
 ||jpcodeqa.com^$all
-ecosia.org##.result:has(a[href*="jpcodeqa.com"])
+ecosia.org###main .result:has(a[href*="jpcodeqa.com"])
 ||tutorialguruji.com^$all
-ecosia.org##.result:has(a[href*="tutorialguruji.com"])
+ecosia.org###main .result:has(a[href*="tutorialguruji.com"])
 ||justshowmethecode.com^$all
-ecosia.org##.result:has(a[href*="justshowmethecode.com"])
+ecosia.org###main .result:has(a[href*="justshowmethecode.com"])
 ||it-roy-ru.com^$all
-ecosia.org##.result:has(a[href*="it-roy-ru.com"])
+ecosia.org###main .result:has(a[href*="it-roy-ru.com"])
 ||jscodetips.com^$all
-ecosia.org##.result:has(a[href*="jscodetips.com"])
+ecosia.org###main .result:has(a[href*="jscodetips.com"])
 ||5axxw.com^$all
-ecosia.org##.result:has(a[href*="5axxw.com"])
+ecosia.org###main .result:has(a[href*="5axxw.com"])
 ||question-it.com^$all
-ecosia.org##.result:has(a[href*="question-it.com"])
+ecosia.org###main .result:has(a[href*="question-it.com"])
 ||webmonkez.com^$all
-ecosia.org##.result:has(a[href*="webmonkez.com"])
+ecosia.org###main .result:has(a[href*="webmonkez.com"])
 ||ibootweb.com^$all
-ecosia.org##.result:has(a[href*="ibootweb.com"])
+ecosia.org###main .result:has(a[href*="ibootweb.com"])
 ||codefaq.info^$all
-ecosia.org##.result:has(a[href*="codefaq.info"])
+ecosia.org###main .result:has(a[href*="codefaq.info"])
 ||codefaq.ru^$all
-ecosia.org##.result:has(a[href*="codefaq.ru"])
+ecosia.org###main .result:has(a[href*="codefaq.ru"])
 ||mediatagtw.com^$all
-ecosia.org##.result:has(a[href*="mediatagtw.com"])
+ecosia.org###main .result:has(a[href*="mediatagtw.com"])
 ||alltodev.com^$all
-ecosia.org##.result:has(a[href*="alltodev.com"])
+ecosia.org###main .result:has(a[href*="alltodev.com"])
 ||progi.pro^$all
-ecosia.org##.result:has(a[href*="progi.pro"])
+ecosia.org###main .result:has(a[href*="progi.pro"])
 ||jike.in^$all
-ecosia.org##.result:has(a[href*="jike.in"])
+ecosia.org###main .result:has(a[href*="jike.in"])
 ||web-dev-qa.com^$all
-ecosia.org##.result:has(a[href*="web-dev-qa.com"])
+ecosia.org###main .result:has(a[href*="web-dev-qa.com"])
 ||elfishgene.com^$all
-ecosia.org##.result:has(a[href*="elfishgene.com"])
+ecosia.org###main .result:has(a[href*="elfishgene.com"])
 ||dapper-tutorial.net^$all
-ecosia.org##.result:has(a[href*="dapper-tutorial.net"])
+ecosia.org###main .result:has(a[href*="dapper-tutorial.net"])
 ||cmsdk.com^$all
-ecosia.org##.result:has(a[href*="cmsdk.com"])
+ecosia.org###main .result:has(a[href*="cmsdk.com"])
 ||ask-ubuntu.ru^$all
-ecosia.org##.result:has(a[href*="ask-ubuntu.ru"])
+ecosia.org###main .result:has(a[href*="ask-ubuntu.ru"])
 ||askubuntu.ru^$all
-ecosia.org##.result:has(a[href*="askubuntu.ru"])
+ecosia.org###main .result:has(a[href*="askubuntu.ru"])
 ||kompsekret.ru^$all
-ecosia.org##.result:has(a[href*="kompsekret.ru"])
+ecosia.org###main .result:has(a[href*="kompsekret.ru"])
 ||ohandroid.com^$all
-ecosia.org##.result:has(a[href*="ohandroid.com"])
+ecosia.org###main .result:has(a[href*="ohandroid.com"])
 ||poweruser.guru^$all
-ecosia.org##.result:has(a[href*="poweruser.guru"])
+ecosia.org###main .result:has(a[href*="poweruser.guru"])
 ||ruphp.com^$all
-ecosia.org##.result:has(a[href*="ruphp.com"])
+ecosia.org###main .result:has(a[href*="ruphp.com"])
 ||server-fault.ru^$all
-ecosia.org##.result:has(a[href*="server-fault.ru"])
+ecosia.org###main .result:has(a[href*="server-fault.ru"])
 ||sprosi.pro^$all
-ecosia.org##.result:has(a[href*="sprosi.pro"])
+ecosia.org###main .result:has(a[href*="sprosi.pro"])
 ||stackru.com^$all
-ecosia.org##.result:has(a[href*="stackru.com"])
+ecosia.org###main .result:has(a[href*="stackru.com"])
 ||switch-case.ru^$all
-ecosia.org##.result:has(a[href*="switch-case.ru"])
+ecosia.org###main .result:has(a[href*="switch-case.ru"])
 ||ubuntugeeks.com^$all
-ecosia.org##.result:has(a[href*="ubuntugeeks.com"])
+ecosia.org###main .result:has(a[href*="ubuntugeeks.com"])
 ||ubuntuplace.info^$all
-ecosia.org##.result:has(a[href*="ubuntuplace.info"])
+ecosia.org###main .result:has(a[href*="ubuntuplace.info"])
 ||wikiroot.ru^$all
-ecosia.org##.result:has(a[href*="wikiroot.ru"])
+ecosia.org###main .result:has(a[href*="wikiroot.ru"])
 ||sysadminde.com^$all
-ecosia.org##.result:has(a[href*="sysadminde.com"])
+ecosia.org###main .result:has(a[href*="sysadminde.com"])
 ||askdev.ru^$all
-ecosia.org##.result:has(a[href*="askdev.ru"])
+ecosia.org###main .result:has(a[href*="askdev.ru"])
 ||qarchive.ru^$all
-ecosia.org##.result:has(a[href*="qarchive.ru"])
+ecosia.org###main .result:has(a[href*="qarchive.ru"])
 ||qarus.ru^$all
-ecosia.org##.result:has(a[href*="qarus.ru"])
+ecosia.org###main .result:has(a[href*="qarus.ru"])
 ||recalll.co^$all
-ecosia.org##.result:has(a[href*="recalll.co"])
+ecosia.org###main .result:has(a[href*="recalll.co"])
 ||soinside.com^$all
-ecosia.org##.result:has(a[href*="soinside.com"])
+ecosia.org###main .result:has(a[href*="soinside.com"])
 ||stackanswers.net^$all
-ecosia.org##.result:has(a[href*="stackanswers.net"])
+ecosia.org###main .result:has(a[href*="stackanswers.net"])
 ||stackoverflood.com^$all
-ecosia.org##.result:has(a[href*="stackoverflood.com"])
+ecosia.org###main .result:has(a[href*="stackoverflood.com"])
 ||switch-case.com^$all
-ecosia.org##.result:has(a[href*="switch-case.com"])
+ecosia.org###main .result:has(a[href*="switch-case.com"])
 ||techarks.ru^$all
-ecosia.org##.result:has(a[href*="techarks.ru"])
+ecosia.org###main .result:has(a[href*="techarks.ru"])
 ||techfeed.net^$all
-ecosia.org##.result:has(a[href*="techfeed.net"])
+ecosia.org###main .result:has(a[href*="techfeed.net"])
 ||thinbug.com^$all
-ecosia.org##.result:has(a[href*="thinbug.com"])
+ecosia.org###main .result:has(a[href*="thinbug.com"])
 ||utyatnishna.ru^$all
-ecosia.org##.result:has(a[href*="utyatnishna.ru"])
+ecosia.org###main .result:has(a[href*="utyatnishna.ru"])
 ||v-resheno.ru^$all
-ecosia.org##.result:has(a[href*="v-resheno.ru"])
+ecosia.org###main .result:has(a[href*="v-resheno.ru"])
 ||web-answers.ru^$all
-ecosia.org##.result:has(a[href*="web-answers.ru"])
+ecosia.org###main .result:has(a[href*="web-answers.ru"])
 ||xszz.org^$all
-ecosia.org##.result:has(a[href*="xszz.org"])
+ecosia.org###main .result:has(a[href*="xszz.org"])
 ||ylhow.com^$all
-ecosia.org##.result:has(a[href*="ylhow.com"])
+ecosia.org###main .result:has(a[href*="ylhow.com"])
 ||yuanmacha.com^$all
-ecosia.org##.result:has(a[href*="yuanmacha.com"])
+ecosia.org###main .result:has(a[href*="yuanmacha.com"])
 ||qa.1r1g.com^$all
-ecosia.org##.result:has(a[href*="qa.1r1g.com"])
+ecosia.org###main .result:has(a[href*="qa.1r1g.com"])
 ||it-swarm.com.de^$all
-ecosia.org##.result:has(a[href*="it-swarm.com.de"])
+ecosia.org###main .result:has(a[href*="it-swarm.com.de"])
 ||it-swarm-es.com^$all
-ecosia.org##.result:has(a[href*="it-swarm-es.com"])
+ecosia.org###main .result:has(a[href*="it-swarm-es.com"])
 ||legkovopros.ru^$all
-ecosia.org##.result:has(a[href*="legkovopros.ru"])
+ecosia.org###main .result:has(a[href*="legkovopros.ru"])
 ||mlink.in^$all
-ecosia.org##.result:has(a[href*="mlink.in"])
+ecosia.org###main .result:has(a[href*="mlink.in"])
 ||mlog.club^$all
-ecosia.org##.result:has(a[href*="mlog.club"])
+ecosia.org###main .result:has(a[href*="mlog.club"])
 ||overcoder.ru^$all
-ecosia.org##.result:has(a[href*="overcoder.ru"])
+ecosia.org###main .result:has(a[href*="overcoder.ru"])
 ||prog-help.ru^$all
-ecosia.org##.result:has(a[href*="prog-help.ru"])
+ecosia.org###main .result:has(a[href*="prog-help.ru"])
 ||qa-help.ru^$all
-ecosia.org##.result:has(a[href*="qa-help.ru"])
+ecosia.org###main .result:has(a[href*="qa-help.ru"])
 ||devfaq.fr^$all
-ecosia.org##.result:has(a[href*="devfaq.fr"])
+ecosia.org###main .result:has(a[href*="devfaq.fr"])
 ||extutorial.com^$all
-ecosia.org##.result:has(a[href*="extutorial.com"])
+ecosia.org###main .result:has(a[href*="extutorial.com"])
 ||fooobar.com^$all
-ecosia.org##.result:has(a[href*="fooobar.com"])
+ecosia.org###main .result:has(a[href*="fooobar.com"])
 ||husl.ru^$all
-ecosia.org##.result:has(a[href*="husl.ru"])
+ecosia.org###main .result:has(a[href*="husl.ru"])
 ||answacode.com^$all
-ecosia.org##.result:has(a[href*="answacode.com"])
+ecosia.org###main .result:has(a[href*="answacode.com"])
 ||answeright.com^$all
-ecosia.org##.result:has(a[href*="answeright.com"])
+ecosia.org###main .result:has(a[href*="answeright.com"])
 ||codegear.dev^$all
-ecosia.org##.result:has(a[href*="codegear.dev"])
+ecosia.org###main .result:has(a[href*="codegear.dev"])
 ||bilee.com^$all
-ecosia.org##.result:has(a[href*="bilee.com"])
+ecosia.org###main .result:has(a[href*="bilee.com"])
 ||askvoprosy.com^$all
-ecosia.org##.result:has(a[href*="askvoprosy.com"])
+ecosia.org###main .result:has(a[href*="askvoprosy.com"])
 ||de.askdev.info^$all
-ecosia.org##.result:has(a[href*="de.askdev.info"])
+ecosia.org###main .result:has(a[href*="de.askdev.info"])
 ||codeindex.ru^$all
-ecosia.org##.result:has(a[href*="codeindex.ru"])
+ecosia.org###main .result:has(a[href*="codeindex.ru"])
 ||codengineering.ru^$all
-ecosia.org##.result:has(a[href*="codengineering.ru"])
+ecosia.org###main .result:has(a[href*="codengineering.ru"])
 ||coderoad.in^$all
-ecosia.org##.result:has(a[href*="coderoad.in"])
+ecosia.org###main .result:has(a[href*="coderoad.in"])
 ||coderquestion.ru^$all
-ecosia.org##.result:has(a[href*="coderquestion.ru"])
+ecosia.org###main .result:has(a[href*="coderquestion.ru"])
 ||dogovori.info^$all
-ecosia.org##.result:has(a[href*="dogovori.info"])
+ecosia.org###main .result:has(a[href*="dogovori.info"])
 ||itecnote.com^$all
-ecosia.org##.result:has(a[href*="itecnote.com"])
+ecosia.org###main .result:has(a[href*="itecnote.com"])
 ||askcodez.com^$all
-ecosia.org##.result:has(a[href*="askcodez.com"])
+ecosia.org###main .result:has(a[href*="askcodez.com"])
 ||bootpanic.com^$all
-ecosia.org##.result:has(a[href*="bootpanic.com"])
+ecosia.org###main .result:has(a[href*="bootpanic.com"])
 ||askentire.net^$all
-ecosia.org##.result:has(a[href*="askentire.net"])
+ecosia.org###main .result:has(a[href*="askentire.net"])
 ||de-vraag.com^$all
-ecosia.org##.result:has(a[href*="de-vraag.com"])
+ecosia.org###main .result:has(a[href*="de-vraag.com"])
 ||qacode.ru^$all
-ecosia.org##.result:has(a[href*="qacode.ru"])
+ecosia.org###main .result:has(a[href*="qacode.ru"])
 ||sobrelinux.info^$all
-ecosia.org##.result:has(a[href*="sobrelinux.info"])
+ecosia.org###main .result:has(a[href*="sobrelinux.info"])
 ||askfrance.me^$all
-ecosia.org##.result:has(a[href*="askfrance.me"])
+ecosia.org###main .result:has(a[href*="askfrance.me"])
 ||respuestas.me^$all
-ecosia.org##.result:has(a[href*="respuestas.me"])
+ecosia.org###main .result:has(a[href*="respuestas.me"])
 ||antwortenhier.me^$all
-ecosia.org##.result:has(a[href*="antwortenhier.me"])
+ecosia.org###main .result:has(a[href*="antwortenhier.me"])
 ||proubuntu.ru^$all
-ecosia.org##.result:has(a[href*="proubuntu.ru"])
+ecosia.org###main .result:has(a[href*="proubuntu.ru"])
 ||over.wiki^$all
-ecosia.org##.result:has(a[href*="over.wiki"])
+ecosia.org###main .result:has(a[href*="over.wiki"])
 ||debiantutorials.org^$all
-ecosia.org##.result:has(a[href*="debiantutorials.org"])
+ecosia.org###main .result:has(a[href*="debiantutorials.org"])
 ||grokbase.com^$all
-ecosia.org##.result:has(a[href*="grokbase.com"])
+ecosia.org###main .result:has(a[href*="grokbase.com"])
 ||wp-qa.com^$all
-ecosia.org##.result:has(a[href*="wp-qa.com"])
+ecosia.org###main .result:has(a[href*="wp-qa.com"])
 ||codegrepper.com^$all
-ecosia.org##.result:has(a[href*="codegrepper.com"])
+ecosia.org###main .result:has(a[href*="codegrepper.com"])
 ||programmierfrage.com^$all
-ecosia.org##.result:has(a[href*="programmierfrage.com"])
+ecosia.org###main .result:has(a[href*="programmierfrage.com"])
 ||microeducate.tech^$all
-ecosia.org##.result:has(a[href*="microeducate.tech"])
+ecosia.org###main .result:has(a[href*="microeducate.tech"])
 ||ringingliberty.com^$all
-ecosia.org##.result:has(a[href*="ringingliberty.com"])
+ecosia.org###main .result:has(a[href*="ringingliberty.com"])
 ||askandroidquestions.com^$all
-ecosia.org##.result:has(a[href*="askandroidquestions.com"])
+ecosia.org###main .result:has(a[href*="askandroidquestions.com"])
 ||tutorialmeta.com^$all
-ecosia.org##.result:has(a[href*="tutorialmeta.com"])
+ecosia.org###main .result:has(a[href*="tutorialmeta.com"])
 ||helpex.vn^$all
-ecosia.org##.result:has(a[href*="helpex.vn"])
+ecosia.org###main .result:has(a[href*="helpex.vn"])
 ||techtalk7.com^$all
-ecosia.org##.result:has(a[href*="techtalk7.com"])
+ecosia.org###main .result:has(a[href*="techtalk7.com"])
 ||serveanswer.com^$all
-ecosia.org##.result:has(a[href*="serveanswer.com"])
+ecosia.org###main .result:has(a[href*="serveanswer.com"])
 ||solveforums.msomimaktaba.com^$all
-ecosia.org##.result:has(a[href*="solveforums.msomimaktaba.com"])
+ecosia.org###main .result:has(a[href*="solveforums.msomimaktaba.com"])
 ||vuejscode.com^$all
-ecosia.org##.result:has(a[href*="vuejscode.com"])
+ecosia.org###main .result:has(a[href*="vuejscode.com"])
 ||pythonshowcase.com^$all
-ecosia.org##.result:has(a[href*="pythonshowcase.com"])
+ecosia.org###main .result:has(a[href*="pythonshowcase.com"])
 ||codeutility.org^$all
-ecosia.org##.result:has(a[href*="codeutility.org"])
+ecosia.org###main .result:has(a[href*="codeutility.org"])
 ||reactquestions.com^$all
-ecosia.org##.result:has(a[href*="reactquestions.com"])
+ecosia.org###main .result:has(a[href*="reactquestions.com"])
 ||dockerquestions.com^$all
-ecosia.org##.result:has(a[href*="dockerquestions.com"])
+ecosia.org###main .result:has(a[href*="dockerquestions.com"])
 ||angularquestions.com^$all
-ecosia.org##.result:has(a[href*="angularquestions.com"])
+ecosia.org###main .result:has(a[href*="angularquestions.com"])
 ||pythonfixing.com^$all
-ecosia.org##.result:has(a[href*="pythonfixing.com"])
+ecosia.org###main .result:has(a[href*="pythonfixing.com"])
 ||stackallflow.com^$all
-ecosia.org##.result:has(a[href*="stackallflow.com"])
+ecosia.org###main .result:has(a[href*="stackallflow.com"])
 ||nxtstage.net^$all
-ecosia.org##.result:has(a[href*="nxtstage.net"])
+ecosia.org###main .result:has(a[href*="nxtstage.net"])
 ||intelligentsystemsmonitoring.com^$all
-ecosia.org##.result:has(a[href*="intelligentsystemsmonitoring.com"])
+ecosia.org###main .result:has(a[href*="intelligentsystemsmonitoring.com"])
 ||localcoder.org^$all
-ecosia.org##.result:has(a[href*="localcoder.org"])
+ecosia.org###main .result:has(a[href*="localcoder.org"])
 ||rotadev.com^$all
-ecosia.org##.result:has(a[href*="rotadev.com"])
+ecosia.org###main .result:has(a[href*="rotadev.com"])
 ||errorsfixing.com^$all
-ecosia.org##.result:has(a[href*="errorsfixing.com"])
+ecosia.org###main .result:has(a[href*="errorsfixing.com"])
 ||catwolf.org^$all
-ecosia.org##.result:has(a[href*="catwolf.org"])
+ecosia.org###main .result:has(a[href*="catwolf.org"])
 ||configrouter.com^$all
-ecosia.org##.result:has(a[href*="configrouter.com"])
+ecosia.org###main .result:has(a[href*="configrouter.com"])
 ||akuum.org^$all
-ecosia.org##.result:has(a[href*="akuum.org"])
+ecosia.org###main .result:has(a[href*="akuum.org"])
 ||readforlearn.com^$all
-ecosia.org##.result:has(a[href*="readforlearn.com"])
+ecosia.org###main .result:has(a[href*="readforlearn.com"])
 ||codehunter.cc^$all
-ecosia.org##.result:has(a[href*="codehunter.cc"])
+ecosia.org###main .result:has(a[href*="codehunter.cc"])
 ||levitrares.com^$all
-ecosia.org##.result:has(a[href*="levitrares.com"])
+ecosia.org###main .result:has(a[href*="levitrares.com"])
 ||graef.io^$all
-ecosia.org##.result:has(a[href*="graef.io"])
+ecosia.org###main .result:has(a[href*="graef.io"])
 ||syntaxfix.com^$all
-ecosia.org##.result:has(a[href*="syntaxfix.com"])
+ecosia.org###main .result:has(a[href*="syntaxfix.com"])
 ||ourpython.com^$all
-ecosia.org##.result:has(a[href*="ourpython.com"])
+ecosia.org###main .result:has(a[href*="ourpython.com"])
 ||vigges.net^$all
-ecosia.org##.result:has(a[href*="vigges.net"])
+ecosia.org###main .result:has(a[href*="vigges.net"])
 ||exchangetuts.com^$all
-ecosia.org##.result:has(a[href*="exchangetuts.com"])
+ecosia.org###main .result:has(a[href*="exchangetuts.com"])
 ||fullstackuser.com^$all
-ecosia.org##.result:has(a[href*="fullstackuser.com"])
+ecosia.org###main .result:has(a[href*="fullstackuser.com"])
 ||dtuto.com^$all
-ecosia.org##.result:has(a[href*="dtuto.com"])
+ecosia.org###main .result:has(a[href*="dtuto.com"])
 ||w3coded.com^$all
-ecosia.org##.result:has(a[href*="w3coded.com"])
+ecosia.org###main .result:has(a[href*="w3coded.com"])
 ||thelivingtrove.com^$all
-ecosia.org##.result:has(a[href*="thelivingtrove.com"])
+ecosia.org###main .result:has(a[href*="thelivingtrove.com"])
 ||ti-enxame.com^$all
-ecosia.org##.result:has(a[href*="ti-enxame.com"])
+ecosia.org###main .result:has(a[href*="ti-enxame.com"])
 ||desenv-web-rp-bd.com^$all
-ecosia.org##.result:has(a[href*="desenv-web-rp-bd.com"])
+ecosia.org###main .result:has(a[href*="desenv-web-rp-bd.com"])
 ||web-dev-qa-db-pt.com^$all
-ecosia.org##.result:has(a[href*="web-dev-qa-db-pt.com"])
+ecosia.org###main .result:has(a[href*="web-dev-qa-db-pt.com"])
 ||tra-loi-cau-hoi-phat-trien-web.com^$all
-ecosia.org##.result:has(a[href*="tra-loi-cau-hoi-phat-trien-web.com"])
+ecosia.org###main .result:has(a[href*="tra-loi-cau-hoi-phat-trien-web.com"])
 ||suttonedfoundation.org^$all
-ecosia.org##.result:has(a[href*="suttonedfoundation.org"])
+ecosia.org###main .result:has(a[href*="suttonedfoundation.org"])
 ||tousu.in^$all
-ecosia.org##.result:has(a[href*="tousu.in"])
+ecosia.org###main .result:has(a[href*="tousu.in"])
 ||itdaan.com^$all
-ecosia.org##.result:has(a[href*="itdaan.com"])
+ecosia.org###main .result:has(a[href*="itdaan.com"])
 ||itranslater.com^$all
-ecosia.org##.result:has(a[href*="itranslater.com"])
+ecosia.org###main .result:has(a[href*="itranslater.com"])
 ||software-testing.com^$all
-ecosia.org##.result:has(a[href*="software-testing.com"])
+ecosia.org###main .result:has(a[href*="software-testing.com"])
 ||itbaoku.cn^$all
-ecosia.org##.result:has(a[href*="itbaoku.cn"])
+ecosia.org###main .result:has(a[href*="itbaoku.cn"])
 ||nibes.cn^$all
-ecosia.org##.result:has(a[href*="nibes.cn"])
+ecosia.org###main .result:has(a[href*="nibes.cn"])
 ||devqanda.com^$all
-ecosia.org##.result:has(a[href*="devqanda.com"])
+ecosia.org###main .result:has(a[href*="devqanda.com"])
 ||sargon24.com^$all
-ecosia.org##.result:has(a[href*="sargon24.com"])
+ecosia.org###main .result:has(a[href*="sargon24.com"])
 ||javafixing.com^$all
-ecosia.org##.result:has(a[href*="javafixing.com"])
+ecosia.org###main .result:has(a[href*="javafixing.com"])
 ||catchconsole.com^$all
-ecosia.org##.result:has(a[href*="catchconsole.com"])
+ecosia.org###main .result:has(a[href*="catchconsole.com"])
 ||icopy.site^$all
-ecosia.org##.result:has(a[href*="icopy.site"])
+ecosia.org###main .result:has(a[href*="icopy.site"])
 ||frameboxxindore.com^$all
-ecosia.org##.result:has(a[href*="frameboxxindore.com"])
+ecosia.org###main .result:has(a[href*="frameboxxindore.com"])
 ||qa.wujigu.com^$all
-ecosia.org##.result:has(a[href*="qa.wujigu.com"])
+ecosia.org###main .result:has(a[href*="qa.wujigu.com"])
 ||shenzhenjia.net^$all
-ecosia.org##.result:has(a[href*="shenzhenjia.net"])
+ecosia.org###main .result:has(a[href*="shenzhenjia.net"])
 ||ogeek.cn^$all
-ecosia.org##.result:has(a[href*="ogeek.cn"])
+ecosia.org###main .result:has(a[href*="ogeek.cn"])
 ||devdreamz.com^$all
-ecosia.org##.result:has(a[href*="devdreamz.com"])
+ecosia.org###main .result:has(a[href*="devdreamz.com"])
 ||imtqy.com^$all
-ecosia.org##.result:has(a[href*="imtqy.com"])
+ecosia.org###main .result:has(a[href*="imtqy.com"])
 ||idqna.com^$all
-ecosia.org##.result:has(a[href*="idqna.com"])
+ecosia.org###main .result:has(a[href*="idqna.com"])
 ||peaku.co^$all
-ecosia.org##.result:has(a[href*="peaku.co"])
+ecosia.org###main .result:has(a[href*="peaku.co"])
 ||javawenti.com^$all
-ecosia.org##.result:has(a[href*="javawenti.com"])
+ecosia.org###main .result:has(a[href*="javawenti.com"])
 ||runexception.com^$all
-ecosia.org##.result:has(a[href*="runexception.com"])
+ecosia.org###main .result:has(a[href*="runexception.com"])
 ||ebestcode.com^$all
-ecosia.org##.result:has(a[href*="ebestcode.com"])
+ecosia.org###main .result:has(a[href*="ebestcode.com"])
 ||likecs.com^$all
-ecosia.org##.result:has(a[href*="likecs.com"])
+ecosia.org###main .result:has(a[href*="likecs.com"])
 ||solveforum.com^$all
-ecosia.org##.result:has(a[href*="solveforum.com"])
+ecosia.org###main .result:has(a[href*="solveforum.com"])
 ||codetd.com^$all
-ecosia.org##.result:has(a[href*="codetd.com"])
+ecosia.org###main .result:has(a[href*="codetd.com"])
 ||anycodings.com^$all
-ecosia.org##.result:has(a[href*="anycodings.com"])
+ecosia.org###main .result:has(a[href*="anycodings.com"])
 ||overstack.in^$all
-ecosia.org##.result:has(a[href*="overstack.in"])
+ecosia.org###main .result:has(a[href*="overstack.in"])
 ||jonic.cn^$all
-ecosia.org##.result:has(a[href*="jonic.cn"])
+ecosia.org###main .result:has(a[href*="jonic.cn"])
 ||devasking.com^$all
-ecosia.org##.result:has(a[href*="devasking.com"])
+ecosia.org###main .result:has(a[href*="devasking.com"])
 ||askdevz.com^$all
-ecosia.org##.result:has(a[href*="askdevz.com"])
+ecosia.org###main .result:has(a[href*="askdevz.com"])
 ||cans.pro^$all
-ecosia.org##.result:has(a[href*="cans.pro"])
+ecosia.org###main .result:has(a[href*="cans.pro"])
 ||ddcode.net^$all
-ecosia.org##.result:has(a[href*="ddcode.net"])
+ecosia.org###main .result:has(a[href*="ddcode.net"])
 ||w3programmers.org^$all
-ecosia.org##.result:has(a[href*="w3programmers.org"])
+ecosia.org###main .result:has(a[href*="w3programmers.org"])
 ||faqcode4u.com^$all
-ecosia.org##.result:has(a[href*="faqcode4u.com"])
+ecosia.org###main .result:has(a[href*="faqcode4u.com"])
 ||studytonight.com^$all
-ecosia.org##.result:has(a[href*="studytonight.com"])
+ecosia.org###main .result:has(a[href*="studytonight.com"])
 ||chowdera.com^$all
-ecosia.org##.result:has(a[href*="chowdera.com"])
+ecosia.org###main .result:has(a[href*="chowdera.com"])
 ||faqcodes.com^$all
-ecosia.org##.result:has(a[href*="faqcodes.com"])
+ecosia.org###main .result:has(a[href*="faqcodes.com"])
 ||thecodeteacher.com^$all
-ecosia.org##.result:has(a[href*="thecodeteacher.com"])
+ecosia.org###main .result:has(a[href*="thecodeteacher.com"])
 ||devtip.in^$all
-ecosia.org##.result:has(a[href*="devtip.in"])
+ecosia.org###main .result:has(a[href*="devtip.in"])
 ||duoduokou.com^$all
-ecosia.org##.result:has(a[href*="duoduokou.com"])
+ecosia.org###main .result:has(a[href*="duoduokou.com"])
 ||appsloveworld.com^$all
-ecosia.org##.result:has(a[href*="appsloveworld.com"])
+ecosia.org###main .result:has(a[href*="appsloveworld.com"])
 ||learnfk.com^$all
-ecosia.org##.result:has(a[href*="learnfk.com"])
+ecosia.org###main .result:has(a[href*="learnfk.com"])
 ||codingdict.com^$all
-ecosia.org##.result:has(a[href*="codingdict.com"])
+ecosia.org###main .result:has(a[href*="codingdict.com"])
 ||ajaxhispano.com^$all
-ecosia.org##.result:has(a[href*="ajaxhispano.com"])
+ecosia.org###main .result:has(a[href*="ajaxhispano.com"])
 ||ask-dev.ru^$all
-ecosia.org##.result:has(a[href*="ask-dev.ru"])
+ecosia.org###main .result:has(a[href*="ask-dev.ru"])
 ||i4k.xyz^$all
-ecosia.org##.result:has(a[href*="i4k.xyz"])
+ecosia.org###main .result:has(a[href*="i4k.xyz"])
 ||yy123.ink^$all
-ecosia.org##.result:has(a[href*="yy123.ink"])
+ecosia.org###main .result:has(a[href*="yy123.ink"])
 ||icode.best^$all
-ecosia.org##.result:has(a[href*="icode.best"])
+ecosia.org###main .result:has(a[href*="icode.best"])
 ||igiftidea.com^$all
-ecosia.org##.result:has(a[href*="igiftidea.com"])
+ecosia.org###main .result:has(a[href*="igiftidea.com"])
 ||csdn.net^$all
-ecosia.org##.result:has(a[href*="csdn.net"])
+ecosia.org###main .result:has(a[href*="csdn.net"])
 ||yocker.com^$all
-ecosia.org##.result:has(a[href*="yocker.com"])
+ecosia.org###main .result:has(a[href*="yocker.com"])
 ||955yes.com^$all
-ecosia.org##.result:has(a[href*="955yes.com"])
+ecosia.org###main .result:has(a[href*="955yes.com"])
 ||dovov.com^$all
-ecosia.org##.result:has(a[href*="dovov.com"])
+ecosia.org###main .result:has(a[href*="dovov.com"])
 ||dokry.com^$all
-ecosia.org##.result:has(a[href*="dokry.com"])
+ecosia.org###main .result:has(a[href*="dokry.com"])
 ||codefordev.com^$all
-ecosia.org##.result:has(a[href*="codefordev.com"])
+ecosia.org###main .result:has(a[href*="codefordev.com"])
 ||empires-r.us^$all
-ecosia.org##.result:has(a[href*="empires-r.us"])
+ecosia.org###main .result:has(a[href*="empires-r.us"])
 ||answerspoint.com^$all
-ecosia.org##.result:has(a[href*="answerspoint.com"])
+ecosia.org###main .result:has(a[href*="answerspoint.com"])
 ||devebee.com^$all
-ecosia.org##.result:has(a[href*="devebee.com"])
+ecosia.org###main .result:has(a[href*="devebee.com"])
 ||w3codelab.com^$all
-ecosia.org##.result:has(a[href*="w3codelab.com"])
+ecosia.org###main .result:has(a[href*="w3codelab.com"])
 ||flvrclothing.com^$all
-ecosia.org##.result:has(a[href*="flvrclothing.com"])
+ecosia.org###main .result:has(a[href*="flvrclothing.com"])
 ||pyquestions.com^$all
-ecosia.org##.result:has(a[href*="pyquestions.com"])
+ecosia.org###main .result:has(a[href*="pyquestions.com"])
 ||djcxy.com^$all
-ecosia.org##.result:has(a[href*="djcxy.com"])
+ecosia.org###main .result:has(a[href*="djcxy.com"])
 ||python.engineering^$all
-ecosia.org##.result:has(a[href*="python.engineering"])
+ecosia.org###main .result:has(a[href*="python.engineering"])
 ||it1352.com^$all
-ecosia.org##.result:has(a[href*="it1352.com"])
+ecosia.org###main .result:has(a[href*="it1352.com"])
 ||adoclib.com^$all
-ecosia.org##.result:has(a[href*="adoclib.com"])
+ecosia.org###main .result:has(a[href*="adoclib.com"])
 ||796t.com^$all
-ecosia.org##.result:has(a[href*="796t.com"])
+ecosia.org###main .result:has(a[href*="796t.com"])
 ||invalidtype.com^$all
-ecosia.org##.result:has(a[href*="invalidtype.com"])
+ecosia.org###main .result:has(a[href*="invalidtype.com"])
 ||string.quest^$all
-ecosia.org##.result:has(a[href*="string.quest"])
+ecosia.org###main .result:has(a[href*="string.quest"])
 ||winmundo.com^$all
-ecosia.org##.result:has(a[href*="winmundo.com"])
+ecosia.org###main .result:has(a[href*="winmundo.com"])
 ||questu.ru^$all
-ecosia.org##.result:has(a[href*="questu.ru"])
+ecosia.org###main .result:has(a[href*="questu.ru"])
 ||querythreads.com^$all
-ecosia.org##.result:has(a[href*="querythreads.com"])
+ecosia.org###main .result:has(a[href*="querythreads.com"])
 ||super-unix.com^$all
-ecosia.org##.result:has(a[href*="super-unix.com"])
+ecosia.org###main .result:has(a[href*="super-unix.com"])
 ||twblogs.net^$all
-ecosia.org##.result:has(a[href*="twblogs.net"])
+ecosia.org###main .result:has(a[href*="twblogs.net"])
 ||proanswers.org^$all
-ecosia.org##.result:has(a[href*="proanswers.org"])
+ecosia.org###main .result:has(a[href*="proanswers.org"])
 ||programming-articles.com^$all
-ecosia.org##.result:has(a[href*="programming-articles.com"])
+ecosia.org###main .result:has(a[href*="programming-articles.com"])
 ||edureka.co^$all
-ecosia.org##.result:has(a[href*="edureka.co"])
+ecosia.org###main .result:has(a[href*="edureka.co"])
 ||w3toppers.com^$all
-ecosia.org##.result:has(a[href*="w3toppers.com"])
+ecosia.org###main .result:has(a[href*="w3toppers.com"])
 ||e-learn.cn^$all
-ecosia.org##.result:has(a[href*="e-learn.cn"])
+ecosia.org###main .result:has(a[href*="e-learn.cn"])
 ||qandeelacademy.com^$all
-ecosia.org##.result:has(a[href*="qandeelacademy.com"])
+ecosia.org###main .result:has(a[href*="qandeelacademy.com"])
 ||learn-codes.net^$all
-ecosia.org##.result:has(a[href*="learn-codes.net"])
+ecosia.org###main .result:has(a[href*="learn-codes.net"])
 ||dev-answers.com^$all
-ecosia.org##.result:has(a[href*="dev-answers.com"])
+ecosia.org###main .result:has(a[href*="dev-answers.com"])
 ||code-error.com^$all
-ecosia.org##.result:has(a[href*="code-error.com"])
+ecosia.org###main .result:has(a[href*="code-error.com"])
 ||doraprojects.net^$all
-ecosia.org##.result:has(a[href*="doraprojects.net"])
+ecosia.org###main .result:has(a[href*="doraprojects.net"])
 ||wikitechy.com^$all
-ecosia.org##.result:has(a[href*="wikitechy.com"])
+ecosia.org###main .result:has(a[href*="wikitechy.com"])
 ||rateye.tistory.com^$all
-ecosia.org##.result:has(a[href*="rateye.tistory.com"])
+ecosia.org###main .result:has(a[href*="rateye.tistory.com"])
 ||codestyle.tistory.com^$all
-ecosia.org##.result:has(a[href*="codestyle.tistory.com"])
+ecosia.org###main .result:has(a[href*="codestyle.tistory.com"])
 ||tracholar.top^$all
-ecosia.org##.result:has(a[href*="tracholar.top"])
+ecosia.org###main .result:has(a[href*="tracholar.top"])
 ||hellojava.com^$all
-ecosia.org##.result:has(a[href*="hellojava.com"])
+ecosia.org###main .result:has(a[href*="hellojava.com"])
 ||anyabs.com^$all
-ecosia.org##.result:has(a[href*="anyabs.com"])
+ecosia.org###main .result:has(a[href*="anyabs.com"])
 ||askcodes.net^$all
-ecosia.org##.result:has(a[href*="askcodes.net"])
+ecosia.org###main .result:has(a[href*="askcodes.net"])
 ||python2.net^$all
-ecosia.org##.result:has(a[href*="python2.net"])
+ecosia.org###main .result:has(a[href*="python2.net"])
 ||so.muouseo.com^$all
-ecosia.org##.result:has(a[href*="so.muouseo.com"])
+ecosia.org###main .result:has(a[href*="so.muouseo.com"])
 ||dailydevsblog.com^$all
-ecosia.org##.result:has(a[href*="dailydevsblog.com"])
+ecosia.org###main .result:has(a[href*="dailydevsblog.com"])
 ||stackoverflowpoint.com^$all
-ecosia.org##.result:has(a[href*="stackoverflowpoint.com"])
+ecosia.org###main .result:has(a[href*="stackoverflowpoint.com"])
 ||developerfacts.com^$all
-ecosia.org##.result:has(a[href*="developerfacts.com"])
+ecosia.org###main .result:has(a[href*="developerfacts.com"])
 ||copyprogramming.com^$all
-ecosia.org##.result:has(a[href*="copyprogramming.com"])
+ecosia.org###main .result:has(a[href*="copyprogramming.com"])
 ||coder.gay^$all
-ecosia.org##.result:has(a[href*="coder.gay"])
+ecosia.org###main .result:has(a[href*="coder.gay"])
 ||codejzy.com^$all
-ecosia.org##.result:has(a[href*="codejzy.com"])
+ecosia.org###main .result:has(a[href*="codejzy.com"])
 ||tutorialink.com^$all
-ecosia.org##.result:has(a[href*="tutorialink.com"])
+ecosia.org###main .result:has(a[href*="tutorialink.com"])
 ||maxinterview.com^$all
-ecosia.org##.result:has(a[href*="maxinterview.com"])
+ecosia.org###main .result:has(a[href*="maxinterview.com"])
 ||newdevzone.com^$all
-ecosia.org##.result:has(a[href*="newdevzone.com"])
+ecosia.org###main .result:has(a[href*="newdevzone.com"])
 ||dirask.com^$all
-ecosia.org##.result:has(a[href*="dirask.com"])
+ecosia.org###main .result:has(a[href*="dirask.com"])
 ||im-coder.com^$all
-ecosia.org##.result:has(a[href*="im-coder.com"])
+ecosia.org###main .result:has(a[href*="im-coder.com"])
 ||contactform.dev^$all
-ecosia.org##.result:has(a[href*="contactform.dev"])
+ecosia.org###main .result:has(a[href*="contactform.dev"])
 ||ciupacabra.com^$all
-ecosia.org##.result:has(a[href*="ciupacabra.com"])
+ecosia.org###main .result:has(a[href*="ciupacabra.com"])
 ||bildiredi.com^$all
-ecosia.org##.result:has(a[href*="bildiredi.com"])
+ecosia.org###main .result:has(a[href*="bildiredi.com"])
 ||donolik.com^$all
-ecosia.org##.result:has(a[href*="donolik.com"])
+ecosia.org###main .result:has(a[href*="donolik.com"])
 ||sozdizimi.com^$all
-ecosia.org##.result:has(a[href*="sozdizimi.com"])
+ecosia.org###main .result:has(a[href*="sozdizimi.com"])
 ||zapytay.com^$all
-ecosia.org##.result:has(a[href*="zapytay.com"])
+ecosia.org###main .result:has(a[href*="zapytay.com"])
 ||while-do.com^$all
-ecosia.org##.result:has(a[href*="while-do.com"])
+ecosia.org###main .result:has(a[href*="while-do.com"])
 ||it-swarm.net^$all
-ecosia.org##.result:has(a[href*="it-swarm.net"])
+ecosia.org###main .result:has(a[href*="it-swarm.net"])
 ||it-swarm.dev^$all
-ecosia.org##.result:has(a[href*="it-swarm.dev"])
+ecosia.org###main .result:has(a[href*="it-swarm.dev"])
 ||it-swarm.asia^$all
-ecosia.org##.result:has(a[href*="it-swarm.asia"])
+ecosia.org###main .result:has(a[href*="it-swarm.asia"])
 ||it-swarm.xyz^$all
-ecosia.org##.result:has(a[href*="it-swarm.xyz"])
+ecosia.org###main .result:has(a[href*="it-swarm.xyz"])
 ||develop-bugs.com^$all
-ecosia.org##.result:has(a[href*="develop-bugs.com"])
+ecosia.org###main .result:has(a[href*="develop-bugs.com"])
 ||android.bigresource.com^$all
-ecosia.org##.result:has(a[href*="android.bigresource.com"])
+ecosia.org###main .result:has(a[href*="android.bigresource.com"])
 ||code-paper.com^$all
-ecosia.org##.result:has(a[href*="code-paper.com"])
+ecosia.org###main .result:has(a[href*="code-paper.com"])
 ||howtobuildsoftware.com^$all
-ecosia.org##.result:has(a[href*="howtobuildsoftware.com"])
+ecosia.org###main .result:has(a[href*="howtobuildsoftware.com"])
 ||ittone.ma^$all
-ecosia.org##.result:has(a[href*="ittone.ma"])
+ecosia.org###main .result:has(a[href*="ittone.ma"])
 ||spec-zone.ru^$all
-ecosia.org##.result:has(a[href*="spec-zone.ru"])
+ecosia.org###main .result:has(a[href*="spec-zone.ru"])
 ||techinplanet.com^$all
-ecosia.org##.result:has(a[href*="techinplanet.com"])
+ecosia.org###main .result:has(a[href*="techinplanet.com"])
 ||javascript.tutorialink.com^$all
-ecosia.org##.result:has(a[href*="javascript.tutorialink.com"])
+ecosia.org###main .result:has(a[href*="javascript.tutorialink.com"])
 ||issuecloser.com^$all
-ecosia.org##.result:has(a[href*="issuecloser.com"])
+ecosia.org###main .result:has(a[href*="issuecloser.com"])
 ||dizzycoding.com^$all
-ecosia.org##.result:has(a[href*="dizzycoding.com"])
+ecosia.org###main .result:has(a[href*="dizzycoding.com"])
 ||grabthiscode.com^$all
-ecosia.org##.result:has(a[href*="grabthiscode.com"])
+ecosia.org###main .result:has(a[href*="grabthiscode.com"])
 ||realerlab.blogspot.com^$all
-ecosia.org##.result:has(a[href*="realerlab.blogspot.com"])
+ecosia.org###main .result:has(a[href*="realerlab.blogspot.com"])
 ||quickanswer.blog^$all
-ecosia.org##.result:has(a[href*="quickanswer.blog"])
+ecosia.org###main .result:has(a[href*="quickanswer.blog"])
 ||webdesigntips.blog^$all
-ecosia.org##.result:has(a[href*="webdesigntips.blog"])
+ecosia.org###main .result:has(a[href*="webdesigntips.blog"])
 ||joyk.com^$all
-ecosia.org##.result:has(a[href*="joyk.com"])
+ecosia.org###main .result:has(a[href*="joyk.com"])
 ||gushiciku.cn^$all
-ecosia.org##.result:has(a[href*="gushiciku.cn"])
+ecosia.org###main .result:has(a[href*="gushiciku.cn"])
 ||truecodes.net^$all
-ecosia.org##.result:has(a[href*="truecodes.net"])
+ecosia.org###main .result:has(a[href*="truecodes.net"])
 ||errorsandanswers.com^$all
-ecosia.org##.result:has(a[href*="errorsandanswers.com"])
+ecosia.org###main .result:has(a[href*="errorsandanswers.com"])
 ||boolchr.com^$all
-ecosia.org##.result:has(a[href*="boolchr.com"])
+ecosia.org###main .result:has(a[href*="boolchr.com"])
 ||itnursery.com^$all
-ecosia.org##.result:has(a[href*="itnursery.com"])
+ecosia.org###main .result:has(a[href*="itnursery.com"])
 ||libsea.com^$all
-ecosia.org##.result:has(a[href*="libsea.com"])
+ecosia.org###main .result:has(a[href*="libsea.com"])
 ||telepon.cyou^$all
-ecosia.org##.result:has(a[href*="telepon.cyou"])
+ecosia.org###main .result:has(a[href*="telepon.cyou"])
 ||madanswer.com^$all
-ecosia.org##.result:has(a[href*="madanswer.com"])
+ecosia.org###main .result:has(a[href*="madanswer.com"])
 ||programmatic.solutions^$all
-ecosia.org##.result:has(a[href*="programmatic.solutions"])
+ecosia.org###main .result:has(a[href*="programmatic.solutions"])
 ||facit.edu.br^$all
-ecosia.org##.result:has(a[href*="facit.edu.br"])
+ecosia.org###main .result:has(a[href*="facit.edu.br"])
 ||technointeract.com^$all
-ecosia.org##.result:has(a[href*="technointeract.com"])
+ecosia.org###main .result:has(a[href*="technointeract.com"])
 ||saca.aussievitamin.com^$all
-ecosia.org##.result:has(a[href*="saca.aussievitamin.com"])
+ecosia.org###main .result:has(a[href*="saca.aussievitamin.com"])
 ||stackorigin.com^$all
-ecosia.org##.result:has(a[href*="stackorigin.com"])
+ecosia.org###main .result:has(a[href*="stackorigin.com"])
 ||solutionschecker.com^$all
-ecosia.org##.result:has(a[href*="solutionschecker.com"])
+ecosia.org###main .result:has(a[href*="solutionschecker.com"])
 ||oraask.com^$all
-ecosia.org##.result:has(a[href*="oraask.com"])
+ecosia.org###main .result:has(a[href*="oraask.com"])
 ||yeahexp.com^$all
-ecosia.org##.result:has(a[href*="yeahexp.com"])
+ecosia.org###main .result:has(a[href*="yeahexp.com"])
 ||fullstack.cafe^$all
-ecosia.org##.result:has(a[href*="fullstack.cafe"])
+ecosia.org###main .result:has(a[href*="fullstack.cafe"])
 ||ansaurus.com^$all
-ecosia.org##.result:has(a[href*="ansaurus.com"])
+ecosia.org###main .result:has(a[href*="ansaurus.com"])
 ||mars.railpage.com.au^$all
-ecosia.org##.result:has(a[href*="mars.railpage.com.au"])
+ecosia.org###main .result:has(a[href*="mars.railpage.com.au"])
 ||wikifix.dev^$all
-ecosia.org##.result:has(a[href*="wikifix.dev"])
+ecosia.org###main .result:has(a[href*="wikifix.dev"])
 ||aing.railpage.com.au^$all
-ecosia.org##.result:has(a[href*="aing.railpage.com.au"])
+ecosia.org###main .result:has(a[href*="aing.railpage.com.au"])
 ||hrefcode.com^$all
-ecosia.org##.result:has(a[href*="hrefcode.com"])
+ecosia.org###main .result:has(a[href*="hrefcode.com"])
 ||wyzant.com^$all
-ecosia.org##.result:has(a[href*="wyzant.com"])
+ecosia.org###main .result:has(a[href*="wyzant.com"])
 ||fixpython.com^$all
-ecosia.org##.result:has(a[href*="fixpython.com"])
+ecosia.org###main .result:has(a[href*="fixpython.com"])
 ||stackubuntu.com^$all
-ecosia.org##.result:has(a[href*="stackubuntu.com"])
+ecosia.org###main .result:has(a[href*="stackubuntu.com"])
 ||coder.horje.com^$all
-ecosia.org##.result:has(a[href*="coder.horje.com"])
+ecosia.org###main .result:has(a[href*="coder.horje.com"])
 ||lowongan.live^$all
-ecosia.org##.result:has(a[href*="lowongan.live"])
+ecosia.org###main .result:has(a[href*="lowongan.live"])
 ||pythondict.com^$all
-ecosia.org##.result:has(a[href*="pythondict.com"])
+ecosia.org###main .result:has(a[href*="pythondict.com"])
 ||hsmap.xyz^$all
-ecosia.org##.result:has(a[href*="hsmap.xyz"])
+ecosia.org###main .result:has(a[href*="hsmap.xyz"])
 ||pythonmana.com^$all
-ecosia.org##.result:has(a[href*="pythonmana.com"])
+ecosia.org###main .result:has(a[href*="pythonmana.com"])
 ||ittutorialpoint.com^$all
-ecosia.org##.result:has(a[href*="ittutorialpoint.com"])
+ecosia.org###main .result:has(a[href*="ittutorialpoint.com"])
 ||qastack.lk^$all
-ecosia.org##.result:has(a[href*="qastack.lk"])
+ecosia.org###main .result:has(a[href*="qastack.lk"])
 ||makemeengr.com^$all
-ecosia.org##.result:has(a[href*="makemeengr.com"])
+ecosia.org###main .result:has(a[href*="makemeengr.com"])
 ||py4u.org^$all
-ecosia.org##.result:has(a[href*="py4u.org"])
+ecosia.org###main .result:has(a[href*="py4u.org"])
 ||snippmate.com^$all
-ecosia.org##.result:has(a[href*="snippmate.com"])
+ecosia.org###main .result:has(a[href*="snippmate.com"])
 ||oursbrand.com^$all
-ecosia.org##.result:has(a[href*="oursbrand.com"])
+ecosia.org###main .result:has(a[href*="oursbrand.com"])
 ||rowcoding.com^$all
-ecosia.org##.result:has(a[href*="rowcoding.com"])
+ecosia.org###main .result:has(a[href*="rowcoding.com"])
 ||kausalvikash.in^$all
-ecosia.org##.result:has(a[href*="kausalvikash.in"])
+ecosia.org###main .result:has(a[href*="kausalvikash.in"])
 ||pythonhowto.org^$all
-ecosia.org##.result:has(a[href*="pythonhowto.org"])
+ecosia.org###main .result:has(a[href*="pythonhowto.org"])
 ||getridbug.com^$all
-ecosia.org##.result:has(a[href*="getridbug.com"])
+ecosia.org###main .result:has(a[href*="getridbug.com"])
 ||developerload.com^$all
-ecosia.org##.result:has(a[href*="developerload.com"])
+ecosia.org###main .result:has(a[href*="developerload.com"])
 ||errors-solved.com^$all
-ecosia.org##.result:has(a[href*="errors-solved.com"])
+ecosia.org###main .result:has(a[href*="errors-solved.com"])
 ||javaerrorfix.com^$all
-ecosia.org##.result:has(a[href*="javaerrorfix.com"])
+ecosia.org###main .result:has(a[href*="javaerrorfix.com"])
 ||thiscodeworks.com^$all
-ecosia.org##.result:has(a[href*="thiscodeworks.com"])
+ecosia.org###main .result:has(a[href*="thiscodeworks.com"])
 ||tfetimes.com^$all
-ecosia.org##.result:has(a[href*="tfetimes.com"])
+ecosia.org###main .result:has(a[href*="tfetimes.com"])
 ||johndeerecreditpowerplan.com^$all
-ecosia.org##.result:has(a[href*="johndeerecreditpowerplan.com"])
+ecosia.org###main .result:has(a[href*="johndeerecreditpowerplan.com"])
 ||sujeshanto.blogspot.com^$all
-ecosia.org##.result:has(a[href*="sujeshanto.blogspot.com"])
+ecosia.org###main .result:has(a[href*="sujeshanto.blogspot.com"])
 ||answersfordevelopers.blogspot.com^$all
-ecosia.org##.result:has(a[href*="answersfordevelopers.blogspot.com"])
+ecosia.org###main .result:has(a[href*="answersfordevelopers.blogspot.com"])
 ||ingrom.com^$all
-ecosia.org##.result:has(a[href*="ingrom.com"])
+ecosia.org###main .result:has(a[href*="ingrom.com"])
 ||jtuto.com^$all
-ecosia.org##.result:has(a[href*="jtuto.com"])
+ecosia.org###main .result:has(a[href*="jtuto.com"])
 ||notcrash.com^$all
-ecosia.org##.result:has(a[href*="notcrash.com"])
+ecosia.org###main .result:has(a[href*="notcrash.com"])
 ||blogmepost.com^$all
-ecosia.org##.result:has(a[href*="blogmepost.com"])
+ecosia.org###main .result:has(a[href*="blogmepost.com"])
 ||developerinsider.co^$all
-ecosia.org##.result:has(a[href*="developerinsider.co"])
+ecosia.org###main .result:has(a[href*="developerinsider.co"])
 ||coded3.com^$all
-ecosia.org##.result:has(a[href*="coded3.com"])
+ecosia.org###main .result:has(a[href*="coded3.com"])
 ||answerbun.com^$all
-ecosia.org##.result:has(a[href*="answerbun.com"])
+ecosia.org###main .result:has(a[href*="answerbun.com"])
 ||coder-solution-ru.com^$all
-ecosia.org##.result:has(a[href*="coder-solution-ru.com"])
+ecosia.org###main .result:has(a[href*="coder-solution-ru.com"])
 ||sevennet-blog.tumblr.com^$all
-ecosia.org##.result:has(a[href*="sevennet-blog.tumblr.com"])
+ecosia.org###main .result:has(a[href*="sevennet-blog.tumblr.com"])
 ||stklowf.blogspot.com^$all
-ecosia.org##.result:has(a[href*="stklowf.blogspot.com"])
+ecosia.org###main .result:has(a[href*="stklowf.blogspot.com"])
 ||91r.net^$all
-ecosia.org##.result:has(a[href*="91r.net"])
+ecosia.org###main .result:has(a[href*="91r.net"])
 ||manongdao.com^$all
-ecosia.org##.result:has(a[href*="manongdao.com"])
+ecosia.org###main .result:has(a[href*="manongdao.com"])
 ||prograide.com^$all
-ecosia.org##.result:has(a[href*="prograide.com"])
+ecosia.org###main .result:has(a[href*="prograide.com"])
 ||iteramos.com^$all
-ecosia.org##.result:has(a[href*="iteramos.com"])
+ecosia.org###main .result:has(a[href*="iteramos.com"])
 ||resultfor.dev^$all
-ecosia.org##.result:has(a[href*="resultfor.dev"])
+ecosia.org###main .result:has(a[href*="resultfor.dev"])
 ||heavenlymutex.com^$all
-ecosia.org##.result:has(a[href*="heavenlymutex.com"])
+ecosia.org###main .result:has(a[href*="heavenlymutex.com"])
 ||encodingcompiler.com^$all
-ecosia.org##.result:has(a[href*="encodingcompiler.com"])
+ecosia.org###main .result:has(a[href*="encodingcompiler.com"])
 ||technoteshelp.com^$all
-ecosia.org##.result:has(a[href*="technoteshelp.com"])
+ecosia.org###main .result:has(a[href*="technoteshelp.com"])
 ||bitcoden.com^$all
-ecosia.org##.result:has(a[href*="bitcoden.com"])
+ecosia.org###main .result:has(a[href*="bitcoden.com"])
 ||devsfeed.com^$all
-ecosia.org##.result:has(a[href*="devsfeed.com"])
+ecosia.org###main .result:has(a[href*="devsfeed.com"])
 ||stackoverline.cyou^$all
-ecosia.org##.result:has(a[href*="stackoverline.cyou"])
+ecosia.org###main .result:has(a[href*="stackoverline.cyou"])
 ||extends.run^$all
-ecosia.org##.result:has(a[href*="extends.run"])
+ecosia.org###main .result:has(a[href*="extends.run"])
 ||copyfuture.com^$all
-ecosia.org##.result:has(a[href*="copyfuture.com"])
+ecosia.org###main .result:has(a[href*="copyfuture.com"])
 ||sharetechnotes.com^$all
-ecosia.org##.result:has(a[href*="sharetechnotes.com"])
+ecosia.org###main .result:has(a[href*="sharetechnotes.com"])
 ||crex24.com^$all
-ecosia.org##.result:has(a[href*="crex24.com"])
+ecosia.org###main .result:has(a[href*="crex24.com"])
 ||yakst.com^$all
-ecosia.org##.result:has(a[href*="yakst.com"])
+ecosia.org###main .result:has(a[href*="yakst.com"])
 ||javascriptcn.com^$all
-ecosia.org##.result:has(a[href*="javascriptcn.com"])
+ecosia.org###main .result:has(a[href*="javascriptcn.com"])
 ||antworten.top^$all
-ecosia.org##.result:has(a[href*="antworten.top"])
+ecosia.org###main .result:has(a[href*="antworten.top"])
 ||narkive.fr^$all
-ecosia.org##.result:has(a[href*="narkive.fr"])
+ecosia.org###main .result:has(a[href*="narkive.fr"])
 ||narkive.com^$all
-ecosia.org##.result:has(a[href*="narkive.com"])
+ecosia.org###main .result:has(a[href*="narkive.com"])
 ||narkive.co.il^$all
-ecosia.org##.result:has(a[href*="narkive.co.il"])
+ecosia.org###main .result:has(a[href*="narkive.co.il"])
 ||narkive.it^$all
-ecosia.org##.result:has(a[href*="narkive.it"])
+ecosia.org###main .result:has(a[href*="narkive.it"])
 ||narkive.no^$all
-ecosia.org##.result:has(a[href*="narkive.no"])
+ecosia.org###main .result:has(a[href*="narkive.no"])
 ||narkive.se^$all
-ecosia.org##.result:has(a[href*="narkive.se"])
+ecosia.org###main .result:has(a[href*="narkive.se"])
 ||narkive.dk^$all
-ecosia.org##.result:has(a[href*="narkive.dk"])
+ecosia.org###main .result:has(a[href*="narkive.dk"])
 ||narkive.fi^$all
-ecosia.org##.result:has(a[href*="narkive.fi"])
+ecosia.org###main .result:has(a[href*="narkive.fi"])
 ||narkive.kr^$all
-ecosia.org##.result:has(a[href*="narkive.kr"])
+ecosia.org###main .result:has(a[href*="narkive.kr"])
 ||narkive.ee^$all
-ecosia.org##.result:has(a[href*="narkive.ee"])
+ecosia.org###main .result:has(a[href*="narkive.ee"])
 ||narkive.pl^$all
-ecosia.org##.result:has(a[href*="narkive.pl"])
+ecosia.org###main .result:has(a[href*="narkive.pl"])
 ||narkive.info.tr^$all
-ecosia.org##.result:has(a[href*="narkive.info.tr"])
+ecosia.org###main .result:has(a[href*="narkive.info.tr"])
 ||narkive.hr^$all
-ecosia.org##.result:has(a[href*="narkive.hr"])
+ecosia.org###main .result:has(a[href*="narkive.hr"])
 ||narkive.cz^$all
-ecosia.org##.result:has(a[href*="narkive.cz"])
+ecosia.org###main .result:has(a[href*="narkive.cz"])
 ||narkive.in^$all
-ecosia.org##.result:has(a[href*="narkive.in"])
+ecosia.org###main .result:has(a[href*="narkive.in"])
 ||niceans.com^$all
-ecosia.org##.result:has(a[href*="niceans.com"])
+ecosia.org###main .result:has(a[href*="niceans.com"])
 ||itecnotes.com^$all
-ecosia.org##.result:has(a[href*="itecnotes.com"])
+ecosia.org###main .result:has(a[href*="itecnotes.com"])
 ||9to5answer.com^$all
-ecosia.org##.result:has(a[href*="9to5answer.com"])
+ecosia.org###main .result:has(a[href*="9to5answer.com"])
 ||zditect.com^$all
-ecosia.org##.result:has(a[href*="zditect.com"])
+ecosia.org###main .result:has(a[href*="zditect.com"])
 ||boxhoidap.com^$all
-ecosia.org##.result:has(a[href*="boxhoidap.com"])
+ecosia.org###main .result:has(a[href*="boxhoidap.com"])
 ||mortgagefasr860.weebly.com^$all
-ecosia.org##.result:has(a[href*="mortgagefasr860.weebly.com"])
+ecosia.org###main .result:has(a[href*="mortgagefasr860.weebly.com"])
 ||folkstalk.com^$all
-ecosia.org##.result:has(a[href*="folkstalk.com"])
+ecosia.org###main .result:has(a[href*="folkstalk.com"])
 ||angularfixing.com^$all
-ecosia.org##.result:has(a[href*="angularfixing.com"])
+ecosia.org###main .result:has(a[href*="angularfixing.com"])
 ||splunktool.com^$all
-ecosia.org##.result:has(a[href*="splunktool.com"])
+ecosia.org###main .result:has(a[href*="splunktool.com"])
 ||addcodings.com^$all
-ecosia.org##.result:has(a[href*="addcodings.com"])
+ecosia.org###main .result:has(a[href*="addcodings.com"])
 ||erg.tcta.com.au^$all
-ecosia.org##.result:has(a[href*="erg.tcta.com.au"])
+ecosia.org###main .result:has(a[href*="erg.tcta.com.au"])
 ||quick-advisors.com^$all
-ecosia.org##.result:has(a[href*="quick-advisors.com"])
+ecosia.org###main .result:has(a[href*="quick-advisors.com"])
 ||mulloverthing.com^$all
-ecosia.org##.result:has(a[href*="mulloverthing.com"])
+ecosia.org###main .result:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
-ecosia.org##.result:has(a[href*="linuxfixes.com"])
+ecosia.org###main .result:has(a[href*="linuxfixes.com"])
 ||forumming.com^$all
-ecosia.org##.result:has(a[href*="forumming.com"])
+ecosia.org###main .result:has(a[href*="forumming.com"])
 ||pullrequest.ru^$all
-ecosia.org##.result:has(a[href*="pullrequest.ru"])
+ecosia.org###main .result:has(a[href*="pullrequest.ru"])
 ||lmlphp.com^$all
-ecosia.org##.result:has(a[href*="lmlphp.com"])
+ecosia.org###main .result:has(a[href*="lmlphp.com"])
 ||w3guides.com^$all
 ecosia.org##.result:has(a[href*="w3guides.com"])
 ||stackprinter.com^$all
@@ -1287,87 +1287,87 @@ ecosia.org##.result:has(a[href*="coolfire25.com"])
 ||segmentfault.com^$all
 ecosia.org##.result:has(a[href*="segmentfault.com"])
 ||encyclopedia.thefreedictionary.com^$all
-ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
+ecosia.org###main .result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all
-ecosia.org##.result:has(a[href*="algebra.com"])
+ecosia.org###main .result:has(a[href*="algebra.com"])
 ||wikizero.com^$all
-ecosia.org##.result:has(a[href*="wikizero.com"])
+ecosia.org###main .result:has(a[href*="wikizero.com"])
 ||mediawiki.feverous.co.uk^$all
-ecosia.org##.result:has(a[href*="mediawiki.feverous.co.uk"])
+ecosia.org###main .result:has(a[href*="mediawiki.feverous.co.uk"])
 ||everything.explained.today^$all
-ecosia.org##.result:has(a[href*="everything.explained.today"])
+ecosia.org###main .result:has(a[href*="everything.explained.today"])
 ||wiwa.wiki^$all
-ecosia.org##.result:has(a[href*="wiwa.wiki"])
+ecosia.org###main .result:has(a[href*="wiwa.wiki"])
 ||findatwiki.com^$all
-ecosia.org##.result:has(a[href*="findatwiki.com"])
+ecosia.org###main .result:has(a[href*="findatwiki.com"])
 ||wikide.wiki^$all
-ecosia.org##.result:has(a[href*="wikide.wiki"])
+ecosia.org###main .result:has(a[href*="wikide.wiki"])
 ||wikit.wiki^$all
-ecosia.org##.result:has(a[href*="wikit.wiki"])
+ecosia.org###main .result:has(a[href*="wikit.wiki"])
 ||secret-bases.co.uk/wiki$all
-ecosia.org##.result:has(a[href*="secret-bases.co.uk/wiki"])
+ecosia.org###main .result:has(a[href*="secret-bases.co.uk/wiki"])
 ||scholarship.edu.vn/wiki$all
-ecosia.org##.result:has(a[href*="scholarship.edu.vn/wiki"])
+ecosia.org###main .result:has(a[href*="scholarship.edu.vn/wiki"])
 ||frwiki.wiki^$all
-ecosia.org##.result:has(a[href*="frwiki.wiki"])
+ecosia.org###main .result:has(a[href*="frwiki.wiki"])
 ||zxc.wiki^$all
-ecosia.org##.result:has(a[href*="zxc.wiki"])
+ecosia.org###main .result:has(a[href*="zxc.wiki"])
 ||360wiki.ru^$all
-ecosia.org##.result:has(a[href*="360wiki.ru"])
+ecosia.org###main .result:has(a[href*="360wiki.ru"])
 ||sv.abcdef.wiki^$all
-ecosia.org##.result:has(a[href*="sv.abcdef.wiki"])
+ecosia.org###main .result:has(a[href*="sv.abcdef.wiki"])
 ||buildwiki.ru^$all
-ecosia.org##.result:has(a[href*="buildwiki.ru"])
+ecosia.org###main .result:has(a[href*="buildwiki.ru"])
 ||datewiki.ru^$all
-ecosia.org##.result:has(a[href*="datewiki.ru"])
+ecosia.org###main .result:has(a[href*="datewiki.ru"])
 ||encyclopaedia.bid^$all
-ecosia.org##.result:has(a[href*="encyclopaedia.bid"])
+ecosia.org###main .result:has(a[href*="encyclopaedia.bid"])
 ||gaz.wiki^$all
-ecosia.org##.result:has(a[href*="gaz.wiki"])
+ecosia.org###main .result:has(a[href*="gaz.wiki"])
 ||th.hmong.wiki^$all
-ecosia.org##.result:has(a[href*="th.hmong.wiki"])
+ecosia.org###main .result:has(a[href*="th.hmong.wiki"])
 ||hmong.ru^$all
-ecosia.org##.result:has(a[href*="hmong.ru"])
+ecosia.org###main .result:has(a[href*="hmong.ru"])
 ||livepcwiki.ru^$all
-ecosia.org##.result:has(a[href*="livepcwiki.ru"])
+ecosia.org###main .result:has(a[href*="livepcwiki.ru"])
 ||enhancedwiki.territorioscuola.it^$all
-ecosia.org##.result:has(a[href*="enhancedwiki.territorioscuola.it"])
+ecosia.org###main .result:has(a[href*="enhancedwiki.territorioscuola.it"])
 ||wiki-org.ru^$all
-ecosia.org##.result:has(a[href*="wiki-org.ru"])
+ecosia.org###main .result:has(a[href*="wiki-org.ru"])
 ||wiki2.net^$all
-ecosia.org##.result:has(a[href*="wiki2.net"])
+ecosia.org###main .result:has(a[href*="wiki2.net"])
 ||wiki2.info^$all
-ecosia.org##.result:has(a[href*="wiki2.info"])
+ecosia.org###main .result:has(a[href*="wiki2.info"])
 ||wiki2.org^$all
-ecosia.org##.result:has(a[href*="wiki2.org"])
+ecosia.org###main .result:has(a[href*="wiki2.org"])
 ||wiki.cologne^$all
-ecosia.org##.result:has(a[href*="wiki.cologne"])
+ecosia.org###main .result:has(a[href*="wiki.cologne"])
 ||wikidea.ru^$all
-ecosia.org##.result:has(a[href*="wikidea.ru"])
+ecosia.org###main .result:has(a[href*="wikidea.ru"])
 ||wiki2wiki.ru^$all
-ecosia.org##.result:has(a[href*="wiki2wiki.ru"])
+ecosia.org###main .result:has(a[href*="wiki2wiki.ru"])
 ||globalwikionline.com^$all
-ecosia.org##.result:has(a[href*="globalwikionline.com"])
+ecosia.org###main .result:has(a[href*="globalwikionline.com"])
 ||wikipe.wiki^$all
-ecosia.org##.result:has(a[href*="wikipe.wiki"])
+ecosia.org###main .result:has(a[href*="wikipe.wiki"])
 ||wikipedia.tel^$all
-ecosia.org##.result:has(a[href*="wikipedia.tel"])
+ecosia.org###main .result:has(a[href*="wikipedia.tel"])
 ||wikidark.ru^$all
-ecosia.org##.result:has(a[href*="wikidark.ru"])
+ecosia.org###main .result:has(a[href*="wikidark.ru"])
 ||wikiredia.ru^$all
-ecosia.org##.result:has(a[href*="wikiredia.ru"])
+ecosia.org###main .result:has(a[href*="wikiredia.ru"])
 ||wikipedia24.ru^$all
-ecosia.org##.result:has(a[href*="wikipedia24.ru"])
+ecosia.org###main .result:has(a[href*="wikipedia24.ru"])
 ||wikiwand.com^$all
-ecosia.org##.result:has(a[href*="wikiwand.com"])
+ecosia.org###main .result:has(a[href*="wikiwand.com"])
 ||encyclopedia.kz^$all
-ecosia.org##.result:has(a[href*="encyclopedia.kz"])
+ecosia.org###main .result:has(a[href*="encyclopedia.kz"])
 ||static.hlt.bme.hu^$all
-ecosia.org##.result:has(a[href*="static.hlt.bme.hu"])
+ecosia.org###main .result:has(a[href*="static.hlt.bme.hu"])
 ||wikibrief.org^$all
-ecosia.org##.result:has(a[href*="wikibrief.org"])
+ecosia.org###main .result:has(a[href*="wikibrief.org"])
 ||second.wiki^$all
-ecosia.org##.result:has(a[href*="second.wiki"])
+ecosia.org###main .result:has(a[href*="second.wiki"])
 ||dewiki.de^$all
 ecosia.org##.result:has(a[href*="dewiki.de"])
 ||wiki.alquds.edu^$all

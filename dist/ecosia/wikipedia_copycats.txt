@@ -7,87 +7,87 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 ||encyclopedia.thefreedictionary.com^$all
-ecosia.org##.result:has(a[href*="encyclopedia.thefreedictionary.com"])
+ecosia.org###main .result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all
-ecosia.org##.result:has(a[href*="algebra.com"])
+ecosia.org###main .result:has(a[href*="algebra.com"])
 ||wikizero.com^$all
-ecosia.org##.result:has(a[href*="wikizero.com"])
+ecosia.org###main .result:has(a[href*="wikizero.com"])
 ||mediawiki.feverous.co.uk^$all
-ecosia.org##.result:has(a[href*="mediawiki.feverous.co.uk"])
+ecosia.org###main .result:has(a[href*="mediawiki.feverous.co.uk"])
 ||everything.explained.today^$all
-ecosia.org##.result:has(a[href*="everything.explained.today"])
+ecosia.org###main .result:has(a[href*="everything.explained.today"])
 ||wiwa.wiki^$all
-ecosia.org##.result:has(a[href*="wiwa.wiki"])
+ecosia.org###main .result:has(a[href*="wiwa.wiki"])
 ||findatwiki.com^$all
-ecosia.org##.result:has(a[href*="findatwiki.com"])
+ecosia.org###main .result:has(a[href*="findatwiki.com"])
 ||wikide.wiki^$all
-ecosia.org##.result:has(a[href*="wikide.wiki"])
+ecosia.org###main .result:has(a[href*="wikide.wiki"])
 ||wikit.wiki^$all
-ecosia.org##.result:has(a[href*="wikit.wiki"])
+ecosia.org###main .result:has(a[href*="wikit.wiki"])
 ||secret-bases.co.uk/wiki$all
-ecosia.org##.result:has(a[href*="secret-bases.co.uk/wiki"])
+ecosia.org###main .result:has(a[href*="secret-bases.co.uk/wiki"])
 ||scholarship.edu.vn/wiki$all
-ecosia.org##.result:has(a[href*="scholarship.edu.vn/wiki"])
+ecosia.org###main .result:has(a[href*="scholarship.edu.vn/wiki"])
 ||frwiki.wiki^$all
-ecosia.org##.result:has(a[href*="frwiki.wiki"])
+ecosia.org###main .result:has(a[href*="frwiki.wiki"])
 ||zxc.wiki^$all
-ecosia.org##.result:has(a[href*="zxc.wiki"])
+ecosia.org###main .result:has(a[href*="zxc.wiki"])
 ||360wiki.ru^$all
-ecosia.org##.result:has(a[href*="360wiki.ru"])
+ecosia.org###main .result:has(a[href*="360wiki.ru"])
 ||sv.abcdef.wiki^$all
-ecosia.org##.result:has(a[href*="sv.abcdef.wiki"])
+ecosia.org###main .result:has(a[href*="sv.abcdef.wiki"])
 ||buildwiki.ru^$all
-ecosia.org##.result:has(a[href*="buildwiki.ru"])
+ecosia.org###main .result:has(a[href*="buildwiki.ru"])
 ||datewiki.ru^$all
-ecosia.org##.result:has(a[href*="datewiki.ru"])
+ecosia.org###main .result:has(a[href*="datewiki.ru"])
 ||encyclopaedia.bid^$all
-ecosia.org##.result:has(a[href*="encyclopaedia.bid"])
+ecosia.org###main .result:has(a[href*="encyclopaedia.bid"])
 ||gaz.wiki^$all
-ecosia.org##.result:has(a[href*="gaz.wiki"])
+ecosia.org###main .result:has(a[href*="gaz.wiki"])
 ||th.hmong.wiki^$all
-ecosia.org##.result:has(a[href*="th.hmong.wiki"])
+ecosia.org###main .result:has(a[href*="th.hmong.wiki"])
 ||hmong.ru^$all
-ecosia.org##.result:has(a[href*="hmong.ru"])
+ecosia.org###main .result:has(a[href*="hmong.ru"])
 ||livepcwiki.ru^$all
-ecosia.org##.result:has(a[href*="livepcwiki.ru"])
+ecosia.org###main .result:has(a[href*="livepcwiki.ru"])
 ||enhancedwiki.territorioscuola.it^$all
-ecosia.org##.result:has(a[href*="enhancedwiki.territorioscuola.it"])
+ecosia.org###main .result:has(a[href*="enhancedwiki.territorioscuola.it"])
 ||wiki-org.ru^$all
-ecosia.org##.result:has(a[href*="wiki-org.ru"])
+ecosia.org###main .result:has(a[href*="wiki-org.ru"])
 ||wiki2.net^$all
-ecosia.org##.result:has(a[href*="wiki2.net"])
+ecosia.org###main .result:has(a[href*="wiki2.net"])
 ||wiki2.info^$all
-ecosia.org##.result:has(a[href*="wiki2.info"])
+ecosia.org###main .result:has(a[href*="wiki2.info"])
 ||wiki2.org^$all
-ecosia.org##.result:has(a[href*="wiki2.org"])
+ecosia.org###main .result:has(a[href*="wiki2.org"])
 ||wiki.cologne^$all
-ecosia.org##.result:has(a[href*="wiki.cologne"])
+ecosia.org###main .result:has(a[href*="wiki.cologne"])
 ||wikidea.ru^$all
-ecosia.org##.result:has(a[href*="wikidea.ru"])
+ecosia.org###main .result:has(a[href*="wikidea.ru"])
 ||wiki2wiki.ru^$all
-ecosia.org##.result:has(a[href*="wiki2wiki.ru"])
+ecosia.org###main .result:has(a[href*="wiki2wiki.ru"])
 ||globalwikionline.com^$all
-ecosia.org##.result:has(a[href*="globalwikionline.com"])
+ecosia.org###main .result:has(a[href*="globalwikionline.com"])
 ||wikipe.wiki^$all
-ecosia.org##.result:has(a[href*="wikipe.wiki"])
+ecosia.org###main .result:has(a[href*="wikipe.wiki"])
 ||wikipedia.tel^$all
-ecosia.org##.result:has(a[href*="wikipedia.tel"])
+ecosia.org###main .result:has(a[href*="wikipedia.tel"])
 ||wikidark.ru^$all
-ecosia.org##.result:has(a[href*="wikidark.ru"])
+ecosia.org###main .result:has(a[href*="wikidark.ru"])
 ||wikiredia.ru^$all
-ecosia.org##.result:has(a[href*="wikiredia.ru"])
+ecosia.org###main .result:has(a[href*="wikiredia.ru"])
 ||wikipedia24.ru^$all
-ecosia.org##.result:has(a[href*="wikipedia24.ru"])
+ecosia.org###main .result:has(a[href*="wikipedia24.ru"])
 ||wikiwand.com^$all
-ecosia.org##.result:has(a[href*="wikiwand.com"])
+ecosia.org###main .result:has(a[href*="wikiwand.com"])
 ||encyclopedia.kz^$all
-ecosia.org##.result:has(a[href*="encyclopedia.kz"])
+ecosia.org###main .result:has(a[href*="encyclopedia.kz"])
 ||static.hlt.bme.hu^$all
-ecosia.org##.result:has(a[href*="static.hlt.bme.hu"])
+ecosia.org###main .result:has(a[href*="static.hlt.bme.hu"])
 ||wikibrief.org^$all
-ecosia.org##.result:has(a[href*="wikibrief.org"])
+ecosia.org###main .result:has(a[href*="wikibrief.org"])
 ||second.wiki^$all
-ecosia.org##.result:has(a[href*="second.wiki"])
+ecosia.org###main .result:has(a[href*="second.wiki"])
 ||dewiki.de^$all
 ecosia.org##.result:has(a[href*="dewiki.de"])
 ||wiki.alquds.edu^$all

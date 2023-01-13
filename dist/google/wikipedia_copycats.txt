@@ -7,87 +7,87 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 ||encyclopedia.thefreedictionary.com^$all
-google.*##.g:has(a[href*="encyclopedia.thefreedictionary.com"])
+google.*###rso .MjjYud a[href*="encyclopedia.thefreedictionary.com"]:upward(.MjjYud)
 ||algebra.com^$all
-google.*##.g:has(a[href*="algebra.com"])
+google.*###rso .MjjYud a[href*="algebra.com"]:upward(.MjjYud)
 ||wikizero.com^$all
-google.*##.g:has(a[href*="wikizero.com"])
+google.*###rso .MjjYud a[href*="wikizero.com"]:upward(.MjjYud)
 ||mediawiki.feverous.co.uk^$all
-google.*##.g:has(a[href*="mediawiki.feverous.co.uk"])
+google.*###rso .MjjYud a[href*="mediawiki.feverous.co.uk"]:upward(.MjjYud)
 ||everything.explained.today^$all
-google.*##.g:has(a[href*="everything.explained.today"])
+google.*###rso .MjjYud a[href*="everything.explained.today"]:upward(.MjjYud)
 ||wiwa.wiki^$all
-google.*##.g:has(a[href*="wiwa.wiki"])
+google.*###rso .MjjYud a[href*="wiwa.wiki"]:upward(.MjjYud)
 ||findatwiki.com^$all
-google.*##.g:has(a[href*="findatwiki.com"])
+google.*###rso .MjjYud a[href*="findatwiki.com"]:upward(.MjjYud)
 ||wikide.wiki^$all
-google.*##.g:has(a[href*="wikide.wiki"])
+google.*###rso .MjjYud a[href*="wikide.wiki"]:upward(.MjjYud)
 ||wikit.wiki^$all
-google.*##.g:has(a[href*="wikit.wiki"])
+google.*###rso .MjjYud a[href*="wikit.wiki"]:upward(.MjjYud)
 ||secret-bases.co.uk/wiki$all
-google.*##.g:has(a[href*="secret-bases.co.uk/wiki"])
+google.*###rso .MjjYud a[href*="secret-bases.co.uk/wiki"]:upward(.MjjYud)
 ||scholarship.edu.vn/wiki$all
-google.*##.g:has(a[href*="scholarship.edu.vn/wiki"])
+google.*###rso .MjjYud a[href*="scholarship.edu.vn/wiki"]:upward(.MjjYud)
 ||frwiki.wiki^$all
-google.*##.g:has(a[href*="frwiki.wiki"])
+google.*###rso .MjjYud a[href*="frwiki.wiki"]:upward(.MjjYud)
 ||zxc.wiki^$all
-google.*##.g:has(a[href*="zxc.wiki"])
+google.*###rso .MjjYud a[href*="zxc.wiki"]:upward(.MjjYud)
 ||360wiki.ru^$all
-google.*##.g:has(a[href*="360wiki.ru"])
+google.*###rso .MjjYud a[href*="360wiki.ru"]:upward(.MjjYud)
 ||sv.abcdef.wiki^$all
-google.*##.g:has(a[href*="sv.abcdef.wiki"])
+google.*###rso .MjjYud a[href*="sv.abcdef.wiki"]:upward(.MjjYud)
 ||buildwiki.ru^$all
-google.*##.g:has(a[href*="buildwiki.ru"])
+google.*###rso .MjjYud a[href*="buildwiki.ru"]:upward(.MjjYud)
 ||datewiki.ru^$all
-google.*##.g:has(a[href*="datewiki.ru"])
+google.*###rso .MjjYud a[href*="datewiki.ru"]:upward(.MjjYud)
 ||encyclopaedia.bid^$all
-google.*##.g:has(a[href*="encyclopaedia.bid"])
+google.*###rso .MjjYud a[href*="encyclopaedia.bid"]:upward(.MjjYud)
 ||gaz.wiki^$all
-google.*##.g:has(a[href*="gaz.wiki"])
+google.*###rso .MjjYud a[href*="gaz.wiki"]:upward(.MjjYud)
 ||th.hmong.wiki^$all
-google.*##.g:has(a[href*="th.hmong.wiki"])
+google.*###rso .MjjYud a[href*="th.hmong.wiki"]:upward(.MjjYud)
 ||hmong.ru^$all
-google.*##.g:has(a[href*="hmong.ru"])
+google.*###rso .MjjYud a[href*="hmong.ru"]:upward(.MjjYud)
 ||livepcwiki.ru^$all
-google.*##.g:has(a[href*="livepcwiki.ru"])
+google.*###rso .MjjYud a[href*="livepcwiki.ru"]:upward(.MjjYud)
 ||enhancedwiki.territorioscuola.it^$all
-google.*##.g:has(a[href*="enhancedwiki.territorioscuola.it"])
+google.*###rso .MjjYud a[href*="enhancedwiki.territorioscuola.it"]:upward(.MjjYud)
 ||wiki-org.ru^$all
-google.*##.g:has(a[href*="wiki-org.ru"])
+google.*###rso .MjjYud a[href*="wiki-org.ru"]:upward(.MjjYud)
 ||wiki2.net^$all
-google.*##.g:has(a[href*="wiki2.net"])
+google.*###rso .MjjYud a[href*="wiki2.net"]:upward(.MjjYud)
 ||wiki2.info^$all
-google.*##.g:has(a[href*="wiki2.info"])
+google.*###rso .MjjYud a[href*="wiki2.info"]:upward(.MjjYud)
 ||wiki2.org^$all
-google.*##.g:has(a[href*="wiki2.org"])
+google.*###rso .MjjYud a[href*="wiki2.org"]:upward(.MjjYud)
 ||wiki.cologne^$all
-google.*##.g:has(a[href*="wiki.cologne"])
+google.*###rso .MjjYud a[href*="wiki.cologne"]:upward(.MjjYud)
 ||wikidea.ru^$all
-google.*##.g:has(a[href*="wikidea.ru"])
+google.*###rso .MjjYud a[href*="wikidea.ru"]:upward(.MjjYud)
 ||wiki2wiki.ru^$all
-google.*##.g:has(a[href*="wiki2wiki.ru"])
+google.*###rso .MjjYud a[href*="wiki2wiki.ru"]:upward(.MjjYud)
 ||globalwikionline.com^$all
-google.*##.g:has(a[href*="globalwikionline.com"])
+google.*###rso .MjjYud a[href*="globalwikionline.com"]:upward(.MjjYud)
 ||wikipe.wiki^$all
-google.*##.g:has(a[href*="wikipe.wiki"])
+google.*###rso .MjjYud a[href*="wikipe.wiki"]:upward(.MjjYud)
 ||wikipedia.tel^$all
-google.*##.g:has(a[href*="wikipedia.tel"])
+google.*###rso .MjjYud a[href*="wikipedia.tel"]:upward(.MjjYud)
 ||wikidark.ru^$all
-google.*##.g:has(a[href*="wikidark.ru"])
+google.*###rso .MjjYud a[href*="wikidark.ru"]:upward(.MjjYud)
 ||wikiredia.ru^$all
-google.*##.g:has(a[href*="wikiredia.ru"])
+google.*###rso .MjjYud a[href*="wikiredia.ru"]:upward(.MjjYud)
 ||wikipedia24.ru^$all
-google.*##.g:has(a[href*="wikipedia24.ru"])
+google.*###rso .MjjYud a[href*="wikipedia24.ru"]:upward(.MjjYud)
 ||wikiwand.com^$all
-google.*##.g:has(a[href*="wikiwand.com"])
+google.*###rso .MjjYud a[href*="wikiwand.com"]:upward(.MjjYud)
 ||encyclopedia.kz^$all
-google.*##.g:has(a[href*="encyclopedia.kz"])
+google.*###rso .MjjYud a[href*="encyclopedia.kz"]:upward(.MjjYud)
 ||static.hlt.bme.hu^$all
-google.*##.g:has(a[href*="static.hlt.bme.hu"])
+google.*###rso .MjjYud a[href*="static.hlt.bme.hu"]:upward(.MjjYud)
 ||wikibrief.org^$all
-google.*##.g:has(a[href*="wikibrief.org"])
+google.*###rso .MjjYud a[href*="wikibrief.org"]:upward(.MjjYud)
 ||second.wiki^$all
-google.*##.g:has(a[href*="second.wiki"])
+google.*###rso .MjjYud a[href*="second.wiki"]:upward(.MjjYud)
 ||dewiki.de^$all
 google.*##.g:has(a[href*="dewiki.de"])
 ||wiki.alquds.edu^$all

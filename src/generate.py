@@ -32,7 +32,7 @@ def to_domain_ublock(url):
         return f"||{formated_url}^$all"
 
 def to_google(url):
-    return f'google.*##.g:has(a[href*="{format_url(url)}"])'
+    return f'google.*###rso .MjjYud a[href*="{format_url(url)}"]:upward(.MjjYud)'
 
 def to_duckduckgo(url):
     return f'duckduckgo.com###links>div:has(a[href*="{format_url(url)}"])'
@@ -44,7 +44,7 @@ def to_startpage(url):
     return f'startpage.com##.w-gl__result:has(a[href*="{format_url(url)}"])'
 
 def to_ecosia(url):
-    return f'ecosia.org##.result:has(a[href*="{format_url(url)}"])'
+    return f'ecosia.org###main .result:has(a[href*="{format_url(url)}"])'
 
 def to_userscript(url):
     return f'[data-domain*="{to_domain_attr(url)}"]'

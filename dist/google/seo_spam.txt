@@ -7,69 +7,69 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 ||spiegato.com^$all
-google.*##.g:has(a[href*="spiegato.com"])
+google.*###rso .MjjYud a[href*="spiegato.com"]:upward(.MjjYud)
 ||actingcollegeses.com^$all
-google.*##.g:has(a[href*="actingcollegeses.com"])
+google.*###rso .MjjYud a[href*="actingcollegeses.com"]:upward(.MjjYud)
 ||patrickkidd3.typepad.com^$all
-google.*##.g:has(a[href*="patrickkidd3.typepad.com"])
+google.*###rso .MjjYud a[href*="patrickkidd3.typepad.com"]:upward(.MjjYud)
 ||durrell2012.com^$all
-google.*##.g:has(a[href*="durrell2012.com"])
+google.*###rso .MjjYud a[href*="durrell2012.com"]:upward(.MjjYud)
 ||developpaper.com^$all
-google.*##.g:has(a[href*="developpaper.com"])
+google.*###rso .MjjYud a[href*="developpaper.com"]:upward(.MjjYud)
 ||topcode.in^$all
 google.*##.g:has(a[href*="topcode.in"])
 ||javascripttutorial.net^$all
-google.*##.g:has(a[href*="javascripttutorial.net"])
+google.*###rso .MjjYud a[href*="javascripttutorial.net"]:upward(.MjjYud)
 ||geekwall.in^$all
-google.*##.g:has(a[href*="geekwall.in"])
+google.*###rso .MjjYud a[href*="geekwall.in"]:upward(.MjjYud)
 ||dzone.com^$all
-google.*##.g:has(a[href*="dzone.com"])
+google.*###rso .MjjYud a[href*="dzone.com"]:upward(.MjjYud)
 ||mailinglistapi.info^$all
-google.*##.g:has(a[href*="mailinglistapi.info"])
+google.*###rso .MjjYud a[href*="mailinglistapi.info"]:upward(.MjjYud)
 ||worldgrowthtoday.com^$all
-google.*##.g:has(a[href*="worldgrowthtoday.com"])
+google.*###rso .MjjYud a[href*="worldgrowthtoday.com"]:upward(.MjjYud)
 ||emailconverts.info^$all
-google.*##.g:has(a[href*="emailconverts.info"])
+google.*###rso .MjjYud a[href*="emailconverts.info"]:upward(.MjjYud)
 ||email-pro.info^$all
-google.*##.g:has(a[href*="email-pro.info"])
+google.*###rso .MjjYud a[href*="email-pro.info"]:upward(.MjjYud)
 ||icode9.com^$all
-google.*##.g:has(a[href*="icode9.com"])
+google.*###rso .MjjYud a[href*="icode9.com"]:upward(.MjjYud)
 ||900913.ru^$all
-google.*##.g:has(a[href*="900913.ru"])
+google.*###rso .MjjYud a[href*="900913.ru"]:upward(.MjjYud)
 ||iditect.com^$all
-google.*##.g:has(a[href*="iditect.com"])
+google.*###rso .MjjYud a[href*="iditect.com"]:upward(.MjjYud)
 ||jqueryscript.net^$all
-google.*##.g:has(a[href*="jqueryscript.net"])
+google.*###rso .MjjYud a[href*="jqueryscript.net"]:upward(.MjjYud)
 ||osqa.net^$all
-google.*##.g:has(a[href*="osqa.net"])
+google.*###rso .MjjYud a[href*="osqa.net"]:upward(.MjjYud)
 ||codingwithfun.com^$all
-google.*##.g:has(a[href*="codingwithfun.com"])
+google.*###rso .MjjYud a[href*="codingwithfun.com"]:upward(.MjjYud)
 ||codesprogram.com^$all
-google.*##.g:has(a[href*="codesprogram.com"])
+google.*###rso .MjjYud a[href*="codesprogram.com"]:upward(.MjjYud)
 ||iqcode.com^$all
-google.*##.g:has(a[href*="iqcode.com"])
+google.*###rso .MjjYud a[href*="iqcode.com"]:upward(.MjjYud)
 ||hum-berlin.de^$all
-google.*##.g:has(a[href*="hum-berlin.de"])
+google.*###rso .MjjYud a[href*="hum-berlin.de"]:upward(.MjjYud)
 ||britguidenewyork.net^$all
-google.*##.g:has(a[href*="britguidenewyork.net"])
+google.*###rso .MjjYud a[href*="britguidenewyork.net"]:upward(.MjjYud)
 ||justshowcode.com^$all
-google.*##.g:has(a[href*="justshowcode.com"])
+google.*###rso .MjjYud a[href*="justshowcode.com"]:upward(.MjjYud)
 ||itw01.com^$all
-google.*##.g:has(a[href*="itw01.com"])
+google.*###rso .MjjYud a[href*="itw01.com"]:upward(.MjjYud)
 ||codertw.com^$all
-google.*##.g:has(a[href*="codertw.com"])
+google.*###rso .MjjYud a[href*="codertw.com"]:upward(.MjjYud)
 ||multi-let.co.uk^$all
-google.*##.g:has(a[href*="multi-let.co.uk"])
+google.*###rso .MjjYud a[href*="multi-let.co.uk"]:upward(.MjjYud)
 ||answerforyou.net^$all
-google.*##.g:has(a[href*="answerforyou.net"])
+google.*###rso .MjjYud a[href*="answerforyou.net"]:upward(.MjjYud)
 ||globalizethis.org^$all
-google.*##.g:has(a[href*="globalizethis.org"])
+google.*###rso .MjjYud a[href*="globalizethis.org"]:upward(.MjjYud)
 ||unbate.com^$all
-google.*##.g:has(a[href*="unbate.com"])
+google.*###rso .MjjYud a[href*="unbate.com"]:upward(.MjjYud)
 ||ngontinh24.com^$all
-google.*##.g:has(a[href*="ngontinh24.com"])
+google.*###rso .MjjYud a[href*="ngontinh24.com"]:upward(.MjjYud)
 ||nmstep.org^$all
-google.*##.g:has(a[href*="nmstep.org"])
+google.*###rso .MjjYud a[href*="nmstep.org"]:upward(.MjjYud)
 ||juicycleanses.com^$all
 google.*##.g:has(a[href*="juicycleanses.com"])
 ||code-discuss.com^$all
