@@ -12,6 +12,3 @@ duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
 google.*###rso .MjjYud a[href*="cnpmjs.org"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="cnpmjs.org"])
-||npm.io^$all
-google.*###rso .MjjYud a[href*="npm.io"]:upward(.MjjYud)
-duckduckgo.com###links>div:has(a[href*="npm.io"])

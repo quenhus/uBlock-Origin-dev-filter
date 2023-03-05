@@ -83,7 +83,6 @@
 [data-domain*="web.bluecomtech.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
-[data-domain*="npm.io"],
 [data-domain*="code-examples.net"],
 [data-domain*="kotaeta.com"],
 [data-domain*="answer-id.com"],

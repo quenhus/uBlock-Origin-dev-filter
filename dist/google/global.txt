@@ -160,8 +160,6 @@ google.*###rso .MjjYud a[href*="web.bluecomtech.com"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="npmmirror.com"]:upward(.MjjYud)
 ||cnpmjs.org^$all
 google.*###rso .MjjYud a[href*="cnpmjs.org"]:upward(.MjjYud)
-||npm.io^$all
-google.*###rso .MjjYud a[href*="npm.io"]:upward(.MjjYud)
 ||spiegato.com^$all
 google.*###rso .MjjYud a[href*="spiegato.com"]:upward(.MjjYud)
 ||actingcollegeses.com^$all

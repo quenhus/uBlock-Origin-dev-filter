@@ -83,7 +83,6 @@
 [data-domain*="web.bluecomtech.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
-[data-domain*="npm.io"],
 [data-domain*="spiegato.com"],
 [data-domain*="actingcollegeses.com"],
 [data-domain*="patrickkidd3.typepad.com"],
