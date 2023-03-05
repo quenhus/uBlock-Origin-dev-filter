@@ -526,3 +526,4 @@
 *://interface.pub/*
 *://coolfire25.com/*
 *://segmentfault.com/*
+*://milk-it.net/*
