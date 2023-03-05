@@ -78,3 +78,7 @@ startpage.com##.w-gl__result:has(a[href*="code-discuss.com"])
 startpage.com##.w-gl__result:has(a[href*="bong-faq.com"])
 ||suptitles.de^$all
 startpage.com##.w-gl__result:has(a[href*="suptitles.de"])
+||brianlovin.com/hn$all
+startpage.com##.w-gl__result:has(a[href*="brianlovin.com/hn"])
+||plageroyale.com^$all
+startpage.com##.w-gl__result:has(a[href*="plageroyale.com"])

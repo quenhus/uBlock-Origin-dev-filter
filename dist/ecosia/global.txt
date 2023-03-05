@@ -232,6 +232,10 @@ ecosia.org###main .result:has(a[href*="code-discuss.com"])
 ecosia.org###main .result:has(a[href*="bong-faq.com"])
 ||suptitles.de^$all
 ecosia.org###main .result:has(a[href*="suptitles.de"])
+||brianlovin.com/hn$all
+ecosia.org###main .result:has(a[href*="brianlovin.com/hn"])
+||plageroyale.com^$all
+ecosia.org###main .result:has(a[href*="plageroyale.com"])
 ||code-examples.net^$all
 ecosia.org###main .result:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
@@ -1284,6 +1288,8 @@ ecosia.org###main .result:has(a[href*="interface.pub"])
 ecosia.org###main .result:has(a[href*="coolfire25.com"])
 ||segmentfault.com^$all
 ecosia.org###main .result:has(a[href*="segmentfault.com"])
+||milk-it.net^$all
+ecosia.org###main .result:has(a[href*="milk-it.net"])
 ||encyclopedia.thefreedictionary.com^$all
 ecosia.org###main .result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

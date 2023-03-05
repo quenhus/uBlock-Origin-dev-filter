@@ -1058,3 +1058,5 @@ search.brave.com###results > div:has(a[href*="interface.pub"])
 search.brave.com###results > div:has(a[href*="coolfire25.com"])
 ||segmentfault.com^$all
 search.brave.com###results > div:has(a[href*="segmentfault.com"])
+||milk-it.net^$all
+search.brave.com###results > div:has(a[href*="milk-it.net"])

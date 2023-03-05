@@ -1212,3 +1212,5 @@ ecosia.org###main .result:has(a[href*="interface.pub"])
 ecosia.org###main .result:has(a[href*="coolfire25.com"])
 ||segmentfault.com^$all
 ecosia.org###main .result:has(a[href*="segmentfault.com"])
+||milk-it.net^$all
+ecosia.org###main .result:has(a[href*="milk-it.net"])

@@ -345,6 +345,12 @@ duckduckgo.com###links>div:has(a[href*="bong-faq.com"])
 ||suptitles.de^$all
 google.*###rso .MjjYud a[href*="suptitles.de"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="suptitles.de"])
+||brianlovin.com/hn$all
+google.*###rso .MjjYud a[href*="brianlovin.com/hn"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="brianlovin.com/hn"])
+||plageroyale.com^$all
+google.*###rso .MjjYud a[href*="plageroyale.com"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="plageroyale.com"])
 ||code-examples.net^$all
 google.*###rso .MjjYud a[href*="code-examples.net"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])
@@ -1923,6 +1929,9 @@ duckduckgo.com###links>div:has(a[href*="coolfire25.com"])
 ||segmentfault.com^$all
 google.*###rso .MjjYud a[href*="segmentfault.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="segmentfault.com"])
+||milk-it.net^$all
+google.*###rso .MjjYud a[href*="milk-it.net"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="milk-it.net"])
 ||encyclopedia.thefreedictionary.com^$all
 google.*###rso .MjjYud a[href*="encyclopedia.thefreedictionary.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])

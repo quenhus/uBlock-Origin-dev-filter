@@ -1212,3 +1212,5 @@ duckduckgo.com###links>div:has(a[href*="interface.pub"])
 duckduckgo.com###links>div:has(a[href*="coolfire25.com"])
 ||segmentfault.com^$all
 duckduckgo.com###links>div:has(a[href*="segmentfault.com"])
+||milk-it.net^$all
+duckduckgo.com###links>div:has(a[href*="milk-it.net"])

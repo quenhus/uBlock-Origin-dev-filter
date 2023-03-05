@@ -1212,3 +1212,5 @@ startpage.com##.w-gl__result:has(a[href*="interface.pub"])
 startpage.com##.w-gl__result:has(a[href*="coolfire25.com"])
 ||segmentfault.com^$all
 startpage.com##.w-gl__result:has(a[href*="segmentfault.com"])
+||milk-it.net^$all
+startpage.com##.w-gl__result:has(a[href*="milk-it.net"])

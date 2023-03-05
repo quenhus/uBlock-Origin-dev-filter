@@ -78,3 +78,7 @@ google.*###rso .MjjYud a[href*="code-discuss.com"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="bong-faq.com"]:upward(.MjjYud)
 ||suptitles.de^$all
 google.*###rso .MjjYud a[href*="suptitles.de"]:upward(.MjjYud)
+||brianlovin.com/hn$all
+google.*###rso .MjjYud a[href*="brianlovin.com/hn"]:upward(.MjjYud)
+||plageroyale.com^$all
+google.*###rso .MjjYud a[href*="plageroyale.com"]:upward(.MjjYud)

@@ -232,6 +232,10 @@ duckduckgo.com###links>div:has(a[href*="code-discuss.com"])
 duckduckgo.com###links>div:has(a[href*="bong-faq.com"])
 ||suptitles.de^$all
 duckduckgo.com###links>div:has(a[href*="suptitles.de"])
+||brianlovin.com/hn$all
+duckduckgo.com###links>div:has(a[href*="brianlovin.com/hn"])
+||plageroyale.com^$all
+duckduckgo.com###links>div:has(a[href*="plageroyale.com"])
 ||code-examples.net^$all
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
@@ -1284,6 +1288,8 @@ duckduckgo.com###links>div:has(a[href*="interface.pub"])
 duckduckgo.com###links>div:has(a[href*="coolfire25.com"])
 ||segmentfault.com^$all
 duckduckgo.com###links>div:has(a[href*="segmentfault.com"])
+||milk-it.net^$all
+duckduckgo.com###links>div:has(a[href*="milk-it.net"])
 ||encyclopedia.thefreedictionary.com^$all
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

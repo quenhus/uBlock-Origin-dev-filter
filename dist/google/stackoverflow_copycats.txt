@@ -1058,3 +1058,5 @@ google.*###rso .MjjYud a[href*="interface.pub"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="coolfire25.com"]:upward(.MjjYud)
 ||segmentfault.com^$all
 google.*###rso .MjjYud a[href*="segmentfault.com"]:upward(.MjjYud)
+||milk-it.net^$all
+google.*###rso .MjjYud a[href*="milk-it.net"]:upward(.MjjYud)

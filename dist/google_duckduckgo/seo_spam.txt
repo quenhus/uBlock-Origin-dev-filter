@@ -114,3 +114,9 @@ duckduckgo.com###links>div:has(a[href*="bong-faq.com"])
 ||suptitles.de^$all
 google.*###rso .MjjYud a[href*="suptitles.de"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="suptitles.de"])
+||brianlovin.com/hn$all
+google.*###rso .MjjYud a[href*="brianlovin.com/hn"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="brianlovin.com/hn"])
+||plageroyale.com^$all
+google.*###rso .MjjYud a[href*="plageroyale.com"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="plageroyale.com"])

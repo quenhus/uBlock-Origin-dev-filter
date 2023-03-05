@@ -78,3 +78,7 @@ duckduckgo.com###links>div:has(a[href*="code-discuss.com"])
 duckduckgo.com###links>div:has(a[href*="bong-faq.com"])
 ||suptitles.de^$all
 duckduckgo.com###links>div:has(a[href*="suptitles.de"])
+||brianlovin.com/hn$all
+duckduckgo.com###links>div:has(a[href*="brianlovin.com/hn"])
+||plageroyale.com^$all
+duckduckgo.com###links>div:has(a[href*="plageroyale.com"])

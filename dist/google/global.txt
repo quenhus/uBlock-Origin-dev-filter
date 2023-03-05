@@ -232,6 +232,10 @@ google.*###rso .MjjYud a[href*="code-discuss.com"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="bong-faq.com"]:upward(.MjjYud)
 ||suptitles.de^$all
 google.*###rso .MjjYud a[href*="suptitles.de"]:upward(.MjjYud)
+||brianlovin.com/hn$all
+google.*###rso .MjjYud a[href*="brianlovin.com/hn"]:upward(.MjjYud)
+||plageroyale.com^$all
+google.*###rso .MjjYud a[href*="plageroyale.com"]:upward(.MjjYud)
 ||code-examples.net^$all
 google.*###rso .MjjYud a[href*="code-examples.net"]:upward(.MjjYud)
 ||kotaeta.com^$all
@@ -1284,6 +1288,8 @@ google.*###rso .MjjYud a[href*="interface.pub"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="coolfire25.com"]:upward(.MjjYud)
 ||segmentfault.com^$all
 google.*###rso .MjjYud a[href*="segmentfault.com"]:upward(.MjjYud)
+||milk-it.net^$all
+google.*###rso .MjjYud a[href*="milk-it.net"]:upward(.MjjYud)
 ||encyclopedia.thefreedictionary.com^$all
 google.*###rso .MjjYud a[href*="encyclopedia.thefreedictionary.com"]:upward(.MjjYud)
 ||algebra.com^$all

@@ -78,3 +78,7 @@ search.brave.com###results > div:has(a[href*="code-discuss.com"])
 search.brave.com###results > div:has(a[href*="bong-faq.com"])
 ||suptitles.de^$all
 search.brave.com###results > div:has(a[href*="suptitles.de"])
+||brianlovin.com/hn$all
+search.brave.com###results > div:has(a[href*="brianlovin.com/hn"])
+||plageroyale.com^$all
+search.brave.com###results > div:has(a[href*="plageroyale.com"])

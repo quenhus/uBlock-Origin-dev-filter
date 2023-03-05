@@ -42,6 +42,8 @@
 [data-domain*="code-discuss.com"],
 [data-domain*="bong-faq.com"],
 [data-domain*="suptitles.de"],
+[data-domain*="brianlovin.com/hn"],
+[data-domain*="plageroyale.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
