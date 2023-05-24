@@ -1060,3 +1060,7 @@ duckduckgo.com###links>div:has(a[href*="coolfire25.com"])
 duckduckgo.com###links>div:has(a[href*="segmentfault.com"])
 ||milk-it.net^$all
 duckduckgo.com###links>div:has(a[href*="milk-it.net"])
+||hackerthink.com^$all
+duckduckgo.com###links>div:has(a[href*="hackerthink.com"])
+||gangofcoders.net^$all
+duckduckgo.com###links>div:has(a[href*="gangofcoders.net"])

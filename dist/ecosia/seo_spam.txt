@@ -82,3 +82,5 @@ ecosia.org###main .result:has(a[href*="suptitles.de"])
 ecosia.org###main .result:has(a[href*="brianlovin.com/hn"])
 ||plageroyale.com^$all
 ecosia.org###main .result:has(a[href*="plageroyale.com"])
+||thesassway.com^$all
+ecosia.org###main .result:has(a[href*="thesassway.com"])

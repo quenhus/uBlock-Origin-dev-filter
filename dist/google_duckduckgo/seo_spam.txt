@@ -120,3 +120,6 @@ duckduckgo.com###links>div:has(a[href*="brianlovin.com/hn"])
 ||plageroyale.com^$all
 google.*###rso .MjjYud a[href*="plageroyale.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="plageroyale.com"])
+||thesassway.com^$all
+google.*###rso .MjjYud a[href*="thesassway.com"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="thesassway.com"])

@@ -1214,3 +1214,7 @@ google.*###rso .MjjYud a[href*="coolfire25.com"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="segmentfault.com"]:upward(.MjjYud)
 ||milk-it.net^$all
 google.*###rso .MjjYud a[href*="milk-it.net"]:upward(.MjjYud)
+||hackerthink.com^$all
+google.*###rso .MjjYud a[href*="hackerthink.com"]:upward(.MjjYud)
+||gangofcoders.net^$all
+google.*###rso .MjjYud a[href*="gangofcoders.net"]:upward(.MjjYud)

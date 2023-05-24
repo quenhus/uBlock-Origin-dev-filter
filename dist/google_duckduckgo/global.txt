@@ -351,6 +351,9 @@ duckduckgo.com###links>div:has(a[href*="brianlovin.com/hn"])
 ||plageroyale.com^$all
 google.*###rso .MjjYud a[href*="plageroyale.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="plageroyale.com"])
+||thesassway.com^$all
+google.*###rso .MjjYud a[href*="thesassway.com"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="thesassway.com"])
 ||code-examples.net^$all
 google.*###rso .MjjYud a[href*="code-examples.net"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])
@@ -1932,6 +1935,12 @@ duckduckgo.com###links>div:has(a[href*="segmentfault.com"])
 ||milk-it.net^$all
 google.*###rso .MjjYud a[href*="milk-it.net"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="milk-it.net"])
+||hackerthink.com^$all
+google.*###rso .MjjYud a[href*="hackerthink.com"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="hackerthink.com"])
+||gangofcoders.net^$all
+google.*###rso .MjjYud a[href*="gangofcoders.net"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="gangofcoders.net"])
 ||encyclopedia.thefreedictionary.com^$all
 google.*###rso .MjjYud a[href*="encyclopedia.thefreedictionary.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])

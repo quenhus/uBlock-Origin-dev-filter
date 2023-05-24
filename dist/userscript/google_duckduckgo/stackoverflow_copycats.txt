@@ -533,6 +533,8 @@
 [data-domain*="coolfire25.com"],
 [data-domain*="segmentfault.com"],
 [data-domain*="milk-it.net"],
+[data-domain*="hackerthink.com"],
+[data-domain*="gangofcoders.net"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css
