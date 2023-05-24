@@ -91,7 +91,6 @@
 [data-domain*="topcode.in"],
 [data-domain*="javascripttutorial.net"],
 [data-domain*="geekwall.in"],
-[data-domain*="dzone.com"],
 [data-domain*="mailinglistapi.info"],
 [data-domain*="worldgrowthtoday.com"],
 [data-domain*="emailconverts.info"],

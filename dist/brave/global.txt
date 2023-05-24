@@ -176,8 +176,6 @@ search.brave.com###results > div:has(a[href*="topcode.in"])
 search.brave.com###results > div:has(a[href*="javascripttutorial.net"])
 ||geekwall.in^$all
 search.brave.com###results > div:has(a[href*="geekwall.in"])
-||dzone.com^$all
-search.brave.com###results > div:has(a[href*="dzone.com"])
 ||mailinglistapi.info^$all
 search.brave.com###results > div:has(a[href*="mailinglistapi.info"])
 ||worldgrowthtoday.com^$all

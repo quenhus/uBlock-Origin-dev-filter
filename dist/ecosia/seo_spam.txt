@@ -22,8 +22,6 @@ ecosia.org###main .result:has(a[href*="topcode.in"])
 ecosia.org###main .result:has(a[href*="javascripttutorial.net"])
 ||geekwall.in^$all
 ecosia.org###main .result:has(a[href*="geekwall.in"])
-||dzone.com^$all
-ecosia.org###main .result:has(a[href*="dzone.com"])
 ||mailinglistapi.info^$all
 ecosia.org###main .result:has(a[href*="mailinglistapi.info"])
 ||worldgrowthtoday.com^$all

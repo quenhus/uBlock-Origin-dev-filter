@@ -516,12 +516,6 @@ duckduckgo.com###links>div:has(a[href*="geekwall.in"])
 search.brave.com###results > div:has(a[href*="geekwall.in"])
 startpage.com##.w-gl__result:has(a[href*="geekwall.in"])
 ecosia.org###main .result:has(a[href*="geekwall.in"])
-||dzone.com^$all
-google.*###rso .MjjYud a[href*="dzone.com"]:upward(.MjjYud)
-duckduckgo.com###links>div:has(a[href*="dzone.com"])
-search.brave.com###results > div:has(a[href*="dzone.com"])
-startpage.com##.w-gl__result:has(a[href*="dzone.com"])
-ecosia.org###main .result:has(a[href*="dzone.com"])
 ||mailinglistapi.info^$all
 google.*###rso .MjjYud a[href*="mailinglistapi.info"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="mailinglistapi.info"])

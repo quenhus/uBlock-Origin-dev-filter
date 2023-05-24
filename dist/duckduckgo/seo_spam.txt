@@ -22,8 +22,6 @@ duckduckgo.com###links>div:has(a[href*="topcode.in"])
 duckduckgo.com###links>div:has(a[href*="javascripttutorial.net"])
 ||geekwall.in^$all
 duckduckgo.com###links>div:has(a[href*="geekwall.in"])
-||dzone.com^$all
-duckduckgo.com###links>div:has(a[href*="dzone.com"])
 ||mailinglistapi.info^$all
 duckduckgo.com###links>div:has(a[href*="mailinglistapi.info"])
 ||worldgrowthtoday.com^$all

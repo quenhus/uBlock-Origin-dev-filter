@@ -261,9 +261,6 @@ duckduckgo.com###links>div:has(a[href*="javascripttutorial.net"])
 ||geekwall.in^$all
 google.*###rso .MjjYud a[href*="geekwall.in"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="geekwall.in"])
-||dzone.com^$all
-google.*###rso .MjjYud a[href*="dzone.com"]:upward(.MjjYud)
-duckduckgo.com###links>div:has(a[href*="dzone.com"])
 ||mailinglistapi.info^$all
 google.*###rso .MjjYud a[href*="mailinglistapi.info"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="mailinglistapi.info"])

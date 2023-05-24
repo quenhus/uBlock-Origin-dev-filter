@@ -22,8 +22,6 @@ google.*###rso .MjjYud a[href*="topcode.in"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="javascripttutorial.net"]:upward(.MjjYud)
 ||geekwall.in^$all
 google.*###rso .MjjYud a[href*="geekwall.in"]:upward(.MjjYud)
-||dzone.com^$all
-google.*###rso .MjjYud a[href*="dzone.com"]:upward(.MjjYud)
 ||mailinglistapi.info^$all
 google.*###rso .MjjYud a[href*="mailinglistapi.info"]:upward(.MjjYud)
 ||worldgrowthtoday.com^$all

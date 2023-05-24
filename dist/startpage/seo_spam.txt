@@ -22,8 +22,6 @@ startpage.com##.w-gl__result:has(a[href*="topcode.in"])
 startpage.com##.w-gl__result:has(a[href*="javascripttutorial.net"])
 ||geekwall.in^$all
 startpage.com##.w-gl__result:has(a[href*="geekwall.in"])
-||dzone.com^$all
-startpage.com##.w-gl__result:has(a[href*="dzone.com"])
 ||mailinglistapi.info^$all
 startpage.com##.w-gl__result:has(a[href*="mailinglistapi.info"])
 ||worldgrowthtoday.com^$all
