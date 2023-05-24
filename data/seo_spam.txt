@@ -6,7 +6,6 @@
 *://topcode.in/*
 *://javascripttutorial.net/*
 *://geekwall.in/*
-*://dzone.com/*
 *://mailinglistapi.info/*
 *://worldgrowthtoday.com/*
 *://emailconverts.info/*
