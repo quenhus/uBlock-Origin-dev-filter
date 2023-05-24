@@ -156,6 +156,8 @@ startpage.com##.w-gl__result:has(a[href*="codesti.com"])
 startpage.com##.w-gl__result:has(a[href*="pythontechworld.com"])
 ||web.bluecomtech.com^$all
 startpage.com##.w-gl__result:has(a[href*="web.bluecomtech.com"])
+||rat.dev^$all
+startpage.com##.w-gl__result:has(a[href*="rat.dev"])
 ||npmmirror.com^$all
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all

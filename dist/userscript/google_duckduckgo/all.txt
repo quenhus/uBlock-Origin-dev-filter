@@ -81,6 +81,7 @@
 [data-domain*="codesti.com"],
 [data-domain*="pythontechworld.com"],
 [data-domain*="web.bluecomtech.com"],
+[data-domain*="rat.dev"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="code-examples.net"],

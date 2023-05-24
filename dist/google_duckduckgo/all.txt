@@ -231,6 +231,9 @@ duckduckgo.com###links>div:has(a[href*="pythontechworld.com"])
 ||web.bluecomtech.com^$all
 google.*###rso .MjjYud a[href*="web.bluecomtech.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="web.bluecomtech.com"])
+||rat.dev^$all
+google.*###rso .MjjYud a[href*="rat.dev"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="rat.dev"])
 ||npmmirror.com^$all
 google.*###rso .MjjYud a[href*="npmmirror.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])

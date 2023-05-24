@@ -156,6 +156,8 @@ ecosia.org###main .result:has(a[href*="codesti.com"])
 ecosia.org###main .result:has(a[href*="pythontechworld.com"])
 ||web.bluecomtech.com^$all
 ecosia.org###main .result:has(a[href*="web.bluecomtech.com"])
+||rat.dev^$all
+ecosia.org###main .result:has(a[href*="rat.dev"])
 ||npmmirror.com^$all
 ecosia.org###main .result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
