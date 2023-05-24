@@ -36,3 +36,4 @@
 *://suptitles.de/*
 *://brianlovin.com/hn/*
 *://plageroyale.com/*
+*://thesassway.com/*

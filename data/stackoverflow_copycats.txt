@@ -527,3 +527,6 @@
 *://coolfire25.com/*
 *://segmentfault.com/*
 *://milk-it.net/*
+*://hackerthink.com/*
+*://gangofcoders.net/*
+*://stackguides.com/*
