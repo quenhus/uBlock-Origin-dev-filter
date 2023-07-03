@@ -65,7 +65,7 @@
     }
 
     const doGoogleQuery = (query) => {
-        const input = document.querySelector("input.gLFyf");
+        const input = document.querySelector("input.gLFyf, textarea.gLFyf");
         input.value = query;
         input.form.submit();
     }
