@@ -158,3 +158,5 @@ startpage.com##.w-gl__result:has(a[href*="pythontechworld.com"])
 startpage.com##.w-gl__result:has(a[href*="web.bluecomtech.com"])
 ||rat.dev^$all
 startpage.com##.w-gl__result:has(a[href*="rat.dev"])
+||codemonkey.link^$all
+startpage.com##.w-gl__result:has(a[href*="codemonkey.link"])

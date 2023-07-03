@@ -82,6 +82,7 @@
 [data-domain*="pythontechworld.com"],
 [data-domain*="web.bluecomtech.com"],
 [data-domain*="rat.dev"],
+[data-domain*="codemonkey.link"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

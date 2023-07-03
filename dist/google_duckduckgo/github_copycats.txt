@@ -234,3 +234,6 @@ duckduckgo.com###links>div:has(a[href*="web.bluecomtech.com"])
 ||rat.dev^$all
 google.*###rso .MjjYud a[href*="rat.dev"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="rat.dev"])
+||codemonkey.link^$all
+google.*###rso .MjjYud a[href*="codemonkey.link"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="codemonkey.link"])

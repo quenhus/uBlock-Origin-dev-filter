@@ -82,6 +82,7 @@
 [data-domain*="pythontechworld.com"],
 [data-domain*="web.bluecomtech.com"],
 [data-domain*="rat.dev"],
+[data-domain*="codemonkey.link"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="spiegato.com"],

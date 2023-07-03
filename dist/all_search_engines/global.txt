@@ -462,6 +462,12 @@ duckduckgo.com###links>div:has(a[href*="rat.dev"])
 search.brave.com###results > div:has(a[href*="rat.dev"])
 startpage.com##.w-gl__result:has(a[href*="rat.dev"])
 ecosia.org###main .result:has(a[href*="rat.dev"])
+||codemonkey.link^$all
+google.*###rso .MjjYud a[href*="codemonkey.link"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="codemonkey.link"])
+search.brave.com###results > div:has(a[href*="codemonkey.link"])
+startpage.com##.w-gl__result:has(a[href*="codemonkey.link"])
+ecosia.org###main .result:has(a[href*="codemonkey.link"])
 ||npmmirror.com^$all
 google.*###rso .MjjYud a[href*="npmmirror.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="npmmirror.com"])

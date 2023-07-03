@@ -158,3 +158,5 @@ ecosia.org###main .result:has(a[href*="pythontechworld.com"])
 ecosia.org###main .result:has(a[href*="web.bluecomtech.com"])
 ||rat.dev^$all
 ecosia.org###main .result:has(a[href*="rat.dev"])
+||codemonkey.link^$all
+ecosia.org###main .result:has(a[href*="codemonkey.link"])
