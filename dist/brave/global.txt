@@ -238,6 +238,8 @@ search.brave.com###results > div:has(a[href*="brianlovin.com/hn"])
 search.brave.com###results > div:has(a[href*="plageroyale.com"])
 ||thesassway.com^$all
 search.brave.com###results > div:has(a[href*="thesassway.com"])
+||azazworld.com^$all
+search.brave.com###results > div:has(a[href*="azazworld.com"])
 ||code-examples.net^$all
 search.brave.com###results > div:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all

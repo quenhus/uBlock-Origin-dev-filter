@@ -122,6 +122,7 @@
 [data-domain*="brianlovin.com/hn"],
 [data-domain*="plageroyale.com"],
 [data-domain*="thesassway.com"],
+[data-domain*="azazworld.com"],
 [data-domain*="code-examples.net"],
 [data-domain*="kotaeta.com"],
 [data-domain*="answer-id.com"],

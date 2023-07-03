@@ -354,6 +354,9 @@ duckduckgo.com###links>div:has(a[href*="plageroyale.com"])
 ||thesassway.com^$all
 google.*###rso .MjjYud a[href*="thesassway.com"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="thesassway.com"])
+||azazworld.com^$all
+google.*###rso .MjjYud a[href*="azazworld.com"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="azazworld.com"])
 ||code-examples.net^$all
 google.*###rso .MjjYud a[href*="code-examples.net"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])

@@ -702,6 +702,12 @@ duckduckgo.com###links>div:has(a[href*="thesassway.com"])
 search.brave.com###results > div:has(a[href*="thesassway.com"])
 startpage.com##.w-gl__result:has(a[href*="thesassway.com"])
 ecosia.org###main .result:has(a[href*="thesassway.com"])
+||azazworld.com^$all
+google.*###rso .MjjYud a[href*="azazworld.com"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="azazworld.com"])
+search.brave.com###results > div:has(a[href*="azazworld.com"])
+startpage.com##.w-gl__result:has(a[href*="azazworld.com"])
+ecosia.org###main .result:has(a[href*="azazworld.com"])
 ||code-examples.net^$all
 google.*###rso .MjjYud a[href*="code-examples.net"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])

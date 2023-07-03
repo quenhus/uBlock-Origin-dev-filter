@@ -82,3 +82,5 @@ duckduckgo.com###links>div:has(a[href*="brianlovin.com/hn"])
 duckduckgo.com###links>div:has(a[href*="plageroyale.com"])
 ||thesassway.com^$all
 duckduckgo.com###links>div:has(a[href*="thesassway.com"])
+||azazworld.com^$all
+duckduckgo.com###links>div:has(a[href*="azazworld.com"])

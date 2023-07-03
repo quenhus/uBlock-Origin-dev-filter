@@ -82,3 +82,5 @@ google.*###rso .MjjYud a[href*="brianlovin.com/hn"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="plageroyale.com"]:upward(.MjjYud)
 ||thesassway.com^$all
 google.*###rso .MjjYud a[href*="thesassway.com"]:upward(.MjjYud)
+||azazworld.com^$all
+google.*###rso .MjjYud a[href*="azazworld.com"]:upward(.MjjYud)

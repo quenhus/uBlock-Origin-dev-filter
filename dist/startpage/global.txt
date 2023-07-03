@@ -238,6 +238,8 @@ startpage.com##.w-gl__result:has(a[href*="brianlovin.com/hn"])
 startpage.com##.w-gl__result:has(a[href*="plageroyale.com"])
 ||thesassway.com^$all
 startpage.com##.w-gl__result:has(a[href*="thesassway.com"])
+||azazworld.com^$all
+startpage.com##.w-gl__result:has(a[href*="azazworld.com"])
 ||code-examples.net^$all
 startpage.com##.w-gl__result:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
