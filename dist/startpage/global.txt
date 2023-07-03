@@ -1384,3 +1384,5 @@ startpage.com##.w-gl__result:has(a[href*="second.wiki"])
 startpage.com##.w-gl__result:has(a[href*="dewiki.de"])
 ||wiki.alquds.edu^$all
 startpage.com##.w-gl__result:has(a[href*="wiki.alquds.edu"])
+||accordeonmuseum.nl^$all
+startpage.com##.w-gl__result:has(a[href*="accordeonmuseum.nl"])

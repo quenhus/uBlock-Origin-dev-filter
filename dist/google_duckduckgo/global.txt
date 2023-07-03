@@ -2073,3 +2073,6 @@ duckduckgo.com###links>div:has(a[href*="dewiki.de"])
 ||wiki.alquds.edu^$all
 google.*###rso .MjjYud a[href*="wiki.alquds.edu"]:upward(.MjjYud)
 duckduckgo.com###links>div:has(a[href*="wiki.alquds.edu"])
+||accordeonmuseum.nl^$all
+google.*###rso .MjjYud a[href*="accordeonmuseum.nl"]:upward(.MjjYud)
+duckduckgo.com###links>div:has(a[href*="accordeonmuseum.nl"])

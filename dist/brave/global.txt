@@ -1384,3 +1384,5 @@ search.brave.com###results > div:has(a[href*="second.wiki"])
 search.brave.com###results > div:has(a[href*="dewiki.de"])
 ||wiki.alquds.edu^$all
 search.brave.com###results > div:has(a[href*="wiki.alquds.edu"])
+||accordeonmuseum.nl^$all
+search.brave.com###results > div:has(a[href*="accordeonmuseum.nl"])
