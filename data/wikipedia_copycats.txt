@@ -41,3 +41,4 @@
 *://second.wiki/*
 *://dewiki.de/*
 *://wiki.alquds.edu/*
+*://accordeonmuseum.nl/*
