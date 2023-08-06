@@ -8,7 +8,7 @@
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 ||npmmirror.com^$all
 google.*###rso .MjjYud a[href*="npmmirror.com"]:upward(.MjjYud)
-duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
 google.*###rso .MjjYud a[href*="cnpmjs.org"]:upward(.MjjYud)
-duckduckgo.com###links>div:has(a[href*="cnpmjs.org"])
+duckduckgo.com##.react-results--main > li:has(a[href*="cnpmjs.org"])

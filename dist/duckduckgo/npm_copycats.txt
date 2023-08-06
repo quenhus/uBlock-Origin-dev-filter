@@ -7,6 +7,6 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 ||npmmirror.com^$all
-duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
-duckduckgo.com###links>div:has(a[href*="cnpmjs.org"])
+duckduckgo.com##.react-results--main > li:has(a[href*="cnpmjs.org"])

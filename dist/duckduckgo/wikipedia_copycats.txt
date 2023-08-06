@@ -7,90 +7,90 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 ||encyclopedia.thefreedictionary.com^$all
-duckduckgo.com###links>div:has(a[href*="encyclopedia.thefreedictionary.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all
-duckduckgo.com###links>div:has(a[href*="algebra.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="algebra.com"])
 ||wikizero.com^$all
-duckduckgo.com###links>div:has(a[href*="wikizero.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wikizero.com"])
 ||mediawiki.feverous.co.uk^$all
-duckduckgo.com###links>div:has(a[href*="mediawiki.feverous.co.uk"])
+duckduckgo.com##.react-results--main > li:has(a[href*="mediawiki.feverous.co.uk"])
 ||everything.explained.today^$all
-duckduckgo.com###links>div:has(a[href*="everything.explained.today"])
+duckduckgo.com##.react-results--main > li:has(a[href*="everything.explained.today"])
 ||wiwa.wiki^$all
-duckduckgo.com###links>div:has(a[href*="wiwa.wiki"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wiwa.wiki"])
 ||findatwiki.com^$all
-duckduckgo.com###links>div:has(a[href*="findatwiki.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="findatwiki.com"])
 ||wikide.wiki^$all
-duckduckgo.com###links>div:has(a[href*="wikide.wiki"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wikide.wiki"])
 ||wikit.wiki^$all
-duckduckgo.com###links>div:has(a[href*="wikit.wiki"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wikit.wiki"])
 ||secret-bases.co.uk/wiki$all
-duckduckgo.com###links>div:has(a[href*="secret-bases.co.uk/wiki"])
+duckduckgo.com##.react-results--main > li:has(a[href*="secret-bases.co.uk/wiki"])
 ||scholarship.edu.vn/wiki$all
-duckduckgo.com###links>div:has(a[href*="scholarship.edu.vn/wiki"])
+duckduckgo.com##.react-results--main > li:has(a[href*="scholarship.edu.vn/wiki"])
 ||frwiki.wiki^$all
-duckduckgo.com###links>div:has(a[href*="frwiki.wiki"])
+duckduckgo.com##.react-results--main > li:has(a[href*="frwiki.wiki"])
 ||zxc.wiki^$all
-duckduckgo.com###links>div:has(a[href*="zxc.wiki"])
+duckduckgo.com##.react-results--main > li:has(a[href*="zxc.wiki"])
 ||360wiki.ru^$all
-duckduckgo.com###links>div:has(a[href*="360wiki.ru"])
+duckduckgo.com##.react-results--main > li:has(a[href*="360wiki.ru"])
 ||sv.abcdef.wiki^$all
-duckduckgo.com###links>div:has(a[href*="sv.abcdef.wiki"])
+duckduckgo.com##.react-results--main > li:has(a[href*="sv.abcdef.wiki"])
 ||buildwiki.ru^$all
-duckduckgo.com###links>div:has(a[href*="buildwiki.ru"])
+duckduckgo.com##.react-results--main > li:has(a[href*="buildwiki.ru"])
 ||datewiki.ru^$all
-duckduckgo.com###links>div:has(a[href*="datewiki.ru"])
+duckduckgo.com##.react-results--main > li:has(a[href*="datewiki.ru"])
 ||encyclopaedia.bid^$all
-duckduckgo.com###links>div:has(a[href*="encyclopaedia.bid"])
+duckduckgo.com##.react-results--main > li:has(a[href*="encyclopaedia.bid"])
 ||gaz.wiki^$all
-duckduckgo.com###links>div:has(a[href*="gaz.wiki"])
+duckduckgo.com##.react-results--main > li:has(a[href*="gaz.wiki"])
 ||th.hmong.wiki^$all
-duckduckgo.com###links>div:has(a[href*="th.hmong.wiki"])
+duckduckgo.com##.react-results--main > li:has(a[href*="th.hmong.wiki"])
 ||hmong.ru^$all
-duckduckgo.com###links>div:has(a[href*="hmong.ru"])
+duckduckgo.com##.react-results--main > li:has(a[href*="hmong.ru"])
 ||livepcwiki.ru^$all
-duckduckgo.com###links>div:has(a[href*="livepcwiki.ru"])
+duckduckgo.com##.react-results--main > li:has(a[href*="livepcwiki.ru"])
 ||enhancedwiki.territorioscuola.it^$all
-duckduckgo.com###links>div:has(a[href*="enhancedwiki.territorioscuola.it"])
+duckduckgo.com##.react-results--main > li:has(a[href*="enhancedwiki.territorioscuola.it"])
 ||wiki-org.ru^$all
-duckduckgo.com###links>div:has(a[href*="wiki-org.ru"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wiki-org.ru"])
 ||wiki2.net^$all
-duckduckgo.com###links>div:has(a[href*="wiki2.net"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wiki2.net"])
 ||wiki2.info^$all
-duckduckgo.com###links>div:has(a[href*="wiki2.info"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wiki2.info"])
 ||wiki2.org^$all
-duckduckgo.com###links>div:has(a[href*="wiki2.org"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wiki2.org"])
 ||wiki.cologne^$all
-duckduckgo.com###links>div:has(a[href*="wiki.cologne"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wiki.cologne"])
 ||wikidea.ru^$all
-duckduckgo.com###links>div:has(a[href*="wikidea.ru"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wikidea.ru"])
 ||wiki2wiki.ru^$all
-duckduckgo.com###links>div:has(a[href*="wiki2wiki.ru"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wiki2wiki.ru"])
 ||globalwikionline.com^$all
-duckduckgo.com###links>div:has(a[href*="globalwikionline.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="globalwikionline.com"])
 ||wikipe.wiki^$all
-duckduckgo.com###links>div:has(a[href*="wikipe.wiki"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wikipe.wiki"])
 ||wikipedia.tel^$all
-duckduckgo.com###links>div:has(a[href*="wikipedia.tel"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wikipedia.tel"])
 ||wikidark.ru^$all
-duckduckgo.com###links>div:has(a[href*="wikidark.ru"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wikidark.ru"])
 ||wikiredia.ru^$all
-duckduckgo.com###links>div:has(a[href*="wikiredia.ru"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wikiredia.ru"])
 ||wikipedia24.ru^$all
-duckduckgo.com###links>div:has(a[href*="wikipedia24.ru"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wikipedia24.ru"])
 ||wikiwand.com^$all
-duckduckgo.com###links>div:has(a[href*="wikiwand.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wikiwand.com"])
 ||encyclopedia.kz^$all
-duckduckgo.com###links>div:has(a[href*="encyclopedia.kz"])
+duckduckgo.com##.react-results--main > li:has(a[href*="encyclopedia.kz"])
 ||static.hlt.bme.hu^$all
-duckduckgo.com###links>div:has(a[href*="static.hlt.bme.hu"])
+duckduckgo.com##.react-results--main > li:has(a[href*="static.hlt.bme.hu"])
 ||wikibrief.org^$all
-duckduckgo.com###links>div:has(a[href*="wikibrief.org"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wikibrief.org"])
 ||second.wiki^$all
-duckduckgo.com###links>div:has(a[href*="second.wiki"])
+duckduckgo.com##.react-results--main > li:has(a[href*="second.wiki"])
 ||dewiki.de^$all
-duckduckgo.com###links>div:has(a[href*="dewiki.de"])
+duckduckgo.com##.react-results--main > li:has(a[href*="dewiki.de"])
 ||wiki.alquds.edu^$all
-duckduckgo.com###links>div:has(a[href*="wiki.alquds.edu"])
+duckduckgo.com##.react-results--main > li:has(a[href*="wiki.alquds.edu"])
 ||accordeonmuseum.nl^$all
-duckduckgo.com###links>div:has(a[href*="accordeonmuseum.nl"])
+duckduckgo.com##.react-results--main > li:has(a[href*="accordeonmuseum.nl"])
