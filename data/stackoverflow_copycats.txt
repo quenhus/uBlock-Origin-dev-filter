@@ -529,3 +529,5 @@
 *://milk-it.net/*
 *://hackerthink.com/*
 *://gangofcoders.net/*
+*://uvdos.com/*
+*://code911.top/*
