@@ -1064,3 +1064,7 @@ google.*###rso .MjjYud a[href*="milk-it.net"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="hackerthink.com"]:upward(.MjjYud)
 ||gangofcoders.net^$all
 google.*###rso .MjjYud a[href*="gangofcoders.net"]:upward(.MjjYud)
+||uvdos.com^$all
+google.*###rso .MjjYud a[href*="uvdos.com"]:upward(.MjjYud)
+||code911.top^$all
+google.*###rso .MjjYud a[href*="code911.top"]:upward(.MjjYud)

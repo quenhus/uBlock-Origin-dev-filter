@@ -1222,3 +1222,7 @@ search.brave.com###results > div:has(a[href*="milk-it.net"])
 search.brave.com###results > div:has(a[href*="hackerthink.com"])
 ||gangofcoders.net^$all
 search.brave.com###results > div:has(a[href*="gangofcoders.net"])
+||uvdos.com^$all
+search.brave.com###results > div:has(a[href*="uvdos.com"])
+||code911.top^$all
+search.brave.com###results > div:has(a[href*="code911.top"])

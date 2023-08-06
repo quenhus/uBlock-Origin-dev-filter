@@ -614,6 +614,8 @@
 [data-domain*="milk-it.net"],
 [data-domain*="hackerthink.com"],
 [data-domain*="gangofcoders.net"],
+[data-domain*="uvdos.com"],
+[data-domain*="code911.top"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

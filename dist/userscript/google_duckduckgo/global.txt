@@ -653,6 +653,8 @@
 [data-domain*="milk-it.net"],
 [data-domain*="hackerthink.com"],
 [data-domain*="gangofcoders.net"],
+[data-domain*="uvdos.com"],
+[data-domain*="code911.top"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="algebra.com"],
 [data-domain*="wikizero.com"],

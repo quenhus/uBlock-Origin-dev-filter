@@ -1947,6 +1947,12 @@ duckduckgo.com##.react-results--main > li:has(a[href*="hackerthink.com"])
 ||gangofcoders.net^$all
 google.*###rso .MjjYud a[href*="gangofcoders.net"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="gangofcoders.net"])
+||uvdos.com^$all
+google.*###rso .MjjYud a[href*="uvdos.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="uvdos.com"])
+||code911.top^$all
+google.*###rso .MjjYud a[href*="code911.top"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="code911.top"])
 ||encyclopedia.thefreedictionary.com^$all
 google.*###rso .MjjYud a[href*="encyclopedia.thefreedictionary.com"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="encyclopedia.thefreedictionary.com"])
