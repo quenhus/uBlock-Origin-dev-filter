@@ -35,7 +35,7 @@ def to_google(url):
     return f'google.*###rso .MjjYud a[href*="{format_url(url)}"]:upward(.MjjYud)'
 
 def to_duckduckgo(url):
-    return f'duckduckgo.com###links>div:has(a[href*="{format_url(url)}"])'
+    return f'duckduckgo.com##.react-results--main > li:has(a[href*="{format_url(url)}"])'
 
 def to_brave(url):
     return f'search.brave.com###results > div:has(a[href*="{format_url(url)}"])'
