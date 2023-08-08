@@ -160,6 +160,10 @@ startpage.com##.w-gl__result:has(a[href*="web.bluecomtech.com"])
 startpage.com##.w-gl__result:has(a[href*="rat.dev"])
 ||codemonkey.link^$all
 startpage.com##.w-gl__result:has(a[href*="codemonkey.link"])
+||giterhub.com^$all
+startpage.com##.w-gl__result:has(a[href*="giterhub.com"])
+||githubissues.com^$all
+startpage.com##.w-gl__result:has(a[href*="githubissues.com"])
 ||npmmirror.com^$all
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -1304,6 +1308,8 @@ startpage.com##.w-gl__result:has(a[href*="gangofcoders.net"])
 startpage.com##.w-gl__result:has(a[href*="uvdos.com"])
 ||code911.top^$all
 startpage.com##.w-gl__result:has(a[href*="code911.top"])
+||validsense.com^$all
+startpage.com##.w-gl__result:has(a[href*="validsense.com"])
 ||encyclopedia.thefreedictionary.com^$all
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

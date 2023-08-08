@@ -83,6 +83,8 @@
 [data-domain*="web.bluecomtech.com"],
 [data-domain*="rat.dev"],
 [data-domain*="codemonkey.link"],
+[data-domain*="giterhub.com"],
+[data-domain*="githubissues.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="code-examples.net"],
@@ -616,6 +618,7 @@
 [data-domain*="gangofcoders.net"],
 [data-domain*="uvdos.com"],
 [data-domain*="code911.top"],
+[data-domain*="validsense.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

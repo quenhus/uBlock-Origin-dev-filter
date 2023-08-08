@@ -160,6 +160,10 @@ search.brave.com###results > div:has(a[href*="web.bluecomtech.com"])
 search.brave.com###results > div:has(a[href*="rat.dev"])
 ||codemonkey.link^$all
 search.brave.com###results > div:has(a[href*="codemonkey.link"])
+||giterhub.com^$all
+search.brave.com###results > div:has(a[href*="giterhub.com"])
+||githubissues.com^$all
+search.brave.com###results > div:has(a[href*="githubissues.com"])
 ||npmmirror.com^$all
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -1304,6 +1308,8 @@ search.brave.com###results > div:has(a[href*="gangofcoders.net"])
 search.brave.com###results > div:has(a[href*="uvdos.com"])
 ||code911.top^$all
 search.brave.com###results > div:has(a[href*="code911.top"])
+||validsense.com^$all
+search.brave.com###results > div:has(a[href*="validsense.com"])
 ||encyclopedia.thefreedictionary.com^$all
 search.brave.com###results > div:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

@@ -160,3 +160,7 @@ startpage.com##.w-gl__result:has(a[href*="web.bluecomtech.com"])
 startpage.com##.w-gl__result:has(a[href*="rat.dev"])
 ||codemonkey.link^$all
 startpage.com##.w-gl__result:has(a[href*="codemonkey.link"])
+||giterhub.com^$all
+startpage.com##.w-gl__result:has(a[href*="giterhub.com"])
+||githubissues.com^$all
+startpage.com##.w-gl__result:has(a[href*="githubissues.com"])

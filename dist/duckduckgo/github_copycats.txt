@@ -160,3 +160,7 @@ duckduckgo.com##.react-results--main > li:has(a[href*="web.bluecomtech.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="rat.dev"])
 ||codemonkey.link^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="codemonkey.link"])
+||giterhub.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="giterhub.com"])
+||githubissues.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="githubissues.com"])

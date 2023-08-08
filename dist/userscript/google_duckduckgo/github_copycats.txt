@@ -83,6 +83,8 @@
 [data-domain*="web.bluecomtech.com"],
 [data-domain*="rat.dev"],
 [data-domain*="codemonkey.link"],
+[data-domain*="giterhub.com"],
+[data-domain*="githubissues.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

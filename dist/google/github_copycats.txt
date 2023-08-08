@@ -160,3 +160,7 @@ google.*###rso .MjjYud a[href*="web.bluecomtech.com"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="rat.dev"]:upward(.MjjYud)
 ||codemonkey.link^$all
 google.*###rso .MjjYud a[href*="codemonkey.link"]:upward(.MjjYud)
+||giterhub.com^$all
+google.*###rso .MjjYud a[href*="giterhub.com"]:upward(.MjjYud)
+||githubissues.com^$all
+google.*###rso .MjjYud a[href*="githubissues.com"]:upward(.MjjYud)

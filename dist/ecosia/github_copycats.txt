@@ -160,3 +160,7 @@ ecosia.org###main .result:has(a[href*="web.bluecomtech.com"])
 ecosia.org###main .result:has(a[href*="rat.dev"])
 ||codemonkey.link^$all
 ecosia.org###main .result:has(a[href*="codemonkey.link"])
+||giterhub.com^$all
+ecosia.org###main .result:has(a[href*="giterhub.com"])
+||githubissues.com^$all
+ecosia.org###main .result:has(a[href*="githubissues.com"])
