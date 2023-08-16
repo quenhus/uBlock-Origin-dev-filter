@@ -50,6 +50,8 @@
 [data-domain*="dewiki.de"],
 [data-domain*="wiki.alquds.edu"],
 [data-domain*="accordeonmuseum.nl"],
+[data-domain*="cyclowiki.org"],
+[data-domain*="ru-wiki.ru"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

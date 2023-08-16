@@ -2094,3 +2094,9 @@ duckduckgo.com##.react-results--main > li:has(a[href*="wiki.alquds.edu"])
 ||accordeonmuseum.nl^$all
 google.*###rso .MjjYud a[href*="accordeonmuseum.nl"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="accordeonmuseum.nl"])
+||cyclowiki.org^$all
+google.*###rso .MjjYud a[href*="cyclowiki.org"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="cyclowiki.org"])
+||ru-wiki.ru^$all
+google.*###rso .MjjYud a[href*="ru-wiki.ru"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="ru-wiki.ru"])

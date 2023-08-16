@@ -94,3 +94,7 @@ duckduckgo.com##.react-results--main > li:has(a[href*="dewiki.de"])
 duckduckgo.com##.react-results--main > li:has(a[href*="wiki.alquds.edu"])
 ||accordeonmuseum.nl^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="accordeonmuseum.nl"])
+||cyclowiki.org^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="cyclowiki.org"])
+||ru-wiki.ru^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="ru-wiki.ru"])

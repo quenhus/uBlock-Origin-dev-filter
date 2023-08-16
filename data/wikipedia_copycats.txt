@@ -44,6 +44,3 @@
 *://accordeonmuseum.nl/*
 *://cyclowiki.org/*
 *://ru-wiki.ru/*
-*://wiki2.org/*
-*://wiki-org.ru/*
-*://wikizero.com/*
