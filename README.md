@@ -52,14 +52,20 @@ Select the filters flavors you want, depending on your needs and search engine:
   Note: In `dist/`, you can find filters for other search engines (Google, DuckDuckGo, Startpage or Brave). You can use and combine these filters by using the raw URL of `dist/` files.
 </details>
 
-<details>
-  <summary>macOS Userscript</summary>
+## Other filter formats (uBlacklist, hosts filter, ...)
 
-### macOS Userscript
+This project also provide filter in other formats:
+- [uBlacklist](https://github.com/iorate/ublacklist) (more efficient than uBO in this case)
+- macOS userscript
+- Domains filter (can be used with a Pi-hole/Firewall)
+- DNS hosts filter (can be used in `/etc/hosts`)
 
-For macOS users, this project also provide some Userscripts for Google+DuckDuckGo in `dist/userscript/google_duckduckgo/`
-
-</details>
+||dev|global|StackOverflow|GitHub|NPM|Wikipedia|SEO Spam|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|uBlacklist|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/all.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/global.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/stackoverflow_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/github_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/npm_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/wikipedia_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/seo_spam.txt)|
+|macOS userscript|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/userscript/google_duckduckgo/all.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/userscript/google_duckduckgo/global.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/userscript/google_duckduckgo/stackoverflow_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/userscript/google_duckduckgo/github_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/userscript/google_duckduckgo/npm_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/userscript/google_duckduckgo/wikipedia_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/userscript/google_duckduckgo/seo_spam.txt)|
+|Domains filter|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/domains/all.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/domains/global.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/domains/stackoverflow_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/domains/github_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/domains/npm_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/domains/wikipedia_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/domains/seo_spam.txt)|
+|DNS hosts filter|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/hosts/all.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/hosts/global.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/hosts/stackoverflow_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/hosts/github_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/hosts/npm_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/hosts/wikipedia_copycats.txt)|[Link](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/hosts/seo_spam.txt)|
 
 ## Adding URL's
 
