@@ -1,0 +1,47 @@
+# Title: uBlock-Origin-dev-filter – DNS hosts blocklist - seo_spam
+# Expires: 1 day
+# Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+# Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+# Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+#
+# GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+# GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+0.0.0.0 spiegato.com
+0.0.0.0 actingcollegeses.com
+0.0.0.0 patrickkidd3.typepad.com
+0.0.0.0 durrell2012.com
+0.0.0.0 developpaper.com
+0.0.0.0 topcode.in
+0.0.0.0 javascripttutorial.net
+0.0.0.0 geekwall.in
+0.0.0.0 mailinglistapi.info
+0.0.0.0 worldgrowthtoday.com
+0.0.0.0 emailconverts.info
+0.0.0.0 email-pro.info
+0.0.0.0 icode9.com
+0.0.0.0 900913.ru
+0.0.0.0 iditect.com
+0.0.0.0 jqueryscript.net
+0.0.0.0 osqa.net
+0.0.0.0 codingwithfun.com
+0.0.0.0 codesprogram.com
+0.0.0.0 iqcode.com
+0.0.0.0 hum-berlin.de
+0.0.0.0 britguidenewyork.net
+0.0.0.0 justshowcode.com
+0.0.0.0 itw01.com
+0.0.0.0 codertw.com
+0.0.0.0 multi-let.co.uk
+0.0.0.0 answerforyou.net
+0.0.0.0 globalizethis.org
+0.0.0.0 unbate.com
+0.0.0.0 ngontinh24.com
+0.0.0.0 nmstep.org
+0.0.0.0 juicycleanses.com
+0.0.0.0 code-discuss.com
+0.0.0.0 bong-faq.com
+0.0.0.0 suptitles.de
+0.0.0.0 brianlovin.com/hn
+0.0.0.0 plageroyale.com
+0.0.0.0 thesassway.com
+0.0.0.0 azazworld.com

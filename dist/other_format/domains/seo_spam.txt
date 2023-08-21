@@ -1,0 +1,47 @@
+# Title: uBlock-Origin-dev-filter – Domains blocklist - seo_spam
+# Expires: 1 day
+# Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+# Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+# Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+#
+# GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+# GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+spiegato.com
+actingcollegeses.com
+patrickkidd3.typepad.com
+durrell2012.com
+developpaper.com
+topcode.in
+javascripttutorial.net
+geekwall.in
+mailinglistapi.info
+worldgrowthtoday.com
+emailconverts.info
+email-pro.info
+icode9.com
+900913.ru
+iditect.com
+jqueryscript.net
+osqa.net
+codingwithfun.com
+codesprogram.com
+iqcode.com
+hum-berlin.de
+britguidenewyork.net
+justshowcode.com
+itw01.com
+codertw.com
+multi-let.co.uk
+answerforyou.net
+globalizethis.org
+unbate.com
+ngontinh24.com
+nmstep.org
+juicycleanses.com
+code-discuss.com
+bong-faq.com
+suptitles.de
+brianlovin.com/hn
+plageroyale.com
+thesassway.com
+azazworld.com

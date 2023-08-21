@@ -1,0 +1,87 @@
+# Title: uBlock-Origin-dev-filter – DNS hosts blocklist - github
+# Expires: 1 day
+# Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+# Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+# Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+#
+# GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+# GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+0.0.0.0 bleepcoder.com
+0.0.0.0 githubja.com
+0.0.0.0 giters.com
+0.0.0.0 githubmemory.com
+0.0.0.0 wenyanet.com
+0.0.0.0 issueexplorer.com
+0.0.0.0 opensourcelibs.com
+0.0.0.0 awesomeopensource.com
+0.0.0.0 findbestopensource.com
+0.0.0.0 githubhelp.com
+0.0.0.0 pythonissues.com
+0.0.0.0 golangrepo.com
+0.0.0.0 gitmemory.cn
+0.0.0.0 githubmate.com
+0.0.0.0 reposhub.com
+0.0.0.0 gitanswer.com
+0.0.0.0 githubplus.com
+0.0.0.0 pythonrepo.com
+0.0.0.0 bestofcpp.com
+0.0.0.0 github.innominds.com
+0.0.0.0 higithub.com
+0.0.0.0 golangissues.com
+0.0.0.0 gitfreak.com
+0.0.0.0 pythonawesome.com
+0.0.0.0 gitmotion.com
+0.0.0.0 fantashit.com
+0.0.0.0 gitcode.net
+0.0.0.0 news24lite.com
+0.0.0.0 github.phala.one
+0.0.0.0 google-yandex.info
+0.0.0.0 coder.social
+0.0.0.0 javarepos.com
+0.0.0.0 fastgit.org
+0.0.0.0 gitmetadata.com
+0.0.0.0 iboxshare.com
+0.0.0.0 fuscin.com
+0.0.0.0 bestofvue.com
+0.0.0.0 swiftobc.com
+0.0.0.0 flutterrepos.com
+0.0.0.0 androidrepo.com
+0.0.0.0 bestofflutter.com
+0.0.0.0 jsrepos.com
+0.0.0.0 macosrepo.com
+0.0.0.0 zzun.app
+0.0.0.0 rustrepo.com
+0.0.0.0 bestofreactjs.com
+0.0.0.0 bestofphp.com
+0.0.0.0 softbranchdevelopers.com
+0.0.0.0 issueantenna.com
+0.0.0.0 pythonlang.dev
+0.0.0.0 githublab.com
+0.0.0.0 libhunt.com
+0.0.0.0 andywarholpopartillustration.blogspot.com
+0.0.0.0 bytemeta.vip
+0.0.0.0 editcode.net
+0.0.0.0 golangexample.com
+0.0.0.0 github.astrophel.org
+0.0.0.0 gitdetail.com
+0.0.0.0 codespots.com
+0.0.0.0 issuemode.com
+0.0.0.0 issuehint.com
+0.0.0.0 rpkg.in
+0.0.0.0 geeksrepos.com
+0.0.0.0 lightrun.com/answers
+0.0.0.0 pullanswer.com
+0.0.0.0 devpick.io
+0.0.0.0 opensourceagenda.com
+0.0.0.0 gitmemories.com
+0.0.0.0 wikimili.com
+0.0.0.0 newworldencyclopedia.org
+0.0.0.0 bestproduct-review.com
+0.0.0.0 citizendium.org
+0.0.0.0 codesti.com
+0.0.0.0 pythontechworld.com
+0.0.0.0 web.bluecomtech.com
+0.0.0.0 rat.dev
+0.0.0.0 codemonkey.link
+0.0.0.0 giterhub.com
+0.0.0.0 githubissues.com

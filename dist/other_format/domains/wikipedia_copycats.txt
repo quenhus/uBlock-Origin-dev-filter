@@ -1,0 +1,54 @@
+# Title: uBlock-Origin-dev-filter – Domains blocklist - wikipedia
+# Expires: 1 day
+# Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+# Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+# Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+#
+# GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+# GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+encyclopedia.thefreedictionary.com
+algebra.com
+wikizero.com
+mediawiki.feverous.co.uk
+everything.explained.today
+wiwa.wiki
+findatwiki.com
+wikide.wiki
+wikit.wiki
+secret-bases.co.uk/wiki
+scholarship.edu.vn/wiki
+frwiki.wiki
+zxc.wiki
+360wiki.ru
+sv.abcdef.wiki
+buildwiki.ru
+datewiki.ru
+encyclopaedia.bid
+gaz.wiki
+th.hmong.wiki
+hmong.ru
+livepcwiki.ru
+enhancedwiki.territorioscuola.it
+wiki-org.ru
+wiki2.net
+wiki2.info
+wiki2.org
+wiki.cologne
+wikidea.ru
+wiki2wiki.ru
+globalwikionline.com
+wikipe.wiki
+wikipedia.tel
+wikidark.ru
+wikiredia.ru
+wikipedia24.ru
+wikiwand.com
+encyclopedia.kz
+static.hlt.bme.hu
+wikibrief.org
+second.wiki
+dewiki.de
+wiki.alquds.edu
+accordeonmuseum.nl
+cyclowiki.org
+ru-wiki.ru

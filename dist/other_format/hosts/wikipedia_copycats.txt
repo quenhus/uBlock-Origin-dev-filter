@@ -1,0 +1,54 @@
+# Title: uBlock-Origin-dev-filter – DNS hosts blocklist - wikipedia
+# Expires: 1 day
+# Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+# Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+# Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+#
+# GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+# GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+0.0.0.0 encyclopedia.thefreedictionary.com
+0.0.0.0 algebra.com
+0.0.0.0 wikizero.com
+0.0.0.0 mediawiki.feverous.co.uk
+0.0.0.0 everything.explained.today
+0.0.0.0 wiwa.wiki
+0.0.0.0 findatwiki.com
+0.0.0.0 wikide.wiki
+0.0.0.0 wikit.wiki
+0.0.0.0 secret-bases.co.uk/wiki
+0.0.0.0 scholarship.edu.vn/wiki
+0.0.0.0 frwiki.wiki
+0.0.0.0 zxc.wiki
+0.0.0.0 360wiki.ru
+0.0.0.0 sv.abcdef.wiki
+0.0.0.0 buildwiki.ru
+0.0.0.0 datewiki.ru
+0.0.0.0 encyclopaedia.bid
+0.0.0.0 gaz.wiki
+0.0.0.0 th.hmong.wiki
+0.0.0.0 hmong.ru
+0.0.0.0 livepcwiki.ru
+0.0.0.0 enhancedwiki.territorioscuola.it
+0.0.0.0 wiki-org.ru
+0.0.0.0 wiki2.net
+0.0.0.0 wiki2.info
+0.0.0.0 wiki2.org
+0.0.0.0 wiki.cologne
+0.0.0.0 wikidea.ru
+0.0.0.0 wiki2wiki.ru
+0.0.0.0 globalwikionline.com
+0.0.0.0 wikipe.wiki
+0.0.0.0 wikipedia.tel
+0.0.0.0 wikidark.ru
+0.0.0.0 wikiredia.ru
+0.0.0.0 wikipedia24.ru
+0.0.0.0 wikiwand.com
+0.0.0.0 encyclopedia.kz
+0.0.0.0 static.hlt.bme.hu
+0.0.0.0 wikibrief.org
+0.0.0.0 second.wiki
+0.0.0.0 dewiki.de
+0.0.0.0 wiki.alquds.edu
+0.0.0.0 accordeonmuseum.nl
+0.0.0.0 cyclowiki.org
+0.0.0.0 ru-wiki.ru

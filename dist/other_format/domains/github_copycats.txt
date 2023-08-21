@@ -1,0 +1,87 @@
+# Title: uBlock-Origin-dev-filter – Domains blocklist - github
+# Expires: 1 day
+# Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+# Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+# Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+#
+# GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+# GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+bleepcoder.com
+githubja.com
+giters.com
+githubmemory.com
+wenyanet.com
+issueexplorer.com
+opensourcelibs.com
+awesomeopensource.com
+findbestopensource.com
+githubhelp.com
+pythonissues.com
+golangrepo.com
+gitmemory.cn
+githubmate.com
+reposhub.com
+gitanswer.com
+githubplus.com
+pythonrepo.com
+bestofcpp.com
+github.innominds.com
+higithub.com
+golangissues.com
+gitfreak.com
+pythonawesome.com
+gitmotion.com
+fantashit.com
+gitcode.net
+news24lite.com
+github.phala.one
+google-yandex.info
+coder.social
+javarepos.com
+fastgit.org
+gitmetadata.com
+iboxshare.com
+fuscin.com
+bestofvue.com
+swiftobc.com
+flutterrepos.com
+androidrepo.com
+bestofflutter.com
+jsrepos.com
+macosrepo.com
+zzun.app
+rustrepo.com
+bestofreactjs.com
+bestofphp.com
+softbranchdevelopers.com
+issueantenna.com
+pythonlang.dev
+githublab.com
+libhunt.com
+andywarholpopartillustration.blogspot.com
+bytemeta.vip
+editcode.net
+golangexample.com
+github.astrophel.org
+gitdetail.com
+codespots.com
+issuemode.com
+issuehint.com
+rpkg.in
+geeksrepos.com
+lightrun.com/answers
+pullanswer.com
+devpick.io
+opensourceagenda.com
+gitmemories.com
+wikimili.com
+newworldencyclopedia.org
+bestproduct-review.com
+citizendium.org
+codesti.com
+pythontechworld.com
+web.bluecomtech.com
+rat.dev
+codemonkey.link
+giterhub.com
+githubissues.com
