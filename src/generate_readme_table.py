@@ -6,7 +6,7 @@ from typing import NamedTuple
 
 NEW_LINE = "\n"
 
-class SearchEngineMeta(NamedTuple):
+class FilterMeta(NamedTuple):
     name: str
     dist_path: str
     color: str
@@ -17,13 +17,20 @@ class FlavorMeta(NamedTuple):
     filename: str
 
 search_engines = (
-    SearchEngineMeta("Google", "google", "de3f32"),
-    SearchEngineMeta("DuckDuckGo", "duckduckgo", "fdd20a"),
-    SearchEngineMeta("Google+DDG", "google_duckduckgo", "9b59b6"),
-    SearchEngineMeta("Startpage", "startpage", "5b7bca"),
-    SearchEngineMeta("Brave", "brave", "f25100"),
-    SearchEngineMeta("Ecosia", "ecosia", "36acb8"),
-    SearchEngineMeta("All Search Engines", "all_search_engines", "ffffff")
+    FilterMeta("Google", "google", "de3f32"),
+    FilterMeta("DuckDuckGo", "duckduckgo", "fdd20a"),
+    FilterMeta("Google+DDG", "google_duckduckgo", "9b59b6"),
+    FilterMeta("Startpage", "startpage", "5b7bca"),
+    FilterMeta("Brave", "brave", "f25100"),
+    FilterMeta("Ecosia", "ecosia", "36acb8"),
+    FilterMeta("All Search Engines", "all_search_engines", "ffffff")
+)
+
+other_filters = (
+    FilterMeta("uBlacklist", "other_format/uBlacklist", "ffffff"),
+    FilterMeta("macOS userscript", "userscript/google_duckduckgo", "ffffff"),
+    FilterMeta("Domains filter", "other_format/domains", "ffffff"),
+    FilterMeta("DNS hosts filter", "other_format/hosts", "ffffff"),
 )
 
 def param_encode(x):
@@ -39,20 +46,23 @@ def md_link(content: str, href: str):
 def md_tr(*td: str):
     return "|".join(("", *td, "")) + NEW_LINE
 
-def get_subscribe_url(dist_path: str, filename: str, title: str):
+def get_ubo_subscribe_url(dist_path: str, filename: str, title: str):
     return f"https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fquenhus%2FuBlock-Origin-dev-filter%2Fmain%2Fdist%2F{dist_path}%2F{filename}.txt&title={param_encode(title)}"
 
-def get_table(*flavors: FlavorMeta):
+def get_static_url(dist_path: str, filename: str):
+    return f"https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/{dist_path}/{filename}.txt"
+
+def get_main_ubo_table(flavors: list[FlavorMeta]):
     ret = md_tr("", *(f.table_name for f in flavors))
     ret += md_tr("---", *(":---:" for f in flavors))
 
-    for se in search_engines:
+    for filter_meta in search_engines:
         ret += md_tr(
-            se.name,
+            filter_meta.name,
             *(
                 md_link(
-                    get_badge("uBO - add this filter", "uBlock Origin", "uBO", "add this filter", se.color),
-                    get_subscribe_url(se.dist_path, f.filename, f"uBlock-Origin-dev-filter - {se.name} - {f.name}")
+                    get_badge("uBO - add this filter", "uBlock Origin", "uBO", "add this filter", filter_meta.color),
+                    get_ubo_subscribe_url(filter_meta.dist_path, f.filename, f"uBlock-Origin-dev-filter - {filter_meta.name} - {f.name}")
                 )
                 for f in flavors
             )
@@ -60,17 +70,35 @@ def get_table(*flavors: FlavorMeta):
 
     return ret
 
-def get_table_simple(*flavors: FlavorMeta):
+def get_source_flavor_ubo_table(flavors: list[FlavorMeta]):
     ret = md_tr("", *(f.table_name for f in flavors))
     ret += md_tr("---", *(":---:" for f in flavors))
 
-    for se in search_engines:
+    for filter_meta in search_engines:
         ret += md_tr(
-            se.name,
+            filter_meta.name,
             *(
                 md_link(
                     "add in uBO",
-                    get_subscribe_url(se.dist_path, f.filename, f"uBlock-Origin-dev-filter - {se.name} - {f.name}")
+                    get_ubo_subscribe_url(filter_meta.dist_path, f.filename, f"uBlock-Origin-dev-filter - {filter_meta.name} - {f.name}")
+                )
+                for f in flavors
+            )
+        )
+
+    return ret
+
+def get_other_filter_table(flavors: list[FlavorMeta]):
+    ret = md_tr("", *(f.table_name for f in flavors))
+    ret += md_tr("---", *(":---:" for f in flavors))
+
+    for filter_meta in other_filters:
+        ret += md_tr(
+            filter_meta.name,
+            *(
+                md_link(
+                    "Link",
+                    get_static_url(filter_meta.dist_path, f.filename)
                 )
                 for f in flavors
             )
@@ -79,18 +107,27 @@ def get_table_simple(*flavors: FlavorMeta):
     return ret
 
 
-print(get_table(
-    # The dev filter was formerly called "all". Dont rename it for compatibility
-    FlavorMeta("Dev", "dev", "all"),
-    FlavorMeta("Global", "global", "global"),
-))
+if __name__ == "__main__":
+    main_flovors = [
+        # The dev filter was formerly called "all". Dont rename it for compatibility
+        FlavorMeta("Dev", "dev", "all"),
+        FlavorMeta("Global", "global", "global"),
+    ]
 
-print("\n"*3)
+    source_flavors = [
+        FlavorMeta("StackOverflow", "StackOverflow", "stackoverflow_copycats"),
+        FlavorMeta("GitHub", "GitHub", "github_copycats"),
+        FlavorMeta("NPM", "NPM", "npm_copycats"),
+        FlavorMeta("Wikipedia", "Wikipedia", "wikipedia_copycats"),
+        FlavorMeta("SEO Spam", "SEO Spam", "seo_spam"),
+    ]
 
-print(get_table_simple(
-    FlavorMeta("StackOverflow", "StackOverflow", "stackoverflow_copycats"),
-    FlavorMeta("GitHub", "GitHub", "github_copycats"),
-    FlavorMeta("NPM", "NPM", "npm_copycats"),
-    FlavorMeta("Wikipedia", "Wikipedia", "wikipedia_copycats"),
-    FlavorMeta("SEO Spam", "SEO Spam", "seo_spam"),
-))
+    print(get_main_ubo_table(main_flovors))
+
+    print("\n" * 5)
+
+    print(get_source_flavor_ubo_table(source_flavors))
+
+    print("\n" * 5)
+
+    print(get_other_filter_table(main_flovors + source_flavors))
