@@ -85,3 +85,4 @@
 0.0.0.0 codemonkey.link
 0.0.0.0 giterhub.com
 0.0.0.0 githubissues.com
+0.0.0.0 githubrecord.com

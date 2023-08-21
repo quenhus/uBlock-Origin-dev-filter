@@ -480,6 +480,12 @@ duckduckgo.com##.react-results--main > li:has(a[href*="githubissues.com"])
 search.brave.com###results > div:has(a[href*="githubissues.com"])
 startpage.com##.w-gl__result:has(a[href*="githubissues.com"])
 ecosia.org###main .result:has(a[href*="githubissues.com"])
+||githubrecord.com^$all
+google.*###rso .MjjYud a[href*="githubrecord.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="githubrecord.com"])
+search.brave.com###results > div:has(a[href*="githubrecord.com"])
+startpage.com##.w-gl__result:has(a[href*="githubrecord.com"])
+ecosia.org###main .result:has(a[href*="githubrecord.com"])
 ||npmmirror.com^$all
 google.*###rso .MjjYud a[href*="npmmirror.com"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="npmmirror.com"])

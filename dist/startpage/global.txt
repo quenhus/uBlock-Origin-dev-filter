@@ -164,6 +164,8 @@ startpage.com##.w-gl__result:has(a[href*="codemonkey.link"])
 startpage.com##.w-gl__result:has(a[href*="giterhub.com"])
 ||githubissues.com^$all
 startpage.com##.w-gl__result:has(a[href*="githubissues.com"])
+||githubrecord.com^$all
+startpage.com##.w-gl__result:has(a[href*="githubrecord.com"])
 ||npmmirror.com^$all
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all

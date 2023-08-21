@@ -164,6 +164,8 @@ search.brave.com###results > div:has(a[href*="codemonkey.link"])
 search.brave.com###results > div:has(a[href*="giterhub.com"])
 ||githubissues.com^$all
 search.brave.com###results > div:has(a[href*="githubissues.com"])
+||githubrecord.com^$all
+search.brave.com###results > div:has(a[href*="githubrecord.com"])
 ||npmmirror.com^$all
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all

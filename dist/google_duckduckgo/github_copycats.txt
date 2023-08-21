@@ -243,3 +243,6 @@ duckduckgo.com##.react-results--main > li:has(a[href*="giterhub.com"])
 ||githubissues.com^$all
 google.*###rso .MjjYud a[href*="githubissues.com"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="githubissues.com"])
+||githubrecord.com^$all
+google.*###rso .MjjYud a[href*="githubrecord.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="githubrecord.com"])

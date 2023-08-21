@@ -85,6 +85,7 @@
 [data-domain*="codemonkey.link"],
 [data-domain*="giterhub.com"],
 [data-domain*="githubissues.com"],
+[data-domain*="githubrecord.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

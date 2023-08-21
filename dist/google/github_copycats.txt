@@ -164,3 +164,5 @@ google.*###rso .MjjYud a[href*="codemonkey.link"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="giterhub.com"]:upward(.MjjYud)
 ||githubissues.com^$all
 google.*###rso .MjjYud a[href*="githubissues.com"]:upward(.MjjYud)
+||githubrecord.com^$all
+google.*###rso .MjjYud a[href*="githubrecord.com"]:upward(.MjjYud)

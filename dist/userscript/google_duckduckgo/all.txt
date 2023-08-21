@@ -85,6 +85,7 @@
 [data-domain*="codemonkey.link"],
 [data-domain*="giterhub.com"],
 [data-domain*="githubissues.com"],
+[data-domain*="githubrecord.com"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="code-examples.net"],

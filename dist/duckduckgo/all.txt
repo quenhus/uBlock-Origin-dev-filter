@@ -164,6 +164,8 @@ duckduckgo.com##.react-results--main > li:has(a[href*="codemonkey.link"])
 duckduckgo.com##.react-results--main > li:has(a[href*="giterhub.com"])
 ||githubissues.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="githubissues.com"])
+||githubrecord.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="githubrecord.com"])
 ||npmmirror.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all

@@ -164,6 +164,8 @@ ecosia.org###main .result:has(a[href*="codemonkey.link"])
 ecosia.org###main .result:has(a[href*="giterhub.com"])
 ||githubissues.com^$all
 ecosia.org###main .result:has(a[href*="githubissues.com"])
+||githubrecord.com^$all
+ecosia.org###main .result:has(a[href*="githubrecord.com"])
 ||npmmirror.com^$all
 ecosia.org###main .result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all

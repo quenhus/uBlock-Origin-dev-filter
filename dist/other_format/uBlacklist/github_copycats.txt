@@ -85,3 +85,4 @@
 *://*.codemonkey.link/*
 *://*.giterhub.com/*
 *://*.githubissues.com/*
+*://*.githubrecord.com/*

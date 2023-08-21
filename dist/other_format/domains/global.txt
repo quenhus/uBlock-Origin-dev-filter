@@ -85,6 +85,7 @@ rat.dev
 codemonkey.link
 giterhub.com
 githubissues.com
+githubrecord.com
 npmmirror.com
 cnpmjs.org
 spiegato.com
