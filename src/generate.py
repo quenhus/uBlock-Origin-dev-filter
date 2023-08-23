@@ -47,7 +47,7 @@ def to_domain_hosts_filter(url):
     return f"0.0.0.0 {formated_url}"
 
 def to_google(url):
-    return f'google.*###rso .MjjYud a[href*="{regex_to_domain(url)}"]:upward(.MjjYud)'
+    return f'google.*###rso .TzHB6b a[href*="{regex_to_domain(url)}"]:upward(.TzHB6b)'
 
 def to_duckduckgo(url):
     return f'duckduckgo.com##.react-results--main > li:has(a[href*="{regex_to_domain(url)}"])'
