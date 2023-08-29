@@ -1848,3 +1848,6 @@ duckduckgo.com##.react-results--main > li:has(a[href*="code911.top"])
 ||validsense.com^$all
 google.*###rso .MjjYud a[href*="validsense.com"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="validsense.com"])
+||qexe.de^$all
+google.*###rso .MjjYud a[href*="qexe.de"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="qexe.de"])

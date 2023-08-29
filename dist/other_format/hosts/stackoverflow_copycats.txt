@@ -538,3 +538,4 @@
 0.0.0.0 uvdos.com
 0.0.0.0 code911.top
 0.0.0.0 validsense.com
+0.0.0.0 qexe.de

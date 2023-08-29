@@ -1070,3 +1070,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="uvdos.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="code911.top"])
 ||validsense.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="validsense.com"])
+||qexe.de^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="qexe.de"])

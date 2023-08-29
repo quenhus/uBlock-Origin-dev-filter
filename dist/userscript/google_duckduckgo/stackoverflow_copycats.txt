@@ -538,6 +538,7 @@
 [data-domain*="uvdos.com"],
 [data-domain*="code911.top"],
 [data-domain*="validsense.com"],
+[data-domain*="qexe.de"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

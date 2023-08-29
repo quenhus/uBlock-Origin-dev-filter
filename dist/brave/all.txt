@@ -1234,3 +1234,5 @@ search.brave.com###results > div:has(a[href*="uvdos.com"])
 search.brave.com###results > div:has(a[href*="code911.top"])
 ||validsense.com^$all
 search.brave.com###results > div:has(a[href*="validsense.com"])
+||qexe.de^$all
+search.brave.com###results > div:has(a[href*="qexe.de"])

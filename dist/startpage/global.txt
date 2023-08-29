@@ -1312,6 +1312,8 @@ startpage.com##.w-gl__result:has(a[href*="uvdos.com"])
 startpage.com##.w-gl__result:has(a[href*="code911.top"])
 ||validsense.com^$all
 startpage.com##.w-gl__result:has(a[href*="validsense.com"])
+||qexe.de^$all
+startpage.com##.w-gl__result:has(a[href*="qexe.de"])
 ||encyclopedia.thefreedictionary.com^$all
 startpage.com##.w-gl__result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

@@ -659,6 +659,7 @@
 [data-domain*="uvdos.com"],
 [data-domain*="code911.top"],
 [data-domain*="validsense.com"],
+[data-domain*="qexe.de"],
 [data-domain*="encyclopedia.thefreedictionary.com"],
 [data-domain*="algebra.com"],
 [data-domain*="wikizero.com"],
