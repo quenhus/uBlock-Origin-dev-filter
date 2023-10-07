@@ -1314,6 +1314,8 @@ google.*###rso .MjjYud a[href*="code911.top"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="validsense.com"]:upward(.MjjYud)
 ||qexe.de^$all
 google.*###rso .MjjYud a[href*="qexe.de"]:upward(.MjjYud)
+||mykidq.com^$all
+google.*###rso .MjjYud a[href*="mykidq.com"]:upward(.MjjYud)
 ||encyclopedia.thefreedictionary.com^$all
 google.*###rso .MjjYud a[href*="encyclopedia.thefreedictionary.com"]:upward(.MjjYud)
 ||algebra.com^$all

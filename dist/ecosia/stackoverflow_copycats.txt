@@ -1072,3 +1072,5 @@ ecosia.org###main .result:has(a[href*="code911.top"])
 ecosia.org###main .result:has(a[href*="validsense.com"])
 ||qexe.de^$all
 ecosia.org###main .result:has(a[href*="qexe.de"])
+||mykidq.com^$all
+ecosia.org###main .result:has(a[href*="mykidq.com"])

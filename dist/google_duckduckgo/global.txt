@@ -1968,6 +1968,9 @@ duckduckgo.com##.react-results--main > li:has(a[href*="validsense.com"])
 ||qexe.de^$all
 google.*###rso .MjjYud a[href*="qexe.de"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="qexe.de"])
+||mykidq.com^$all
+google.*###rso .MjjYud a[href*="mykidq.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="mykidq.com"])
 ||encyclopedia.thefreedictionary.com^$all
 google.*###rso .MjjYud a[href*="encyclopedia.thefreedictionary.com"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="encyclopedia.thefreedictionary.com"])

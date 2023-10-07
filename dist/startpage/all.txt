@@ -1236,3 +1236,5 @@ startpage.com##.w-gl__result:has(a[href*="code911.top"])
 startpage.com##.w-gl__result:has(a[href*="validsense.com"])
 ||qexe.de^$all
 startpage.com##.w-gl__result:has(a[href*="qexe.de"])
+||mykidq.com^$all
+startpage.com##.w-gl__result:has(a[href*="mykidq.com"])

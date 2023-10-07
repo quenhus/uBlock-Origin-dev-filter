@@ -1072,3 +1072,5 @@ search.brave.com###results > div:has(a[href*="code911.top"])
 search.brave.com###results > div:has(a[href*="validsense.com"])
 ||qexe.de^$all
 search.brave.com###results > div:has(a[href*="qexe.de"])
+||mykidq.com^$all
+search.brave.com###results > div:has(a[href*="mykidq.com"])
