@@ -37,3 +37,4 @@
 *://plageroyale.com/*
 *://thesassway.com/*
 *://azazworld.com/*
+*://git.histb.com/*
