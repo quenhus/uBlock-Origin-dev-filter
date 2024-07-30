@@ -34,7 +34,6 @@
 *://wikidark.ru/*
 *://wikiredia.ru/*
 *://wikipedia24.ru/*
-*://wikiwand.com/*
 *://encyclopedia.kz/*
 *://static.hlt.bme.hu/*
 *://wikibrief.org/*
