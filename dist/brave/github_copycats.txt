@@ -166,3 +166,15 @@ search.brave.com###results > div:has(a[href*="giterhub.com"])
 search.brave.com###results > div:has(a[href*="githubissues.com"])
 ||githubrecord.com^$all
 search.brave.com###results > div:has(a[href*="githubrecord.com"])
+||stackovercoder.com.de^$all
+search.brave.com###results > div:has(a[href*="stackovercoder.com.de"])
+||git.histb.com^$all
+search.brave.com###results > div:has(a[href*="git.histb.com"])
+||bleepingcoder.com^$all
+search.brave.com###results > div:has(a[href*="bleepingcoder.com"])
+||devdoc.net^$all
+search.brave.com###results > div:has(a[href*="devdoc.net"])
+||linux-packages.com^$all
+search.brave.com###results > div:has(a[href*="linux-packages.com"])
+||rst24plus.net^$all
+search.brave.com###results > div:has(a[href*="rst24plus.net"])

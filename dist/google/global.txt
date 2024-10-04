@@ -166,6 +166,18 @@ google.*###rso .MjjYud a[href*="giterhub.com"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="githubissues.com"]:upward(.MjjYud)
 ||githubrecord.com^$all
 google.*###rso .MjjYud a[href*="githubrecord.com"]:upward(.MjjYud)
+||stackovercoder.com.de^$all
+google.*###rso .MjjYud a[href*="stackovercoder.com.de"]:upward(.MjjYud)
+||git.histb.com^$all
+google.*###rso .MjjYud a[href*="git.histb.com"]:upward(.MjjYud)
+||bleepingcoder.com^$all
+google.*###rso .MjjYud a[href*="bleepingcoder.com"]:upward(.MjjYud)
+||devdoc.net^$all
+google.*###rso .MjjYud a[href*="devdoc.net"]:upward(.MjjYud)
+||linux-packages.com^$all
+google.*###rso .MjjYud a[href*="linux-packages.com"]:upward(.MjjYud)
+||rst24plus.net^$all
+google.*###rso .MjjYud a[href*="rst24plus.net"]:upward(.MjjYud)
 ||npmmirror.com^$all
 google.*###rso .MjjYud a[href*="npmmirror.com"]:upward(.MjjYud)
 ||cnpmjs.org^$all

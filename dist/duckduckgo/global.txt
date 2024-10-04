@@ -166,6 +166,18 @@ duckduckgo.com##.react-results--main > li:has(a[href*="giterhub.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="githubissues.com"])
 ||githubrecord.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="githubrecord.com"])
+||stackovercoder.com.de^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="stackovercoder.com.de"])
+||git.histb.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="git.histb.com"])
+||bleepingcoder.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="bleepingcoder.com"])
+||devdoc.net^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="devdoc.net"])
+||linux-packages.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="linux-packages.com"])
+||rst24plus.net^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="rst24plus.net"])
 ||npmmirror.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all

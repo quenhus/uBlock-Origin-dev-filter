@@ -86,6 +86,12 @@
 0.0.0.0 giterhub.com
 0.0.0.0 githubissues.com
 0.0.0.0 githubrecord.com
+0.0.0.0 stackovercoder.com.de
+0.0.0.0 git.histb.com
+0.0.0.0 bleepingcoder.com
+0.0.0.0 devdoc.net
+0.0.0.0 linux-packages.com
+0.0.0.0 rst24plus.net
 0.0.0.0 npmmirror.com
 0.0.0.0 cnpmjs.org
 0.0.0.0 code-examples.net

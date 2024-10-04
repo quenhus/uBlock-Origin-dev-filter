@@ -246,6 +246,24 @@ duckduckgo.com##.react-results--main > li:has(a[href*="githubissues.com"])
 ||githubrecord.com^$all
 google.*###rso .MjjYud a[href*="githubrecord.com"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="githubrecord.com"])
+||stackovercoder.com.de^$all
+google.*###rso .MjjYud a[href*="stackovercoder.com.de"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="stackovercoder.com.de"])
+||git.histb.com^$all
+google.*###rso .MjjYud a[href*="git.histb.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="git.histb.com"])
+||bleepingcoder.com^$all
+google.*###rso .MjjYud a[href*="bleepingcoder.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="bleepingcoder.com"])
+||devdoc.net^$all
+google.*###rso .MjjYud a[href*="devdoc.net"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="devdoc.net"])
+||linux-packages.com^$all
+google.*###rso .MjjYud a[href*="linux-packages.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="linux-packages.com"])
+||rst24plus.net^$all
+google.*###rso .MjjYud a[href*="rst24plus.net"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="rst24plus.net"])
 ||npmmirror.com^$all
 google.*###rso .MjjYud a[href*="npmmirror.com"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="npmmirror.com"])

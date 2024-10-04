@@ -86,6 +86,12 @@ codemonkey.link
 giterhub.com
 githubissues.com
 githubrecord.com
+stackovercoder.com.de
+git.histb.com
+bleepingcoder.com
+devdoc.net
+linux-packages.com
+rst24plus.net
 npmmirror.com
 cnpmjs.org
 spiegato.com
