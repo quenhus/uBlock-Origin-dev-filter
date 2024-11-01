@@ -56,7 +56,7 @@ def to_brave(url):
     return f'search.brave.com###results > div:has(a[href*="{regex_to_domain(url)}"])'
 
 def to_startpage(url):
-    return f'startpage.com##.w-gl__result:has(a[href*="{regex_to_domain(url)}"])'
+    return f'startpage.com##.w-gl .result:has(a[href*="{regex_to_domain(url)}"])'
 
 def to_ecosia(url):
     return f'ecosia.org###main .result:has(a[href*="{regex_to_domain(url)}"])'
