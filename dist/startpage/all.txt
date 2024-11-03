@@ -7,1246 +7,1246 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 ||bleepcoder.com^$all
-startpage.com##.w-gl__result:has(a[href*="bleepcoder.com"])
+startpage.com##.w-gl .result:has(a[href*="bleepcoder.com"])
 ||githubja.com^$all
-startpage.com##.w-gl__result:has(a[href*="githubja.com"])
+startpage.com##.w-gl .result:has(a[href*="githubja.com"])
 ||giters.com^$all
-startpage.com##.w-gl__result:has(a[href*="giters.com"])
+startpage.com##.w-gl .result:has(a[href*="giters.com"])
 ||githubmemory.com^$all
-startpage.com##.w-gl__result:has(a[href*="githubmemory.com"])
+startpage.com##.w-gl .result:has(a[href*="githubmemory.com"])
 ||wenyanet.com^$all
-startpage.com##.w-gl__result:has(a[href*="wenyanet.com"])
+startpage.com##.w-gl .result:has(a[href*="wenyanet.com"])
 ||issueexplorer.com^$all
-startpage.com##.w-gl__result:has(a[href*="issueexplorer.com"])
+startpage.com##.w-gl .result:has(a[href*="issueexplorer.com"])
 ||opensourcelibs.com^$all
-startpage.com##.w-gl__result:has(a[href*="opensourcelibs.com"])
+startpage.com##.w-gl .result:has(a[href*="opensourcelibs.com"])
 ||awesomeopensource.com^$all
-startpage.com##.w-gl__result:has(a[href*="awesomeopensource.com"])
+startpage.com##.w-gl .result:has(a[href*="awesomeopensource.com"])
 ||findbestopensource.com^$all
-startpage.com##.w-gl__result:has(a[href*="findbestopensource.com"])
+startpage.com##.w-gl .result:has(a[href*="findbestopensource.com"])
 ||githubhelp.com^$all
-startpage.com##.w-gl__result:has(a[href*="githubhelp.com"])
+startpage.com##.w-gl .result:has(a[href*="githubhelp.com"])
 ||pythonissues.com^$all
-startpage.com##.w-gl__result:has(a[href*="pythonissues.com"])
+startpage.com##.w-gl .result:has(a[href*="pythonissues.com"])
 ||golangrepo.com^$all
-startpage.com##.w-gl__result:has(a[href*="golangrepo.com"])
+startpage.com##.w-gl .result:has(a[href*="golangrepo.com"])
 ||gitmemory.cn^$all
-startpage.com##.w-gl__result:has(a[href*="gitmemory.cn"])
+startpage.com##.w-gl .result:has(a[href*="gitmemory.cn"])
 ||githubmate.com^$all
-startpage.com##.w-gl__result:has(a[href*="githubmate.com"])
+startpage.com##.w-gl .result:has(a[href*="githubmate.com"])
 ||reposhub.com^$all
-startpage.com##.w-gl__result:has(a[href*="reposhub.com"])
+startpage.com##.w-gl .result:has(a[href*="reposhub.com"])
 ||gitanswer.com^$all
-startpage.com##.w-gl__result:has(a[href*="gitanswer.com"])
+startpage.com##.w-gl .result:has(a[href*="gitanswer.com"])
 ||githubplus.com^$all
-startpage.com##.w-gl__result:has(a[href*="githubplus.com"])
+startpage.com##.w-gl .result:has(a[href*="githubplus.com"])
 ||pythonrepo.com^$all
-startpage.com##.w-gl__result:has(a[href*="pythonrepo.com"])
+startpage.com##.w-gl .result:has(a[href*="pythonrepo.com"])
 ||bestofcpp.com^$all
-startpage.com##.w-gl__result:has(a[href*="bestofcpp.com"])
+startpage.com##.w-gl .result:has(a[href*="bestofcpp.com"])
 ||github.innominds.com^$all
-startpage.com##.w-gl__result:has(a[href*="github.innominds.com"])
+startpage.com##.w-gl .result:has(a[href*="github.innominds.com"])
 ||higithub.com^$all
-startpage.com##.w-gl__result:has(a[href*="higithub.com"])
+startpage.com##.w-gl .result:has(a[href*="higithub.com"])
 ||golangissues.com^$all
-startpage.com##.w-gl__result:has(a[href*="golangissues.com"])
+startpage.com##.w-gl .result:has(a[href*="golangissues.com"])
 ||gitfreak.com^$all
-startpage.com##.w-gl__result:has(a[href*="gitfreak.com"])
+startpage.com##.w-gl .result:has(a[href*="gitfreak.com"])
 ||pythonawesome.com^$all
-startpage.com##.w-gl__result:has(a[href*="pythonawesome.com"])
+startpage.com##.w-gl .result:has(a[href*="pythonawesome.com"])
 ||gitmotion.com^$all
-startpage.com##.w-gl__result:has(a[href*="gitmotion.com"])
+startpage.com##.w-gl .result:has(a[href*="gitmotion.com"])
 ||fantashit.com^$all
-startpage.com##.w-gl__result:has(a[href*="fantashit.com"])
+startpage.com##.w-gl .result:has(a[href*="fantashit.com"])
 ||gitcode.net^$all
-startpage.com##.w-gl__result:has(a[href*="gitcode.net"])
+startpage.com##.w-gl .result:has(a[href*="gitcode.net"])
 ||news24lite.com^$all
-startpage.com##.w-gl__result:has(a[href*="news24lite.com"])
+startpage.com##.w-gl .result:has(a[href*="news24lite.com"])
 ||github.phala.one^$all
-startpage.com##.w-gl__result:has(a[href*="github.phala.one"])
+startpage.com##.w-gl .result:has(a[href*="github.phala.one"])
 ||google-yandex.info^$all
-startpage.com##.w-gl__result:has(a[href*="google-yandex.info"])
+startpage.com##.w-gl .result:has(a[href*="google-yandex.info"])
 ||coder.social^$all
-startpage.com##.w-gl__result:has(a[href*="coder.social"])
+startpage.com##.w-gl .result:has(a[href*="coder.social"])
 ||javarepos.com^$all
-startpage.com##.w-gl__result:has(a[href*="javarepos.com"])
+startpage.com##.w-gl .result:has(a[href*="javarepos.com"])
 ||fastgit.org^$all
-startpage.com##.w-gl__result:has(a[href*="fastgit.org"])
+startpage.com##.w-gl .result:has(a[href*="fastgit.org"])
 ||gitmetadata.com^$all
-startpage.com##.w-gl__result:has(a[href*="gitmetadata.com"])
+startpage.com##.w-gl .result:has(a[href*="gitmetadata.com"])
 ||iboxshare.com^$all
-startpage.com##.w-gl__result:has(a[href*="iboxshare.com"])
+startpage.com##.w-gl .result:has(a[href*="iboxshare.com"])
 ||fuscin.com^$all
-startpage.com##.w-gl__result:has(a[href*="fuscin.com"])
+startpage.com##.w-gl .result:has(a[href*="fuscin.com"])
 ||bestofvue.com^$all
-startpage.com##.w-gl__result:has(a[href*="bestofvue.com"])
+startpage.com##.w-gl .result:has(a[href*="bestofvue.com"])
 ||swiftobc.com^$all
-startpage.com##.w-gl__result:has(a[href*="swiftobc.com"])
+startpage.com##.w-gl .result:has(a[href*="swiftobc.com"])
 ||flutterrepos.com^$all
-startpage.com##.w-gl__result:has(a[href*="flutterrepos.com"])
+startpage.com##.w-gl .result:has(a[href*="flutterrepos.com"])
 ||androidrepo.com^$all
-startpage.com##.w-gl__result:has(a[href*="androidrepo.com"])
+startpage.com##.w-gl .result:has(a[href*="androidrepo.com"])
 ||bestofflutter.com^$all
-startpage.com##.w-gl__result:has(a[href*="bestofflutter.com"])
+startpage.com##.w-gl .result:has(a[href*="bestofflutter.com"])
 ||jsrepos.com^$all
-startpage.com##.w-gl__result:has(a[href*="jsrepos.com"])
+startpage.com##.w-gl .result:has(a[href*="jsrepos.com"])
 ||macosrepo.com^$all
-startpage.com##.w-gl__result:has(a[href*="macosrepo.com"])
+startpage.com##.w-gl .result:has(a[href*="macosrepo.com"])
 ||zzun.app^$all
-startpage.com##.w-gl__result:has(a[href*="zzun.app"])
+startpage.com##.w-gl .result:has(a[href*="zzun.app"])
 ||rustrepo.com^$all
-startpage.com##.w-gl__result:has(a[href*="rustrepo.com"])
+startpage.com##.w-gl .result:has(a[href*="rustrepo.com"])
 ||bestofreactjs.com^$all
-startpage.com##.w-gl__result:has(a[href*="bestofreactjs.com"])
+startpage.com##.w-gl .result:has(a[href*="bestofreactjs.com"])
 ||bestofphp.com^$all
-startpage.com##.w-gl__result:has(a[href*="bestofphp.com"])
+startpage.com##.w-gl .result:has(a[href*="bestofphp.com"])
 ||softbranchdevelopers.com^$all
-startpage.com##.w-gl__result:has(a[href*="softbranchdevelopers.com"])
+startpage.com##.w-gl .result:has(a[href*="softbranchdevelopers.com"])
 ||issueantenna.com^$all
-startpage.com##.w-gl__result:has(a[href*="issueantenna.com"])
+startpage.com##.w-gl .result:has(a[href*="issueantenna.com"])
 ||pythonlang.dev^$all
-startpage.com##.w-gl__result:has(a[href*="pythonlang.dev"])
+startpage.com##.w-gl .result:has(a[href*="pythonlang.dev"])
 ||githublab.com^$all
-startpage.com##.w-gl__result:has(a[href*="githublab.com"])
+startpage.com##.w-gl .result:has(a[href*="githublab.com"])
 ||libhunt.com^$all
-startpage.com##.w-gl__result:has(a[href*="libhunt.com"])
+startpage.com##.w-gl .result:has(a[href*="libhunt.com"])
 ||andywarholpopartillustration.blogspot.com^$all
-startpage.com##.w-gl__result:has(a[href*="andywarholpopartillustration.blogspot.com"])
+startpage.com##.w-gl .result:has(a[href*="andywarholpopartillustration.blogspot.com"])
 ||bytemeta.vip^$all
-startpage.com##.w-gl__result:has(a[href*="bytemeta.vip"])
+startpage.com##.w-gl .result:has(a[href*="bytemeta.vip"])
 ||editcode.net^$all
-startpage.com##.w-gl__result:has(a[href*="editcode.net"])
+startpage.com##.w-gl .result:has(a[href*="editcode.net"])
 ||golangexample.com^$all
-startpage.com##.w-gl__result:has(a[href*="golangexample.com"])
+startpage.com##.w-gl .result:has(a[href*="golangexample.com"])
 ||github.astrophel.org^$all
-startpage.com##.w-gl__result:has(a[href*="github.astrophel.org"])
+startpage.com##.w-gl .result:has(a[href*="github.astrophel.org"])
 ||gitdetail.com^$all
-startpage.com##.w-gl__result:has(a[href*="gitdetail.com"])
+startpage.com##.w-gl .result:has(a[href*="gitdetail.com"])
 ||codespots.com^$all
-startpage.com##.w-gl__result:has(a[href*="codespots.com"])
+startpage.com##.w-gl .result:has(a[href*="codespots.com"])
 ||issuemode.com^$all
-startpage.com##.w-gl__result:has(a[href*="issuemode.com"])
+startpage.com##.w-gl .result:has(a[href*="issuemode.com"])
 ||issuehint.com^$all
-startpage.com##.w-gl__result:has(a[href*="issuehint.com"])
+startpage.com##.w-gl .result:has(a[href*="issuehint.com"])
 ||rpkg.in^$all
-startpage.com##.w-gl__result:has(a[href*="rpkg.in"])
+startpage.com##.w-gl .result:has(a[href*="rpkg.in"])
 ||geeksrepos.com^$all
-startpage.com##.w-gl__result:has(a[href*="geeksrepos.com"])
+startpage.com##.w-gl .result:has(a[href*="geeksrepos.com"])
 ||lightrun.com/answers$all
-startpage.com##.w-gl__result:has(a[href*="lightrun.com/answers"])
+startpage.com##.w-gl .result:has(a[href*="lightrun.com/answers"])
 ||pullanswer.com^$all
-startpage.com##.w-gl__result:has(a[href*="pullanswer.com"])
+startpage.com##.w-gl .result:has(a[href*="pullanswer.com"])
 ||devpick.io^$all
-startpage.com##.w-gl__result:has(a[href*="devpick.io"])
+startpage.com##.w-gl .result:has(a[href*="devpick.io"])
 ||opensourceagenda.com^$all
-startpage.com##.w-gl__result:has(a[href*="opensourceagenda.com"])
+startpage.com##.w-gl .result:has(a[href*="opensourceagenda.com"])
 ||gitmemories.com^$all
-startpage.com##.w-gl__result:has(a[href*="gitmemories.com"])
+startpage.com##.w-gl .result:has(a[href*="gitmemories.com"])
 ||wikimili.com^$all
-startpage.com##.w-gl__result:has(a[href*="wikimili.com"])
+startpage.com##.w-gl .result:has(a[href*="wikimili.com"])
 ||newworldencyclopedia.org^$all
-startpage.com##.w-gl__result:has(a[href*="newworldencyclopedia.org"])
+startpage.com##.w-gl .result:has(a[href*="newworldencyclopedia.org"])
 ||bestproduct-review.com^$all
-startpage.com##.w-gl__result:has(a[href*="bestproduct-review.com"])
+startpage.com##.w-gl .result:has(a[href*="bestproduct-review.com"])
 ||citizendium.org^$all
-startpage.com##.w-gl__result:has(a[href*="citizendium.org"])
+startpage.com##.w-gl .result:has(a[href*="citizendium.org"])
 ||codesti.com^$all
-startpage.com##.w-gl__result:has(a[href*="codesti.com"])
+startpage.com##.w-gl .result:has(a[href*="codesti.com"])
 ||pythontechworld.com^$all
-startpage.com##.w-gl__result:has(a[href*="pythontechworld.com"])
+startpage.com##.w-gl .result:has(a[href*="pythontechworld.com"])
 ||web.bluecomtech.com^$all
-startpage.com##.w-gl__result:has(a[href*="web.bluecomtech.com"])
+startpage.com##.w-gl .result:has(a[href*="web.bluecomtech.com"])
 ||rat.dev^$all
-startpage.com##.w-gl__result:has(a[href*="rat.dev"])
+startpage.com##.w-gl .result:has(a[href*="rat.dev"])
 ||codemonkey.link^$all
-startpage.com##.w-gl__result:has(a[href*="codemonkey.link"])
+startpage.com##.w-gl .result:has(a[href*="codemonkey.link"])
 ||giterhub.com^$all
-startpage.com##.w-gl__result:has(a[href*="giterhub.com"])
+startpage.com##.w-gl .result:has(a[href*="giterhub.com"])
 ||githubissues.com^$all
-startpage.com##.w-gl__result:has(a[href*="githubissues.com"])
+startpage.com##.w-gl .result:has(a[href*="githubissues.com"])
 ||githubrecord.com^$all
-startpage.com##.w-gl__result:has(a[href*="githubrecord.com"])
+startpage.com##.w-gl .result:has(a[href*="githubrecord.com"])
 ||stackovercoder.com.de^$all
-startpage.com##.w-gl__result:has(a[href*="stackovercoder.com.de"])
+startpage.com##.w-gl .result:has(a[href*="stackovercoder.com.de"])
 ||git.histb.com^$all
-startpage.com##.w-gl__result:has(a[href*="git.histb.com"])
+startpage.com##.w-gl .result:has(a[href*="git.histb.com"])
 ||bleepingcoder.com^$all
-startpage.com##.w-gl__result:has(a[href*="bleepingcoder.com"])
+startpage.com##.w-gl .result:has(a[href*="bleepingcoder.com"])
 ||devdoc.net^$all
-startpage.com##.w-gl__result:has(a[href*="devdoc.net"])
+startpage.com##.w-gl .result:has(a[href*="devdoc.net"])
 ||linux-packages.com^$all
-startpage.com##.w-gl__result:has(a[href*="linux-packages.com"])
+startpage.com##.w-gl .result:has(a[href*="linux-packages.com"])
 ||rst24plus.net^$all
-startpage.com##.w-gl__result:has(a[href*="rst24plus.net"])
+startpage.com##.w-gl .result:has(a[href*="rst24plus.net"])
 ||npmmirror.com^$all
-startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
+startpage.com##.w-gl .result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
-startpage.com##.w-gl__result:has(a[href*="cnpmjs.org"])
+startpage.com##.w-gl .result:has(a[href*="cnpmjs.org"])
 ||code-examples.net^$all
-startpage.com##.w-gl__result:has(a[href*="code-examples.net"])
+startpage.com##.w-gl .result:has(a[href*="code-examples.net"])
 ||kotaeta.com^$all
-startpage.com##.w-gl__result:has(a[href*="kotaeta.com"])
+startpage.com##.w-gl .result:has(a[href*="kotaeta.com"])
 ||answer-id.com^$all
-startpage.com##.w-gl__result:has(a[href*="answer-id.com"])
+startpage.com##.w-gl .result:has(a[href*="answer-id.com"])
 ||code.i-harness.com^$all
-startpage.com##.w-gl__result:has(a[href*="code.i-harness.com"])
+startpage.com##.w-gl .result:has(a[href*="code.i-harness.com"])
 ||living-sun.com^$all
-startpage.com##.w-gl__result:has(a[href*="living-sun.com"])
+startpage.com##.w-gl .result:has(a[href*="living-sun.com"])
 ||qastack.jp^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.jp"])
+startpage.com##.w-gl .result:has(a[href*="qastack.jp"])
 ||qastack.ru^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.ru"])
+startpage.com##.w-gl .result:has(a[href*="qastack.ru"])
 ||qastack.it^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.it"])
+startpage.com##.w-gl .result:has(a[href*="qastack.it"])
 ||qastack.mx^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.mx"])
+startpage.com##.w-gl .result:has(a[href*="qastack.mx"])
 ||qastack.com.br^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.com.br"])
+startpage.com##.w-gl .result:has(a[href*="qastack.com.br"])
 ||qastack.info.tr^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.info.tr"])
+startpage.com##.w-gl .result:has(a[href*="qastack.info.tr"])
 ||qastack.in.th^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.in.th"])
+startpage.com##.w-gl .result:has(a[href*="qastack.in.th"])
 ||qastack.com.de^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.com.de"])
+startpage.com##.w-gl .result:has(a[href*="qastack.com.de"])
 ||qastack.fr^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.fr"])
+startpage.com##.w-gl .result:has(a[href*="qastack.fr"])
 ||qastack.cn^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.cn"])
+startpage.com##.w-gl .result:has(a[href*="qastack.cn"])
 ||qastack.com.ua^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.com.ua"])
+startpage.com##.w-gl .result:has(a[href*="qastack.com.ua"])
 ||qastack.co.in^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.co.in"])
+startpage.com##.w-gl .result:has(a[href*="qastack.co.in"])
 ||qastack.kr^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.kr"])
+startpage.com##.w-gl .result:has(a[href*="qastack.kr"])
 ||qastack.vn^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.vn"])
+startpage.com##.w-gl .result:has(a[href*="qastack.vn"])
 ||qastack.net.bd^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.net.bd"])
+startpage.com##.w-gl .result:has(a[href*="qastack.net.bd"])
 ||qa-stack.pl^$all
-startpage.com##.w-gl__result:has(a[href*="qa-stack.pl"])
+startpage.com##.w-gl .result:has(a[href*="qa-stack.pl"])
 ||qastack.id^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.id"])
+startpage.com##.w-gl .result:has(a[href*="qastack.id"])
 ||coder.work^$all
-startpage.com##.w-gl__result:has(a[href*="coder.work"])
+startpage.com##.w-gl .result:has(a[href*="coder.work"])
 ||it-swarm-ja.tech^$all
-startpage.com##.w-gl__result:has(a[href*="it-swarm-ja.tech"])
+startpage.com##.w-gl .result:has(a[href*="it-swarm-ja.tech"])
 ||it-swarm.jp.net^$all
-startpage.com##.w-gl__result:has(a[href*="it-swarm.jp.net"])
+startpage.com##.w-gl .result:has(a[href*="it-swarm.jp.net"])
 ||it-mure.jp.net^$all
-startpage.com##.w-gl__result:has(a[href*="it-mure.jp.net"])
+startpage.com##.w-gl .result:has(a[href*="it-mure.jp.net"])
 ||it-swarm-ja.com^$all
-startpage.com##.w-gl__result:has(a[href*="it-swarm-ja.com"])
+startpage.com##.w-gl .result:has(a[href*="it-swarm-ja.com"])
 ||it-swarm.com.ru^$all
-startpage.com##.w-gl__result:has(a[href*="it-swarm.com.ru"])
+startpage.com##.w-gl .result:has(a[href*="it-swarm.com.ru"])
 ||it-swarm-fr.com^$all
-startpage.com##.w-gl__result:has(a[href*="it-swarm-fr.com"])
+startpage.com##.w-gl .result:has(a[href*="it-swarm-fr.com"])
 ||codeflow.site^$all
-startpage.com##.w-gl__result:has(a[href*="codeflow.site"])
+startpage.com##.w-gl .result:has(a[href*="codeflow.site"])
 ||codeguides.site^$all
-startpage.com##.w-gl__result:has(a[href*="codeguides.site"])
+startpage.com##.w-gl .result:has(a[href*="codeguides.site"])
 ||overcoder.net^$all
-startpage.com##.w-gl__result:has(a[href*="overcoder.net"])
+startpage.com##.w-gl .result:has(a[href*="overcoder.net"])
 ||coderoad.ru^$all
-startpage.com##.w-gl__result:has(a[href*="coderoad.ru"])
+startpage.com##.w-gl .result:has(a[href*="coderoad.ru"])
 ||generacodice.blog^$all
-startpage.com##.w-gl__result:has(a[href*="generacodice.blog"])
+startpage.com##.w-gl .result:has(a[href*="generacodice.blog"])
 ||generacodice.it^$all
-startpage.com##.w-gl__result:has(a[href*="generacodice.it"])
+startpage.com##.w-gl .result:has(a[href*="generacodice.it"])
 ||generacodice.com^$all
-startpage.com##.w-gl__result:has(a[href*="generacodice.com"])
+startpage.com##.w-gl .result:has(a[href*="generacodice.com"])
 ||javaer101.com^$all
-startpage.com##.w-gl__result:has(a[href*="javaer101.com"])
+startpage.com##.w-gl .result:has(a[href*="javaer101.com"])
 ||voidcc.com^$all
-startpage.com##.w-gl__result:has(a[href*="voidcc.com"])
+startpage.com##.w-gl .result:has(a[href*="voidcc.com"])
 ||siwib.org^$all
-startpage.com##.w-gl__result:has(a[href*="siwib.org"])
+startpage.com##.w-gl .result:has(a[href*="siwib.org"])
 ||fluffyfables.com^$all
-startpage.com##.w-gl__result:has(a[href*="fluffyfables.com"])
+startpage.com##.w-gl .result:has(a[href*="fluffyfables.com"])
 ||fixes.pub^$all
-startpage.com##.w-gl__result:has(a[href*="fixes.pub"])
+startpage.com##.w-gl .result:has(a[href*="fixes.pub"])
 ||knews.vip^$all
-startpage.com##.w-gl__result:has(a[href*="knews.vip"])
+startpage.com##.w-gl .result:has(a[href*="knews.vip"])
 ||isolution.pro^$all
-startpage.com##.w-gl__result:has(a[href*="isolution.pro"])
+startpage.com##.w-gl .result:has(a[href*="isolution.pro"])
 ||uwenku.com^$all
-startpage.com##.w-gl__result:has(a[href*="uwenku.com"])
+startpage.com##.w-gl .result:has(a[href*="uwenku.com"])
 ||lycaeum.dev^$all
-startpage.com##.w-gl__result:has(a[href*="lycaeum.dev"])
+startpage.com##.w-gl .result:has(a[href*="lycaeum.dev"])
 ||brocante.dev^$all
-startpage.com##.w-gl__result:has(a[href*="brocante.dev"])
+startpage.com##.w-gl .result:has(a[href*="brocante.dev"])
 ||classmethod.dev^$all
-startpage.com##.w-gl__result:has(a[href*="classmethod.dev"])
+startpage.com##.w-gl .result:has(a[href*="classmethod.dev"])
 ||stormcrow.dev^$all
-startpage.com##.w-gl__result:has(a[href*="stormcrow.dev"])
+startpage.com##.w-gl .result:has(a[href*="stormcrow.dev"])
 ||athabasca-foto.com^$all
-startpage.com##.w-gl__result:has(a[href*="athabasca-foto.com"])
+startpage.com##.w-gl .result:has(a[href*="athabasca-foto.com"])
 ||zsharp.org^$all
-startpage.com##.w-gl__result:has(a[href*="zsharp.org"])
+startpage.com##.w-gl .result:has(a[href*="zsharp.org"])
 ||projectbackpack.org^$all
-startpage.com##.w-gl__result:has(a[href*="projectbackpack.org"])
+startpage.com##.w-gl .result:has(a[href*="projectbackpack.org"])
 ||waymanamechurch.org^$all
-startpage.com##.w-gl__result:has(a[href*="waymanamechurch.org"])
+startpage.com##.w-gl .result:has(a[href*="waymanamechurch.org"])
 ||sunflowercreations.org^$all
-startpage.com##.w-gl__result:has(a[href*="sunflowercreations.org"])
+startpage.com##.w-gl .result:has(a[href*="sunflowercreations.org"])
 ||cfadnc.org^$all
-startpage.com##.w-gl__result:has(a[href*="cfadnc.org"])
+startpage.com##.w-gl .result:has(a[href*="cfadnc.org"])
 ||fitforlearning.org^$all
-startpage.com##.w-gl__result:has(a[href*="fitforlearning.org"])
+startpage.com##.w-gl .result:has(a[href*="fitforlearning.org"])
 ||panaindustrial.com^$all
-startpage.com##.w-gl__result:has(a[href*="panaindustrial.com"])
+startpage.com##.w-gl .result:has(a[href*="panaindustrial.com"])
 ||sierrasummit2005.org^$all
-startpage.com##.w-gl__result:has(a[href*="sierrasummit2005.org"])
+startpage.com##.w-gl .result:has(a[href*="sierrasummit2005.org"])
 ||theshuggahpies.com^$all
-startpage.com##.w-gl__result:has(a[href*="theshuggahpies.com"])
+startpage.com##.w-gl .result:has(a[href*="theshuggahpies.com"])
 ||pcbconline.org^$all
-startpage.com##.w-gl__result:has(a[href*="pcbconline.org"])
+startpage.com##.w-gl .result:has(a[href*="pcbconline.org"])
 ||nuomiphp.com^$all
-startpage.com##.w-gl__result:has(a[href*="nuomiphp.com"])
+startpage.com##.w-gl .result:has(a[href*="nuomiphp.com"])
 ||ubuntu.buildwebhost.com^$all
-startpage.com##.w-gl__result:has(a[href*="ubuntu.buildwebhost.com"])
+startpage.com##.w-gl .result:has(a[href*="ubuntu.buildwebhost.com"])
 ||ubuntuaa.com^$all
-startpage.com##.w-gl__result:has(a[href*="ubuntuaa.com"])
+startpage.com##.w-gl .result:has(a[href*="ubuntuaa.com"])
 ||debugcn.com^$all
-startpage.com##.w-gl__result:has(a[href*="debugcn.com"])
+startpage.com##.w-gl .result:has(a[href*="debugcn.com"])
 ||sch22.org^$all
-startpage.com##.w-gl__result:has(a[href*="sch22.org"])
+startpage.com##.w-gl .result:has(a[href*="sch22.org"])
 ||gupgallery.com^$all
-startpage.com##.w-gl__result:has(a[href*="gupgallery.com"])
+startpage.com##.w-gl .result:has(a[href*="gupgallery.com"])
 ||amuddycup.com^$all
-startpage.com##.w-gl__result:has(a[href*="amuddycup.com"])
+startpage.com##.w-gl .result:has(a[href*="amuddycup.com"])
 ||ecnf2016.org^$all
-startpage.com##.w-gl__result:has(a[href*="ecnf2016.org"])
+startpage.com##.w-gl .result:has(a[href*="ecnf2016.org"])
 ||softwareuser.asklobster.com^$all
-startpage.com##.w-gl__result:has(a[href*="softwareuser.asklobster.com"])
+startpage.com##.w-gl .result:has(a[href*="softwareuser.asklobster.com"])
 ||domainelespailles.net^$all
-startpage.com##.w-gl__result:has(a[href*="domainelespailles.net"])
+startpage.com##.w-gl .result:has(a[href*="domainelespailles.net"])
 ||ec-europe.org^$all
-startpage.com##.w-gl__result:has(a[href*="ec-europe.org"])
+startpage.com##.w-gl .result:has(a[href*="ec-europe.org"])
 ||pakostnici.com^$all
-startpage.com##.w-gl__result:has(a[href*="pakostnici.com"])
+startpage.com##.w-gl .result:has(a[href*="pakostnici.com"])
 ||try2explore.com^$all
-startpage.com##.w-gl__result:has(a[href*="try2explore.com"])
+startpage.com##.w-gl .result:has(a[href*="try2explore.com"])
 ||laravelquestions.com^$all
-startpage.com##.w-gl__result:has(a[href*="laravelquestions.com"])
+startpage.com##.w-gl .result:has(a[href*="laravelquestions.com"])
 ||itectec.com^$all
-startpage.com##.w-gl__result:has(a[href*="itectec.com"])
+startpage.com##.w-gl .result:has(a[href*="itectec.com"])
 ||stackovergo.com^$all
-startpage.com##.w-gl__result:has(a[href*="stackovergo.com"])
+startpage.com##.w-gl .result:has(a[href*="stackovergo.com"])
 ||faithcov.org^$all
-startpage.com##.w-gl__result:has(a[href*="faithcov.org"])
+startpage.com##.w-gl .result:has(a[href*="faithcov.org"])
 ||noblenaz.org^$all
-startpage.com##.w-gl__result:has(a[href*="noblenaz.org"])
+startpage.com##.w-gl .result:has(a[href*="noblenaz.org"])
 ||py4u.net^$all
-startpage.com##.w-gl__result:has(a[href*="py4u.net"])
+startpage.com##.w-gl .result:has(a[href*="py4u.net"])
 ||culinarydegree.info^$all
-startpage.com##.w-gl__result:has(a[href*="culinarydegree.info"])
+startpage.com##.w-gl .result:has(a[href*="culinarydegree.info"])
 ||safehavenpetrescue.org^$all
-startpage.com##.w-gl__result:has(a[href*="safehavenpetrescue.org"])
+startpage.com##.w-gl .result:has(a[href*="safehavenpetrescue.org"])
 ||qapicks.com^$all
-startpage.com##.w-gl__result:has(a[href*="qapicks.com"])
+startpage.com##.w-gl .result:has(a[href*="qapicks.com"])
 ||issues-world.com^$all
-startpage.com##.w-gl__result:has(a[href*="issues-world.com"])
+startpage.com##.w-gl .result:has(a[href*="issues-world.com"])
 ||narkive.jp^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.jp"])
+startpage.com##.w-gl .result:has(a[href*="narkive.jp"])
 ||ourladylakes.org^$all
-startpage.com##.w-gl__result:has(a[href*="ourladylakes.org"])
+startpage.com##.w-gl .result:has(a[href*="ourladylakes.org"])
 ||intellipaat.com^$all
-startpage.com##.w-gl__result:has(a[href*="intellipaat.com"])
+startpage.com##.w-gl .result:has(a[href*="intellipaat.com"])
 ||article.docway.net^$all
-startpage.com##.w-gl__result:has(a[href*="article.docway.net"])
+startpage.com##.w-gl .result:has(a[href*="article.docway.net"])
 ||xiu2.net^$all
-startpage.com##.w-gl__result:has(a[href*="xiu2.net"])
+startpage.com##.w-gl .result:has(a[href*="xiu2.net"])
 ||codehero.jp^$all
-startpage.com##.w-gl__result:has(a[href*="codehero.jp"])
+startpage.com##.w-gl .result:has(a[href*="codehero.jp"])
 ||quabr.com^$all
-startpage.com##.w-gl__result:has(a[href*="quabr.com"])
+startpage.com##.w-gl .result:has(a[href*="quabr.com"])
 ||webdevqa.jp.net^$all
-startpage.com##.w-gl__result:has(a[href*="webdevqa.jp.net"])
+startpage.com##.w-gl .result:has(a[href*="webdevqa.jp.net"])
 ||exceptionshub.com^$all
-startpage.com##.w-gl__result:has(a[href*="exceptionshub.com"])
+startpage.com##.w-gl .result:has(a[href*="exceptionshub.com"])
 ||newbedev.com^$all
-startpage.com##.w-gl__result:has(a[href*="newbedev.com"])
+startpage.com##.w-gl .result:has(a[href*="newbedev.com"])
 ||codenong.com^$all
-startpage.com##.w-gl__result:has(a[href*="codenong.com"])
+startpage.com##.w-gl .result:has(a[href*="codenong.com"])
 ||cainiaojiaocheng.com^$all
-startpage.com##.w-gl__result:has(a[href*="cainiaojiaocheng.com"])
+startpage.com##.w-gl .result:has(a[href*="cainiaojiaocheng.com"])
 ||routinepanic.com^$all
-startpage.com##.w-gl__result:has(a[href*="routinepanic.com"])
+startpage.com##.w-gl .result:has(a[href*="routinepanic.com"])
 ||pythonwd.com^$all
-startpage.com##.w-gl__result:has(a[href*="pythonwd.com"])
+startpage.com##.w-gl .result:has(a[href*="pythonwd.com"])
 ||tutorialmore.com^$all
-startpage.com##.w-gl__result:has(a[href*="tutorialmore.com"])
+startpage.com##.w-gl .result:has(a[href*="tutorialmore.com"])
 ||alwaysemmyhope.com^$all
-startpage.com##.w-gl__result:has(a[href*="alwaysemmyhope.com"])
+startpage.com##.w-gl .result:has(a[href*="alwaysemmyhope.com"])
 ||pretagteam.com^$all
-startpage.com##.w-gl__result:has(a[href*="pretagteam.com"])
+startpage.com##.w-gl .result:has(a[href*="pretagteam.com"])
 ||titanwolf.org^$all
-startpage.com##.w-gl__result:has(a[href*="titanwolf.org"])
+startpage.com##.w-gl .result:has(a[href*="titanwolf.org"])
 ||coderedirect.com^$all
-startpage.com##.w-gl__result:has(a[href*="coderedirect.com"])
+startpage.com##.w-gl .result:has(a[href*="coderedirect.com"])
 ||ostack.cn^$all
-startpage.com##.w-gl__result:has(a[href*="ostack.cn"])
+startpage.com##.w-gl .result:has(a[href*="ostack.cn"])
 ||easysavecode.com^$all
-startpage.com##.w-gl__result:has(a[href*="easysavecode.com"])
+startpage.com##.w-gl .result:has(a[href*="easysavecode.com"])
 ||webdevdesigner.com^$all
-startpage.com##.w-gl__result:has(a[href*="webdevdesigner.com"])
+startpage.com##.w-gl .result:has(a[href*="webdevdesigner.com"])
 ||ghcc.net^$all
-startpage.com##.w-gl__result:has(a[href*="ghcc.net"])
+startpage.com##.w-gl .result:has(a[href*="ghcc.net"])
 ||developreference.com^$all
-startpage.com##.w-gl__result:has(a[href*="developreference.com"])
+startpage.com##.w-gl .result:has(a[href*="developreference.com"])
 ||semicolonworld.com^$all
-startpage.com##.w-gl__result:has(a[href*="semicolonworld.com"])
+startpage.com##.w-gl .result:has(a[href*="semicolonworld.com"])
 ||tipsfordev.com^$all
-startpage.com##.w-gl__result:has(a[href*="tipsfordev.com"])
+startpage.com##.w-gl .result:has(a[href*="tipsfordev.com"])
 ||qi-u.com^$all
-startpage.com##.w-gl__result:has(a[href*="qi-u.com"])
+startpage.com##.w-gl .result:has(a[href*="qi-u.com"])
 ||stackqna.com^$all
-startpage.com##.w-gl__result:has(a[href*="stackqna.com"])
+startpage.com##.w-gl .result:has(a[href*="stackqna.com"])
 ||xsprogram.com^$all
-startpage.com##.w-gl__result:has(a[href*="xsprogram.com"])
+startpage.com##.w-gl .result:has(a[href*="xsprogram.com"])
 ||stackoom.com^$all
-startpage.com##.w-gl__result:has(a[href*="stackoom.com"])
+startpage.com##.w-gl .result:has(a[href*="stackoom.com"])
 ||christfever.in^$all
-startpage.com##.w-gl__result:has(a[href*="christfever.in"])
+startpage.com##.w-gl .result:has(a[href*="christfever.in"])
 ||codersatellite.com^$all
-startpage.com##.w-gl__result:has(a[href*="codersatellite.com"])
+startpage.com##.w-gl .result:has(a[href*="codersatellite.com"])
 ||cndgn.com^$all
-startpage.com##.w-gl__result:has(a[href*="cndgn.com"])
+startpage.com##.w-gl .result:has(a[href*="cndgn.com"])
 ||coredump.biz^$all
-startpage.com##.w-gl__result:has(a[href*="coredump.biz"])
+startpage.com##.w-gl .result:has(a[href*="coredump.biz"])
 ||farath.com^$all
-startpage.com##.w-gl__result:has(a[href*="farath.com"])
+startpage.com##.w-gl .result:has(a[href*="farath.com"])
 ||devbugfix.com^$all
-startpage.com##.w-gl__result:has(a[href*="devbugfix.com"])
+startpage.com##.w-gl .result:has(a[href*="devbugfix.com"])
 ||tech.wayne-chu.com^$all
-startpage.com##.w-gl__result:has(a[href*="tech.wayne-chu.com"])
+startpage.com##.w-gl .result:has(a[href*="tech.wayne-chu.com"])
 ||stackify.dev^$all
-startpage.com##.w-gl__result:has(a[href*="stackify.dev"])
+startpage.com##.w-gl .result:has(a[href*="stackify.dev"])
 ||webknox.com^$all
-startpage.com##.w-gl__result:has(a[href*="webknox.com"])
+startpage.com##.w-gl .result:has(a[href*="webknox.com"])
 ||stackfinder.jp.net^$all
-startpage.com##.w-gl__result:has(a[href*="stackfinder.jp.net"])
+startpage.com##.w-gl .result:has(a[href*="stackfinder.jp.net"])
 ||coder-solution-jp.com^$all
-startpage.com##.w-gl__result:has(a[href*="coder-solution-jp.com"])
+startpage.com##.w-gl .result:has(a[href*="coder-solution-jp.com"])
 ||jpndev.com^$all
-startpage.com##.w-gl__result:has(a[href*="jpndev.com"])
+startpage.com##.w-gl .result:has(a[href*="jpndev.com"])
 ||uebu-kaihatsu.jp.net^$all
-startpage.com##.w-gl__result:has(a[href*="uebu-kaihatsu.jp.net"])
+startpage.com##.w-gl .result:has(a[href*="uebu-kaihatsu.jp.net"])
 ||sqlite.in^$all
-startpage.com##.w-gl__result:has(a[href*="sqlite.in"])
+startpage.com##.w-gl .result:has(a[href*="sqlite.in"])
 ||stackguides.com^$all
-startpage.com##.w-gl__result:has(a[href*="stackguides.com"])
+startpage.com##.w-gl .result:has(a[href*="stackguides.com"])
 ||younggeeks.in^$all
-startpage.com##.w-gl__result:has(a[href*="younggeeks.in"])
+startpage.com##.w-gl .result:has(a[href*="younggeeks.in"])
 ||answerlib.com^$all
-startpage.com##.w-gl__result:has(a[href*="answerlib.com"])
+startpage.com##.w-gl .result:has(a[href*="answerlib.com"])
 ||edupro.id^$all
-startpage.com##.w-gl__result:has(a[href*="edupro.id"])
+startpage.com##.w-gl .result:has(a[href*="edupro.id"])
 ||python-stack.de^$all
-startpage.com##.w-gl__result:has(a[href*="python-stack.de"])
+startpage.com##.w-gl .result:has(a[href*="python-stack.de"])
 ||stackfinder.ru^$all
-startpage.com##.w-gl__result:has(a[href*="stackfinder.ru"])
+startpage.com##.w-gl .result:has(a[href*="stackfinder.ru"])
 ||stackfault.net^$all
-startpage.com##.w-gl__result:has(a[href*="stackfault.net"])
+startpage.com##.w-gl .result:has(a[href*="stackfault.net"])
 ||howtofix.io^$all
-startpage.com##.w-gl__result:has(a[href*="howtofix.io"])
+startpage.com##.w-gl .result:has(a[href*="howtofix.io"])
 ||buzzphp.com^$all
-startpage.com##.w-gl__result:has(a[href*="buzzphp.com"])
+startpage.com##.w-gl .result:has(a[href*="buzzphp.com"])
 ||desenv-web-rp.com^$all
-startpage.com##.w-gl__result:has(a[href*="desenv-web-rp.com"])
+startpage.com##.w-gl .result:has(a[href*="desenv-web-rp.com"])
 ||askdev.vn^$all
-startpage.com##.w-gl__result:has(a[href*="askdev.vn"])
+startpage.com##.w-gl .result:has(a[href*="askdev.vn"])
 ||quares.ru^$all
-startpage.com##.w-gl__result:has(a[href*="quares.ru"])
+startpage.com##.w-gl .result:has(a[href*="quares.ru"])
 ||examplefiles.net^$all
-startpage.com##.w-gl__result:has(a[href*="examplefiles.net"])
+startpage.com##.w-gl .result:has(a[href*="examplefiles.net"])
 ||codewdw.com^$all
-startpage.com##.w-gl__result:has(a[href*="codewdw.com"])
+startpage.com##.w-gl .result:has(a[href*="codewdw.com"])
 ||jpcodeqa.com^$all
-startpage.com##.w-gl__result:has(a[href*="jpcodeqa.com"])
+startpage.com##.w-gl .result:has(a[href*="jpcodeqa.com"])
 ||tutorialguruji.com^$all
-startpage.com##.w-gl__result:has(a[href*="tutorialguruji.com"])
+startpage.com##.w-gl .result:has(a[href*="tutorialguruji.com"])
 ||justshowmethecode.com^$all
-startpage.com##.w-gl__result:has(a[href*="justshowmethecode.com"])
+startpage.com##.w-gl .result:has(a[href*="justshowmethecode.com"])
 ||it-roy-ru.com^$all
-startpage.com##.w-gl__result:has(a[href*="it-roy-ru.com"])
+startpage.com##.w-gl .result:has(a[href*="it-roy-ru.com"])
 ||jscodetips.com^$all
-startpage.com##.w-gl__result:has(a[href*="jscodetips.com"])
+startpage.com##.w-gl .result:has(a[href*="jscodetips.com"])
 ||5axxw.com^$all
-startpage.com##.w-gl__result:has(a[href*="5axxw.com"])
+startpage.com##.w-gl .result:has(a[href*="5axxw.com"])
 ||question-it.com^$all
-startpage.com##.w-gl__result:has(a[href*="question-it.com"])
+startpage.com##.w-gl .result:has(a[href*="question-it.com"])
 ||webmonkez.com^$all
-startpage.com##.w-gl__result:has(a[href*="webmonkez.com"])
+startpage.com##.w-gl .result:has(a[href*="webmonkez.com"])
 ||ibootweb.com^$all
-startpage.com##.w-gl__result:has(a[href*="ibootweb.com"])
+startpage.com##.w-gl .result:has(a[href*="ibootweb.com"])
 ||codefaq.info^$all
-startpage.com##.w-gl__result:has(a[href*="codefaq.info"])
+startpage.com##.w-gl .result:has(a[href*="codefaq.info"])
 ||codefaq.ru^$all
-startpage.com##.w-gl__result:has(a[href*="codefaq.ru"])
+startpage.com##.w-gl .result:has(a[href*="codefaq.ru"])
 ||mediatagtw.com^$all
-startpage.com##.w-gl__result:has(a[href*="mediatagtw.com"])
+startpage.com##.w-gl .result:has(a[href*="mediatagtw.com"])
 ||alltodev.com^$all
-startpage.com##.w-gl__result:has(a[href*="alltodev.com"])
+startpage.com##.w-gl .result:has(a[href*="alltodev.com"])
 ||progi.pro^$all
-startpage.com##.w-gl__result:has(a[href*="progi.pro"])
+startpage.com##.w-gl .result:has(a[href*="progi.pro"])
 ||jike.in^$all
-startpage.com##.w-gl__result:has(a[href*="jike.in"])
+startpage.com##.w-gl .result:has(a[href*="jike.in"])
 ||web-dev-qa.com^$all
-startpage.com##.w-gl__result:has(a[href*="web-dev-qa.com"])
+startpage.com##.w-gl .result:has(a[href*="web-dev-qa.com"])
 ||elfishgene.com^$all
-startpage.com##.w-gl__result:has(a[href*="elfishgene.com"])
+startpage.com##.w-gl .result:has(a[href*="elfishgene.com"])
 ||dapper-tutorial.net^$all
-startpage.com##.w-gl__result:has(a[href*="dapper-tutorial.net"])
+startpage.com##.w-gl .result:has(a[href*="dapper-tutorial.net"])
 ||cmsdk.com^$all
-startpage.com##.w-gl__result:has(a[href*="cmsdk.com"])
+startpage.com##.w-gl .result:has(a[href*="cmsdk.com"])
 ||ask-ubuntu.ru^$all
-startpage.com##.w-gl__result:has(a[href*="ask-ubuntu.ru"])
+startpage.com##.w-gl .result:has(a[href*="ask-ubuntu.ru"])
 ||askubuntu.ru^$all
-startpage.com##.w-gl__result:has(a[href*="askubuntu.ru"])
+startpage.com##.w-gl .result:has(a[href*="askubuntu.ru"])
 ||kompsekret.ru^$all
-startpage.com##.w-gl__result:has(a[href*="kompsekret.ru"])
+startpage.com##.w-gl .result:has(a[href*="kompsekret.ru"])
 ||ohandroid.com^$all
-startpage.com##.w-gl__result:has(a[href*="ohandroid.com"])
+startpage.com##.w-gl .result:has(a[href*="ohandroid.com"])
 ||poweruser.guru^$all
-startpage.com##.w-gl__result:has(a[href*="poweruser.guru"])
+startpage.com##.w-gl .result:has(a[href*="poweruser.guru"])
 ||ruphp.com^$all
-startpage.com##.w-gl__result:has(a[href*="ruphp.com"])
+startpage.com##.w-gl .result:has(a[href*="ruphp.com"])
 ||server-fault.ru^$all
-startpage.com##.w-gl__result:has(a[href*="server-fault.ru"])
+startpage.com##.w-gl .result:has(a[href*="server-fault.ru"])
 ||sprosi.pro^$all
-startpage.com##.w-gl__result:has(a[href*="sprosi.pro"])
+startpage.com##.w-gl .result:has(a[href*="sprosi.pro"])
 ||stackru.com^$all
-startpage.com##.w-gl__result:has(a[href*="stackru.com"])
+startpage.com##.w-gl .result:has(a[href*="stackru.com"])
 ||switch-case.ru^$all
-startpage.com##.w-gl__result:has(a[href*="switch-case.ru"])
+startpage.com##.w-gl .result:has(a[href*="switch-case.ru"])
 ||ubuntugeeks.com^$all
-startpage.com##.w-gl__result:has(a[href*="ubuntugeeks.com"])
+startpage.com##.w-gl .result:has(a[href*="ubuntugeeks.com"])
 ||ubuntuplace.info^$all
-startpage.com##.w-gl__result:has(a[href*="ubuntuplace.info"])
+startpage.com##.w-gl .result:has(a[href*="ubuntuplace.info"])
 ||wikiroot.ru^$all
-startpage.com##.w-gl__result:has(a[href*="wikiroot.ru"])
+startpage.com##.w-gl .result:has(a[href*="wikiroot.ru"])
 ||sysadminde.com^$all
-startpage.com##.w-gl__result:has(a[href*="sysadminde.com"])
+startpage.com##.w-gl .result:has(a[href*="sysadminde.com"])
 ||askdev.ru^$all
-startpage.com##.w-gl__result:has(a[href*="askdev.ru"])
+startpage.com##.w-gl .result:has(a[href*="askdev.ru"])
 ||qarchive.ru^$all
-startpage.com##.w-gl__result:has(a[href*="qarchive.ru"])
+startpage.com##.w-gl .result:has(a[href*="qarchive.ru"])
 ||qarus.ru^$all
-startpage.com##.w-gl__result:has(a[href*="qarus.ru"])
+startpage.com##.w-gl .result:has(a[href*="qarus.ru"])
 ||recalll.co^$all
-startpage.com##.w-gl__result:has(a[href*="recalll.co"])
+startpage.com##.w-gl .result:has(a[href*="recalll.co"])
 ||soinside.com^$all
-startpage.com##.w-gl__result:has(a[href*="soinside.com"])
+startpage.com##.w-gl .result:has(a[href*="soinside.com"])
 ||stackanswers.net^$all
-startpage.com##.w-gl__result:has(a[href*="stackanswers.net"])
+startpage.com##.w-gl .result:has(a[href*="stackanswers.net"])
 ||stackoverflood.com^$all
-startpage.com##.w-gl__result:has(a[href*="stackoverflood.com"])
+startpage.com##.w-gl .result:has(a[href*="stackoverflood.com"])
 ||switch-case.com^$all
-startpage.com##.w-gl__result:has(a[href*="switch-case.com"])
+startpage.com##.w-gl .result:has(a[href*="switch-case.com"])
 ||techarks.ru^$all
-startpage.com##.w-gl__result:has(a[href*="techarks.ru"])
+startpage.com##.w-gl .result:has(a[href*="techarks.ru"])
 ||techfeed.net^$all
-startpage.com##.w-gl__result:has(a[href*="techfeed.net"])
+startpage.com##.w-gl .result:has(a[href*="techfeed.net"])
 ||thinbug.com^$all
-startpage.com##.w-gl__result:has(a[href*="thinbug.com"])
+startpage.com##.w-gl .result:has(a[href*="thinbug.com"])
 ||utyatnishna.ru^$all
-startpage.com##.w-gl__result:has(a[href*="utyatnishna.ru"])
+startpage.com##.w-gl .result:has(a[href*="utyatnishna.ru"])
 ||v-resheno.ru^$all
-startpage.com##.w-gl__result:has(a[href*="v-resheno.ru"])
+startpage.com##.w-gl .result:has(a[href*="v-resheno.ru"])
 ||web-answers.ru^$all
-startpage.com##.w-gl__result:has(a[href*="web-answers.ru"])
+startpage.com##.w-gl .result:has(a[href*="web-answers.ru"])
 ||xszz.org^$all
-startpage.com##.w-gl__result:has(a[href*="xszz.org"])
+startpage.com##.w-gl .result:has(a[href*="xszz.org"])
 ||ylhow.com^$all
-startpage.com##.w-gl__result:has(a[href*="ylhow.com"])
+startpage.com##.w-gl .result:has(a[href*="ylhow.com"])
 ||yuanmacha.com^$all
-startpage.com##.w-gl__result:has(a[href*="yuanmacha.com"])
+startpage.com##.w-gl .result:has(a[href*="yuanmacha.com"])
 ||qa.1r1g.com^$all
-startpage.com##.w-gl__result:has(a[href*="qa.1r1g.com"])
+startpage.com##.w-gl .result:has(a[href*="qa.1r1g.com"])
 ||it-swarm.com.de^$all
-startpage.com##.w-gl__result:has(a[href*="it-swarm.com.de"])
+startpage.com##.w-gl .result:has(a[href*="it-swarm.com.de"])
 ||it-swarm-es.com^$all
-startpage.com##.w-gl__result:has(a[href*="it-swarm-es.com"])
+startpage.com##.w-gl .result:has(a[href*="it-swarm-es.com"])
 ||legkovopros.ru^$all
-startpage.com##.w-gl__result:has(a[href*="legkovopros.ru"])
+startpage.com##.w-gl .result:has(a[href*="legkovopros.ru"])
 ||mlink.in^$all
-startpage.com##.w-gl__result:has(a[href*="mlink.in"])
+startpage.com##.w-gl .result:has(a[href*="mlink.in"])
 ||mlog.club^$all
-startpage.com##.w-gl__result:has(a[href*="mlog.club"])
+startpage.com##.w-gl .result:has(a[href*="mlog.club"])
 ||overcoder.ru^$all
-startpage.com##.w-gl__result:has(a[href*="overcoder.ru"])
+startpage.com##.w-gl .result:has(a[href*="overcoder.ru"])
 ||prog-help.ru^$all
-startpage.com##.w-gl__result:has(a[href*="prog-help.ru"])
+startpage.com##.w-gl .result:has(a[href*="prog-help.ru"])
 ||qa-help.ru^$all
-startpage.com##.w-gl__result:has(a[href*="qa-help.ru"])
+startpage.com##.w-gl .result:has(a[href*="qa-help.ru"])
 ||devfaq.fr^$all
-startpage.com##.w-gl__result:has(a[href*="devfaq.fr"])
+startpage.com##.w-gl .result:has(a[href*="devfaq.fr"])
 ||extutorial.com^$all
-startpage.com##.w-gl__result:has(a[href*="extutorial.com"])
+startpage.com##.w-gl .result:has(a[href*="extutorial.com"])
 ||fooobar.com^$all
-startpage.com##.w-gl__result:has(a[href*="fooobar.com"])
+startpage.com##.w-gl .result:has(a[href*="fooobar.com"])
 ||husl.ru^$all
-startpage.com##.w-gl__result:has(a[href*="husl.ru"])
+startpage.com##.w-gl .result:has(a[href*="husl.ru"])
 ||answacode.com^$all
-startpage.com##.w-gl__result:has(a[href*="answacode.com"])
+startpage.com##.w-gl .result:has(a[href*="answacode.com"])
 ||answeright.com^$all
-startpage.com##.w-gl__result:has(a[href*="answeright.com"])
+startpage.com##.w-gl .result:has(a[href*="answeright.com"])
 ||codegear.dev^$all
-startpage.com##.w-gl__result:has(a[href*="codegear.dev"])
+startpage.com##.w-gl .result:has(a[href*="codegear.dev"])
 ||bilee.com^$all
-startpage.com##.w-gl__result:has(a[href*="bilee.com"])
+startpage.com##.w-gl .result:has(a[href*="bilee.com"])
 ||askvoprosy.com^$all
-startpage.com##.w-gl__result:has(a[href*="askvoprosy.com"])
+startpage.com##.w-gl .result:has(a[href*="askvoprosy.com"])
 ||de.askdev.info^$all
-startpage.com##.w-gl__result:has(a[href*="de.askdev.info"])
+startpage.com##.w-gl .result:has(a[href*="de.askdev.info"])
 ||codeindex.ru^$all
-startpage.com##.w-gl__result:has(a[href*="codeindex.ru"])
+startpage.com##.w-gl .result:has(a[href*="codeindex.ru"])
 ||codengineering.ru^$all
-startpage.com##.w-gl__result:has(a[href*="codengineering.ru"])
+startpage.com##.w-gl .result:has(a[href*="codengineering.ru"])
 ||coderoad.in^$all
-startpage.com##.w-gl__result:has(a[href*="coderoad.in"])
+startpage.com##.w-gl .result:has(a[href*="coderoad.in"])
 ||coderquestion.ru^$all
-startpage.com##.w-gl__result:has(a[href*="coderquestion.ru"])
+startpage.com##.w-gl .result:has(a[href*="coderquestion.ru"])
 ||dogovori.info^$all
-startpage.com##.w-gl__result:has(a[href*="dogovori.info"])
+startpage.com##.w-gl .result:has(a[href*="dogovori.info"])
 ||itecnote.com^$all
-startpage.com##.w-gl__result:has(a[href*="itecnote.com"])
+startpage.com##.w-gl .result:has(a[href*="itecnote.com"])
 ||askcodez.com^$all
-startpage.com##.w-gl__result:has(a[href*="askcodez.com"])
+startpage.com##.w-gl .result:has(a[href*="askcodez.com"])
 ||bootpanic.com^$all
-startpage.com##.w-gl__result:has(a[href*="bootpanic.com"])
+startpage.com##.w-gl .result:has(a[href*="bootpanic.com"])
 ||askentire.net^$all
-startpage.com##.w-gl__result:has(a[href*="askentire.net"])
+startpage.com##.w-gl .result:has(a[href*="askentire.net"])
 ||de-vraag.com^$all
-startpage.com##.w-gl__result:has(a[href*="de-vraag.com"])
+startpage.com##.w-gl .result:has(a[href*="de-vraag.com"])
 ||qacode.ru^$all
-startpage.com##.w-gl__result:has(a[href*="qacode.ru"])
+startpage.com##.w-gl .result:has(a[href*="qacode.ru"])
 ||sobrelinux.info^$all
-startpage.com##.w-gl__result:has(a[href*="sobrelinux.info"])
+startpage.com##.w-gl .result:has(a[href*="sobrelinux.info"])
 ||askfrance.me^$all
-startpage.com##.w-gl__result:has(a[href*="askfrance.me"])
+startpage.com##.w-gl .result:has(a[href*="askfrance.me"])
 ||respuestas.me^$all
-startpage.com##.w-gl__result:has(a[href*="respuestas.me"])
+startpage.com##.w-gl .result:has(a[href*="respuestas.me"])
 ||antwortenhier.me^$all
-startpage.com##.w-gl__result:has(a[href*="antwortenhier.me"])
+startpage.com##.w-gl .result:has(a[href*="antwortenhier.me"])
 ||proubuntu.ru^$all
-startpage.com##.w-gl__result:has(a[href*="proubuntu.ru"])
+startpage.com##.w-gl .result:has(a[href*="proubuntu.ru"])
 ||over.wiki^$all
-startpage.com##.w-gl__result:has(a[href*="over.wiki"])
+startpage.com##.w-gl .result:has(a[href*="over.wiki"])
 ||debiantutorials.org^$all
-startpage.com##.w-gl__result:has(a[href*="debiantutorials.org"])
+startpage.com##.w-gl .result:has(a[href*="debiantutorials.org"])
 ||grokbase.com^$all
-startpage.com##.w-gl__result:has(a[href*="grokbase.com"])
+startpage.com##.w-gl .result:has(a[href*="grokbase.com"])
 ||wp-qa.com^$all
-startpage.com##.w-gl__result:has(a[href*="wp-qa.com"])
+startpage.com##.w-gl .result:has(a[href*="wp-qa.com"])
 ||codegrepper.com^$all
-startpage.com##.w-gl__result:has(a[href*="codegrepper.com"])
+startpage.com##.w-gl .result:has(a[href*="codegrepper.com"])
 ||programmierfrage.com^$all
-startpage.com##.w-gl__result:has(a[href*="programmierfrage.com"])
+startpage.com##.w-gl .result:has(a[href*="programmierfrage.com"])
 ||microeducate.tech^$all
-startpage.com##.w-gl__result:has(a[href*="microeducate.tech"])
+startpage.com##.w-gl .result:has(a[href*="microeducate.tech"])
 ||ringingliberty.com^$all
-startpage.com##.w-gl__result:has(a[href*="ringingliberty.com"])
+startpage.com##.w-gl .result:has(a[href*="ringingliberty.com"])
 ||askandroidquestions.com^$all
-startpage.com##.w-gl__result:has(a[href*="askandroidquestions.com"])
+startpage.com##.w-gl .result:has(a[href*="askandroidquestions.com"])
 ||tutorialmeta.com^$all
-startpage.com##.w-gl__result:has(a[href*="tutorialmeta.com"])
+startpage.com##.w-gl .result:has(a[href*="tutorialmeta.com"])
 ||helpex.vn^$all
-startpage.com##.w-gl__result:has(a[href*="helpex.vn"])
+startpage.com##.w-gl .result:has(a[href*="helpex.vn"])
 ||techtalk7.com^$all
-startpage.com##.w-gl__result:has(a[href*="techtalk7.com"])
+startpage.com##.w-gl .result:has(a[href*="techtalk7.com"])
 ||serveanswer.com^$all
-startpage.com##.w-gl__result:has(a[href*="serveanswer.com"])
+startpage.com##.w-gl .result:has(a[href*="serveanswer.com"])
 ||solveforums.msomimaktaba.com^$all
-startpage.com##.w-gl__result:has(a[href*="solveforums.msomimaktaba.com"])
+startpage.com##.w-gl .result:has(a[href*="solveforums.msomimaktaba.com"])
 ||vuejscode.com^$all
-startpage.com##.w-gl__result:has(a[href*="vuejscode.com"])
+startpage.com##.w-gl .result:has(a[href*="vuejscode.com"])
 ||pythonshowcase.com^$all
-startpage.com##.w-gl__result:has(a[href*="pythonshowcase.com"])
+startpage.com##.w-gl .result:has(a[href*="pythonshowcase.com"])
 ||codeutility.org^$all
-startpage.com##.w-gl__result:has(a[href*="codeutility.org"])
+startpage.com##.w-gl .result:has(a[href*="codeutility.org"])
 ||reactquestions.com^$all
-startpage.com##.w-gl__result:has(a[href*="reactquestions.com"])
+startpage.com##.w-gl .result:has(a[href*="reactquestions.com"])
 ||dockerquestions.com^$all
-startpage.com##.w-gl__result:has(a[href*="dockerquestions.com"])
+startpage.com##.w-gl .result:has(a[href*="dockerquestions.com"])
 ||angularquestions.com^$all
-startpage.com##.w-gl__result:has(a[href*="angularquestions.com"])
+startpage.com##.w-gl .result:has(a[href*="angularquestions.com"])
 ||pythonfixing.com^$all
-startpage.com##.w-gl__result:has(a[href*="pythonfixing.com"])
+startpage.com##.w-gl .result:has(a[href*="pythonfixing.com"])
 ||stackallflow.com^$all
-startpage.com##.w-gl__result:has(a[href*="stackallflow.com"])
+startpage.com##.w-gl .result:has(a[href*="stackallflow.com"])
 ||nxtstage.net^$all
-startpage.com##.w-gl__result:has(a[href*="nxtstage.net"])
+startpage.com##.w-gl .result:has(a[href*="nxtstage.net"])
 ||intelligentsystemsmonitoring.com^$all
-startpage.com##.w-gl__result:has(a[href*="intelligentsystemsmonitoring.com"])
+startpage.com##.w-gl .result:has(a[href*="intelligentsystemsmonitoring.com"])
 ||localcoder.org^$all
-startpage.com##.w-gl__result:has(a[href*="localcoder.org"])
+startpage.com##.w-gl .result:has(a[href*="localcoder.org"])
 ||rotadev.com^$all
-startpage.com##.w-gl__result:has(a[href*="rotadev.com"])
+startpage.com##.w-gl .result:has(a[href*="rotadev.com"])
 ||errorsfixing.com^$all
-startpage.com##.w-gl__result:has(a[href*="errorsfixing.com"])
+startpage.com##.w-gl .result:has(a[href*="errorsfixing.com"])
 ||catwolf.org^$all
-startpage.com##.w-gl__result:has(a[href*="catwolf.org"])
+startpage.com##.w-gl .result:has(a[href*="catwolf.org"])
 ||configrouter.com^$all
-startpage.com##.w-gl__result:has(a[href*="configrouter.com"])
+startpage.com##.w-gl .result:has(a[href*="configrouter.com"])
 ||akuum.org^$all
-startpage.com##.w-gl__result:has(a[href*="akuum.org"])
+startpage.com##.w-gl .result:has(a[href*="akuum.org"])
 ||readforlearn.com^$all
-startpage.com##.w-gl__result:has(a[href*="readforlearn.com"])
+startpage.com##.w-gl .result:has(a[href*="readforlearn.com"])
 ||codehunter.cc^$all
-startpage.com##.w-gl__result:has(a[href*="codehunter.cc"])
+startpage.com##.w-gl .result:has(a[href*="codehunter.cc"])
 ||levitrares.com^$all
-startpage.com##.w-gl__result:has(a[href*="levitrares.com"])
+startpage.com##.w-gl .result:has(a[href*="levitrares.com"])
 ||graef.io^$all
-startpage.com##.w-gl__result:has(a[href*="graef.io"])
+startpage.com##.w-gl .result:has(a[href*="graef.io"])
 ||syntaxfix.com^$all
-startpage.com##.w-gl__result:has(a[href*="syntaxfix.com"])
+startpage.com##.w-gl .result:has(a[href*="syntaxfix.com"])
 ||ourpython.com^$all
-startpage.com##.w-gl__result:has(a[href*="ourpython.com"])
+startpage.com##.w-gl .result:has(a[href*="ourpython.com"])
 ||vigges.net^$all
-startpage.com##.w-gl__result:has(a[href*="vigges.net"])
+startpage.com##.w-gl .result:has(a[href*="vigges.net"])
 ||exchangetuts.com^$all
-startpage.com##.w-gl__result:has(a[href*="exchangetuts.com"])
+startpage.com##.w-gl .result:has(a[href*="exchangetuts.com"])
 ||fullstackuser.com^$all
-startpage.com##.w-gl__result:has(a[href*="fullstackuser.com"])
+startpage.com##.w-gl .result:has(a[href*="fullstackuser.com"])
 ||dtuto.com^$all
-startpage.com##.w-gl__result:has(a[href*="dtuto.com"])
+startpage.com##.w-gl .result:has(a[href*="dtuto.com"])
 ||w3coded.com^$all
-startpage.com##.w-gl__result:has(a[href*="w3coded.com"])
+startpage.com##.w-gl .result:has(a[href*="w3coded.com"])
 ||thelivingtrove.com^$all
-startpage.com##.w-gl__result:has(a[href*="thelivingtrove.com"])
+startpage.com##.w-gl .result:has(a[href*="thelivingtrove.com"])
 ||ti-enxame.com^$all
-startpage.com##.w-gl__result:has(a[href*="ti-enxame.com"])
+startpage.com##.w-gl .result:has(a[href*="ti-enxame.com"])
 ||desenv-web-rp-bd.com^$all
-startpage.com##.w-gl__result:has(a[href*="desenv-web-rp-bd.com"])
+startpage.com##.w-gl .result:has(a[href*="desenv-web-rp-bd.com"])
 ||web-dev-qa-db-pt.com^$all
-startpage.com##.w-gl__result:has(a[href*="web-dev-qa-db-pt.com"])
+startpage.com##.w-gl .result:has(a[href*="web-dev-qa-db-pt.com"])
 ||tra-loi-cau-hoi-phat-trien-web.com^$all
-startpage.com##.w-gl__result:has(a[href*="tra-loi-cau-hoi-phat-trien-web.com"])
+startpage.com##.w-gl .result:has(a[href*="tra-loi-cau-hoi-phat-trien-web.com"])
 ||suttonedfoundation.org^$all
-startpage.com##.w-gl__result:has(a[href*="suttonedfoundation.org"])
+startpage.com##.w-gl .result:has(a[href*="suttonedfoundation.org"])
 ||tousu.in^$all
-startpage.com##.w-gl__result:has(a[href*="tousu.in"])
+startpage.com##.w-gl .result:has(a[href*="tousu.in"])
 ||itdaan.com^$all
-startpage.com##.w-gl__result:has(a[href*="itdaan.com"])
+startpage.com##.w-gl .result:has(a[href*="itdaan.com"])
 ||itranslater.com^$all
-startpage.com##.w-gl__result:has(a[href*="itranslater.com"])
+startpage.com##.w-gl .result:has(a[href*="itranslater.com"])
 ||software-testing.com^$all
-startpage.com##.w-gl__result:has(a[href*="software-testing.com"])
+startpage.com##.w-gl .result:has(a[href*="software-testing.com"])
 ||itbaoku.cn^$all
-startpage.com##.w-gl__result:has(a[href*="itbaoku.cn"])
+startpage.com##.w-gl .result:has(a[href*="itbaoku.cn"])
 ||nibes.cn^$all
-startpage.com##.w-gl__result:has(a[href*="nibes.cn"])
+startpage.com##.w-gl .result:has(a[href*="nibes.cn"])
 ||devqanda.com^$all
-startpage.com##.w-gl__result:has(a[href*="devqanda.com"])
+startpage.com##.w-gl .result:has(a[href*="devqanda.com"])
 ||sargon24.com^$all
-startpage.com##.w-gl__result:has(a[href*="sargon24.com"])
+startpage.com##.w-gl .result:has(a[href*="sargon24.com"])
 ||javafixing.com^$all
-startpage.com##.w-gl__result:has(a[href*="javafixing.com"])
+startpage.com##.w-gl .result:has(a[href*="javafixing.com"])
 ||catchconsole.com^$all
-startpage.com##.w-gl__result:has(a[href*="catchconsole.com"])
+startpage.com##.w-gl .result:has(a[href*="catchconsole.com"])
 ||icopy.site^$all
-startpage.com##.w-gl__result:has(a[href*="icopy.site"])
+startpage.com##.w-gl .result:has(a[href*="icopy.site"])
 ||frameboxxindore.com^$all
-startpage.com##.w-gl__result:has(a[href*="frameboxxindore.com"])
+startpage.com##.w-gl .result:has(a[href*="frameboxxindore.com"])
 ||qa.wujigu.com^$all
-startpage.com##.w-gl__result:has(a[href*="qa.wujigu.com"])
+startpage.com##.w-gl .result:has(a[href*="qa.wujigu.com"])
 ||shenzhenjia.net^$all
-startpage.com##.w-gl__result:has(a[href*="shenzhenjia.net"])
+startpage.com##.w-gl .result:has(a[href*="shenzhenjia.net"])
 ||ogeek.cn^$all
-startpage.com##.w-gl__result:has(a[href*="ogeek.cn"])
+startpage.com##.w-gl .result:has(a[href*="ogeek.cn"])
 ||devdreamz.com^$all
-startpage.com##.w-gl__result:has(a[href*="devdreamz.com"])
+startpage.com##.w-gl .result:has(a[href*="devdreamz.com"])
 ||imtqy.com^$all
-startpage.com##.w-gl__result:has(a[href*="imtqy.com"])
+startpage.com##.w-gl .result:has(a[href*="imtqy.com"])
 ||idqna.com^$all
-startpage.com##.w-gl__result:has(a[href*="idqna.com"])
+startpage.com##.w-gl .result:has(a[href*="idqna.com"])
 ||peaku.co^$all
-startpage.com##.w-gl__result:has(a[href*="peaku.co"])
+startpage.com##.w-gl .result:has(a[href*="peaku.co"])
 ||javawenti.com^$all
-startpage.com##.w-gl__result:has(a[href*="javawenti.com"])
+startpage.com##.w-gl .result:has(a[href*="javawenti.com"])
 ||runexception.com^$all
-startpage.com##.w-gl__result:has(a[href*="runexception.com"])
+startpage.com##.w-gl .result:has(a[href*="runexception.com"])
 ||ebestcode.com^$all
-startpage.com##.w-gl__result:has(a[href*="ebestcode.com"])
+startpage.com##.w-gl .result:has(a[href*="ebestcode.com"])
 ||likecs.com^$all
-startpage.com##.w-gl__result:has(a[href*="likecs.com"])
+startpage.com##.w-gl .result:has(a[href*="likecs.com"])
 ||solveforum.com^$all
-startpage.com##.w-gl__result:has(a[href*="solveforum.com"])
+startpage.com##.w-gl .result:has(a[href*="solveforum.com"])
 ||codetd.com^$all
-startpage.com##.w-gl__result:has(a[href*="codetd.com"])
+startpage.com##.w-gl .result:has(a[href*="codetd.com"])
 ||anycodings.com^$all
-startpage.com##.w-gl__result:has(a[href*="anycodings.com"])
+startpage.com##.w-gl .result:has(a[href*="anycodings.com"])
 ||overstack.in^$all
-startpage.com##.w-gl__result:has(a[href*="overstack.in"])
+startpage.com##.w-gl .result:has(a[href*="overstack.in"])
 ||jonic.cn^$all
-startpage.com##.w-gl__result:has(a[href*="jonic.cn"])
+startpage.com##.w-gl .result:has(a[href*="jonic.cn"])
 ||devasking.com^$all
-startpage.com##.w-gl__result:has(a[href*="devasking.com"])
+startpage.com##.w-gl .result:has(a[href*="devasking.com"])
 ||askdevz.com^$all
-startpage.com##.w-gl__result:has(a[href*="askdevz.com"])
+startpage.com##.w-gl .result:has(a[href*="askdevz.com"])
 ||cans.pro^$all
-startpage.com##.w-gl__result:has(a[href*="cans.pro"])
+startpage.com##.w-gl .result:has(a[href*="cans.pro"])
 ||ddcode.net^$all
-startpage.com##.w-gl__result:has(a[href*="ddcode.net"])
+startpage.com##.w-gl .result:has(a[href*="ddcode.net"])
 ||w3programmers.org^$all
-startpage.com##.w-gl__result:has(a[href*="w3programmers.org"])
+startpage.com##.w-gl .result:has(a[href*="w3programmers.org"])
 ||faqcode4u.com^$all
-startpage.com##.w-gl__result:has(a[href*="faqcode4u.com"])
+startpage.com##.w-gl .result:has(a[href*="faqcode4u.com"])
 ||studytonight.com^$all
-startpage.com##.w-gl__result:has(a[href*="studytonight.com"])
+startpage.com##.w-gl .result:has(a[href*="studytonight.com"])
 ||chowdera.com^$all
-startpage.com##.w-gl__result:has(a[href*="chowdera.com"])
+startpage.com##.w-gl .result:has(a[href*="chowdera.com"])
 ||faqcodes.com^$all
-startpage.com##.w-gl__result:has(a[href*="faqcodes.com"])
+startpage.com##.w-gl .result:has(a[href*="faqcodes.com"])
 ||thecodeteacher.com^$all
-startpage.com##.w-gl__result:has(a[href*="thecodeteacher.com"])
+startpage.com##.w-gl .result:has(a[href*="thecodeteacher.com"])
 ||devtip.in^$all
-startpage.com##.w-gl__result:has(a[href*="devtip.in"])
+startpage.com##.w-gl .result:has(a[href*="devtip.in"])
 ||duoduokou.com^$all
-startpage.com##.w-gl__result:has(a[href*="duoduokou.com"])
+startpage.com##.w-gl .result:has(a[href*="duoduokou.com"])
 ||appsloveworld.com^$all
-startpage.com##.w-gl__result:has(a[href*="appsloveworld.com"])
+startpage.com##.w-gl .result:has(a[href*="appsloveworld.com"])
 ||learnfk.com^$all
-startpage.com##.w-gl__result:has(a[href*="learnfk.com"])
+startpage.com##.w-gl .result:has(a[href*="learnfk.com"])
 ||codingdict.com^$all
-startpage.com##.w-gl__result:has(a[href*="codingdict.com"])
+startpage.com##.w-gl .result:has(a[href*="codingdict.com"])
 ||ajaxhispano.com^$all
-startpage.com##.w-gl__result:has(a[href*="ajaxhispano.com"])
+startpage.com##.w-gl .result:has(a[href*="ajaxhispano.com"])
 ||ask-dev.ru^$all
-startpage.com##.w-gl__result:has(a[href*="ask-dev.ru"])
+startpage.com##.w-gl .result:has(a[href*="ask-dev.ru"])
 ||i4k.xyz^$all
-startpage.com##.w-gl__result:has(a[href*="i4k.xyz"])
+startpage.com##.w-gl .result:has(a[href*="i4k.xyz"])
 ||yy123.ink^$all
-startpage.com##.w-gl__result:has(a[href*="yy123.ink"])
+startpage.com##.w-gl .result:has(a[href*="yy123.ink"])
 ||icode.best^$all
-startpage.com##.w-gl__result:has(a[href*="icode.best"])
+startpage.com##.w-gl .result:has(a[href*="icode.best"])
 ||igiftidea.com^$all
-startpage.com##.w-gl__result:has(a[href*="igiftidea.com"])
+startpage.com##.w-gl .result:has(a[href*="igiftidea.com"])
 ||csdn.net^$all
-startpage.com##.w-gl__result:has(a[href*="csdn.net"])
+startpage.com##.w-gl .result:has(a[href*="csdn.net"])
 ||yocker.com^$all
-startpage.com##.w-gl__result:has(a[href*="yocker.com"])
+startpage.com##.w-gl .result:has(a[href*="yocker.com"])
 ||955yes.com^$all
-startpage.com##.w-gl__result:has(a[href*="955yes.com"])
+startpage.com##.w-gl .result:has(a[href*="955yes.com"])
 ||dovov.com^$all
-startpage.com##.w-gl__result:has(a[href*="dovov.com"])
+startpage.com##.w-gl .result:has(a[href*="dovov.com"])
 ||dokry.com^$all
-startpage.com##.w-gl__result:has(a[href*="dokry.com"])
+startpage.com##.w-gl .result:has(a[href*="dokry.com"])
 ||codefordev.com^$all
-startpage.com##.w-gl__result:has(a[href*="codefordev.com"])
+startpage.com##.w-gl .result:has(a[href*="codefordev.com"])
 ||empires-r.us^$all
-startpage.com##.w-gl__result:has(a[href*="empires-r.us"])
+startpage.com##.w-gl .result:has(a[href*="empires-r.us"])
 ||answerspoint.com^$all
-startpage.com##.w-gl__result:has(a[href*="answerspoint.com"])
+startpage.com##.w-gl .result:has(a[href*="answerspoint.com"])
 ||devebee.com^$all
-startpage.com##.w-gl__result:has(a[href*="devebee.com"])
+startpage.com##.w-gl .result:has(a[href*="devebee.com"])
 ||w3codelab.com^$all
-startpage.com##.w-gl__result:has(a[href*="w3codelab.com"])
+startpage.com##.w-gl .result:has(a[href*="w3codelab.com"])
 ||flvrclothing.com^$all
-startpage.com##.w-gl__result:has(a[href*="flvrclothing.com"])
+startpage.com##.w-gl .result:has(a[href*="flvrclothing.com"])
 ||pyquestions.com^$all
-startpage.com##.w-gl__result:has(a[href*="pyquestions.com"])
+startpage.com##.w-gl .result:has(a[href*="pyquestions.com"])
 ||djcxy.com^$all
-startpage.com##.w-gl__result:has(a[href*="djcxy.com"])
+startpage.com##.w-gl .result:has(a[href*="djcxy.com"])
 ||python.engineering^$all
-startpage.com##.w-gl__result:has(a[href*="python.engineering"])
+startpage.com##.w-gl .result:has(a[href*="python.engineering"])
 ||it1352.com^$all
-startpage.com##.w-gl__result:has(a[href*="it1352.com"])
+startpage.com##.w-gl .result:has(a[href*="it1352.com"])
 ||adoclib.com^$all
-startpage.com##.w-gl__result:has(a[href*="adoclib.com"])
+startpage.com##.w-gl .result:has(a[href*="adoclib.com"])
 ||796t.com^$all
-startpage.com##.w-gl__result:has(a[href*="796t.com"])
+startpage.com##.w-gl .result:has(a[href*="796t.com"])
 ||invalidtype.com^$all
-startpage.com##.w-gl__result:has(a[href*="invalidtype.com"])
+startpage.com##.w-gl .result:has(a[href*="invalidtype.com"])
 ||string.quest^$all
-startpage.com##.w-gl__result:has(a[href*="string.quest"])
+startpage.com##.w-gl .result:has(a[href*="string.quest"])
 ||winmundo.com^$all
-startpage.com##.w-gl__result:has(a[href*="winmundo.com"])
+startpage.com##.w-gl .result:has(a[href*="winmundo.com"])
 ||questu.ru^$all
-startpage.com##.w-gl__result:has(a[href*="questu.ru"])
+startpage.com##.w-gl .result:has(a[href*="questu.ru"])
 ||querythreads.com^$all
-startpage.com##.w-gl__result:has(a[href*="querythreads.com"])
+startpage.com##.w-gl .result:has(a[href*="querythreads.com"])
 ||super-unix.com^$all
-startpage.com##.w-gl__result:has(a[href*="super-unix.com"])
+startpage.com##.w-gl .result:has(a[href*="super-unix.com"])
 ||twblogs.net^$all
-startpage.com##.w-gl__result:has(a[href*="twblogs.net"])
+startpage.com##.w-gl .result:has(a[href*="twblogs.net"])
 ||proanswers.org^$all
-startpage.com##.w-gl__result:has(a[href*="proanswers.org"])
+startpage.com##.w-gl .result:has(a[href*="proanswers.org"])
 ||programming-articles.com^$all
-startpage.com##.w-gl__result:has(a[href*="programming-articles.com"])
+startpage.com##.w-gl .result:has(a[href*="programming-articles.com"])
 ||edureka.co^$all
-startpage.com##.w-gl__result:has(a[href*="edureka.co"])
+startpage.com##.w-gl .result:has(a[href*="edureka.co"])
 ||w3toppers.com^$all
-startpage.com##.w-gl__result:has(a[href*="w3toppers.com"])
+startpage.com##.w-gl .result:has(a[href*="w3toppers.com"])
 ||e-learn.cn^$all
-startpage.com##.w-gl__result:has(a[href*="e-learn.cn"])
+startpage.com##.w-gl .result:has(a[href*="e-learn.cn"])
 ||qandeelacademy.com^$all
-startpage.com##.w-gl__result:has(a[href*="qandeelacademy.com"])
+startpage.com##.w-gl .result:has(a[href*="qandeelacademy.com"])
 ||learn-codes.net^$all
-startpage.com##.w-gl__result:has(a[href*="learn-codes.net"])
+startpage.com##.w-gl .result:has(a[href*="learn-codes.net"])
 ||dev-answers.com^$all
-startpage.com##.w-gl__result:has(a[href*="dev-answers.com"])
+startpage.com##.w-gl .result:has(a[href*="dev-answers.com"])
 ||code-error.com^$all
-startpage.com##.w-gl__result:has(a[href*="code-error.com"])
+startpage.com##.w-gl .result:has(a[href*="code-error.com"])
 ||doraprojects.net^$all
-startpage.com##.w-gl__result:has(a[href*="doraprojects.net"])
+startpage.com##.w-gl .result:has(a[href*="doraprojects.net"])
 ||wikitechy.com^$all
-startpage.com##.w-gl__result:has(a[href*="wikitechy.com"])
+startpage.com##.w-gl .result:has(a[href*="wikitechy.com"])
 ||rateye.tistory.com^$all
-startpage.com##.w-gl__result:has(a[href*="rateye.tistory.com"])
+startpage.com##.w-gl .result:has(a[href*="rateye.tistory.com"])
 ||codestyle.tistory.com^$all
-startpage.com##.w-gl__result:has(a[href*="codestyle.tistory.com"])
+startpage.com##.w-gl .result:has(a[href*="codestyle.tistory.com"])
 ||tracholar.top^$all
-startpage.com##.w-gl__result:has(a[href*="tracholar.top"])
+startpage.com##.w-gl .result:has(a[href*="tracholar.top"])
 ||hellojava.com^$all
-startpage.com##.w-gl__result:has(a[href*="hellojava.com"])
+startpage.com##.w-gl .result:has(a[href*="hellojava.com"])
 ||anyabs.com^$all
-startpage.com##.w-gl__result:has(a[href*="anyabs.com"])
+startpage.com##.w-gl .result:has(a[href*="anyabs.com"])
 ||askcodes.net^$all
-startpage.com##.w-gl__result:has(a[href*="askcodes.net"])
+startpage.com##.w-gl .result:has(a[href*="askcodes.net"])
 ||python2.net^$all
-startpage.com##.w-gl__result:has(a[href*="python2.net"])
+startpage.com##.w-gl .result:has(a[href*="python2.net"])
 ||so.muouseo.com^$all
-startpage.com##.w-gl__result:has(a[href*="so.muouseo.com"])
+startpage.com##.w-gl .result:has(a[href*="so.muouseo.com"])
 ||dailydevsblog.com^$all
-startpage.com##.w-gl__result:has(a[href*="dailydevsblog.com"])
+startpage.com##.w-gl .result:has(a[href*="dailydevsblog.com"])
 ||stackoverflowpoint.com^$all
-startpage.com##.w-gl__result:has(a[href*="stackoverflowpoint.com"])
+startpage.com##.w-gl .result:has(a[href*="stackoverflowpoint.com"])
 ||developerfacts.com^$all
-startpage.com##.w-gl__result:has(a[href*="developerfacts.com"])
+startpage.com##.w-gl .result:has(a[href*="developerfacts.com"])
 ||copyprogramming.com^$all
-startpage.com##.w-gl__result:has(a[href*="copyprogramming.com"])
+startpage.com##.w-gl .result:has(a[href*="copyprogramming.com"])
 ||coder.gay^$all
-startpage.com##.w-gl__result:has(a[href*="coder.gay"])
+startpage.com##.w-gl .result:has(a[href*="coder.gay"])
 ||codejzy.com^$all
-startpage.com##.w-gl__result:has(a[href*="codejzy.com"])
+startpage.com##.w-gl .result:has(a[href*="codejzy.com"])
 ||tutorialink.com^$all
-startpage.com##.w-gl__result:has(a[href*="tutorialink.com"])
+startpage.com##.w-gl .result:has(a[href*="tutorialink.com"])
 ||maxinterview.com^$all
-startpage.com##.w-gl__result:has(a[href*="maxinterview.com"])
+startpage.com##.w-gl .result:has(a[href*="maxinterview.com"])
 ||newdevzone.com^$all
-startpage.com##.w-gl__result:has(a[href*="newdevzone.com"])
+startpage.com##.w-gl .result:has(a[href*="newdevzone.com"])
 ||dirask.com^$all
-startpage.com##.w-gl__result:has(a[href*="dirask.com"])
+startpage.com##.w-gl .result:has(a[href*="dirask.com"])
 ||im-coder.com^$all
-startpage.com##.w-gl__result:has(a[href*="im-coder.com"])
+startpage.com##.w-gl .result:has(a[href*="im-coder.com"])
 ||contactform.dev^$all
-startpage.com##.w-gl__result:has(a[href*="contactform.dev"])
+startpage.com##.w-gl .result:has(a[href*="contactform.dev"])
 ||ciupacabra.com^$all
-startpage.com##.w-gl__result:has(a[href*="ciupacabra.com"])
+startpage.com##.w-gl .result:has(a[href*="ciupacabra.com"])
 ||bildiredi.com^$all
-startpage.com##.w-gl__result:has(a[href*="bildiredi.com"])
+startpage.com##.w-gl .result:has(a[href*="bildiredi.com"])
 ||donolik.com^$all
-startpage.com##.w-gl__result:has(a[href*="donolik.com"])
+startpage.com##.w-gl .result:has(a[href*="donolik.com"])
 ||sozdizimi.com^$all
-startpage.com##.w-gl__result:has(a[href*="sozdizimi.com"])
+startpage.com##.w-gl .result:has(a[href*="sozdizimi.com"])
 ||zapytay.com^$all
-startpage.com##.w-gl__result:has(a[href*="zapytay.com"])
+startpage.com##.w-gl .result:has(a[href*="zapytay.com"])
 ||while-do.com^$all
-startpage.com##.w-gl__result:has(a[href*="while-do.com"])
+startpage.com##.w-gl .result:has(a[href*="while-do.com"])
 ||it-swarm.net^$all
-startpage.com##.w-gl__result:has(a[href*="it-swarm.net"])
+startpage.com##.w-gl .result:has(a[href*="it-swarm.net"])
 ||it-swarm.dev^$all
-startpage.com##.w-gl__result:has(a[href*="it-swarm.dev"])
+startpage.com##.w-gl .result:has(a[href*="it-swarm.dev"])
 ||it-swarm.asia^$all
-startpage.com##.w-gl__result:has(a[href*="it-swarm.asia"])
+startpage.com##.w-gl .result:has(a[href*="it-swarm.asia"])
 ||it-swarm.xyz^$all
-startpage.com##.w-gl__result:has(a[href*="it-swarm.xyz"])
+startpage.com##.w-gl .result:has(a[href*="it-swarm.xyz"])
 ||develop-bugs.com^$all
-startpage.com##.w-gl__result:has(a[href*="develop-bugs.com"])
+startpage.com##.w-gl .result:has(a[href*="develop-bugs.com"])
 ||android.bigresource.com^$all
-startpage.com##.w-gl__result:has(a[href*="android.bigresource.com"])
+startpage.com##.w-gl .result:has(a[href*="android.bigresource.com"])
 ||code-paper.com^$all
-startpage.com##.w-gl__result:has(a[href*="code-paper.com"])
+startpage.com##.w-gl .result:has(a[href*="code-paper.com"])
 ||howtobuildsoftware.com^$all
-startpage.com##.w-gl__result:has(a[href*="howtobuildsoftware.com"])
+startpage.com##.w-gl .result:has(a[href*="howtobuildsoftware.com"])
 ||ittone.ma^$all
-startpage.com##.w-gl__result:has(a[href*="ittone.ma"])
+startpage.com##.w-gl .result:has(a[href*="ittone.ma"])
 ||spec-zone.ru^$all
-startpage.com##.w-gl__result:has(a[href*="spec-zone.ru"])
+startpage.com##.w-gl .result:has(a[href*="spec-zone.ru"])
 ||techinplanet.com^$all
-startpage.com##.w-gl__result:has(a[href*="techinplanet.com"])
+startpage.com##.w-gl .result:has(a[href*="techinplanet.com"])
 ||javascript.tutorialink.com^$all
-startpage.com##.w-gl__result:has(a[href*="javascript.tutorialink.com"])
+startpage.com##.w-gl .result:has(a[href*="javascript.tutorialink.com"])
 ||issuecloser.com^$all
-startpage.com##.w-gl__result:has(a[href*="issuecloser.com"])
+startpage.com##.w-gl .result:has(a[href*="issuecloser.com"])
 ||dizzycoding.com^$all
-startpage.com##.w-gl__result:has(a[href*="dizzycoding.com"])
+startpage.com##.w-gl .result:has(a[href*="dizzycoding.com"])
 ||grabthiscode.com^$all
-startpage.com##.w-gl__result:has(a[href*="grabthiscode.com"])
+startpage.com##.w-gl .result:has(a[href*="grabthiscode.com"])
 ||realerlab.blogspot.com^$all
-startpage.com##.w-gl__result:has(a[href*="realerlab.blogspot.com"])
+startpage.com##.w-gl .result:has(a[href*="realerlab.blogspot.com"])
 ||quickanswer.blog^$all
-startpage.com##.w-gl__result:has(a[href*="quickanswer.blog"])
+startpage.com##.w-gl .result:has(a[href*="quickanswer.blog"])
 ||webdesigntips.blog^$all
-startpage.com##.w-gl__result:has(a[href*="webdesigntips.blog"])
+startpage.com##.w-gl .result:has(a[href*="webdesigntips.blog"])
 ||joyk.com^$all
-startpage.com##.w-gl__result:has(a[href*="joyk.com"])
+startpage.com##.w-gl .result:has(a[href*="joyk.com"])
 ||gushiciku.cn^$all
-startpage.com##.w-gl__result:has(a[href*="gushiciku.cn"])
+startpage.com##.w-gl .result:has(a[href*="gushiciku.cn"])
 ||truecodes.net^$all
-startpage.com##.w-gl__result:has(a[href*="truecodes.net"])
+startpage.com##.w-gl .result:has(a[href*="truecodes.net"])
 ||errorsandanswers.com^$all
-startpage.com##.w-gl__result:has(a[href*="errorsandanswers.com"])
+startpage.com##.w-gl .result:has(a[href*="errorsandanswers.com"])
 ||boolchr.com^$all
-startpage.com##.w-gl__result:has(a[href*="boolchr.com"])
+startpage.com##.w-gl .result:has(a[href*="boolchr.com"])
 ||itnursery.com^$all
-startpage.com##.w-gl__result:has(a[href*="itnursery.com"])
+startpage.com##.w-gl .result:has(a[href*="itnursery.com"])
 ||libsea.com^$all
-startpage.com##.w-gl__result:has(a[href*="libsea.com"])
+startpage.com##.w-gl .result:has(a[href*="libsea.com"])
 ||telepon.cyou^$all
-startpage.com##.w-gl__result:has(a[href*="telepon.cyou"])
+startpage.com##.w-gl .result:has(a[href*="telepon.cyou"])
 ||madanswer.com^$all
-startpage.com##.w-gl__result:has(a[href*="madanswer.com"])
+startpage.com##.w-gl .result:has(a[href*="madanswer.com"])
 ||programmatic.solutions^$all
-startpage.com##.w-gl__result:has(a[href*="programmatic.solutions"])
+startpage.com##.w-gl .result:has(a[href*="programmatic.solutions"])
 ||facit.edu.br^$all
-startpage.com##.w-gl__result:has(a[href*="facit.edu.br"])
+startpage.com##.w-gl .result:has(a[href*="facit.edu.br"])
 ||technointeract.com^$all
-startpage.com##.w-gl__result:has(a[href*="technointeract.com"])
+startpage.com##.w-gl .result:has(a[href*="technointeract.com"])
 ||saca.aussievitamin.com^$all
-startpage.com##.w-gl__result:has(a[href*="saca.aussievitamin.com"])
+startpage.com##.w-gl .result:has(a[href*="saca.aussievitamin.com"])
 ||stackorigin.com^$all
-startpage.com##.w-gl__result:has(a[href*="stackorigin.com"])
+startpage.com##.w-gl .result:has(a[href*="stackorigin.com"])
 ||solutionschecker.com^$all
-startpage.com##.w-gl__result:has(a[href*="solutionschecker.com"])
+startpage.com##.w-gl .result:has(a[href*="solutionschecker.com"])
 ||oraask.com^$all
-startpage.com##.w-gl__result:has(a[href*="oraask.com"])
+startpage.com##.w-gl .result:has(a[href*="oraask.com"])
 ||yeahexp.com^$all
-startpage.com##.w-gl__result:has(a[href*="yeahexp.com"])
+startpage.com##.w-gl .result:has(a[href*="yeahexp.com"])
 ||fullstack.cafe^$all
-startpage.com##.w-gl__result:has(a[href*="fullstack.cafe"])
+startpage.com##.w-gl .result:has(a[href*="fullstack.cafe"])
 ||ansaurus.com^$all
-startpage.com##.w-gl__result:has(a[href*="ansaurus.com"])
+startpage.com##.w-gl .result:has(a[href*="ansaurus.com"])
 ||mars.railpage.com.au^$all
-startpage.com##.w-gl__result:has(a[href*="mars.railpage.com.au"])
+startpage.com##.w-gl .result:has(a[href*="mars.railpage.com.au"])
 ||wikifix.dev^$all
-startpage.com##.w-gl__result:has(a[href*="wikifix.dev"])
+startpage.com##.w-gl .result:has(a[href*="wikifix.dev"])
 ||aing.railpage.com.au^$all
-startpage.com##.w-gl__result:has(a[href*="aing.railpage.com.au"])
+startpage.com##.w-gl .result:has(a[href*="aing.railpage.com.au"])
 ||hrefcode.com^$all
-startpage.com##.w-gl__result:has(a[href*="hrefcode.com"])
+startpage.com##.w-gl .result:has(a[href*="hrefcode.com"])
 ||wyzant.com^$all
-startpage.com##.w-gl__result:has(a[href*="wyzant.com"])
+startpage.com##.w-gl .result:has(a[href*="wyzant.com"])
 ||fixpython.com^$all
-startpage.com##.w-gl__result:has(a[href*="fixpython.com"])
+startpage.com##.w-gl .result:has(a[href*="fixpython.com"])
 ||stackubuntu.com^$all
-startpage.com##.w-gl__result:has(a[href*="stackubuntu.com"])
+startpage.com##.w-gl .result:has(a[href*="stackubuntu.com"])
 ||coder.horje.com^$all
-startpage.com##.w-gl__result:has(a[href*="coder.horje.com"])
+startpage.com##.w-gl .result:has(a[href*="coder.horje.com"])
 ||lowongan.live^$all
-startpage.com##.w-gl__result:has(a[href*="lowongan.live"])
+startpage.com##.w-gl .result:has(a[href*="lowongan.live"])
 ||pythondict.com^$all
-startpage.com##.w-gl__result:has(a[href*="pythondict.com"])
+startpage.com##.w-gl .result:has(a[href*="pythondict.com"])
 ||hsmap.xyz^$all
-startpage.com##.w-gl__result:has(a[href*="hsmap.xyz"])
+startpage.com##.w-gl .result:has(a[href*="hsmap.xyz"])
 ||pythonmana.com^$all
-startpage.com##.w-gl__result:has(a[href*="pythonmana.com"])
+startpage.com##.w-gl .result:has(a[href*="pythonmana.com"])
 ||ittutorialpoint.com^$all
-startpage.com##.w-gl__result:has(a[href*="ittutorialpoint.com"])
+startpage.com##.w-gl .result:has(a[href*="ittutorialpoint.com"])
 ||qastack.lk^$all
-startpage.com##.w-gl__result:has(a[href*="qastack.lk"])
+startpage.com##.w-gl .result:has(a[href*="qastack.lk"])
 ||makemeengr.com^$all
-startpage.com##.w-gl__result:has(a[href*="makemeengr.com"])
+startpage.com##.w-gl .result:has(a[href*="makemeengr.com"])
 ||py4u.org^$all
-startpage.com##.w-gl__result:has(a[href*="py4u.org"])
+startpage.com##.w-gl .result:has(a[href*="py4u.org"])
 ||snippmate.com^$all
-startpage.com##.w-gl__result:has(a[href*="snippmate.com"])
+startpage.com##.w-gl .result:has(a[href*="snippmate.com"])
 ||oursbrand.com^$all
-startpage.com##.w-gl__result:has(a[href*="oursbrand.com"])
+startpage.com##.w-gl .result:has(a[href*="oursbrand.com"])
 ||rowcoding.com^$all
-startpage.com##.w-gl__result:has(a[href*="rowcoding.com"])
+startpage.com##.w-gl .result:has(a[href*="rowcoding.com"])
 ||kausalvikash.in^$all
-startpage.com##.w-gl__result:has(a[href*="kausalvikash.in"])
+startpage.com##.w-gl .result:has(a[href*="kausalvikash.in"])
 ||pythonhowto.org^$all
-startpage.com##.w-gl__result:has(a[href*="pythonhowto.org"])
+startpage.com##.w-gl .result:has(a[href*="pythonhowto.org"])
 ||getridbug.com^$all
-startpage.com##.w-gl__result:has(a[href*="getridbug.com"])
+startpage.com##.w-gl .result:has(a[href*="getridbug.com"])
 ||developerload.com^$all
-startpage.com##.w-gl__result:has(a[href*="developerload.com"])
+startpage.com##.w-gl .result:has(a[href*="developerload.com"])
 ||errors-solved.com^$all
-startpage.com##.w-gl__result:has(a[href*="errors-solved.com"])
+startpage.com##.w-gl .result:has(a[href*="errors-solved.com"])
 ||javaerrorfix.com^$all
-startpage.com##.w-gl__result:has(a[href*="javaerrorfix.com"])
+startpage.com##.w-gl .result:has(a[href*="javaerrorfix.com"])
 ||thiscodeworks.com^$all
-startpage.com##.w-gl__result:has(a[href*="thiscodeworks.com"])
+startpage.com##.w-gl .result:has(a[href*="thiscodeworks.com"])
 ||tfetimes.com^$all
-startpage.com##.w-gl__result:has(a[href*="tfetimes.com"])
+startpage.com##.w-gl .result:has(a[href*="tfetimes.com"])
 ||johndeerecreditpowerplan.com^$all
-startpage.com##.w-gl__result:has(a[href*="johndeerecreditpowerplan.com"])
+startpage.com##.w-gl .result:has(a[href*="johndeerecreditpowerplan.com"])
 ||sujeshanto.blogspot.com^$all
-startpage.com##.w-gl__result:has(a[href*="sujeshanto.blogspot.com"])
+startpage.com##.w-gl .result:has(a[href*="sujeshanto.blogspot.com"])
 ||answersfordevelopers.blogspot.com^$all
-startpage.com##.w-gl__result:has(a[href*="answersfordevelopers.blogspot.com"])
+startpage.com##.w-gl .result:has(a[href*="answersfordevelopers.blogspot.com"])
 ||ingrom.com^$all
-startpage.com##.w-gl__result:has(a[href*="ingrom.com"])
+startpage.com##.w-gl .result:has(a[href*="ingrom.com"])
 ||jtuto.com^$all
-startpage.com##.w-gl__result:has(a[href*="jtuto.com"])
+startpage.com##.w-gl .result:has(a[href*="jtuto.com"])
 ||notcrash.com^$all
-startpage.com##.w-gl__result:has(a[href*="notcrash.com"])
+startpage.com##.w-gl .result:has(a[href*="notcrash.com"])
 ||blogmepost.com^$all
-startpage.com##.w-gl__result:has(a[href*="blogmepost.com"])
+startpage.com##.w-gl .result:has(a[href*="blogmepost.com"])
 ||developerinsider.co^$all
-startpage.com##.w-gl__result:has(a[href*="developerinsider.co"])
+startpage.com##.w-gl .result:has(a[href*="developerinsider.co"])
 ||coded3.com^$all
-startpage.com##.w-gl__result:has(a[href*="coded3.com"])
+startpage.com##.w-gl .result:has(a[href*="coded3.com"])
 ||answerbun.com^$all
-startpage.com##.w-gl__result:has(a[href*="answerbun.com"])
+startpage.com##.w-gl .result:has(a[href*="answerbun.com"])
 ||coder-solution-ru.com^$all
-startpage.com##.w-gl__result:has(a[href*="coder-solution-ru.com"])
+startpage.com##.w-gl .result:has(a[href*="coder-solution-ru.com"])
 ||sevennet-blog.tumblr.com^$all
-startpage.com##.w-gl__result:has(a[href*="sevennet-blog.tumblr.com"])
+startpage.com##.w-gl .result:has(a[href*="sevennet-blog.tumblr.com"])
 ||stklowf.blogspot.com^$all
-startpage.com##.w-gl__result:has(a[href*="stklowf.blogspot.com"])
+startpage.com##.w-gl .result:has(a[href*="stklowf.blogspot.com"])
 ||91r.net^$all
-startpage.com##.w-gl__result:has(a[href*="91r.net"])
+startpage.com##.w-gl .result:has(a[href*="91r.net"])
 ||manongdao.com^$all
-startpage.com##.w-gl__result:has(a[href*="manongdao.com"])
+startpage.com##.w-gl .result:has(a[href*="manongdao.com"])
 ||prograide.com^$all
-startpage.com##.w-gl__result:has(a[href*="prograide.com"])
+startpage.com##.w-gl .result:has(a[href*="prograide.com"])
 ||iteramos.com^$all
-startpage.com##.w-gl__result:has(a[href*="iteramos.com"])
+startpage.com##.w-gl .result:has(a[href*="iteramos.com"])
 ||resultfor.dev^$all
-startpage.com##.w-gl__result:has(a[href*="resultfor.dev"])
+startpage.com##.w-gl .result:has(a[href*="resultfor.dev"])
 ||heavenlymutex.com^$all
-startpage.com##.w-gl__result:has(a[href*="heavenlymutex.com"])
+startpage.com##.w-gl .result:has(a[href*="heavenlymutex.com"])
 ||encodingcompiler.com^$all
-startpage.com##.w-gl__result:has(a[href*="encodingcompiler.com"])
+startpage.com##.w-gl .result:has(a[href*="encodingcompiler.com"])
 ||technoteshelp.com^$all
-startpage.com##.w-gl__result:has(a[href*="technoteshelp.com"])
+startpage.com##.w-gl .result:has(a[href*="technoteshelp.com"])
 ||bitcoden.com^$all
-startpage.com##.w-gl__result:has(a[href*="bitcoden.com"])
+startpage.com##.w-gl .result:has(a[href*="bitcoden.com"])
 ||devsfeed.com^$all
-startpage.com##.w-gl__result:has(a[href*="devsfeed.com"])
+startpage.com##.w-gl .result:has(a[href*="devsfeed.com"])
 ||stackoverline.cyou^$all
-startpage.com##.w-gl__result:has(a[href*="stackoverline.cyou"])
+startpage.com##.w-gl .result:has(a[href*="stackoverline.cyou"])
 ||extends.run^$all
-startpage.com##.w-gl__result:has(a[href*="extends.run"])
+startpage.com##.w-gl .result:has(a[href*="extends.run"])
 ||copyfuture.com^$all
-startpage.com##.w-gl__result:has(a[href*="copyfuture.com"])
+startpage.com##.w-gl .result:has(a[href*="copyfuture.com"])
 ||sharetechnotes.com^$all
-startpage.com##.w-gl__result:has(a[href*="sharetechnotes.com"])
+startpage.com##.w-gl .result:has(a[href*="sharetechnotes.com"])
 ||crex24.com^$all
-startpage.com##.w-gl__result:has(a[href*="crex24.com"])
+startpage.com##.w-gl .result:has(a[href*="crex24.com"])
 ||yakst.com^$all
-startpage.com##.w-gl__result:has(a[href*="yakst.com"])
+startpage.com##.w-gl .result:has(a[href*="yakst.com"])
 ||javascriptcn.com^$all
-startpage.com##.w-gl__result:has(a[href*="javascriptcn.com"])
+startpage.com##.w-gl .result:has(a[href*="javascriptcn.com"])
 ||antworten.top^$all
-startpage.com##.w-gl__result:has(a[href*="antworten.top"])
+startpage.com##.w-gl .result:has(a[href*="antworten.top"])
 ||narkive.fr^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.fr"])
+startpage.com##.w-gl .result:has(a[href*="narkive.fr"])
 ||narkive.com^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.com"])
+startpage.com##.w-gl .result:has(a[href*="narkive.com"])
 ||narkive.co.il^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.co.il"])
+startpage.com##.w-gl .result:has(a[href*="narkive.co.il"])
 ||narkive.it^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.it"])
+startpage.com##.w-gl .result:has(a[href*="narkive.it"])
 ||narkive.no^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.no"])
+startpage.com##.w-gl .result:has(a[href*="narkive.no"])
 ||narkive.se^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.se"])
+startpage.com##.w-gl .result:has(a[href*="narkive.se"])
 ||narkive.dk^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.dk"])
+startpage.com##.w-gl .result:has(a[href*="narkive.dk"])
 ||narkive.fi^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.fi"])
+startpage.com##.w-gl .result:has(a[href*="narkive.fi"])
 ||narkive.kr^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.kr"])
+startpage.com##.w-gl .result:has(a[href*="narkive.kr"])
 ||narkive.ee^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.ee"])
+startpage.com##.w-gl .result:has(a[href*="narkive.ee"])
 ||narkive.pl^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.pl"])
+startpage.com##.w-gl .result:has(a[href*="narkive.pl"])
 ||narkive.info.tr^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.info.tr"])
+startpage.com##.w-gl .result:has(a[href*="narkive.info.tr"])
 ||narkive.hr^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.hr"])
+startpage.com##.w-gl .result:has(a[href*="narkive.hr"])
 ||narkive.cz^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.cz"])
+startpage.com##.w-gl .result:has(a[href*="narkive.cz"])
 ||narkive.in^$all
-startpage.com##.w-gl__result:has(a[href*="narkive.in"])
+startpage.com##.w-gl .result:has(a[href*="narkive.in"])
 ||niceans.com^$all
-startpage.com##.w-gl__result:has(a[href*="niceans.com"])
+startpage.com##.w-gl .result:has(a[href*="niceans.com"])
 ||itecnotes.com^$all
-startpage.com##.w-gl__result:has(a[href*="itecnotes.com"])
+startpage.com##.w-gl .result:has(a[href*="itecnotes.com"])
 ||9to5answer.com^$all
-startpage.com##.w-gl__result:has(a[href*="9to5answer.com"])
+startpage.com##.w-gl .result:has(a[href*="9to5answer.com"])
 ||zditect.com^$all
-startpage.com##.w-gl__result:has(a[href*="zditect.com"])
+startpage.com##.w-gl .result:has(a[href*="zditect.com"])
 ||boxhoidap.com^$all
-startpage.com##.w-gl__result:has(a[href*="boxhoidap.com"])
+startpage.com##.w-gl .result:has(a[href*="boxhoidap.com"])
 ||mortgagefasr860.weebly.com^$all
-startpage.com##.w-gl__result:has(a[href*="mortgagefasr860.weebly.com"])
+startpage.com##.w-gl .result:has(a[href*="mortgagefasr860.weebly.com"])
 ||folkstalk.com^$all
-startpage.com##.w-gl__result:has(a[href*="folkstalk.com"])
+startpage.com##.w-gl .result:has(a[href*="folkstalk.com"])
 ||angularfixing.com^$all
-startpage.com##.w-gl__result:has(a[href*="angularfixing.com"])
+startpage.com##.w-gl .result:has(a[href*="angularfixing.com"])
 ||splunktool.com^$all
-startpage.com##.w-gl__result:has(a[href*="splunktool.com"])
+startpage.com##.w-gl .result:has(a[href*="splunktool.com"])
 ||addcodings.com^$all
-startpage.com##.w-gl__result:has(a[href*="addcodings.com"])
+startpage.com##.w-gl .result:has(a[href*="addcodings.com"])
 ||erg.tcta.com.au^$all
-startpage.com##.w-gl__result:has(a[href*="erg.tcta.com.au"])
+startpage.com##.w-gl .result:has(a[href*="erg.tcta.com.au"])
 ||quick-advisors.com^$all
-startpage.com##.w-gl__result:has(a[href*="quick-advisors.com"])
+startpage.com##.w-gl .result:has(a[href*="quick-advisors.com"])
 ||mulloverthing.com^$all
-startpage.com##.w-gl__result:has(a[href*="mulloverthing.com"])
+startpage.com##.w-gl .result:has(a[href*="mulloverthing.com"])
 ||linuxfixes.com^$all
-startpage.com##.w-gl__result:has(a[href*="linuxfixes.com"])
+startpage.com##.w-gl .result:has(a[href*="linuxfixes.com"])
 ||forumming.com^$all
-startpage.com##.w-gl__result:has(a[href*="forumming.com"])
+startpage.com##.w-gl .result:has(a[href*="forumming.com"])
 ||pullrequest.ru^$all
-startpage.com##.w-gl__result:has(a[href*="pullrequest.ru"])
+startpage.com##.w-gl .result:has(a[href*="pullrequest.ru"])
 ||lmlphp.com^$all
-startpage.com##.w-gl__result:has(a[href*="lmlphp.com"])
+startpage.com##.w-gl .result:has(a[href*="lmlphp.com"])
 ||w3guides.com^$all
-startpage.com##.w-gl__result:has(a[href*="w3guides.com"])
+startpage.com##.w-gl .result:has(a[href*="w3guides.com"])
 ||stackprinter.com^$all
-startpage.com##.w-gl__result:has(a[href*="stackprinter.com"])
+startpage.com##.w-gl .result:has(a[href*="stackprinter.com"])
 ||pnpsummit.com^$all
-startpage.com##.w-gl__result:has(a[href*="pnpsummit.com"])
+startpage.com##.w-gl .result:has(a[href*="pnpsummit.com"])
 ||breadybready.blogspot.com^$all
-startpage.com##.w-gl__result:has(a[href*="breadybready.blogspot.com"])
+startpage.com##.w-gl .result:has(a[href*="breadybready.blogspot.com"])
 ||itcodar.com^$all
-startpage.com##.w-gl__result:has(a[href*="itcodar.com"])
+startpage.com##.w-gl .result:has(a[href*="itcodar.com"])
 ||cplusplusbug.info^$all
-startpage.com##.w-gl__result:has(a[href*="cplusplusbug.info"])
+startpage.com##.w-gl .result:has(a[href*="cplusplusbug.info"])
 ||qiniu.com^$all
-startpage.com##.w-gl__result:has(a[href*="qiniu.com"])
+startpage.com##.w-gl .result:has(a[href*="qiniu.com"])
 ||answall.com^$all
-startpage.com##.w-gl__result:has(a[href*="answall.com"])
+startpage.com##.w-gl .result:has(a[href*="answall.com"])
 ||tagmerge.com^$all
-startpage.com##.w-gl__result:has(a[href*="tagmerge.com"])
+startpage.com##.w-gl .result:has(a[href*="tagmerge.com"])
 ||9to5science.com^$all
-startpage.com##.w-gl__result:has(a[href*="9to5science.com"])
+startpage.com##.w-gl .result:has(a[href*="9to5science.com"])
 ||find-error.com^$all
-startpage.com##.w-gl__result:has(a[href*="find-error.com"])
+startpage.com##.w-gl .result:has(a[href*="find-error.com"])
 ||whereismyanswer.com^$all
-startpage.com##.w-gl__result:has(a[href*="whereismyanswer.com"])
+startpage.com##.w-gl .result:has(a[href*="whereismyanswer.com"])
 ||lokasi.live^$all
-startpage.com##.w-gl__result:has(a[href*="lokasi.live"])
+startpage.com##.w-gl .result:has(a[href*="lokasi.live"])
 ||minggu.live^$all
-startpage.com##.w-gl__result:has(a[href*="minggu.live"])
+startpage.com##.w-gl .result:has(a[href*="minggu.live"])
 ||interface.pub^$all
-startpage.com##.w-gl__result:has(a[href*="interface.pub"])
+startpage.com##.w-gl .result:has(a[href*="interface.pub"])
 ||coolfire25.com^$all
-startpage.com##.w-gl__result:has(a[href*="coolfire25.com"])
+startpage.com##.w-gl .result:has(a[href*="coolfire25.com"])
 ||segmentfault.com^$all
-startpage.com##.w-gl__result:has(a[href*="segmentfault.com"])
+startpage.com##.w-gl .result:has(a[href*="segmentfault.com"])
 ||milk-it.net^$all
-startpage.com##.w-gl__result:has(a[href*="milk-it.net"])
+startpage.com##.w-gl .result:has(a[href*="milk-it.net"])
 ||hackerthink.com^$all
-startpage.com##.w-gl__result:has(a[href*="hackerthink.com"])
+startpage.com##.w-gl .result:has(a[href*="hackerthink.com"])
 ||gangofcoders.net^$all
-startpage.com##.w-gl__result:has(a[href*="gangofcoders.net"])
+startpage.com##.w-gl .result:has(a[href*="gangofcoders.net"])
 ||uvdos.com^$all
-startpage.com##.w-gl__result:has(a[href*="uvdos.com"])
+startpage.com##.w-gl .result:has(a[href*="uvdos.com"])
 ||code911.top^$all
-startpage.com##.w-gl__result:has(a[href*="code911.top"])
+startpage.com##.w-gl .result:has(a[href*="code911.top"])
 ||validsense.com^$all
-startpage.com##.w-gl__result:has(a[href*="validsense.com"])
+startpage.com##.w-gl .result:has(a[href*="validsense.com"])
 ||qexe.de^$all
-startpage.com##.w-gl__result:has(a[href*="qexe.de"])
+startpage.com##.w-gl .result:has(a[href*="qexe.de"])
 ||mykidq.com^$all
-startpage.com##.w-gl__result:has(a[href*="mykidq.com"])
+startpage.com##.w-gl .result:has(a[href*="mykidq.com"])

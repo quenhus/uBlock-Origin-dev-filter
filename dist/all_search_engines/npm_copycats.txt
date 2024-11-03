@@ -10,11 +10,11 @@
 google.*###rso .MjjYud a[href*="npmmirror.com"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="npmmirror.com"])
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
-startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
+startpage.com##.w-gl .result:has(a[href*="npmmirror.com"])
 ecosia.org###main .result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
 google.*###rso .MjjYud a[href*="cnpmjs.org"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="cnpmjs.org"])
 search.brave.com###results > div:has(a[href*="cnpmjs.org"])
-startpage.com##.w-gl__result:has(a[href*="cnpmjs.org"])
+startpage.com##.w-gl .result:has(a[href*="cnpmjs.org"])
 ecosia.org###main .result:has(a[href*="cnpmjs.org"])
