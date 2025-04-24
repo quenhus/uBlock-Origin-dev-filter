@@ -1,0 +1,86 @@
+! Title: uBlock-Origin-dev-filter – DuckDuckGo Lite – seo_spam
+! Expires: 1 day
+! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+||spiegato.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="spiegato.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||actingcollegeses.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="actingcollegeses.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||patrickkidd3.typepad.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="patrickkidd3.typepad.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||durrell2012.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="durrell2012.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||developpaper.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="developpaper.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||topcode.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="topcode.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||javascripttutorial.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="javascripttutorial.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||geekwall.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="geekwall.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||mailinglistapi.info^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="mailinglistapi.info"]):xpath(self::* | following-sibling::*[position() <= 3])
+||worldgrowthtoday.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="worldgrowthtoday.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||emailconverts.info^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="emailconverts.info"]):xpath(self::* | following-sibling::*[position() <= 3])
+||email-pro.info^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="email-pro.info"]):xpath(self::* | following-sibling::*[position() <= 3])
+||icode9.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="icode9.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||900913.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="900913.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||iditect.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="iditect.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||jqueryscript.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="jqueryscript.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||osqa.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="osqa.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codingwithfun.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codingwithfun.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codesprogram.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codesprogram.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||iqcode.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="iqcode.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||hum-berlin.de^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="hum-berlin.de"]):xpath(self::* | following-sibling::*[position() <= 3])
+||britguidenewyork.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="britguidenewyork.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||justshowcode.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="justshowcode.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||itw01.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="itw01.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codertw.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codertw.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||multi-let.co.uk^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="multi-let.co.uk"]):xpath(self::* | following-sibling::*[position() <= 3])
+||answerforyou.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="answerforyou.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||globalizethis.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="globalizethis.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||unbate.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="unbate.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ngontinh24.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ngontinh24.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||nmstep.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="nmstep.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||juicycleanses.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="juicycleanses.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||code-discuss.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="code-discuss.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||bong-faq.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bong-faq.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||suptitles.de^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="suptitles.de"]):xpath(self::* | following-sibling::*[position() <= 3])
+||brianlovin.com/hn$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="brianlovin.com/hn"]):xpath(self::* | following-sibling::*[position() <= 3])
+||plageroyale.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="plageroyale.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||thesassway.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="thesassway.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||azazworld.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="azazworld.com"]):xpath(self::* | following-sibling::*[position() <= 3])

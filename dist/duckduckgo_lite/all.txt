@@ -1,0 +1,1258 @@
+! Title: uBlock-Origin-dev-filter – DuckDuckGo Lite – Dev
+! Expires: 1 day
+! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+||bleepcoder.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bleepcoder.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||githubja.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="githubja.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||giters.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="giters.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||githubmemory.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="githubmemory.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wenyanet.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wenyanet.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||issueexplorer.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="issueexplorer.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||opensourcelibs.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="opensourcelibs.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||awesomeopensource.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="awesomeopensource.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||findbestopensource.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="findbestopensource.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||githubhelp.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="githubhelp.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pythonissues.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pythonissues.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||golangrepo.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="golangrepo.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||gitmemory.cn^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="gitmemory.cn"]):xpath(self::* | following-sibling::*[position() <= 3])
+||githubmate.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="githubmate.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||reposhub.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="reposhub.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||gitanswer.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="gitanswer.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||githubplus.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="githubplus.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pythonrepo.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pythonrepo.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||bestofcpp.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bestofcpp.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||github.innominds.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="github.innominds.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||higithub.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="higithub.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||golangissues.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="golangissues.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||gitfreak.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="gitfreak.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pythonawesome.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pythonawesome.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||gitmotion.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="gitmotion.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||fantashit.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="fantashit.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||gitcode.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="gitcode.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||news24lite.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="news24lite.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||github.phala.one^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="github.phala.one"]):xpath(self::* | following-sibling::*[position() <= 3])
+||google-yandex.info^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="google-yandex.info"]):xpath(self::* | following-sibling::*[position() <= 3])
+||coder.social^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="coder.social"]):xpath(self::* | following-sibling::*[position() <= 3])
+||javarepos.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="javarepos.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||fastgit.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="fastgit.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||gitmetadata.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="gitmetadata.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||iboxshare.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="iboxshare.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||fuscin.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="fuscin.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||bestofvue.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bestofvue.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||swiftobc.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="swiftobc.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||flutterrepos.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="flutterrepos.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||androidrepo.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="androidrepo.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||bestofflutter.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bestofflutter.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||jsrepos.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="jsrepos.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||macosrepo.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="macosrepo.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||zzun.app^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="zzun.app"]):xpath(self::* | following-sibling::*[position() <= 3])
+||rustrepo.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="rustrepo.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||bestofreactjs.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bestofreactjs.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||bestofphp.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bestofphp.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||softbranchdevelopers.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="softbranchdevelopers.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||issueantenna.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="issueantenna.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pythonlang.dev^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pythonlang.dev"]):xpath(self::* | following-sibling::*[position() <= 3])
+||githublab.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="githublab.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||libhunt.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="libhunt.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||andywarholpopartillustration.blogspot.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="andywarholpopartillustration.blogspot.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||bytemeta.vip^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bytemeta.vip"]):xpath(self::* | following-sibling::*[position() <= 3])
+||editcode.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="editcode.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||golangexample.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="golangexample.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||github.astrophel.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="github.astrophel.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||gitdetail.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="gitdetail.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codespots.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codespots.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||issuemode.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="issuemode.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||issuehint.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="issuehint.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||rpkg.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="rpkg.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||geeksrepos.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="geeksrepos.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||lightrun.com/answers$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="lightrun.com/answers"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pullanswer.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pullanswer.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||devpick.io^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="devpick.io"]):xpath(self::* | following-sibling::*[position() <= 3])
+||opensourceagenda.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="opensourceagenda.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||gitmemories.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="gitmemories.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikimili.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikimili.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||newworldencyclopedia.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="newworldencyclopedia.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||bestproduct-review.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bestproduct-review.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||citizendium.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="citizendium.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codesti.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codesti.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pythontechworld.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pythontechworld.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||web.bluecomtech.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="web.bluecomtech.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||rat.dev^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="rat.dev"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codemonkey.link^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codemonkey.link"]):xpath(self::* | following-sibling::*[position() <= 3])
+||giterhub.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="giterhub.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||githubissues.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="githubissues.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||githubrecord.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="githubrecord.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackovercoder.com.de^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackovercoder.com.de"]):xpath(self::* | following-sibling::*[position() <= 3])
+||git.histb.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="git.histb.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||bleepingcoder.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bleepingcoder.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||devdoc.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="devdoc.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||linux-packages.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="linux-packages.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||rst24plus.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="rst24plus.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||rarswi.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="rarswi.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||opineals.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="opineals.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||npmmirror.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="npmmirror.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||cnpmjs.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="cnpmjs.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||code-examples.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="code-examples.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||kotaeta.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="kotaeta.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||answer-id.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="answer-id.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||code.i-harness.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="code.i-harness.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||living-sun.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="living-sun.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.jp^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.jp"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.it^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.it"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.mx^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.mx"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.com.br^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.com.br"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.info.tr^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.info.tr"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.in.th^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.in.th"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.com.de^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.com.de"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.fr^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.fr"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.cn^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.cn"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.com.ua^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.com.ua"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.co.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.co.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.kr^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.kr"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.vn^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.vn"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.net.bd^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.net.bd"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qa-stack.pl^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qa-stack.pl"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.id^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.id"]):xpath(self::* | following-sibling::*[position() <= 3])
+||coder.work^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="coder.work"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it-swarm-ja.tech^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it-swarm-ja.tech"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it-swarm.jp.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it-swarm.jp.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it-mure.jp.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it-mure.jp.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it-swarm-ja.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it-swarm-ja.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it-swarm.com.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it-swarm.com.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it-swarm-fr.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it-swarm-fr.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codeflow.site^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codeflow.site"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codeguides.site^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codeguides.site"]):xpath(self::* | following-sibling::*[position() <= 3])
+||overcoder.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="overcoder.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||coderoad.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="coderoad.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||generacodice.blog^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="generacodice.blog"]):xpath(self::* | following-sibling::*[position() <= 3])
+||generacodice.it^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="generacodice.it"]):xpath(self::* | following-sibling::*[position() <= 3])
+||generacodice.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="generacodice.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||javaer101.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="javaer101.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||voidcc.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="voidcc.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||siwib.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="siwib.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||fluffyfables.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="fluffyfables.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||fixes.pub^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="fixes.pub"]):xpath(self::* | following-sibling::*[position() <= 3])
+||knews.vip^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="knews.vip"]):xpath(self::* | following-sibling::*[position() <= 3])
+||isolution.pro^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="isolution.pro"]):xpath(self::* | following-sibling::*[position() <= 3])
+||uwenku.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="uwenku.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||lycaeum.dev^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="lycaeum.dev"]):xpath(self::* | following-sibling::*[position() <= 3])
+||brocante.dev^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="brocante.dev"]):xpath(self::* | following-sibling::*[position() <= 3])
+||classmethod.dev^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="classmethod.dev"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stormcrow.dev^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stormcrow.dev"]):xpath(self::* | following-sibling::*[position() <= 3])
+||athabasca-foto.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="athabasca-foto.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||zsharp.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="zsharp.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||projectbackpack.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="projectbackpack.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||waymanamechurch.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="waymanamechurch.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||sunflowercreations.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="sunflowercreations.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||cfadnc.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="cfadnc.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||fitforlearning.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="fitforlearning.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||panaindustrial.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="panaindustrial.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||sierrasummit2005.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="sierrasummit2005.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||theshuggahpies.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="theshuggahpies.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pcbconline.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pcbconline.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||nuomiphp.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="nuomiphp.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ubuntu.buildwebhost.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ubuntu.buildwebhost.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ubuntuaa.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ubuntuaa.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||debugcn.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="debugcn.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||sch22.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="sch22.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||gupgallery.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="gupgallery.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||amuddycup.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="amuddycup.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ecnf2016.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ecnf2016.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||softwareuser.asklobster.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="softwareuser.asklobster.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||domainelespailles.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="domainelespailles.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ec-europe.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ec-europe.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pakostnici.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pakostnici.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||try2explore.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="try2explore.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||laravelquestions.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="laravelquestions.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||itectec.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="itectec.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackovergo.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackovergo.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||faithcov.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="faithcov.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||noblenaz.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="noblenaz.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||py4u.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="py4u.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||culinarydegree.info^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="culinarydegree.info"]):xpath(self::* | following-sibling::*[position() <= 3])
+||safehavenpetrescue.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="safehavenpetrescue.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qapicks.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qapicks.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||issues-world.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="issues-world.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.jp^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.jp"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ourladylakes.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ourladylakes.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||intellipaat.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="intellipaat.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||article.docway.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="article.docway.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||xiu2.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="xiu2.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codehero.jp^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codehero.jp"]):xpath(self::* | following-sibling::*[position() <= 3])
+||quabr.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="quabr.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||webdevqa.jp.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="webdevqa.jp.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||exceptionshub.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="exceptionshub.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||newbedev.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="newbedev.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codenong.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codenong.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||cainiaojiaocheng.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="cainiaojiaocheng.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||routinepanic.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="routinepanic.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pythonwd.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pythonwd.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||tutorialmore.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="tutorialmore.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||alwaysemmyhope.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="alwaysemmyhope.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pretagteam.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pretagteam.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||titanwolf.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="titanwolf.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||coderedirect.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="coderedirect.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ostack.cn^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ostack.cn"]):xpath(self::* | following-sibling::*[position() <= 3])
+||easysavecode.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="easysavecode.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||webdevdesigner.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="webdevdesigner.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ghcc.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ghcc.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||developreference.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="developreference.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||semicolonworld.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="semicolonworld.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||tipsfordev.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="tipsfordev.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qi-u.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qi-u.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackqna.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackqna.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||xsprogram.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="xsprogram.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackoom.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackoom.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||christfever.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="christfever.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codersatellite.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codersatellite.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||cndgn.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="cndgn.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||coredump.biz^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="coredump.biz"]):xpath(self::* | following-sibling::*[position() <= 3])
+||farath.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="farath.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||devbugfix.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="devbugfix.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||tech.wayne-chu.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="tech.wayne-chu.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackify.dev^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackify.dev"]):xpath(self::* | following-sibling::*[position() <= 3])
+||webknox.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="webknox.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackfinder.jp.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackfinder.jp.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||coder-solution-jp.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="coder-solution-jp.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||jpndev.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="jpndev.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||uebu-kaihatsu.jp.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="uebu-kaihatsu.jp.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||sqlite.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="sqlite.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackguides.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackguides.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||younggeeks.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="younggeeks.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||answerlib.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="answerlib.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||edupro.id^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="edupro.id"]):xpath(self::* | following-sibling::*[position() <= 3])
+||python-stack.de^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="python-stack.de"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackfinder.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackfinder.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackfault.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackfault.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||howtofix.io^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="howtofix.io"]):xpath(self::* | following-sibling::*[position() <= 3])
+||buzzphp.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="buzzphp.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||desenv-web-rp.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="desenv-web-rp.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||askdev.vn^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="askdev.vn"]):xpath(self::* | following-sibling::*[position() <= 3])
+||quares.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="quares.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||examplefiles.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="examplefiles.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codewdw.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codewdw.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||jpcodeqa.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="jpcodeqa.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||tutorialguruji.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="tutorialguruji.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||justshowmethecode.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="justshowmethecode.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it-roy-ru.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it-roy-ru.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||jscodetips.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="jscodetips.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||5axxw.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="5axxw.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||question-it.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="question-it.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||webmonkez.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="webmonkez.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ibootweb.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ibootweb.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codefaq.info^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codefaq.info"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codefaq.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codefaq.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||mediatagtw.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="mediatagtw.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||alltodev.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="alltodev.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||progi.pro^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="progi.pro"]):xpath(self::* | following-sibling::*[position() <= 3])
+||jike.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="jike.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||web-dev-qa.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="web-dev-qa.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||elfishgene.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="elfishgene.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||dapper-tutorial.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="dapper-tutorial.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||cmsdk.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="cmsdk.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ask-ubuntu.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ask-ubuntu.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||askubuntu.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="askubuntu.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||kompsekret.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="kompsekret.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ohandroid.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ohandroid.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||poweruser.guru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="poweruser.guru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ruphp.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ruphp.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||server-fault.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="server-fault.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||sprosi.pro^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="sprosi.pro"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackru.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackru.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||switch-case.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="switch-case.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ubuntugeeks.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ubuntugeeks.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ubuntuplace.info^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ubuntuplace.info"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikiroot.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikiroot.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||sysadminde.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="sysadminde.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||askdev.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="askdev.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qarchive.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qarchive.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qarus.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qarus.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||recalll.co^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="recalll.co"]):xpath(self::* | following-sibling::*[position() <= 3])
+||soinside.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="soinside.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackanswers.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackanswers.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackoverflood.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackoverflood.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||switch-case.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="switch-case.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||techarks.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="techarks.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||techfeed.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="techfeed.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||thinbug.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="thinbug.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||utyatnishna.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="utyatnishna.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||v-resheno.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="v-resheno.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||web-answers.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="web-answers.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||xszz.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="xszz.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ylhow.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ylhow.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||yuanmacha.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="yuanmacha.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qa.1r1g.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qa.1r1g.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it-swarm.com.de^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it-swarm.com.de"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it-swarm-es.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it-swarm-es.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||legkovopros.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="legkovopros.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||mlink.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="mlink.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||mlog.club^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="mlog.club"]):xpath(self::* | following-sibling::*[position() <= 3])
+||overcoder.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="overcoder.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||prog-help.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="prog-help.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qa-help.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qa-help.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||devfaq.fr^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="devfaq.fr"]):xpath(self::* | following-sibling::*[position() <= 3])
+||extutorial.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="extutorial.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||fooobar.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="fooobar.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||husl.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="husl.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||answacode.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="answacode.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||answeright.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="answeright.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codegear.dev^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codegear.dev"]):xpath(self::* | following-sibling::*[position() <= 3])
+||bilee.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bilee.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||askvoprosy.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="askvoprosy.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||de.askdev.info^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="de.askdev.info"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codeindex.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codeindex.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codengineering.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codengineering.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||coderoad.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="coderoad.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||coderquestion.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="coderquestion.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||dogovori.info^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="dogovori.info"]):xpath(self::* | following-sibling::*[position() <= 3])
+||itecnote.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="itecnote.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||askcodez.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="askcodez.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||bootpanic.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bootpanic.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||askentire.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="askentire.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||de-vraag.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="de-vraag.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qacode.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qacode.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||sobrelinux.info^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="sobrelinux.info"]):xpath(self::* | following-sibling::*[position() <= 3])
+||askfrance.me^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="askfrance.me"]):xpath(self::* | following-sibling::*[position() <= 3])
+||respuestas.me^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="respuestas.me"]):xpath(self::* | following-sibling::*[position() <= 3])
+||antwortenhier.me^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="antwortenhier.me"]):xpath(self::* | following-sibling::*[position() <= 3])
+||proubuntu.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="proubuntu.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||over.wiki^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="over.wiki"]):xpath(self::* | following-sibling::*[position() <= 3])
+||debiantutorials.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="debiantutorials.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||grokbase.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="grokbase.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wp-qa.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wp-qa.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codegrepper.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codegrepper.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||programmierfrage.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="programmierfrage.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||microeducate.tech^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="microeducate.tech"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ringingliberty.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ringingliberty.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||askandroidquestions.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="askandroidquestions.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||tutorialmeta.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="tutorialmeta.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||helpex.vn^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="helpex.vn"]):xpath(self::* | following-sibling::*[position() <= 3])
+||techtalk7.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="techtalk7.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||serveanswer.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="serveanswer.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||solveforums.msomimaktaba.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="solveforums.msomimaktaba.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||vuejscode.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="vuejscode.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pythonshowcase.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pythonshowcase.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codeutility.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codeutility.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||reactquestions.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="reactquestions.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||dockerquestions.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="dockerquestions.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||angularquestions.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="angularquestions.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pythonfixing.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pythonfixing.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackallflow.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackallflow.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||nxtstage.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="nxtstage.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||intelligentsystemsmonitoring.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="intelligentsystemsmonitoring.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||localcoder.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="localcoder.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||rotadev.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="rotadev.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||errorsfixing.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="errorsfixing.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||catwolf.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="catwolf.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||configrouter.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="configrouter.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||akuum.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="akuum.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||readforlearn.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="readforlearn.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codehunter.cc^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codehunter.cc"]):xpath(self::* | following-sibling::*[position() <= 3])
+||levitrares.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="levitrares.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||graef.io^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="graef.io"]):xpath(self::* | following-sibling::*[position() <= 3])
+||syntaxfix.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="syntaxfix.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ourpython.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ourpython.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||vigges.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="vigges.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||exchangetuts.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="exchangetuts.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||fullstackuser.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="fullstackuser.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||dtuto.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="dtuto.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||w3coded.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="w3coded.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||thelivingtrove.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="thelivingtrove.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ti-enxame.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ti-enxame.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||desenv-web-rp-bd.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="desenv-web-rp-bd.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||web-dev-qa-db-pt.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="web-dev-qa-db-pt.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||tra-loi-cau-hoi-phat-trien-web.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="tra-loi-cau-hoi-phat-trien-web.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||suttonedfoundation.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="suttonedfoundation.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||tousu.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="tousu.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||itdaan.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="itdaan.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||itranslater.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="itranslater.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||software-testing.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="software-testing.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||itbaoku.cn^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="itbaoku.cn"]):xpath(self::* | following-sibling::*[position() <= 3])
+||nibes.cn^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="nibes.cn"]):xpath(self::* | following-sibling::*[position() <= 3])
+||devqanda.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="devqanda.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||sargon24.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="sargon24.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||javafixing.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="javafixing.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||catchconsole.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="catchconsole.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||icopy.site^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="icopy.site"]):xpath(self::* | following-sibling::*[position() <= 3])
+||frameboxxindore.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="frameboxxindore.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qa.wujigu.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qa.wujigu.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||shenzhenjia.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="shenzhenjia.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ogeek.cn^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ogeek.cn"]):xpath(self::* | following-sibling::*[position() <= 3])
+||devdreamz.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="devdreamz.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||imtqy.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="imtqy.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||idqna.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="idqna.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||peaku.co^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="peaku.co"]):xpath(self::* | following-sibling::*[position() <= 3])
+||javawenti.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="javawenti.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||runexception.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="runexception.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ebestcode.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ebestcode.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||likecs.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="likecs.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||solveforum.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="solveforum.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codetd.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codetd.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||anycodings.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="anycodings.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||overstack.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="overstack.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||jonic.cn^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="jonic.cn"]):xpath(self::* | following-sibling::*[position() <= 3])
+||devasking.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="devasking.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||askdevz.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="askdevz.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||cans.pro^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="cans.pro"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ddcode.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ddcode.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||w3programmers.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="w3programmers.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||faqcode4u.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="faqcode4u.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||studytonight.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="studytonight.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||chowdera.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="chowdera.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||faqcodes.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="faqcodes.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||thecodeteacher.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="thecodeteacher.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||devtip.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="devtip.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||duoduokou.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="duoduokou.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||appsloveworld.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="appsloveworld.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||learnfk.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="learnfk.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codingdict.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codingdict.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ajaxhispano.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ajaxhispano.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ask-dev.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ask-dev.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||i4k.xyz^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="i4k.xyz"]):xpath(self::* | following-sibling::*[position() <= 3])
+||yy123.ink^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="yy123.ink"]):xpath(self::* | following-sibling::*[position() <= 3])
+||icode.best^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="icode.best"]):xpath(self::* | following-sibling::*[position() <= 3])
+||igiftidea.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="igiftidea.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||csdn.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="csdn.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||yocker.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="yocker.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||955yes.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="955yes.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||dovov.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="dovov.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||dokry.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="dokry.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codefordev.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codefordev.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||empires-r.us^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="empires-r.us"]):xpath(self::* | following-sibling::*[position() <= 3])
+||answerspoint.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="answerspoint.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||devebee.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="devebee.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||w3codelab.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="w3codelab.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||flvrclothing.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="flvrclothing.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pyquestions.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pyquestions.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||djcxy.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="djcxy.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||python.engineering^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="python.engineering"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it1352.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it1352.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||adoclib.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="adoclib.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||796t.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="796t.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||invalidtype.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="invalidtype.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||string.quest^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="string.quest"]):xpath(self::* | following-sibling::*[position() <= 3])
+||winmundo.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="winmundo.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||questu.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="questu.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||querythreads.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="querythreads.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||super-unix.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="super-unix.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||twblogs.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="twblogs.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||proanswers.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="proanswers.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||programming-articles.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="programming-articles.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||edureka.co^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="edureka.co"]):xpath(self::* | following-sibling::*[position() <= 3])
+||w3toppers.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="w3toppers.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||e-learn.cn^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="e-learn.cn"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qandeelacademy.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qandeelacademy.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||learn-codes.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="learn-codes.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||dev-answers.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="dev-answers.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||code-error.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="code-error.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||doraprojects.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="doraprojects.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikitechy.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikitechy.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||rateye.tistory.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="rateye.tistory.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codestyle.tistory.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codestyle.tistory.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||tracholar.top^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="tracholar.top"]):xpath(self::* | following-sibling::*[position() <= 3])
+||hellojava.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="hellojava.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||anyabs.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="anyabs.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||askcodes.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="askcodes.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||python2.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="python2.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||so.muouseo.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="so.muouseo.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||dailydevsblog.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="dailydevsblog.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackoverflowpoint.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackoverflowpoint.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||developerfacts.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="developerfacts.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||copyprogramming.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="copyprogramming.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||coder.gay^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="coder.gay"]):xpath(self::* | following-sibling::*[position() <= 3])
+||codejzy.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="codejzy.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||tutorialink.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="tutorialink.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||maxinterview.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="maxinterview.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||newdevzone.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="newdevzone.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||dirask.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="dirask.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||im-coder.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="im-coder.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||contactform.dev^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="contactform.dev"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ciupacabra.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ciupacabra.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||bildiredi.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bildiredi.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||donolik.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="donolik.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||sozdizimi.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="sozdizimi.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||zapytay.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="zapytay.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||while-do.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="while-do.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it-swarm.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it-swarm.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it-swarm.dev^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it-swarm.dev"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it-swarm.asia^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it-swarm.asia"]):xpath(self::* | following-sibling::*[position() <= 3])
+||it-swarm.xyz^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="it-swarm.xyz"]):xpath(self::* | following-sibling::*[position() <= 3])
+||develop-bugs.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="develop-bugs.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||android.bigresource.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="android.bigresource.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||code-paper.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="code-paper.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||howtobuildsoftware.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="howtobuildsoftware.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ittone.ma^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ittone.ma"]):xpath(self::* | following-sibling::*[position() <= 3])
+||spec-zone.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="spec-zone.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||techinplanet.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="techinplanet.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||javascript.tutorialink.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="javascript.tutorialink.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||issuecloser.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="issuecloser.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||dizzycoding.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="dizzycoding.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||grabthiscode.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="grabthiscode.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||realerlab.blogspot.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="realerlab.blogspot.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||quickanswer.blog^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="quickanswer.blog"]):xpath(self::* | following-sibling::*[position() <= 3])
+||webdesigntips.blog^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="webdesigntips.blog"]):xpath(self::* | following-sibling::*[position() <= 3])
+||joyk.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="joyk.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||gushiciku.cn^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="gushiciku.cn"]):xpath(self::* | following-sibling::*[position() <= 3])
+||truecodes.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="truecodes.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||errorsandanswers.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="errorsandanswers.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||boolchr.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="boolchr.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||itnursery.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="itnursery.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||libsea.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="libsea.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||telepon.cyou^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="telepon.cyou"]):xpath(self::* | following-sibling::*[position() <= 3])
+||madanswer.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="madanswer.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||programmatic.solutions^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="programmatic.solutions"]):xpath(self::* | following-sibling::*[position() <= 3])
+||facit.edu.br^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="facit.edu.br"]):xpath(self::* | following-sibling::*[position() <= 3])
+||technointeract.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="technointeract.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||saca.aussievitamin.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="saca.aussievitamin.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackorigin.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackorigin.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||solutionschecker.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="solutionschecker.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||oraask.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="oraask.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||yeahexp.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="yeahexp.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||fullstack.cafe^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="fullstack.cafe"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ansaurus.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ansaurus.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||mars.railpage.com.au^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="mars.railpage.com.au"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikifix.dev^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikifix.dev"]):xpath(self::* | following-sibling::*[position() <= 3])
+||aing.railpage.com.au^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="aing.railpage.com.au"]):xpath(self::* | following-sibling::*[position() <= 3])
+||hrefcode.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="hrefcode.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wyzant.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wyzant.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||fixpython.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="fixpython.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackubuntu.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackubuntu.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||coder.horje.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="coder.horje.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||lowongan.live^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="lowongan.live"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pythondict.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pythondict.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||hsmap.xyz^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="hsmap.xyz"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pythonmana.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pythonmana.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ittutorialpoint.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ittutorialpoint.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qastack.lk^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qastack.lk"]):xpath(self::* | following-sibling::*[position() <= 3])
+||makemeengr.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="makemeengr.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||py4u.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="py4u.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||snippmate.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="snippmate.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||oursbrand.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="oursbrand.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||rowcoding.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="rowcoding.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||kausalvikash.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="kausalvikash.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pythonhowto.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pythonhowto.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||getridbug.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="getridbug.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||developerload.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="developerload.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||errors-solved.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="errors-solved.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||javaerrorfix.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="javaerrorfix.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||thiscodeworks.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="thiscodeworks.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||tfetimes.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="tfetimes.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||johndeerecreditpowerplan.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="johndeerecreditpowerplan.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||sujeshanto.blogspot.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="sujeshanto.blogspot.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||answersfordevelopers.blogspot.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="answersfordevelopers.blogspot.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ingrom.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ingrom.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||jtuto.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="jtuto.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||notcrash.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="notcrash.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||blogmepost.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="blogmepost.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||developerinsider.co^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="developerinsider.co"]):xpath(self::* | following-sibling::*[position() <= 3])
+||coded3.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="coded3.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||answerbun.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="answerbun.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||coder-solution-ru.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="coder-solution-ru.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||sevennet-blog.tumblr.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="sevennet-blog.tumblr.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stklowf.blogspot.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stklowf.blogspot.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||91r.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="91r.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||manongdao.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="manongdao.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||prograide.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="prograide.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||iteramos.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="iteramos.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||resultfor.dev^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="resultfor.dev"]):xpath(self::* | following-sibling::*[position() <= 3])
+||heavenlymutex.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="heavenlymutex.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||encodingcompiler.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="encodingcompiler.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||technoteshelp.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="technoteshelp.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||bitcoden.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="bitcoden.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||devsfeed.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="devsfeed.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackoverline.cyou^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackoverline.cyou"]):xpath(self::* | following-sibling::*[position() <= 3])
+||extends.run^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="extends.run"]):xpath(self::* | following-sibling::*[position() <= 3])
+||copyfuture.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="copyfuture.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||sharetechnotes.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="sharetechnotes.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||crex24.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="crex24.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||yakst.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="yakst.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||javascriptcn.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="javascriptcn.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||antworten.top^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="antworten.top"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.fr^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.fr"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.co.il^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.co.il"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.it^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.it"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.no^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.no"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.se^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.se"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.dk^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.dk"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.fi^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.fi"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.kr^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.kr"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.ee^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.ee"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.pl^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.pl"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.info.tr^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.info.tr"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.hr^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.hr"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.cz^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.cz"]):xpath(self::* | following-sibling::*[position() <= 3])
+||narkive.in^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="narkive.in"]):xpath(self::* | following-sibling::*[position() <= 3])
+||niceans.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="niceans.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||itecnotes.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="itecnotes.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||9to5answer.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="9to5answer.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||zditect.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="zditect.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||boxhoidap.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="boxhoidap.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||mortgagefasr860.weebly.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="mortgagefasr860.weebly.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||folkstalk.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="folkstalk.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||angularfixing.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="angularfixing.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||splunktool.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="splunktool.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||addcodings.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="addcodings.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||erg.tcta.com.au^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="erg.tcta.com.au"]):xpath(self::* | following-sibling::*[position() <= 3])
+||quick-advisors.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="quick-advisors.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||mulloverthing.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="mulloverthing.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||linuxfixes.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="linuxfixes.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||forumming.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="forumming.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pullrequest.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pullrequest.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||lmlphp.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="lmlphp.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||w3guides.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="w3guides.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||stackprinter.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="stackprinter.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||pnpsummit.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="pnpsummit.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||breadybready.blogspot.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="breadybready.blogspot.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||itcodar.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="itcodar.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||cplusplusbug.info^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="cplusplusbug.info"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qiniu.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qiniu.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||answall.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="answall.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||tagmerge.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="tagmerge.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||9to5science.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="9to5science.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||find-error.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="find-error.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||whereismyanswer.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="whereismyanswer.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||lokasi.live^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="lokasi.live"]):xpath(self::* | following-sibling::*[position() <= 3])
+||minggu.live^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="minggu.live"]):xpath(self::* | following-sibling::*[position() <= 3])
+||interface.pub^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="interface.pub"]):xpath(self::* | following-sibling::*[position() <= 3])
+||coolfire25.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="coolfire25.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||segmentfault.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="segmentfault.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||milk-it.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="milk-it.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||hackerthink.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="hackerthink.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||gangofcoders.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="gangofcoders.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||uvdos.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="uvdos.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||code911.top^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="code911.top"]):xpath(self::* | following-sibling::*[position() <= 3])
+||validsense.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="validsense.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||qexe.de^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="qexe.de"]):xpath(self::* | following-sibling::*[position() <= 3])
+||mykidq.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="mykidq.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||echemi.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="echemi.com"]):xpath(self::* | following-sibling::*[position() <= 3])

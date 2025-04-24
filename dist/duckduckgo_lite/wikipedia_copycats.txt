@@ -1,0 +1,100 @@
+! Title: uBlock-Origin-dev-filter – DuckDuckGo Lite – wikipedia
+! Expires: 1 day
+! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
+! Homepage: https://github.com/quenhus/uBlock-Origin-dev-filter
+! Licence: https://github.com/quenhus/uBlock-Origin-dev-filter/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
+! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
+||encyclopedia.thefreedictionary.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="encyclopedia.thefreedictionary.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||algebra.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="algebra.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikizero.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikizero.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||mediawiki.feverous.co.uk^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="mediawiki.feverous.co.uk"]):xpath(self::* | following-sibling::*[position() <= 3])
+||everything.explained.today^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="everything.explained.today"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wiwa.wiki^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wiwa.wiki"]):xpath(self::* | following-sibling::*[position() <= 3])
+||findatwiki.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="findatwiki.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikide.wiki^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikide.wiki"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikit.wiki^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikit.wiki"]):xpath(self::* | following-sibling::*[position() <= 3])
+||secret-bases.co.uk/wiki$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="secret-bases.co.uk/wiki"]):xpath(self::* | following-sibling::*[position() <= 3])
+||scholarship.edu.vn/wiki$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="scholarship.edu.vn/wiki"]):xpath(self::* | following-sibling::*[position() <= 3])
+||frwiki.wiki^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="frwiki.wiki"]):xpath(self::* | following-sibling::*[position() <= 3])
+||zxc.wiki^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="zxc.wiki"]):xpath(self::* | following-sibling::*[position() <= 3])
+||360wiki.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="360wiki.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||sv.abcdef.wiki^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="sv.abcdef.wiki"]):xpath(self::* | following-sibling::*[position() <= 3])
+||buildwiki.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="buildwiki.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||datewiki.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="datewiki.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||encyclopaedia.bid^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="encyclopaedia.bid"]):xpath(self::* | following-sibling::*[position() <= 3])
+||gaz.wiki^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="gaz.wiki"]):xpath(self::* | following-sibling::*[position() <= 3])
+||th.hmong.wiki^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="th.hmong.wiki"]):xpath(self::* | following-sibling::*[position() <= 3])
+||hmong.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="hmong.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||livepcwiki.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="livepcwiki.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||enhancedwiki.territorioscuola.it^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="enhancedwiki.territorioscuola.it"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wiki-org.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wiki-org.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wiki2.net^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wiki2.net"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wiki2.info^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wiki2.info"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wiki2.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wiki2.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wiki.cologne^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wiki.cologne"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikidea.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikidea.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wiki2wiki.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wiki2wiki.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||globalwikionline.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="globalwikionline.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikipe.wiki^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikipe.wiki"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikipedia.tel^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikipedia.tel"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikidark.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikidark.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikiredia.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikiredia.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikipedia24.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikipedia24.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikiwand.com^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikiwand.com"]):xpath(self::* | following-sibling::*[position() <= 3])
+||encyclopedia.kz^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="encyclopedia.kz"]):xpath(self::* | following-sibling::*[position() <= 3])
+||static.hlt.bme.hu^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="static.hlt.bme.hu"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wikibrief.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wikibrief.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||second.wiki^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="second.wiki"]):xpath(self::* | following-sibling::*[position() <= 3])
+||dewiki.de^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="dewiki.de"]):xpath(self::* | following-sibling::*[position() <= 3])
+||wiki.alquds.edu^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="wiki.alquds.edu"]):xpath(self::* | following-sibling::*[position() <= 3])
+||accordeonmuseum.nl^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="accordeonmuseum.nl"]):xpath(self::* | following-sibling::*[position() <= 3])
+||cyclowiki.org^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="cyclowiki.org"]):xpath(self::* | following-sibling::*[position() <= 3])
+||ru-wiki.ru^$all
+lite.duckduckgo.com##tbody > tr:has(> td > a[href*="ru-wiki.ru"]):xpath(self::* | following-sibling::*[position() <= 3])
