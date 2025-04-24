@@ -178,6 +178,10 @@ startpage.com##.w-gl .result:has(a[href*="devdoc.net"])
 startpage.com##.w-gl .result:has(a[href*="linux-packages.com"])
 ||rst24plus.net^$all
 startpage.com##.w-gl .result:has(a[href*="rst24plus.net"])
+||rarswi.net^$all
+startpage.com##.w-gl .result:has(a[href*="rarswi.net"])
+||opineals.net^$all
+startpage.com##.w-gl .result:has(a[href*="opineals.net"])
 ||npmmirror.com^$all
 startpage.com##.w-gl .result:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -1328,6 +1332,8 @@ startpage.com##.w-gl .result:has(a[href*="validsense.com"])
 startpage.com##.w-gl .result:has(a[href*="qexe.de"])
 ||mykidq.com^$all
 startpage.com##.w-gl .result:has(a[href*="mykidq.com"])
+||echemi.com^$all
+startpage.com##.w-gl .result:has(a[href*="echemi.com"])
 ||encyclopedia.thefreedictionary.com^$all
 startpage.com##.w-gl .result:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

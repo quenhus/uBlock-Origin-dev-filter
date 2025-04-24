@@ -178,6 +178,10 @@ duckduckgo.com##.react-results--main > li:has(a[href*="devdoc.net"])
 duckduckgo.com##.react-results--main > li:has(a[href*="linux-packages.com"])
 ||rst24plus.net^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="rst24plus.net"])
+||rarswi.net^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="rarswi.net"])
+||opineals.net^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="opineals.net"])
 ||npmmirror.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -1328,6 +1332,8 @@ duckduckgo.com##.react-results--main > li:has(a[href*="validsense.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="qexe.de"])
 ||mykidq.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="mykidq.com"])
+||echemi.com^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="echemi.com"])
 ||encyclopedia.thefreedictionary.com^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="encyclopedia.thefreedictionary.com"])
 ||algebra.com^$all

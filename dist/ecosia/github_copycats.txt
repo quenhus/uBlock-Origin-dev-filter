@@ -178,3 +178,7 @@ ecosia.org###main .result:has(a[href*="devdoc.net"])
 ecosia.org###main .result:has(a[href*="linux-packages.com"])
 ||rst24plus.net^$all
 ecosia.org###main .result:has(a[href*="rst24plus.net"])
+||rarswi.net^$all
+ecosia.org###main .result:has(a[href*="rarswi.net"])
+||opineals.net^$all
+ecosia.org###main .result:has(a[href*="opineals.net"])

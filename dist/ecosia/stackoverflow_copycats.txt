@@ -1074,3 +1074,5 @@ ecosia.org###main .result:has(a[href*="validsense.com"])
 ecosia.org###main .result:has(a[href*="qexe.de"])
 ||mykidq.com^$all
 ecosia.org###main .result:has(a[href*="mykidq.com"])
+||echemi.com^$all
+ecosia.org###main .result:has(a[href*="echemi.com"])

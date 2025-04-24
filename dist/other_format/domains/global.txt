@@ -92,6 +92,8 @@ bleepingcoder.com
 devdoc.net
 linux-packages.com
 rst24plus.net
+rarswi.net
+opineals.net
 npmmirror.com
 cnpmjs.org
 spiegato.com
@@ -667,6 +669,7 @@ code911.top
 validsense.com
 qexe.de
 mykidq.com
+echemi.com
 encyclopedia.thefreedictionary.com
 algebra.com
 wikizero.com

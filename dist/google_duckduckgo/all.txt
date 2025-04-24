@@ -264,6 +264,12 @@ duckduckgo.com##.react-results--main > li:has(a[href*="linux-packages.com"])
 ||rst24plus.net^$all
 google.*###rso .MjjYud a[href*="rst24plus.net"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="rst24plus.net"])
+||rarswi.net^$all
+google.*###rso .MjjYud a[href*="rarswi.net"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="rarswi.net"])
+||opineals.net^$all
+google.*###rso .MjjYud a[href*="opineals.net"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="opineals.net"])
 ||npmmirror.com^$all
 google.*###rso .MjjYud a[href*="npmmirror.com"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="npmmirror.com"])
@@ -1872,3 +1878,6 @@ duckduckgo.com##.react-results--main > li:has(a[href*="qexe.de"])
 ||mykidq.com^$all
 google.*###rso .MjjYud a[href*="mykidq.com"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="mykidq.com"])
+||echemi.com^$all
+google.*###rso .MjjYud a[href*="echemi.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="echemi.com"])

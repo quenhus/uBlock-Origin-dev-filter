@@ -92,6 +92,8 @@
 [data-domain*="devdoc.net"],
 [data-domain*="linux-packages.com"],
 [data-domain*="rst24plus.net"],
+[data-domain*="rarswi.net"],
+[data-domain*="opineals.net"],
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="code-examples.net"],
@@ -628,6 +630,7 @@
 [data-domain*="validsense.com"],
 [data-domain*="qexe.de"],
 [data-domain*="mykidq.com"],
+[data-domain*="echemi.com"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

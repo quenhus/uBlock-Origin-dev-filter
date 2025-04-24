@@ -178,3 +178,7 @@ google.*###rso .MjjYud a[href*="devdoc.net"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="linux-packages.com"]:upward(.MjjYud)
 ||rst24plus.net^$all
 google.*###rso .MjjYud a[href*="rst24plus.net"]:upward(.MjjYud)
+||rarswi.net^$all
+google.*###rso .MjjYud a[href*="rarswi.net"]:upward(.MjjYud)
+||opineals.net^$all
+google.*###rso .MjjYud a[href*="opineals.net"]:upward(.MjjYud)

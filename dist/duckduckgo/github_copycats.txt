@@ -178,3 +178,7 @@ duckduckgo.com##.react-results--main > li:has(a[href*="devdoc.net"])
 duckduckgo.com##.react-results--main > li:has(a[href*="linux-packages.com"])
 ||rst24plus.net^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="rst24plus.net"])
+||rarswi.net^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="rarswi.net"])
+||opineals.net^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="opineals.net"])

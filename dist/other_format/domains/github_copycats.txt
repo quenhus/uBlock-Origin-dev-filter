@@ -92,3 +92,5 @@ bleepingcoder.com
 devdoc.net
 linux-packages.com
 rst24plus.net
+rarswi.net
+opineals.net

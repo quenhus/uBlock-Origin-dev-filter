@@ -264,3 +264,9 @@ duckduckgo.com##.react-results--main > li:has(a[href*="linux-packages.com"])
 ||rst24plus.net^$all
 google.*###rso .MjjYud a[href*="rst24plus.net"]:upward(.MjjYud)
 duckduckgo.com##.react-results--main > li:has(a[href*="rst24plus.net"])
+||rarswi.net^$all
+google.*###rso .MjjYud a[href*="rarswi.net"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="rarswi.net"])
+||opineals.net^$all
+google.*###rso .MjjYud a[href*="opineals.net"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="opineals.net"])

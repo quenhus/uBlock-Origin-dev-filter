@@ -1074,3 +1074,5 @@ startpage.com##.w-gl .result:has(a[href*="validsense.com"])
 startpage.com##.w-gl .result:has(a[href*="qexe.de"])
 ||mykidq.com^$all
 startpage.com##.w-gl .result:has(a[href*="mykidq.com"])
+||echemi.com^$all
+startpage.com##.w-gl .result:has(a[href*="echemi.com"])

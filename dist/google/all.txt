@@ -178,6 +178,10 @@ google.*###rso .MjjYud a[href*="devdoc.net"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="linux-packages.com"]:upward(.MjjYud)
 ||rst24plus.net^$all
 google.*###rso .MjjYud a[href*="rst24plus.net"]:upward(.MjjYud)
+||rarswi.net^$all
+google.*###rso .MjjYud a[href*="rarswi.net"]:upward(.MjjYud)
+||opineals.net^$all
+google.*###rso .MjjYud a[href*="opineals.net"]:upward(.MjjYud)
 ||npmmirror.com^$all
 google.*###rso .MjjYud a[href*="npmmirror.com"]:upward(.MjjYud)
 ||cnpmjs.org^$all
@@ -1250,3 +1254,5 @@ google.*###rso .MjjYud a[href*="validsense.com"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="qexe.de"]:upward(.MjjYud)
 ||mykidq.com^$all
 google.*###rso .MjjYud a[href*="mykidq.com"]:upward(.MjjYud)
+||echemi.com^$all
+google.*###rso .MjjYud a[href*="echemi.com"]:upward(.MjjYud)

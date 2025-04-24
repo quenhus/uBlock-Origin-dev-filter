@@ -178,6 +178,10 @@ search.brave.com###results > div:has(a[href*="devdoc.net"])
 search.brave.com###results > div:has(a[href*="linux-packages.com"])
 ||rst24plus.net^$all
 search.brave.com###results > div:has(a[href*="rst24plus.net"])
+||rarswi.net^$all
+search.brave.com###results > div:has(a[href*="rarswi.net"])
+||opineals.net^$all
+search.brave.com###results > div:has(a[href*="opineals.net"])
 ||npmmirror.com^$all
 search.brave.com###results > div:has(a[href*="npmmirror.com"])
 ||cnpmjs.org^$all
@@ -1250,3 +1254,5 @@ search.brave.com###results > div:has(a[href*="validsense.com"])
 search.brave.com###results > div:has(a[href*="qexe.de"])
 ||mykidq.com^$all
 search.brave.com###results > div:has(a[href*="mykidq.com"])
+||echemi.com^$all
+search.brave.com###results > div:has(a[href*="echemi.com"])

@@ -1074,3 +1074,5 @@ google.*###rso .MjjYud a[href*="validsense.com"]:upward(.MjjYud)
 google.*###rso .MjjYud a[href*="qexe.de"]:upward(.MjjYud)
 ||mykidq.com^$all
 google.*###rso .MjjYud a[href*="mykidq.com"]:upward(.MjjYud)
+||echemi.com^$all
+google.*###rso .MjjYud a[href*="echemi.com"]:upward(.MjjYud)

@@ -178,3 +178,7 @@ startpage.com##.w-gl .result:has(a[href*="devdoc.net"])
 startpage.com##.w-gl .result:has(a[href*="linux-packages.com"])
 ||rst24plus.net^$all
 startpage.com##.w-gl .result:has(a[href*="rst24plus.net"])
+||rarswi.net^$all
+startpage.com##.w-gl .result:has(a[href*="rarswi.net"])
+||opineals.net^$all
+startpage.com##.w-gl .result:has(a[href*="opineals.net"])
