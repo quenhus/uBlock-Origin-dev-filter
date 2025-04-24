@@ -52,6 +52,9 @@ def to_google(url):
 def to_duckduckgo(url):
     return f'duckduckgo.com##.react-results--main > li:has(a[href*="{regex_to_domain(url)}"])'
 
+def to_duckduckgo_lite(url):
+    return f'lite.duckduckgo.com##tbody > tr:has(> td > a[href*="{regex_to_domain(url)}"]):xpath(self::* | following-sibling::*[position() <= 3])'
+
 def to_brave(url):
     return f'search.brave.com###results > div:has(a[href*="{regex_to_domain(url)}"])'
 
@@ -155,6 +158,10 @@ ubo_search_engines = {
         "name": "DuckDuckGo",
         "formater": lambda url: to_duckduckgo(url) + LINE_SEP
     },
+    "duckduckgo_lite": {
+        "name": "DuckDuckGo Lite",
+        "formater": lambda url: to_duckduckgo_lite(url) + LINE_SEP
+    },
     "google_duckduckgo": {
         "name": "Google+DuckDuckGo",
         "formater": lambda url: to_google(url) + LINE_SEP + to_duckduckgo(url) + LINE_SEP
@@ -173,7 +180,7 @@ ubo_search_engines = {
     },
     "all_search_engines": {
         "name": "All Search Engines",
-        "formater": lambda url: to_google(url) + LINE_SEP + to_duckduckgo(url) + LINE_SEP + to_brave(url) + LINE_SEP + to_startpage(url) + LINE_SEP + to_ecosia(url) + LINE_SEP
+        "formater": lambda url: to_google(url) + LINE_SEP + to_duckduckgo(url) + LINE_SEP + to_duckduckgo_lite(url) + LINE_SEP + to_brave(url) + LINE_SEP + to_startpage(url) + LINE_SEP + to_ecosia(url) + LINE_SEP
     }
 }
 
