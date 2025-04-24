@@ -534,3 +534,4 @@
 *://validsense.com/*
 *://qexe.de/*
 *://mykidq.com/*
+*://echemi.com/*
