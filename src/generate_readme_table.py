@@ -19,6 +19,7 @@ class FlavorMeta(NamedTuple):
 search_engines = (
     FilterMeta("Google", "google", "de3f32"),
     FilterMeta("DuckDuckGo", "duckduckgo", "fdd20a"),
+    FilterMeta("DuckDuckGo Lite", "duckduckgo_lite", "fef1b5"),
     FilterMeta("Google+DDG", "google_duckduckgo", "9b59b6"),
     FilterMeta("Startpage", "startpage", "5b7bca"),
     FilterMeta("Brave", "brave", "f25100"),
